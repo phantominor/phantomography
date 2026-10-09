@@ -1,0 +1,29 @@
+.page {
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 6rem 16px 4rem;
+  text-align: center;
+}
+
+.title {
+  font-family: var(--font-serif);
+  font-size: 2.25rem;
+  font-weight: 700;
+  color: var(--color-brown-600);
+}
+
+.subtitle {
+  margin-top: 0.75rem;
+  color: var(--color-text-muted);
+}
+
+.back {
+  display: inline-block;
+  margin-top: 2.5rem;
+  font-size: 0.9rem;
+  color: var(--color-brown-400);
+}
+
+.back:hover {
+  color: var(--color-brown-600);
+}

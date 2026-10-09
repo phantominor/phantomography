@@ -1,0 +1,35 @@
+/* styles/variables/base.css */
+/* 全站設計系統 CSS 變數（暖棕色調、Phantom's Haven）*/
+
+:root {
+  /* ── 主色調 ── */
+  --color-bg:          #f9f7f1;   /* 米紙底色 */
+  --color-surface:     #ffffff;
+  --color-border:      #e8e4e0;
+  --color-border-light:#f0ebe6;
+
+  /* ── 棕色系 accent ── */
+  --color-brown-50:    #efebe9;
+  --color-brown-100:   #d7ccc8;
+  --color-brown-200:   #bcaaa4;
+  --color-brown-300:   #a1887f;
+  --color-brown-400:   #8d6e63;   /* 主 accent */
+  --color-brown-500:   #6d4c41;
+  --color-brown-600:   #5d4037;   /* 深 accent（按鈕、標題）*/
+  --color-brown-700:   #4e342e;
+  --color-brown-800:   #3e2723;
+
+  /* ── 文字 ── */
+  --color-text:        #3e2723;
+  --color-text-muted:  #8d6e63;
+  --color-text-light:  #bcaaa4;
+
+  /* ── 字體 ── */
+  --font-serif:        'Noto Serif TC', serif;
+  --font-sans:         'Inter', -apple-system, BlinkMacSystemFont, "Microsoft JhengHei", sans-serif;
+
+  /* ── 間距基準 ── */
+  --radius-sm:  3px;
+  --radius-md:  6px;
+  --radius-lg: 12px;
+}
