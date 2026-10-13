@@ -1,0 +1,371 @@
+/* styles/note.css */
+/* 筆記內文（Markdown 渲染結果）的樣式。內容是 dangerouslySetInnerHTML 產生的，無法用 CSS Modules，統一包在 .note 底下 */
+
+.page-title {
+  font-size: 2rem;
+  font-weight: 700;
+  -webkit-text-stroke: var(--bold-stroke);
+  line-height: 1.4;
+  margin: 8px 0 4px;
+}
+
+.page-meta {
+  font-size: 0.8rem;
+  color: var(--color-text-muted);
+  margin-bottom: 24px;
+}
+
+.page-credit {
+  font-size: 0.8rem;
+  color: var(--color-text-muted);
+  margin: -20px 0 24px;
+}
+
+.page-credit a {
+  color: var(--color-link);
+}
+
+.page-credit a:hover {
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+.note {
+  font-size: 1rem;
+  line-height: 1.8;
+  overflow-wrap: break-word;
+}
+
+/* ── 標題 ── */
+.note h2,
+.note h3,
+.note h4 {
+  position: relative;
+  font-weight: 700;
+  -webkit-text-stroke: var(--bold-stroke);
+  line-height: 1.5;
+}
+
+.note h2 {
+  font-size: 1.5rem;
+  margin: 2.4em 0 0.8em;
+}
+
+.note h3 {
+  font-size: 1.25rem;
+  margin: 1.8em 0 0.6em;
+}
+
+/* h4 模板小標：一般文字色、略大於內文 */
+.note h4 {
+  font-size: 1.05rem;
+  margin: 1.4em 0 0.4em;
+}
+
+.note > h2:first-child,
+.note > h3:first-child {
+  margin-top: 0.5em;
+}
+
+.note .hnum {
+  margin-right: 0.4em;
+}
+
+.note h2 .hnum {
+  margin-right: 0; /* 「一、」的頓號字形本身已帶空白 */
+}
+
+.note .anchor {
+  display: inline-flex;
+  margin-left: 0.3em;
+  vertical-align: middle;
+  color: var(--color-text-faint);
+  opacity: 0;
+  transition: opacity 0.15s ease;
+}
+
+.note .anchor .icon {
+  width: 0.75em;
+  height: 0.75em;
+}
+
+.note h2:hover .anchor,
+.note h3:hover .anchor,
+.note h4:hover .anchor,
+.note .anchor:focus {
+  opacity: 1;
+}
+
+/* ── 段落與清單（最多三層）── */
+.note p {
+  margin: 0.6em 0;
+}
+
+.note ul,
+.note ol {
+  margin: 0.5em 0;
+  padding-left: 1.5em;
+}
+
+.note li {
+  margin: 0.15em 0;
+}
+
+.note li > ul,
+.note li > ol {
+  margin: 0.15em 0;
+}
+
+.note ul { list-style-type: disc; }
+.note ul ul { list-style-type: circle; }
+.note ul ul ul { list-style-type: square; }
+
+.note li::marker {
+  color: var(--color-text-muted);
+}
+
+/* ── 強調：只有粗體與紅字 ── */
+.note strong,
+.note th {
+  font-weight: 700;
+  -webkit-text-stroke: var(--bold-stroke);
+}
+
+.note em {
+  font-style: normal; /* 全站不用斜體 */
+}
+
+.note .red {
+  color: var(--color-red);
+}
+
+/* ── 連結 ── */
+.note a {
+  color: var(--color-link);
+}
+
+.note a:hover {
+  color: var(--color-link-hover);
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+.note .broken-link {
+  color: var(--color-text-muted);
+  text-decoration: line-through dashed;
+  cursor: help;
+}
+
+/* ── 行內標記 ── */
+.note .stage-badge,
+.note .exam-ref {
+  display: inline-block;
+  font-size: 0.75em;
+  line-height: 1.6;
+  padding: 0 0.6em;
+  margin: 0 0.2em;
+  border-radius: 999px;
+  vertical-align: 0.1em;
+  white-space: nowrap;
+}
+
+.note .stage-badge {
+  border: 1px solid var(--color-border-strong);
+  color: var(--color-text-muted);
+}
+
+.note .exam-ref {
+  background: var(--color-bg-alt);
+  color: var(--color-text-muted);
+}
+
+.note code {
+  font-size: 0.85em;
+  padding: 0.1em 0.35em;
+  border-radius: var(--radius-sm);
+  background: var(--color-bg-alt);
+}
+
+/* ── 表格：表頭淺灰、只有橫線、內容置中、字級小一號 ── */
+.note .table-wrap {
+  margin: 1em 0;
+  overflow-x: auto;
+}
+
+.note table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.8rem; /* 比照 TWMLE，容納較擠的表格 */
+  line-height: 1.6;
+}
+
+.note th,
+.note td {
+  padding: 0.5em 0.75em;
+  text-align: center;
+  vertical-align: middle;
+  border-bottom: 1px solid var(--color-border);
+}
+
+.note th {
+  font-weight: 700;
+  white-space: nowrap; /* 標題列不換行，寬度不夠時由表格外層橫向捲動 */
+  background: var(--color-bg-alt);
+  border-bottom-color: var(--color-border-strong);
+}
+
+.note td[rowspan] {
+  border-right: 1px solid var(--color-border);
+}
+
+/* ── 自訂區塊 ── */
+.note .callout {
+  margin: 1.2em 0;
+  padding: 0.6em 1em;
+  border-left: 3px solid var(--color-border-strong);
+  background: var(--color-bg-alt);
+  border-radius: 0 var(--radius-md) var(--radius-md) 0;
+}
+
+.note .callout-title {
+  -webkit-text-stroke: var(--bold-stroke);
+  display: flex;
+  align-items: center;
+  gap: 0.4em;
+  font-weight: 700;
+  font-size: 0.9rem;
+  color: var(--color-text-muted);
+  margin: 0.2em 0 0.3em;
+}
+
+.note .callout-title .icon {
+  flex-shrink: 0;
+}
+
+.note .callout > :last-child {
+  margin-bottom: 0.2em;
+}
+
+.note .callout-pitfall {
+  border-left-color: var(--color-red);
+}
+
+.note .callout-pitfall .callout-title {
+  color: var(--color-red);
+}
+
+.note .callout-verify {
+  border-left-style: dashed;
+}
+
+/* ── 可折疊細節 ── */
+.note details.detail {
+  margin: 1em 0;
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-md);
+  padding: 0 1em;
+}
+
+.note details.detail > summary {
+  display: flex;
+  align-items: center;
+  gap: 0.4em;
+  padding: 0.5em 0;
+  cursor: pointer;
+  list-style: none;
+  font-size: 0.95rem;
+  color: var(--color-text-muted);
+}
+
+.note details.detail > summary::-webkit-details-marker {
+  display: none;
+}
+
+.note details.detail > summary .icon {
+  transition: transform 0.15s ease;
+}
+
+.note details.detail[open] > summary .icon {
+  transform: rotate(90deg);
+}
+
+.note details.detail[open] {
+  padding-bottom: 0.5em;
+}
+
+/* ── 來源標註 ── */
+.note .source-line {
+  margin: 0.3em 0 1em;
+  font-size: 0.8rem;
+}
+
+.note .source-line a,
+.note .source-missing {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35em;
+  color: var(--color-text-muted);
+}
+
+.note .source-line a:hover {
+  color: var(--color-text);
+  text-decoration: none;
+}
+
+.note .source-missing {
+  color: var(--color-red);
+}
+
+/* ── 圖片 ── */
+.note figure {
+  margin: 1.2em 0;
+  text-align: center;
+}
+
+.note figure img {
+  margin: 0 auto;
+  border-radius: var(--radius-sm);
+}
+
+.note figcaption {
+  margin-top: 0.4em;
+  font-size: 0.8rem;
+  color: var(--color-text-muted);
+}
+
+/* ── 公式 ── */
+.note .katex-display {
+  margin: 1em 0;
+  overflow-x: auto;
+  overflow-y: hidden;
+}
+
+/* ── 圖示（Lucide SVG）── */
+.note .icon {
+  width: 1em;
+  height: 1em;
+}
+
+.note hr {
+  border: none;
+  border-top: 1px solid var(--color-border);
+  margin: 2em 0;
+}
+
+.note blockquote {
+  margin: 1em 0;
+  padding-left: 1em;
+  border-left: 3px solid var(--color-border-strong);
+  color: var(--color-text-muted);
+}
+
+/* ── 跳轉目標短暫閃一下底色 ── */
+.flash-target {
+  animation: flash-target 1.6s ease-out;
+  border-radius: var(--radius-sm);
+}
+
+@keyframes flash-target {
+  0%, 30% { background: color-mix(in srgb, var(--color-link) 12%, transparent); box-shadow: 0 0 0 6px color-mix(in srgb, var(--color-link) 12%, transparent); }
+  100% { background: transparent; box-shadow: 0 0 0 6px transparent; }
+}

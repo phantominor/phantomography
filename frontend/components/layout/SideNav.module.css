@@ -1,0 +1,74 @@
+/* components/layout/SideNav.module.css */
+
+.nav {
+  font-size: 0.9rem;
+  line-height: 1.6;
+}
+
+.section + .section {
+  margin-top: 16px;
+}
+
+.sectionTitle {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+  font-weight: 700;
+  -webkit-text-stroke: var(--bold-stroke);
+  color: var(--color-text);
+  padding: 2px 12px 4px 0;
+  text-align: left;
+}
+
+.chevron {
+  flex-shrink: 0;
+  font-size: 0.95rem;
+  color: var(--color-text-faint);
+  -webkit-text-stroke: 0;
+  transition: transform 0.15s ease;
+}
+
+.sectionTitle:hover .chevron {
+  color: var(--color-text-muted);
+}
+
+.chevronOpen {
+  transform: rotate(90deg);
+}
+
+.list {
+  list-style: none;
+}
+
+.link,
+.disabled {
+  display: block;
+  padding: 3px 0;
+}
+
+.link {
+  color: var(--color-text);
+  transition: color 0.15s ease;
+}
+
+.link:hover {
+  color: var(--color-link);
+}
+
+.active,
+.active:hover {
+  color: var(--color-link);
+}
+
+.disabled {
+  color: var(--color-text-faint);
+  cursor: default;
+}
+
+.empty {
+  font-size: 0.8rem;
+  color: var(--color-text-faint);
+  padding: 2px 0;
+}

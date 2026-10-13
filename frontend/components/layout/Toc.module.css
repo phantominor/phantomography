@@ -1,0 +1,65 @@
+/* components/layout/Toc.module.css */
+
+.toc {
+  font-size: 0.85rem;
+  line-height: 1.5;
+}
+
+.title {
+  font-weight: 700;
+  -webkit-text-stroke: var(--bold-stroke);
+  margin-bottom: 8px;
+  color: var(--color-text);
+}
+
+.toc ul {
+  list-style: none;
+}
+
+.toc a {
+  display: block;
+  padding: 3px 0;
+  color: var(--color-text);
+  transition: color 0.15s ease;
+}
+
+.toc a.past {
+  color: var(--color-text-muted);
+}
+
+.toc a.active {
+  color: var(--color-link);
+}
+
+.toc a:hover {
+  color: var(--color-link);
+}
+
+.h3 {
+  padding-left: 14px;
+}
+
+.num {
+  margin-right: 4px;
+}
+
+.h2 .num {
+  margin-right: 0;
+}
+
+/* ── 手機抽屜：較大的點擊範圍與分隔線（仿 Material）── */
+.drawer {
+  font-size: 1rem;
+}
+
+.drawer li {
+  border-bottom: 1px solid var(--color-border);
+}
+
+.drawer a {
+  padding: 10px 16px;
+}
+
+.drawer .h3 {
+  padding-left: 16px;
+}
