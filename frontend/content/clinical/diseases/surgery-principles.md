@@ -11,7 +11,7 @@ credit:
 ### 體液分布
 
 - 體重 60% 為水（TBW）：細胞內液 （ICF） 佔 2/3、細胞外液（ECF） 佔 1/3。
-- 細胞外液（ECF）中ï¼間質液（interstitial）佔 3/4、血漿（plasma）佔 1/4。
+- 細胞外液（ECF）中：間質液（interstitial）佔 3/4、血漿（plasma）佔 1/4。
 - **第三間隙（third space）**：術後、燒傷、腹膜炎時液體移至非功能性間隙。
 
 ### 每日維持輸液
@@ -167,10 +167,10 @@ credit:
 
 ### 異常癒合
 
-- **Hypertrophic scar**：局限於原傷口範圍內ï¼數月後可能改善。
-- **Keloid**：超出原傷口範圍ï¼持續增生ï¼好發深膚色人種、耳垂/胸骨前。
+- **Hypertrophic scar**：局限於原傷口範圍內，數月後可能改善。
+- **Keloid**：超出原傷口範圍，持續增生，好發深膚色人種、耳垂/胸骨前。
     - 治療：類固醇注射、壓力治療、矽膠片、放射線。
-- **Wound dehiscence**：傷口裂開ï¼常見術後 :red[5–8 天]。
+- **Wound dehiscence**：傷口裂開，常見術後 :red[5–8 天]。
     - 高風險：obesity、malnutrition、感染、咳嗽/用力。
     - 出現 serosanguinous discharge（血清樣滲液）為前兆。
     - 若有 evisceration（臟器外露）→ 緊急回手術室。
@@ -526,15 +526,15 @@ credit:
 ### 燒傷特殊處理
 
 - **吸入性損傷**（suspect if：密閉空間、顏面燒傷、鼻毛燒焦、聲音沙啞、碳末痰）。
-    - 評估ï¼支氣管鏡。
-    - 處理ï¼早期插管（水腫會快速惡化）。
+    - 評估：支氣管鏡。
+    - 處理：早期插管（水腫會快速惡化）。
     - **CO poisoning**：COHb 升高、pulse oximeter 假正常。
         - 治療：100% O₂（non-rebreather mask）；嚴重 → 高壓氧。
     - **Cyanide poisoning**（塑膠/合成材料燃燒）：lactic acidosis + almond odor。
         - 治療：Hydroxocobalamin。
 
 - **Escharotomy**：環狀全層燒傷導致 compartment syndrome。
-    - 沿 mid-lateral line 切開焦痂（不需要麻醉ï¼因為三度無感覺）。
+    - 沿 mid-lateral line 切開焦痂（不需要麻醉，因為三度無感覺）。
 - **感染**：燒傷面積大者最主要死因。
     - 最常見病原菌：早期 **S. aureus** → 後期 **Pseudomonas**。
     - 外用藥膏：Silver sulfadiazine、Mafenide acetate、Silver nitrate。

@@ -372,3 +372,10 @@
     max-width: calc(100vw - 32px);
   }
 }
+
+/* 很窄的手機：標題列只留 Logo 圖示，讓右側按鈕放得下 */
+@media (max-width: 420px) {
+  .brandText {
+    display: none;
+  }
+}

@@ -1,0 +1,53 @@
+# TODO
+
+phantomography 接下來的待辦事項。完成的項目直接刪掉（完成記錄寫在 `UPDATE.md`），新想到的事情隨時補進來。
+
+## 上線與部署
+
+- [ ] Commit 目前所有變更：從 Initial commit 之後的所有工作（版面、匯入、紅字、搜尋、Logo、正式版）都還沒 commit。
+- [ ] 推上 GitHub（公開 repo），Vercel 連結 repo 部署。
+- [ ] 確認實際網域是 `phantomography.vercel.app`。若不同，要改三個地方：
+  - phantominor `frontend/pages/index.js` 的 M 按鈕連結。
+  - 本站 `components/ContentPage.js` 的 `SITE_URL`。
+  - 本站 `scripts/build-sitemap.mjs` 的 `SITE_URL`。
+- [ ] 部署後到 Google Search Console 驗證網域、提交 `sitemap.xml`。
+- [ ] 部署後實機檢查：手機瀏覽器、深色模式、搜尋、連結預覽、favicon 與 apple-touch-icon。
+- [ ] phantominor 主站：考慮用 `public/brand/logo-black.png`（或 `logo-white.png`）當 M 按鈕的圖示。
+
+## 內容：諸病微精（TWMLE 匯入的 33 頁）
+
+- [ ] 逐頁校閱。校閱完刪掉 frontmatter 的 `status: initial`，`updated` 改成校閱當天。
+- [ ] 調整章節、補圖片（去識別化、可公開授權的圖，放 `public/media/`，圖說附來源）。
+- [ ] 確認三處可能有誤的內容：
+  - 大腸癌篩檢年齡：腸胃科寫 50–74 歲，家醫科與大腸直腸外科寫 45–74 歲（國健署 2025 年起應為 45–74）。
+  - 心臟內科 AF：「男 ≥ 1、女 ≥ 2 → 口服抗凝血劑」，指引的「建議」門檻是男 ≥ 2、女 ≥ 3（男 1、女 2 是「可考慮」）。
+  - 婦科：子宮頸抹片「30 歲以上每年一次」，國健署近年可能已調整頻率。
+- [ ] 紅字是 Claude 依原則初標，校閱時順便增刪。
+
+## 內容：其他分類（Claude 依 TWMLE 密度撰寫初版）
+
+- [ ] 臨床醫學其他七類：病患主訴（含徵象、異常檢驗值）、檢查檢驗、治療處置（藥物與非藥物分開）、臨床技能、臨床通論、值班要點、案例回顧。
+- [ ] 基礎醫學：醫學一、醫學二各科（依國考一階科目）。
+- [ ] 二階限定內容（倫理、法規、公衛、預防醫學），標 `:stage[二階]`。
+- [ ] 各分類之間、與諸病微精之間補 wiki-link 互相連結。
+- [ ] 逐篇筆記：第一篇文章；建立從 `inbox/` 原始筆記整理進來的流程（重點併入結構、細節成子頁、標註日期／場合／講者）。
+
+## 題庫
+
+- [ ] 爬取 med-study-rpg.com `/1st`、`/2nd` 的題目與詳解（已獲授權）。
+  - 設計題庫的資料格式與頁面，啟用 `:q[...]` 考古題出處標記。
+  - 頁面加一行致謝並連回該網站。
+  - 詳解是 Claude 生成的，可能需要校正。
+- [ ] myworld 的 USMLE 題庫：等你確認題目來源。若是擷取自商業題庫（UWorld 等），不能公開放上網站。
+- [ ] 問答卡：要用之前先定好品質標準。
+
+## 技術
+
+- [ ] 新增藍圖 v4（`frontend/blueprints/notes-system_v4.md`），記錄 v3 之後的進展：搜尋、Logo、手機逐層選單、正式上線、sitemap、紅字原則實作。
+- [ ] 頁面資料過大：小兒科 256 kB、皮膚科 141 kB，超過 Next.js 建議的 128 kB。之後可考慮拆頁，或減少傳給前端的資料。
+- [ ] 搜尋索引 1.4 MB（第一次搜尋時才下載）。內容變多後考慮壓縮或分段載入。
+- [ ] 社群分享預覽：加 `og:image`（用新 Logo）、`og:title`、`og:description`。
+- [ ] 自訂 404 頁（目前是 Next.js 預設樣式）。
+- [ ] 深色模式下標題列右側圖示對比偏低，可以調亮。
+- [ ] Supabase（`lib/supabase.js`、相關套件）目前沒用到；確定不需要登入的話可以移除。
+- [ ] 跑一次 `npm run lint` 清掉警告。

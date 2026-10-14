@@ -1,11 +1,11 @@
 {
   "name": "phantomography",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "predev": "node scripts/build-search-index.mjs",
     "dev": "next dev",
-    "prebuild": "node scripts/build-search-index.mjs",
+    "prebuild": "node scripts/build-search-index.mjs && node scripts/build-sitemap.mjs",
     "build": "next build",
     "start": "next start",
     "lint": "next lint"

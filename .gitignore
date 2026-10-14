@@ -23,3 +23,7 @@ inbox/
 
 # 建置時產生的搜尋索引
 frontend/public/search-index.json
+
+# 建置時產生的 sitemap 與 robots.txt
+frontend/public/sitemap.xml
+frontend/public/robots.txt

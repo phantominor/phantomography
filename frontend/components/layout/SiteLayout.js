@@ -6,7 +6,7 @@ import Link from 'next/link';
 import { useCallback, useEffect, useState } from 'react';
 import { useRouter } from 'next/router';
 import {
-  LuMenu, LuX, LuGithub, LuArrowUp, LuChevronLeft, LuChevronRight, LuCornerUpLeft,
+  LuMenu, LuX, LuGithub, LuHouse, LuArrowUp, LuChevronLeft, LuChevronRight, LuCornerUpLeft,
 } from 'react-icons/lu';
 import { TABS, SIDE_NAV } from '@/data/nav';
 import { findAnchor, smoothScrollTo, flash } from '@/lib/scroll';
@@ -21,6 +21,8 @@ import Logo from './Logo';
 import styles from './SiteLayout.module.css';
 
 const GITHUB_URL = 'https://github.com/phantominor/phantomography';
+// 本站是 phantominor 個人網站 A–Z 導覽中的 M（Medicine）
+const HAVEN_URL = 'https://phantominor.vercel.app';
 const RETURN_KEY = 'peekReturn';
 const RESTORE_KEY = 'restoreScroll';
 
@@ -169,11 +171,14 @@ export default function SiteLayout({ title, tab, navKey, currentSlug, existing, 
           </button>
           <Link href="/" className={styles.brand} aria-label="回到首頁">
             <Logo size={28} />
-            <span>Phantomography</span>
+            <span className={styles.brandText}>Phantomography</span>
           </Link>
           <div className={styles.headerActions}>
             <SearchBox />
             <ThemeToggle className={styles.iconBtn} />
+            <a href={HAVEN_URL} className={styles.iconBtn} aria-label="回到 Phantom's Haven" title="回到 Phantom's Haven">
+              <LuHouse />
+            </a>
             <a href={GITHUB_URL} className={styles.iconBtn} target="_blank" rel="noopener noreferrer" aria-label="GitHub">
               <LuGithub />
             </a>
@@ -225,7 +230,7 @@ export default function SiteLayout({ title, tab, navKey, currentSlug, existing, 
       </div>
 
       <footer className={styles.footer}>
-        Copywrong © 2026 Phantominor · Content licensed under{' '}
+        Part of <a href={HAVEN_URL}>Phantom&apos;s Haven</a> · Copywrong © 2026 Phantominor · Content licensed under{' '}
         <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank" rel="noopener noreferrer">CC BY-NC-SA 4.0</a>
       </footer>
 

@@ -1,5 +1,14 @@
 <!-- UPDATE.md -->
+[2026/10/15]
+- **新版 Logo**: 依手繪稿描成向量（幽靈 + 橫貫身體的心電圖線），眼睛與心電圖線挖空成透明，深淺色模式通用
+  - 心電圖線加粗，小尺寸也看得清楚；favicon（svg、ico）與 apple-touch-icon 一併更新
+  - 手繪原稿去背存為 `public/brand/logo-black.png`、`logo-white.png`
+- **待辦清單**: 新增根目錄 `TODO.md`，整理上線、內容、題庫、技術各項待辦
 [2026/10/14]
+- **正式上線版**: 首頁與各分區首頁改為正式說明文字（拿掉「建置中」、樣式樣張連結、「尚無頁面」），版本號改為 1.0.0
+  - 建置前自動產生 `public/sitemap.xml` 與 `robots.txt`（`scripts/build-sitemap.mjs`），供搜尋引擎收錄
+  - 標題列新增回到 Phantom's Haven（phantominor 主站）的按鈕，頁尾加上「Part of Phantom's Haven」連結；很窄的手機上標題列只顯示 Logo 圖示
+- **修正外科概論亂碼**: 前次標點整理把 7 處全形逗號、冒號寫成亂碼（ï¼），已還原，其他頁面沒有受影響
 - **搜尋、Logo 與手機逐層選單**: 標題列右上新增全站搜尋，左上新增 Logo（點擊回首頁，取代「首頁」分頁）
   - 搜尋索引 `public/search-index.json` 由 `scripts/build-search-index.mjs` 在 dev/build 前自動產生，以 h2/h3 段落為單位；快捷鍵「/」
   - 手機抽屜選單改為逐層進入：大分頁 → 臨床分類 → 分區 → 頁面 → 本頁目錄
