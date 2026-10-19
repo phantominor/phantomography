@@ -110,7 +110,35 @@ export const SIDE_NAV = {
       ],
     },
   ],
-  'clinical/complaints': [],
+  'clinical/complaints': [
+    {
+      title: '症狀與徵象',
+      items: [
+        page('全身症狀', 'clinical/complaints/general'),
+        page('心血管', 'clinical/complaints/cardiovascular'),
+        page('呼吸', 'clinical/complaints/respiratory'),
+        page('消化', 'clinical/complaints/gastrointestinal'),
+        page('腎泌尿', 'clinical/complaints/renal-urologic'),
+        page('神經', 'clinical/complaints/neurologic'),
+        page('精神', 'clinical/complaints/psychiatric'),
+        page('肌肉骨骼', 'clinical/complaints/musculoskeletal'),
+        page('皮膚', 'clinical/complaints/skin'),
+        page('五官', 'clinical/complaints/heent'),
+        page('內分泌', 'clinical/complaints/endocrine'),
+        page('婦產', 'clinical/complaints/obgyn'),
+        page('小兒', 'clinical/complaints/pediatric'),
+      ],
+    },
+    {
+      title: '異常檢驗值與影像',
+      items: [
+        page('血液異常', 'clinical/complaints/blood'),
+        page('電解質與酸鹼', 'clinical/complaints/electrolytes-acid-base'),
+        page('生化異常', 'clinical/complaints/chemistry'),
+        page('偶發病灶', 'clinical/complaints/incidental-findings'),
+      ],
+    },
+  ],
   'clinical/tests': [],
   'clinical/treatments': [
     { title: '藥物治療', items: [] },
