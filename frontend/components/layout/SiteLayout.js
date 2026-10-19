@@ -16,12 +16,14 @@ import ThemeToggle from './ThemeToggle';
 import ClinicalTab from './ClinicalTab';
 import PeekPanel from './PeekPanel';
 import MobileNav from './MobileNav';
-import SearchBox from './SearchBox';
+import SearchBox, { PEEK_EVENT } from './SearchBox';
 import Logo from './Logo';
+import SelectionMenu from './SelectionMenu';
+import ConfirmDialog from './ConfirmDialog';
 import styles from './SiteLayout.module.css';
 
 const GITHUB_URL = 'https://github.com/phantominor/phantomography';
-// 本站是 phantominor 個人網站 A–Z 導覽中的 M（Medicine）
+// 本站是 phantominor 個人網站 A–Z 導覽中的 M（Medicine）；回主站一律先跳確認框
 const HAVEN_URL = 'https://phantominor.vercel.app';
 const RETURN_KEY = 'peekReturn';
 const RESTORE_KEY = 'restoreScroll';
@@ -44,6 +46,7 @@ export default function SiteLayout({ title, tab, navKey, currentSlug, existing, 
   const [peekHref, setPeekHref] = useState(null);
   const [returnTo, setReturnTo] = useState(null);
   const [anchorReturnY, setAnchorReturnY] = useState(null);
+  const [confirmHaven, setConfirmHaven] = useState(false);
 
   // 頂部陰影；回到頂部按鈕在往上捲動時出現（同 TWMLE）
   useEffect(() => {
@@ -133,6 +136,13 @@ export default function SiteLayout({ title, tab, navKey, currentSlug, existing, 
     return () => document.removeEventListener('click', onClick);
   }, []);
 
+  // 手機版搜尋結果：開連結預覽面板
+  useEffect(() => {
+    const onPeek = (e) => setPeekHref(e.detail);
+    window.addEventListener(PEEK_EVENT, onPeek);
+    return () => window.removeEventListener(PEEK_EVENT, onPeek);
+  }, []);
+
   const closePeek = useCallback(() => setPeekHref(null), []);
 
   const expandPeek = useCallback((href) => {
@@ -176,9 +186,9 @@ export default function SiteLayout({ title, tab, navKey, currentSlug, existing, 
           <div className={styles.headerActions}>
             <SearchBox />
             <ThemeToggle className={styles.iconBtn} />
-            <a href={HAVEN_URL} className={styles.iconBtn} aria-label="回到 Phantom's Haven" title="回到 Phantom's Haven">
+            <button className={styles.iconBtn} onClick={() => setConfirmHaven(true)} aria-label="回到 Phantom's Haven" title="回到 Phantom's Haven">
               <LuHouse />
-            </a>
+            </button>
             <a href={GITHUB_URL} className={styles.iconBtn} target="_blank" rel="noopener noreferrer" aria-label="GitHub">
               <LuGithub />
             </a>
@@ -230,7 +240,7 @@ export default function SiteLayout({ title, tab, navKey, currentSlug, existing, 
       </div>
 
       <footer className={styles.footer}>
-        Part of <a href={HAVEN_URL}>Phantom&apos;s Haven</a> · Copywrong © 2026 Phantominor · Content licensed under{' '}
+        Part of <a href={HAVEN_URL} onClick={(e) => { e.preventDefault(); setConfirmHaven(true); }}>Phantom&apos;s Haven</a> · Copywrong © 2026 Phantominor · Content licensed under{' '}
         <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank" rel="noopener noreferrer">CC BY-NC-SA 4.0</a>
       </footer>
 
@@ -267,6 +277,18 @@ export default function SiteLayout({ title, tab, navKey, currentSlug, existing, 
             </div>
           )}
         </div>
+      )}
+
+      <SelectionMenu />
+
+      {confirmHaven && (
+        <ConfirmDialog
+          title="回到 Phantominor 首頁？"
+          message="將離開 Phantomography，前往 Phantom's Haven 主站。"
+          confirmLabel="前往"
+          onConfirm={() => { window.location.href = HAVEN_URL; }}
+          onCancel={() => setConfirmHaven(false)}
+        />
       )}
 
       {peekHref && <PeekPanel key="peek" href={peekHref} onClose={closePeek} onExpand={expandPeek} />}

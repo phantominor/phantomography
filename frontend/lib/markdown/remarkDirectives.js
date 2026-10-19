@@ -1,11 +1,13 @@
 // lib/markdown/remarkDirectives.js
 // 自訂語法（remark-directive）：
 //   行內  :red[文字]  :stage[二階]  :q[113-2 醫三 #24]
+//   流程圖 ::chart{id="…"}（共用流程圖，見 lib/charts.js）
 //   區塊  :::exam  :::mnemonic  :::compare  :::pitfall  :::verify  :::detail{title="…"}  :::source{from="…"}
 // 不認得的行內語法（例如內文剛好出現「Na:K」）會還原成原本的文字。
 
 import { visit } from 'unist-util-visit';
 import { ICONS } from './icons';
+import { loadChart } from '../charts';
 
 const CALLOUTS = {
   exam: '考點',
@@ -39,6 +41,27 @@ function takeLabel(node) {
 
 export default function remarkDirectives({ sources = {}, warnings }) {
   return (tree) => {
+    // ::chart{id="…"}：換成 content/_charts/<id>.mmd 的流程圖（等同直接寫 ```mermaid 圖標題）
+    visit(tree, 'leafDirective', (node, index, parent) => {
+      if (node.name !== 'chart') return undefined;
+      const id = node.attributes?.id || '';
+      const chart = loadChart(id);
+      if (!chart) {
+        warnings.push(`找不到流程圖：${id}`);
+        parent.children.splice(index, 1, { type: 'paragraph', children: [{ type: 'text', value: `（找不到流程圖：${id}）` }] });
+        return index + 1;
+      }
+      parent.children.splice(index, 1, { type: 'code', lang: 'mermaid', meta: chart.title || null, value: chart.source });
+      return index + 1;
+    });
+
+    // ```mermaid 圖標題：先把標題（code 的 meta）存成屬性，rehype-raw 重新解析時才不會遺失
+    visit(tree, 'code', (node) => {
+      if (node.lang === 'mermaid' && node.meta) {
+        node.data = { ...node.data, hProperties: { ...node.data?.hProperties, dataTitle: node.meta } };
+      }
+    });
+
     visit(tree, (node, index, parent) => {
       if (node.type === 'textDirective') {
         const cls = INLINE[node.name];

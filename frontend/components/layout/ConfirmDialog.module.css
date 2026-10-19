@@ -1,0 +1,77 @@
+/* components/layout/ConfirmDialog.module.css */
+
+.backdrop {
+  position: fixed;
+  inset: 0;
+  z-index: 60;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 16px;
+  background: rgba(0, 0, 0, 0.35);
+  animation: fade 0.15s ease-out;
+}
+
+.dialog {
+  width: 100%;
+  max-width: 360px;
+  padding: 20px 20px 16px;
+  border-radius: var(--radius-md);
+  background: var(--color-bg);
+  box-shadow: 0 0 0 1px var(--color-border-strong), var(--shadow-header);
+}
+
+.title {
+  margin: 0 0 8px;
+  font-size: 1.05rem;
+  font-weight: 700;
+  -webkit-text-stroke: var(--bold-stroke);
+  color: var(--color-text);
+}
+
+.message {
+  margin: 0 0 18px;
+  font-size: 0.9rem;
+  line-height: 1.6;
+  color: var(--color-text-muted);
+}
+
+.actions {
+  display: flex;
+  justify-content: flex-end;
+  gap: 8px;
+}
+
+.cancel,
+.confirm {
+  padding: 6px 16px;
+  border-radius: var(--radius-sm);
+  font-size: 0.9rem;
+}
+
+.cancel {
+  color: var(--color-text-muted);
+}
+
+.cancel:hover {
+  background: var(--color-bg-hover);
+  color: var(--color-text);
+}
+
+.confirm {
+  background: var(--color-text);
+  color: var(--color-bg);
+}
+
+.confirm:hover {
+  opacity: 0.85;
+}
+
+@keyframes fade {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .backdrop { animation: none; }
+}

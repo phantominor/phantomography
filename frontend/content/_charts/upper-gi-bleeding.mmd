@@ -1,0 +1,16 @@
+%% title: 上消化道出血的處置流程
+flowchart TD
+  A["吐血、咖啡渣樣嘔吐物、黑便"]:::start --> B["復甦：兩條大口徑 IV、晶體輸液<br/>Hb #60; 7 g/dL 輸血、評估 GBS"]
+  B --> C{{"肝硬化或懷疑靜脈曲張？"}}
+  C -->|"是"| D["Terlipressin 或 octreotide<br/>+ ceftriaxone 預防感染"]:::danger
+  C -->|"否"| E["IV PPI ± erythromycin"]
+  D --> F["胃鏡 12 小時內 → 結紮（EVL）"]
+  E --> G["胃鏡 24 小時內"]
+  G --> H{{"Forrest 分級"}}
+  H -->|"Ia、Ib、IIa"| I["內視鏡止血<br/>+ 高劑量 PPI 72 小時"]:::key
+  H -->|"IIb"| J["考慮移除血塊<br/>+ 高劑量 PPI"]:::key
+  H -->|"IIc、III"| K["口服 PPI，可早期出院"]:::key
+  I --> L{{"再出血？"}}
+  L -->|"是"| M["再做一次內視鏡 → TAE → 手術"]:::danger
+  F --> N{{"止血失敗？"}}
+  N -->|"是"| O["Balloon tamponade → TIPS"]:::danger

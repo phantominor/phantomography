@@ -5,21 +5,10 @@
 
 import { useCallback, useEffect, useRef, useState } from 'react';
 import { LuX, LuMaximize2 } from 'react-icons/lu';
-import { findAnchor, smoothScrollTo, flash } from '@/lib/scroll';
+import { findAnchor, jumpTo, flash } from '@/lib/scroll';
+import { renderCharts } from '@/lib/mermaid';
+import { fetchPageProps } from '@/lib/pageData';
 import styles from './PeekPanel.module.css';
-
-const cache = new Map();
-
-async function fetchPageProps(pathname) {
-  if (cache.has(pathname)) return cache.get(pathname);
-  const buildId = window.__NEXT_DATA__?.buildId;
-  const path = pathname === '/' ? '/index' : pathname.replace(/\/$/, '');
-  const res = await fetch(`/_next/data/${buildId}${path}.json`);
-  if (!res.ok) throw new Error(String(res.status));
-  const { pageProps } = await res.json();
-  cache.set(pathname, pageProps);
-  return pageProps;
-}
 
 const CLOSE_DRAG_DISTANCE = 100;
 const ANIMATION_MS = 220;
@@ -56,17 +45,19 @@ export default function PeekPanel({ href, onClose, onExpand }) {
     return () => { cancelled = true; };
   }, [pathname]);
 
-  // 內容載入後捲到目標段落
+  // 內容載入後直接定位到目標段落（不播放捲動動畫；同頁跳轉才用平滑捲動）
   useEffect(() => {
     if (state.status !== 'ready' || !bodyRef.current) return;
     const body = bodyRef.current;
+    body.scrollTop = 0;
     const el = hash ? findAnchor(body, hash) : null;
     if (el) {
-      body.scrollTop = 0;
-      smoothScrollTo(el, body);
+      jumpTo(el, body);
       flash(el);
-    } else {
-      body.scrollTop = 0;
+    }
+    // 流程圖畫完高度會改變，畫完後再定位一次
+    if (state.data?.html?.includes('mermaid-chart')) {
+      renderCharts(body).then(() => { if (el) jumpTo(el, body); });
     }
   }, [state, hash]);
 

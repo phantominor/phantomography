@@ -244,6 +244,8 @@ credit:
     - Erythromycin：EGD 前 30–120 分鐘給予 → 促進胃排空，改善視野。
     - 失敗 → angioembolization 或手術。
 
+::chart{id="upper-gi-bleeding"}
+
 ## 小腸疾病
 
 ### 吸收不良（Malabsorption）

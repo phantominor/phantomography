@@ -47,6 +47,7 @@ npm run lint     # next lint
 - 路徑別名：`@/*` → `frontend/`。
 - 樣式：純 CSS Modules，不用 Tailwind；tokens 在 `styles/variables/base.css`（黑白灰，比照 TWMLE，含深色模式；不再沿用 phantominor 的暖棕色）。筆記內文是 `dangerouslySetInnerHTML` 產生的，樣式集中在全域的 `styles/note.css`（`.note` 底下）。
 - 建置時 console 會列出失效連結與找不到的來源，新增內容後要看一下。
+- 流程圖：內文寫 ```mermaid 圖標題 區塊（圖標題會顯示在圖上方，也會進搜尋索引；`lib/markdown/rehypeElements.js` 轉成占位元素，`lib/mermaid.js` 在瀏覽器端繪製）。可用的共用節點樣式：`:::danger`（緊急）、`:::key`（結論）、`:::start`（起點）；判斷節點用六角形 `{{"…？"}}`，同一層盡量不超過 4 個節點。標籤裡的 `<`、`>` 要寫成 `#60;`、`#62;`。要在多頁出現的流程圖（例如單一疾病的處置流程）存成 `content/_charts/<id>.mmd`（第一行 `%% title: 圖標題`），內文用 `::chart{id="<id>"}` 嵌入；從症狀出發的檢查流程只放在病患主訴，其他頁用連結。
 - `lib/supabase.js`：Supabase browser client 單例，目前沒有使用。
 
 ## 開發規則

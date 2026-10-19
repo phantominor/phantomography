@@ -369,3 +369,59 @@
   0%, 30% { background: color-mix(in srgb, var(--color-link) 12%, transparent); box-shadow: 0 0 0 6px color-mix(in srgb, var(--color-link) 12%, transparent); }
   100% { background: transparent; box-shadow: 0 0 0 6px transparent; }
 }
+
+/* ── 流程圖（Mermaid，於瀏覽器端繪製）── */
+.note .mermaid-block {
+  margin: 1rem 0 1.25rem;
+  border: 1px solid var(--color-border-strong);
+  border-radius: var(--radius-md);
+  overflow: hidden;
+}
+
+.note .mermaid-title {
+  -webkit-text-stroke: var(--bold-stroke);
+  display: flex;
+  align-items: center;
+  gap: 0.4em;
+  padding: 0.5em 1em;
+  border-bottom: 1px solid var(--color-border);
+  background: var(--color-bg-alt);
+  font-weight: 700;
+  font-size: 0.9rem;
+  color: var(--color-text-muted);
+}
+
+.note .mermaid-title .icon {
+  flex-shrink: 0;
+}
+
+.note .mermaid-chart {
+  padding: 16px 12px;
+  overflow-x: auto;
+  text-align: center;
+}
+
+.note .mermaid-chart svg {
+  max-width: none;
+  height: auto;
+}
+
+/* 桌面版：略寬於內文時縮小到剛好（流程圖同一層盡量不超過 4 個節點，縮放幅度才小）；
+   手機版維持原尺寸、左右滑動，字才不會太小 */
+@media (min-width: 960px) {
+  .note .mermaid-chart svg {
+    max-width: 100%;
+  }
+}
+
+.note .mermaid-loading {
+  margin: 0;
+  font-size: 0.85rem;
+  color: var(--color-text-faint);
+}
+
+.note .mermaid-error {
+  text-align: left;
+  font-size: 0.8rem;
+  color: var(--color-text-muted);
+}

@@ -22,6 +22,11 @@ export function smoothScrollTo(el, container) {
   container.scrollTo({ top, behavior: behavior() });
 }
 
+// 不帶動畫直接定位（預覽面板打開時用：內容剛載入，直接出現在目標段落即可）
+export function jumpTo(el, container) {
+  container.scrollTop = el.getBoundingClientRect().top - container.getBoundingClientRect().top + container.scrollTop - 16;
+}
+
 // 目標段落短暫閃一下底色，讓視線知道跳到哪裡
 export function flash(el) {
   el.classList.remove('flash-target');

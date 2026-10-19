@@ -1,7 +1,10 @@
 // lib/markdown/rehypeElements.js
-// 表格包一層（手機可橫向捲動）、圖片路徑加上 MEDIA_BASE_URL 並把有 title 的圖片轉成圖說、外部連結開新分頁
+// 表格包一層（手機可橫向捲動）、圖片路徑加上 MEDIA_BASE_URL 並把有 title 的圖片轉成圖說、外部連結開新分頁、
+// ```mermaid 程式碼區塊（```mermaid 後面接的文字是圖標題）轉成流程圖占位元素（實際繪圖在瀏覽器端，見 lib/mermaid.js）
 
 import { visit } from 'unist-util-visit';
+import { fromHtml } from 'hast-util-from-html';
+import { ICONS } from './icons';
 
 const MEDIA_BASE = process.env.NEXT_PUBLIC_MEDIA_BASE_URL || '/media/';
 
@@ -12,6 +15,31 @@ export default function rehypeElements() {
         parent.children[index] = {
           type: 'element', tagName: 'div', properties: { className: ['table-wrap'] }, children: [node],
         };
+        return;
+      }
+
+      // ```mermaid 標題 → 標題列 + 流程圖占位元素（標題在建置時就輸出，可被搜尋；圖在瀏覽器端畫）
+      if (node.tagName === 'pre' && node.children[0]?.tagName === 'code'
+        && String(node.children[0].properties?.className || '').includes('language-mermaid')) {
+        const code = node.children[0];
+        const source = code.children.map((c) => c.value || '').join('').trim();
+        const title = String(code.properties?.dataTitle || '').trim(); // remarkDirectives 存進來的圖標題
+        const children = [];
+        if (title) {
+          children.push({
+            type: 'element',
+            tagName: 'div',
+            properties: { className: ['mermaid-title'] },
+            children: [...fromHtml(ICONS.chart, { fragment: true }).children, { type: 'text', value: title }],
+          });
+        }
+        children.push({
+          type: 'element',
+          tagName: 'div',
+          properties: { className: ['mermaid-chart'], dataSource: source },
+          children: [{ type: 'element', tagName: 'p', properties: { className: ['mermaid-loading'] }, children: [{ type: 'text', value: '流程圖載入中…' }] }],
+        });
+        parent.children[index] = { type: 'element', tagName: 'figure', properties: { className: ['mermaid-block'] }, children };
         return;
       }
 

@@ -31,11 +31,11 @@ status: initial
 
 | 位置 | 可能原因（含腹腔外） | 鑑別關鍵 |
 |---|---|---|
-| **右上腹** | [[肝膽胰外科#膽結石與膽絞痛\|膽絞痛]]、[[肝膽胰外科#急性膽囊炎（Acute Cholecystitis）\|急性膽囊炎]]、[[肝膽胰外科#急性膽管炎（Acute Cholangitis）\|急性膽管炎]]、[[肝膽胰外科#肝膿瘍（Liver Abscess）\|肝膿瘍]]、[[消化內科#病毒性肝炎 (Viral Hepatitis)\|急性肝炎]]、鬱血性肝腫大（右心衰竭）、十二指腸潰瘍穿孔、**右下葉肺炎**、肋膜炎、Fitz-Hugh-Curtis syndrome、帶狀疱疹 | Murphy sign、Charcot triad；超音波首選；胸部聽診與 CXR 排除肺炎 |
+| **右上腹** | [[肝膽胰外科#膽結石與膽絞痛\|膽絞痛]]、[[肝膽胰外科#急性膽囊炎（Acute Cholecystitis）\|急性膽囊炎]]、[[肝膽胰外科#急性膽管炎（Acute Cholangitis）\|急性膽管炎]]、[[肝膽胰外科#肝膿瘍（Liver Abscess）\|肝膿瘍]]、[[消化內科#病毒性肝炎 (Viral Hepatitis)\|急性肝炎]]、鬱血性肝腫大（右心衰竭）、十二指腸潰瘍穿孔、**[[胸腔內科#社區型肺炎（CAP）\|右下葉肺炎]]**、肋膜炎、Fitz-Hugh-Curtis syndrome、[[皮膚科#帶狀疱疹（Herpes Zoster / Shingles）\|帶狀疱疹]] | Murphy sign、Charcot triad；超音波首選；胸部聽診與 CXR 排除肺炎 |
 | **上腹** | [[消化內科#消化性潰瘍（Peptic Ulcer Disease, PUD）\|消化性潰瘍]]、[[消化內科#急性胰臟炎（Acute Pancreatitis）\|急性胰臟炎]]、胃炎、[[消化內科#胃食道逆流（GERD）\|GERD]]、早期闌尾炎、**[[心臟內科#急性冠心症（ACS）\|下壁心肌梗塞]]**、[[心臟內科#急性心包膜炎（Acute Pericarditis）\|心包膜炎]]、[[心臟內科#主動脈剝離（Aortic Dissection）\|主動脈剝離]] | 胰臟炎痛往背部放射、前傾坐姿緩解；**上腹痛一律考慮 ECG** |
-| **左上腹** | 脾梗塞、脾破裂、脾膿瘍、胰尾病變、胃潰瘍、**左下葉肺炎**、肋膜炎 | 外傷後 + 左肩痛 → 脾破裂；脾梗塞見於心內膜炎、AF、鐮刀型貧血 |
+| **左上腹** | 脾梗塞、脾破裂、脾膿瘍、胰尾病變、胃潰瘍、**[[胸腔內科#社區型肺炎（CAP）\|左下葉肺炎]]**、肋膜炎 | 外傷後 + 左肩痛 → 脾破裂；脾梗塞見於心內膜炎、AF、鐮刀型貧血 |
 | **肚臍周圍** | 早期闌尾炎、[[消化內科#小腸阻塞（SBO）\|小腸阻塞]]、腸繫膜缺血、腸胃炎、AAA | 腸繫膜缺血：AF 病史、疼痛不成比例 |
-| **右下腹** | 闌尾炎、[[大腸直腸外科#Crohn's Disease\|Crohn's disease]]、盲腸憩室炎、[[胃小腸外科#Meckel's Diverticulum\|Meckel 憩室炎]]、腸繫膜淋巴腺炎（Yersinia）、右側輸尿管結石、子宮外孕、[[婦科#卵巢扭轉（Ovarian Torsion）\|卵巢扭轉]]、[[婦科#骨盆腔炎（Pelvic Inflammatory Disease, PID）\|PID]]、[[泌尿科#睪丸扭轉（Testicular Torsion）\|睪丸扭轉]]、腰肌膿瘍、腹股溝疝氣嵌頓 | McBurney point、Rovsing、psoas、obturator sign；女性見下方比較表 |
+| **右下腹** | 闌尾炎、[[大腸直腸外科#Crohn's Disease\|Crohn's disease]]、盲腸憩室炎、[[胃小腸外科#Meckel's Diverticulum\|Meckel 憩室炎]]、腸繫膜淋巴腺炎（Yersinia）、右側輸尿管結石、子宮外孕、[[婦科#卵巢扭轉（Ovarian Torsion）\|卵巢扭轉]]、[[婦科#骨盆腔炎（Pelvic Inflammatory Disease, PID）\|PID]]、[[泌尿科#睪丸扭轉（Testicular Torsion）\|睪丸扭轉]]、腰肌膿瘍、[[胃小腸外科#腹股溝疝氣（Inguinal Hernia）\|腹股溝疝氣嵌頓]] | McBurney point、Rovsing、psoas、obturator sign；女性見下方比較表 |
 | **左下腹** | **[[大腸直腸外科#憩室炎（Diverticulitis）\|乙狀結腸憩室炎]]**（西方最常見）、[[大腸直腸外科#Sigmoid Volvulus（最常見）\|乙狀結腸扭轉]]、[[大腸直腸外科#缺血性結腸炎（Ischemic Colitis）\|缺血性腸炎]]、[[大腸直腸外科#Ulcerative Colitis\|UC]]、左側輸尿管結石、子宮外孕、卵巢扭轉、PID | 台灣憩室較多在右側 |
 | **下腹/恥骨上** | 膀胱炎、**尿滯留**、子宮外孕、PID、卵巢囊腫破裂、[[婦科#子宮內膜異位症\|子宮內膜異位症]]、流產 | 女性一律驗孕；尿滯留先做膀胱超音波或導尿 |
 | **腰側** | [[泌尿科#尿路結石（Urolithiasis）\|腎結石]]、[[腎臟內科#泌尿道感染（UTI）與腎盂腎炎\|腎盂腎炎]]、腎梗塞、腰肌膿瘍、後腹腔出血 | 絞痛、輾轉難安、血尿；CVA knocking pain |
@@ -142,7 +142,7 @@ status: initial
 - **孕婦**：
     - 闌尾炎是**懷孕期最常見的非產科手術急症**，壓痛點隨子宮增大往上移。
     - 影像：超音波 → MRI（不含 gadolinium）；必要時 CT 仍可做，不應延誤診斷。
-    - 孕期特有：HELLP syndrome、妊娠急性脂肪肝（右上腹痛 + 肝功能異常）、胎盤早期剝離、子宮破裂。
+    - 孕期特有：[[產科#HELLP Syndrome|HELLP syndrome]]、[[產科#妊娠期急性脂肪肝（Acute Fatty Liver of Pregnancy, AFLP）|妊娠急性脂肪肝]]（右上腹痛 + 肝功能異常）、[[產科#胎盤早期剝離（Placental Abruption）|胎盤早期剝離]]、[[產科#子宮破裂（Uterine Rupture）|子宮破裂]]。
 - **免疫低下**：除一般原因外，還要考慮 [[感染科#CMV|CMV]] 腸炎、neutropenic enterocolitis（typhlitis，化療後盲腸）、黴菌感染。
 
 #### 初步處置
@@ -169,7 +169,7 @@ status: initial
 - **Alarm features**（有任一項 → 積極排除器質性疾病，安排內視鏡/影像）：
     - 年齡 ≥ 50 歲新發症狀。
     - 體重減輕、夜間痛醒、發燒。
-    - 消化道出血、缺鐵性貧血。
+    - 消化道出血、[[血液腫瘤科#缺鐵性貧血（Iron Deficiency Anemia, IDA）|缺鐵性貧血]]。
     - 進行性吞嚥困難、持續嘔吐。
     - 腹部腫塊、淋巴結腫大。
     - 消化道癌症或 IBD 家族史。
@@ -183,10 +183,10 @@ status: initial
 | 膽胰 | 膽絞痛、**[[消化內科#慢性胰臟炎（Chronic Pancreatitis）\|慢性胰臟炎]]**、[[消化內科#胰臟癌（Pancreatic Cancer）\|胰臟癌]] | 慢性胰臟炎：酒精、脂肪便、糖尿病、鈣化 |
 | 腸道 | [[消化內科#發炎性腸道疾病（Inflammatory Bowel Disease, IBD）\|IBD]]、[[消化內科#Celiac Disease（乳糜瀉）\|celiac disease]]、乳糖不耐、小腸細菌過度增生（SIBO） | 腹瀉、體重減輕、血便 |
 | 血管 | **[[消化內科#慢性腸繫膜缺血\|慢性腸繫膜缺血]]** | **餐後 15–60 分鐘腹痛（intestinal angina）→ 怕吃東西 → 體重減輕** |
-| 代謝 | **急性間歇性紫質症（AIP）**、鉛中毒、DKA 反覆發作 | AIP：腹痛 + 神經精神症狀 + 深色尿 + 低血鈉 |
-| 婦科 | [[婦科#子宮內膜異位症\|子宮內膜異位症]]、慢性 PID、子宮肌腺症 | 與月經週期相關 |
+| 代謝 | **急性間歇性紫質症（AIP）**、[[小兒科#鉛中毒（Lead Poisoning）\|鉛中毒]]、[[代謝內分泌科#DKA（Diabetic Ketoacidosis）\|DKA]] 反覆發作 | AIP：腹痛 + 神經精神症狀 + 深色尿 + [[腎臟內科#低血鈉（Hyponatremia，Na⁺ < 135 mEq/L）\|低血鈉]] |
+| 婦科 | [[婦科#子宮內膜異位症\|子宮內膜異位症]]、[[婦科#骨盆腔炎（Pelvic Inflammatory Disease, PID）\|慢性 PID]]、[[婦科#子宮肌腺症（Adenomyosis）\|子宮肌腺症]] | 與月經週期相關 |
 | 腹壁 | **前皮神經卡壓（ACNES）**、腹壁疝氣 | **Carnett sign 陽性** |
-| 其他 | 家族性地中海熱、腹部偏頭痛（兒童）、慢性便秘 | FMF：週期性發燒 + 漿膜炎，colchicine 有效 |
+| 其他 | 家族性地中海熱、[[神經內科#偏頭痛（Migraine）\|腹部偏頭痛]]（兒童）、慢性便秘 | FMF：週期性發燒 + 漿膜炎，colchicine 有效 |
 
 - **Carnett sign**：病人平躺抬頭使腹肌收縮，壓痛**加劇或不變** → 腹壁來源；壓痛**減輕** → 腹腔內來源。
 - **急性間歇性紫質症**：
@@ -202,7 +202,7 @@ status: initial
 |---|---|---|
 | 好發年齡 | 較年輕 | 較年長 |
 | 疼痛與進食 | **空腹痛、夜間痛，進食緩解** | **進食後加劇**、體重減輕 |
-| H. pylori | 約 90%（比例逐年下降） | 約 70% |
+| [[消化內科#H. pylori\|H. pylori]] | 約 90%（比例逐年下降） | 約 70% |
 | 胃酸分泌 | 增加 | 正常或減少 |
 | 好發位置 | 十二指腸球部 | 胃小彎（胃角） |
 | 惡性風險 | 幾乎沒有，不需常規切片 | **有** → 一定要**切片**，並追蹤胃鏡至癒合 |
@@ -247,10 +247,10 @@ status: initial
 | 機轉 | 疾病 |
 |---|---|
 | 消化道阻塞 | 胃出口阻塞（潰瘍、胃癌、胰頭癌）、[[消化內科#腸阻塞（Intestinal Obstruction）\|腸阻塞]]、腸扭轉、嵌頓性疝氣 |
-| 消化道發炎 | 腸胃炎、闌尾炎、急性膽囊炎、急性胰臟炎、急性肝炎 |
+| 消化道發炎 | 腸胃炎、[[大腸直腸外科#闌尾炎（Appendicitis）\|闌尾炎]]、[[消化內科#急性膽囊炎\|急性膽囊炎]]、[[消化內科#急性胰臟炎（Acute Pancreatitis）\|急性胰臟炎]]、急性肝炎 |
 | 動力異常 | **胃輕癱（gastroparesis）**、術後腸阻塞（ileus）、慢性腸假性阻塞 |
-| 中樞神經 | **顱內壓上升**（腫瘤、出血、腦膜炎）、[[神經內科#偏頭痛（Migraine）\|偏頭痛]]、前庭疾病（BPPV、Ménière）、暈車 |
-| 代謝內分泌 | **DKA**、尿毒症、**高血鈣**、低血鈉、**[[代謝內分泌科#腎上腺功能不全（Adrenal Insufficiency）\|腎上腺功能不全]]**、甲狀腺疾病 |
+| 中樞神經 | **顱內壓上升**（腫瘤、出血、[[神經內科#細菌性腦膜炎\|腦膜炎]]）、[[神經內科#偏頭痛（Migraine）\|偏頭痛]]、前庭疾病（[[耳鼻喉科#良性陣發性姿勢性眩暈（BPPV）\|BPPV]]、[[耳鼻喉科#梅尼爾氏病（Ménière's Disease）\|Ménière]]）、暈車 |
+| 代謝內分泌 | **[[代謝內分泌科#DKA（Diabetic Ketoacidosis）\|DKA]]**、尿毒症、**[[腎臟內科#高血鈣（Hypercalcemia，Ca²⁺ > 10.5 mg/dL）\|高血鈣]]**、[[腎臟內科#低血鈉（Hyponatremia，Na⁺ < 135 mEq/L）\|低血鈉]]、**[[代謝內分泌科#腎上腺功能不全（Adrenal Insufficiency）\|腎上腺功能不全]]**、甲狀腺疾病 |
 | 懷孕 | **妊娠嘔吐（morning sickness）**、[[產科#妊娠嘔吐（Hyperemesis Gravidarum）\|妊娠劇吐]]、[[產科#HELLP Syndrome\|HELLP]]、妊娠急性脂肪肝、[[產科#葡萄胎（Hydatidiform Mole）\|葡萄胎]] |
 | 藥物與毒物 | 化療藥、opioid、**digoxin 中毒**、theophylline、酒精、抗生素、metformin、GLP-1 agonist |
 | 心肺 | **下壁心肌梗塞** |
@@ -258,7 +258,7 @@ status: initial
 
 #### 嘔吐物與時間的線索
 
-- **膽汁性（綠色）**：阻塞位於 ampulla of Vater 以下；**新生兒膽汁性嘔吐 = 腸旋轉不良合併中腸扭轉，直到排除**。
+- **膽汁性（綠色）**：阻塞位於 ampulla of Vater 以下；**新生兒膽汁性嘔吐 = [[小兒外科#腸旋轉不良與中腸扭轉（Malrotation & Midgut Volvulus）|腸旋轉不良合併中腸扭轉]]，直到排除**。
 - **非膽汁性、噴射狀**（2–8 週大嬰兒）→ [[小兒外科#肥厚性幽門狹窄（Hypertrophic Pyloric Stenosis, HPS）|肥厚性幽門狹窄]]。
 - **糞臭味**：遠端小腸阻塞、胃結腸瘻管。
 - **數小時前未消化的食物**：胃出口阻塞、胃輕癱、[[消化內科#Achalasia（食道弛緩不能症）|achalasia]]（反流）。
@@ -288,19 +288,19 @@ status: initial
 :::
 
 :::compare[嬰兒嘔吐]
-| | 肥厚性幽門狹窄 | 腸旋轉不良併中腸扭轉 | 十二指腸閉鎖 | 生理性胃食道逆流 |
+| | 肥厚性幽門狹窄 | 腸旋轉不良併中腸扭轉 | [[小兒外科#十二指腸閉鎖（Duodenal Atresia）\|十二指腸閉鎖]] | 生理性胃食道逆流 |
 |---|---|---|---|---|
 | 發作年齡 | **2–8 週** | 多在出生 1 個月內（任何年齡皆可） | **出生後數小時內** | 出生數週，約 4 個月高峰，1 歲前緩解 |
 | 嘔吐 | **非膽汁性、噴射狀** | **膽汁性** | 膽汁性（多數閉鎖位於 ampulla 以下） | 非膽汁性、溢奶 |
 | 理學檢查 | 上腹**橄欖狀腫塊**、可見胃蠕動波 | 腹脹、血便、休克（晚期） | 上腹脹、下腹扁平 | 生長正常（happy spitter） |
 | 影像 | 超音波：幽門肌 :red[> 3–4 mm]、長 > 14–17 mm | **上消化道攝影**：Treitz 韌帶位置異常、corkscrew | KUB：**double bubble** | 不需要 |
 | 電解質 | **低氯低鉀代謝性鹼中毒** | 依嚴重度 | — | 正常 |
-| 相關因素 | 第一胎男嬰、早期使用 erythromycin | — | **Down syndrome** | — |
+| 相關因素 | 第一胎男嬰、早期使用 erythromycin | — | **[[小兒科#唐氏症（Down Syndrome, Trisomy 21）\|Down syndrome]]** | — |
 | 處置 | **先矯正電解質** → pyloromyotomy | **緊急手術（Ladd procedure）** | Duodenoduodenostomy | 姿勢調整、少量多餐 |
 :::
 
 :::compare[Mallory-Weiss tear vs Boerhaave syndrome]
-| | Mallory-Weiss tear | Boerhaave syndrome |
+| | Mallory-Weiss tear | [[消化內科#其他食道疾病\|Boerhaave syndrome]] |
 |---|---|---|
 | 病灶 | **黏膜**撕裂（胃食道交界） | 食道**全層破裂**（多在下段左後側） |
 | 表現 | 劇烈嘔吐或乾嘔後**吐血** | 劇烈嘔吐後**胸痛**、上腹痛、發燒、休克 |
@@ -351,7 +351,7 @@ status: initial
 | | 口咽型（oropharyngeal） | 食道型（esophageal） |
 |---|---|---|
 | 症狀 | **難以啟動吞嚥**、嗆咳、鼻腔逆流、吞完咳嗽 | 吞下數秒後**卡在胸骨後** |
-| 常見原因 | **中風**、Parkinson、ALS、[[神經內科#重症肌無力（Myasthenia Gravis, MG）\|重症肌無力]]、肌炎、**[[胸腔外科#食道憩室（Esophageal Diverticulum）\|Zenker 憩室]]**、頭頸癌 | 機械性阻塞、運動障礙 |
+| 常見原因 | **[[神經內科#缺血性中風急性處理\|中風]]**、[[神經內科#巴金森病（Parkinson's Disease, PD）\|Parkinson]]、[[神經內科#肌萎縮側索硬化症（ALS）\|ALS]]、[[神經內科#重症肌無力（Myasthenia Gravis, MG）\|重症肌無力]]、肌炎、**[[胸腔外科#食道憩室（Esophageal Diverticulum）\|Zenker 憩室]]**、頭頸癌 | 機械性阻塞、運動障礙 |
 | 首選檢查 | **吞嚥攝影（videofluoroscopic swallow study）** | **胃鏡（EGD）** |
 
 #### 食道型吞嚥困難的鑑別
@@ -363,13 +363,13 @@ status: initial
     - **間歇性**：Schatzki ring、嗜酸性食道炎（見下方比較表）。
 - **固體與液體**一開始都困難 → **[[消化內科#食道運動障礙|運動障礙]]**：
     - 進行性 + 胃灼熱 → **[[免疫風濕科#全身性硬化症（Systemic Sclerosis, SSc）|硬皮症]]**。
-    - 進行性 + 反流未消化食物 + 體重減輕 → **Achalasia**。
+    - 進行性 + 反流未消化食物 + 體重減輕 → **[[消化內科#Achalasia（食道弛緩不能症）|Achalasia]]**。
     - 間歇性 + 胸痛 → **瀰漫性食道痙攣**。
 - 高齡 + 快速體重減輕 + achalasia 影像 → 懷疑**假性 achalasia**（賁門癌）→ 胃鏡、EUS、CT。
 
 #### 吞嚥痛的鑑別
 
-- **感染性食道炎**（免疫低下為主）：Candida、HSV、CMV（見下方比較表）。
+- **感染性食道炎**（免疫低下為主）：[[感染科#Candida|Candida]]、[[感染科#HSV|HSV]]、[[感染科#CMV|CMV]]（見下方比較表）。
 - **藥物性食道炎**：doxycycline/tetracycline、**KCl**、NSAID、**bisphosphonate**、鐵劑；與吞藥時水量不足、服藥後立即平躺有關。
 - 腐蝕性食道炎、放射性食道炎。
 
@@ -391,7 +391,7 @@ status: initial
 | 族群 | 中年以上 | **年輕男性、過敏體質** | 中年女性 | 長期 GERD |
 | 病程 | 間歇性（大塊肉卡住：steakhouse syndrome） | 間歇性、**食物嵌塞** | 進行性 | 進行性 |
 | 位置 | 下食道（鱗柱交界） | 全食道 | **上食道 web** | 下食道 |
-| 伴隨 | — | 氣喘、過敏性鼻炎、異位性皮膚炎 | **缺鐵性貧血**、舌炎；**SCC 風險上升** | 胃灼熱 |
+| 伴隨 | — | 氣喘、過敏性鼻炎、異位性皮膚炎 | **[[血液腫瘤科#缺鐵性貧血（Iron Deficiency Anemia, IDA）\|缺鐵性貧血]]**、舌炎；**SCC 風險上升** | 胃灼熱 |
 | 胃鏡 | 環狀狹窄 | 多重環狀紋路、縱溝、白斑；切片 :red[≥ 15 eos/HPF] | 網狀膜 | 平滑狹窄 |
 | 治療 | 擴張 | 去除飲食、PPI、**吞服局部類固醇** | 補鐵、擴張 | PPI + 擴張 |
 :::
@@ -440,7 +440,7 @@ status: initial
 #### 易混淆鑑別
 
 :::compare[胸骨後疼痛：GERD、心絞痛、食道痙攣]
-| | GERD | 心絞痛 | 瀰漫性食道痙攣 |
+| | GERD | [[心臟內科#穩定型心絞痛（Stable Angina）\|心絞痛]] | 瀰漫性食道痙攣 |
 |---|---|---|---|
 | 誘發 | 餐後、平躺、彎腰 | **運動、情緒** | 冷熱飲、壓力 |
 | 緩解 | 制酸劑、PPI | 休息、NTG | **NTG 也可能緩解**（容易誤判為心絞痛） |
@@ -455,7 +455,7 @@ status: initial
 | 糞便抗原 | 否 | 是 | 是 | 診斷、除菌後確認 |
 | 血清抗體 | 否 | **否**（過去感染也陽性） | 否 | 流行病學；**不能確認除菌** |
 | 快速尿素酶試驗（CLO test） | 是 | 是 | 是 | 胃鏡時快速診斷 |
-| 組織學 | 是 | 是 | 是 | 同時評估胃炎、腸化生、MALToma |
+| 組織學 | 是 | 是 | 是 | 同時評估胃炎、腸化生、[[消化內科#胃淋巴瘤（MALToma）\|MALToma]] |
 | 培養 | 是 | 是 | 是 | **抗藥性檢測** |
 :::
 
@@ -502,11 +502,11 @@ status: initial
 :::compare[血便性腹瀉的病原]
 | 病原 | 發燒 | 特徵 | 重要併發症 | 抗生素 |
 |---|---|---|---|---|
-| **Shigella** | **高燒** | 極少菌量即可感染、人傳人 | 兒童熱痙攣、HUS、reactive arthritis | **需要**（azithromycin、ceftriaxone） |
+| **Shigella** | **高燒** | 極少菌量即可感染、人傳人 | 兒童熱痙攣、HUS、[[免疫風濕科#反應性關節炎（Reactive Arthritis）\|reactive arthritis]] | **需要**（azithromycin、ceftriaxone） |
 | **EHEC（O157:H7）** | **常無** | 未熟牛絞肉；大量血便 | **HUS**（兒童為主） | **禁用** |
 | **Campylobacter** | 有 | 未熟家禽 | **Guillain-Barré syndrome**、reactive arthritis | 重症才用（azithromycin） |
 | **Non-typhoidal Salmonella** | 有 | 雞蛋、家禽、爬蟲類寵物 | 菌血症、**老人血管內感染**、鐮刀型貧血者骨髓炎 | 一般不用（延長帶菌）；高風險者才用 |
-| Yersinia | 有 | 豬肉、乳製品、可在冷藏下生長 | **假性闌尾炎**（腸繫膜淋巴腺炎）、結節性紅斑、reactive arthritis | 重症才用 |
+| Yersinia | 有 | 豬肉、乳製品、可在冷藏下生長 | **假性闌尾炎**（腸繫膜淋巴腺炎）、[[皮膚科#結節性紅斑（Erythema Nodosum）\|結節性紅斑]]、reactive arthritis | 重症才用 |
 | **E. histolytica** | 低或無 | 旅遊、男男性行為 | **[[肝膽胰外科#阿米巴性肝膿瘍（Amoebic Liver Abscess）\|阿米巴肝膿瘍]]** | Metronidazole + 腸腔藥（paromomycin） |
 :::
 
@@ -555,7 +555,7 @@ status: initial
 | 類型 | 特徵 | 代表疾病 |
 |---|---|---|
 | **水瀉（watery）** | 大量水樣便 | 分為滲透性與分泌性（見下） |
-| **脂肪便（fatty）** | 油膩、惡臭、浮在水面、難沖掉、體重減輕 | **[[消化內科#吸收不良（Malabsorption）\|吸收不良]]**：慢性胰臟炎、[[消化內科#Celiac Disease（乳糜瀉）\|celiac disease]]、SIBO、[[胃小腸外科#短腸症候群（Short Bowel Syndrome）\|短腸症]]、膽汁酸缺乏 |
+| **脂肪便（fatty）** | 油膩、惡臭、浮在水面、難沖掉、體重減輕 | **[[消化內科#吸收不良（Malabsorption）\|吸收不良]]**：[[消化內科#慢性胰臟炎（Chronic Pancreatitis）\|慢性胰臟炎]]、[[消化內科#Celiac Disease（乳糜瀉）\|celiac disease]]、SIBO、[[胃小腸外科#短腸症候群（Short Bowel Syndrome）\|短腸症]]、膽汁酸缺乏 |
 | **發炎性（inflammatory）** | 血便、黏液、發燒、腹痛 | **[[消化內科#發炎性腸道疾病（Inflammatory Bowel Disease, IBD）\|IBD]]**、缺血性腸炎、[[消化內科#大腸癌（Colorectal Cancer, CRC）\|大腸癌]]、慢性感染（阿米巴、TB）、放射性腸炎 |
 
 #### 水瀉：滲透性 vs 分泌性
@@ -569,7 +569,7 @@ status: initial
 |---|---|---|
 | 禁食 | **停止** | **持續**（夜間也會腹瀉） |
 | 滲透壓差 | 大 | 小 |
-| 原因 | **乳糖不耐**、含鎂瀉劑/制酸劑、sorbitol、lactulose、吸收不良 | 霍亂毒素、**[[代謝內分泌科#VIPoma\|VIPoma]]**、**[[代謝內分泌科#Carcinoid Syndrome\|類癌症候群]]**、gastrinoma、**microscopic colitis**、膽汁酸性腹瀉、刺激性瀉劑濫用、甲狀腺髓質癌 |
+| 原因 | **乳糖不耐**、含鎂瀉劑/制酸劑、sorbitol、lactulose、吸收不良 | 霍亂毒素、**[[代謝內分泌科#VIPoma\|VIPoma]]**、**[[代謝內分泌科#Carcinoid Syndrome\|類癌症候群]]**、gastrinoma、**microscopic colitis**、膽汁酸性腹瀉、刺激性瀉劑濫用、[[代謝內分泌科#甲狀腺癌\|甲狀腺髓質癌]] |
 
 - **詐病性腹瀉**：濫用瀉劑 → 大腸鏡見 **melanosis coli**（anthraquinone 類，如 senna）、低血鉀；檢測糞便中的瀉劑。
 
@@ -583,7 +583,7 @@ status: initial
 #### 易混淆鑑別
 
 :::compare[慢性腹瀉的常見原因]
-| | IBS-D | IBD | Microscopic colitis | Celiac disease | 乳糖不耐 |
+| | [[消化內科#大腸激躁症（Irritable Bowel Syndrome, IBS）\|IBS-D]] | IBD | Microscopic colitis | Celiac disease | 乳糖不耐 |
 |---|---|---|---|---|---|
 | 族群 | 年輕女性 | 年輕（雙峰分布） | **中老年女性**、NSAID/PPI/SSRI 使用者 | 白人；台灣少見 | **亞洲人非常常見** |
 | 夜間腹瀉 | 無 | **有** | **有** | 可有 | 無 |
@@ -595,7 +595,7 @@ status: initial
 :::
 
 :::compare[UC vs Crohn's disease]
-| | Ulcerative colitis | Crohn's disease |
+| | [[大腸直腸外科#Ulcerative Colitis\|Ulcerative colitis]] | [[大腸直腸外科#Crohn's Disease\|Crohn's disease]] |
 |---|---|---|
 | 範圍 | **直腸起、連續**往近端 | 口到肛門皆可、**跳躍性**；末端迴腸最常見 |
 | 深度 | 黏膜、黏膜下層 | **全層** |
@@ -605,14 +605,14 @@ status: initial
 | 內視鏡 | 連續性發炎、偽息肉 | **鵝卵石樣**、縱走潰瘍 |
 | 吸菸 | **保護** | **惡化** |
 | 血清 | p-ANCA | ASCA |
-| 特有腸外表現 | **PSC** | 膽結石、**草酸鈣腎結石**、B12 缺乏 |
+| 特有腸外表現 | **[[消化內科#原發性硬化性膽管炎（Primary Sclerosing Cholangitis, PSC）\|PSC]]** | 膽結石、**草酸鈣腎結石**、B12 缺乏 |
 | 手術 | **全大腸切除可治癒** | 無法治癒，盡量保留腸道 |
 :::
 
 :::compare[脂肪便：胰臟性 vs 小腸黏膜性]
 | | 胰臟外分泌不足 | 小腸黏膜疾病 |
 |---|---|---|
-| 代表疾病 | 慢性胰臟炎、胰臟癌、囊性纖維化 | Celiac disease、Crohn's disease、Whipple disease |
+| 代表疾病 | 慢性胰臟炎、[[消化內科#胰臟癌（Pancreatic Cancer）\|胰臟癌]]、囊性纖維化 | Celiac disease、Crohn's disease、Whipple disease |
 | **D-xylose 試驗** | **正常**（吸收不需胰酶） | **異常** |
 | Fecal elastase | :red[< 200 μg/g] | 正常 |
 | 其他線索 | 糖尿病、胰臟鈣化 | 缺鐵、葉酸缺乏（近端小腸） |
@@ -626,7 +626,7 @@ status: initial
 |---|---|---|
 | **VIPoma** | 大量水瀉（> 3 L/day）、**低血鉀、胃酸缺乏**（WDHA） | 血清 VIP |
 | **類癌症候群** | **潮紅**、腹瀉、哮鳴、右心瓣膜疾病；腸道原發者通常**已有肝轉移** | **24 小時尿液 5-HIAA** |
-| Gastrinoma | 頑固或多發性潰瘍 + 腹瀉（**PPI 可改善腹瀉**） | 空腹 gastrin > 1000 pg/mL + 胃酸 pH < 2、secretin test |
+| [[代謝內分泌科#Zollinger-Ellison Syndrome（ZES）\|Gastrinoma]] | 頑固或多發性潰瘍 + 腹瀉（**PPI 可改善腹瀉**） | 空腹 gastrin > 1000 pg/mL + 胃酸 pH < 2、secretin test |
 | 甲狀腺髓質癌 | 頸部腫塊、calcitonin 引起腹瀉 | Calcitonin |
 :::
 
@@ -654,9 +654,9 @@ status: initial
 
 - **次發性原因**：
     - 藥物：**opioid**（最常見藥物原因）、抗膽鹼藥、三環抗憂鬱劑、**CCB（尤其 verapamil）**、鐵劑、鈣片、含鋁制酸劑、抗組織胺、5-HT3 拮抗劑。
-    - 代謝內分泌：**[[代謝內分泌科#甲狀腺機能低下（Hypothyroidism）|甲狀腺功能低下]]**、**高血鈣**、低血鉀、糖尿病、懷孕。
-    - 神經：[[神經內科#巴金森病（Parkinson's Disease, PD）|Parkinson]]、多發性硬化症、脊髓損傷、自主神經病變。
-    - 結構性：**大腸直腸癌**、狹窄、直腸脫垂、[[大腸直腸外科#肛裂（Anal Fissure）|肛裂]]（疼痛而不敢解）。
+    - 代謝內分泌：**[[代謝內分泌科#甲狀腺機能低下（Hypothyroidism）|甲狀腺功能低下]]**、**[[腎臟內科#高血鈣（Hypercalcemia，Ca²⁺ > 10.5 mg/dL）|高血鈣]]**、低血鉀、糖尿病、懷孕。
+    - 神經：[[神經內科#巴金森病（Parkinson's Disease, PD）|Parkinson]]、[[神經內科#多發性硬化症（Multiple Sclerosis, MS）|多發性硬化症]]、[[神經外科#脊髓損傷（Spinal Cord Injury）|脊髓損傷]]、自主神經病變。
+    - 結構性：**[[消化內科#大腸癌（Colorectal Cancer, CRC）|大腸直腸癌]]**、狹窄、[[大腸直腸外科#直腸脫垂（Rectal Prolapse）|直腸脫垂]]、[[大腸直腸外科#肛裂（Anal Fissure）|肛裂]]（疼痛而不敢解）。
 - **原發性**（功能性）：分為正常通過型、慢速通過型、排便協調障礙（見下方比較表）。
 
 #### 易混淆鑑別
@@ -665,7 +665,7 @@ status: initial
 | | 正常通過型 | 慢速通過型 | 排便協調障礙（dyssynergic defecation） |
 |---|---|---|---|
 | 比例 | **最常見** | 少 | 常見於長期用力解便者 |
-| 特徵 | 與 IBS-C 重疊，常合併腹脹腹痛 | 便意少、排便次數極少 | **有便意但解不出**、需用手指協助 |
+| 特徵 | 與 [[消化內科#大腸激躁症（Irritable Bowel Syndrome, IBS）\|IBS-C]] 重疊，常合併腹脹腹痛 | 便意少、排便次數極少 | **有便意但解不出**、需用手指協助 |
 | 機轉 | 主觀排便困難 | 大腸蠕動減弱 | 解便時恥骨直腸肌與肛門括約肌**未放鬆** |
 | 檢查 | 正常 | **Sitz marker 試驗**：大腸通過時間延長 | **肛門直腸壓力檢查、球囊排出試驗** |
 | 治療 | 纖維、滲透性瀉劑 | 滲透性/刺激性瀉劑、prucalopride | **生物回饋（biofeedback）**；纖維效果差 |
@@ -728,9 +728,9 @@ status: initial
 
 | 原因 | 線索 |
 |---|---|
-| **[[消化內科#消化性潰瘍（Peptic Ulcer Disease, PUD）\|消化性潰瘍]]**（最常見） | NSAID、aspirin、H. pylori、上腹痛 |
+| **[[消化內科#消化性潰瘍（Peptic Ulcer Disease, PUD）\|消化性潰瘍]]**（最常見） | NSAID、aspirin、[[消化內科#H. pylori\|H. pylori]]、上腹痛 |
 | **[[消化內科#食道靜脈曲張（Esophageal Varices）\|食道胃靜脈曲張]]** | **[[消化內科#肝硬化（Liver Cirrhosis）\|肝硬化]]**、酒精、B/C 型肝炎、脾腫大、腹水 |
-| Mallory-Weiss tear | **劇烈嘔吐或乾嘔後**吐血（常見於酗酒） |
+| [[消化內科#其他食道疾病\|Mallory-Weiss tear]] | **劇烈嘔吐或乾嘔後**吐血（常見於酗酒） |
 | 糜爛性食道炎/胃炎 | NSAID、酒精、[[胃小腸外科#應激性潰瘍（Stress Ulcer）\|壓力性潰瘍]]（ICU、燒傷、頭部外傷） |
 | 腫瘤 | [[消化內科#胃癌（Gastric Cancer）\|胃癌]]、[[消化內科#食道癌\|食道癌]]；慢性失血、體重減輕 |
 | Dieulafoy lesion | 黏膜下異常粗大的動脈，大量但間歇性出血，常見於胃上部 |
@@ -757,7 +757,7 @@ status: initial
 | 輸血 | Hb < 7 g/dL 才輸，目標 7–9 | 同左，**避免過度輸血**（門脈壓上升） |
 | 內視鏡時機 | :red[24 小時內] | :red[12 小時內] |
 | 內視鏡治療 | 止血夾、熱凝（epinephrine 不可單獨使用） | **結紮（EVL）**；胃靜脈曲張用 cyanoacrylate |
-| 救援 | 再做內視鏡 → **TAE** → 手術 | **Balloon tamponade**（≤ 24 小時）→ **TIPS** |
+| 救援 | 再做內視鏡 → **TAE** → 手術 | **Balloon tamponade**（≤ 24 小時）→ **[[肝膽胰外科#TIPS（Transjugular Intrahepatic Portosystemic Shunt）\|TIPS]]** |
 | 次級預防 | H. pylori 除菌、停 NSAID、PPI | **非選擇性 β 阻斷劑 + EVL** |
 :::
 
@@ -781,6 +781,8 @@ status: initial
 5. 依是否為靜脈曲張出血，給藥與內視鏡時機不同（見上方比較表）。
 - 不建議常規放鼻胃管抽吸來判斷出血位置。
 
+::chart{id="upper-gi-bleeding"}
+
 #### 內視鏡發現與後續（消化性潰瘍）
 
 | Forrest 分級 | 內視鏡所見 | 未處理的再出血率 | 處置 |
@@ -794,7 +796,7 @@ status: initial
 
 - 高風險病灶止血後：**IV PPI**（80 mg bolus → 8 mg/h，或間歇高劑量）持續 :red[72 小時] → 改口服。
 - 檢測 H. pylori（急性出血時可能偽陰性，陰性需日後再驗）並除菌。
-- 靜脈曲張出血高風險者（Child-Pugh C 10–13 分，或 B 級合併活動性出血）考慮 72 小時內**早期 TIPS**。
+- 靜脈曲張出血高風險者（[[肝膽胰外科#Child-Pugh Score|Child-Pugh]] C 10–13 分，或 B 級合併活動性出血）考慮 72 小時內**早期 TIPS**。
 - 詳見 [[消化內科#上消化道出血（Upper GI Bleeding）|上消化道出血]]、[[肝膽胰外科#食道靜脈曲張出血（Esophageal Variceal Bleeding）|食道靜脈曲張出血]]。
 
 ### 下消化道出血
@@ -818,7 +820,7 @@ status: initial
 :::compare[成人下消化道出血的常見原因]
 | | 憩室出血 | 血管擴張 | 缺血性腸炎 | 大腸癌 | 痔瘡 |
 |---|---|---|---|---|---|
-| 族群 | 老年 | 老年、CKD、主動脈瓣狹窄 | 老年、心血管疾病、低血壓 | 中老年 | 任何年齡 |
+| 族群 | 老年 | 老年、CKD、[[心臟內科#主動脈瓣狹窄（Aortic Stenosis, AS）\|主動脈瓣狹窄]] | 老年、心血管疾病、低血壓 | 中老年 | 任何年齡 |
 | 腹痛 | **無** | 無 | **有**（先腹痛後血便） | 通常無 | 無（血栓性外痔例外） |
 | 出血量 | **大量**、多可自停 | 間歇性，急性或慢性 | 中少量 | 慢性少量、缺鐵性貧血 | 少量鮮血、滴在馬桶 |
 | 好發位置 | 出血以**右側**較多 | **右側大腸** | 脾彎、直腸乙狀結腸交界 | 右側 → 貧血；左側 → 排便習慣改變 | 肛門 |
@@ -854,7 +856,7 @@ status: initial
 6. 以上皆無法控制 → 手術（術前盡量定位，避免盲目大腸次全切除）。
 
 :::pitfall
-血行動力學不穩定的大量鮮血便 → 直接認定是下消化道出血而先排大腸鏡或血管攝影 → 漏掉大量上消化道出血（例如十二指腸潰瘍），延誤止血。不穩定的鮮血便要先做胃鏡（或至少評估 BUN/Cr、肝硬化病史）。
+血行動力學不穩定的大量鮮血便 → 直接認定是下消化道出血而先排大腸鏡或血管攝影 → 漏掉大量上消化道出血（例如十二指腸潰瘍），延誤止血。不穩定的鮮血便要先做胃鏡（或至少評估 BUN/Cr、[[消化內科#肝硬化（Liver Cirrhosis）|肝硬化]]病史）。
 :::
 
 ### 潛血與不明原因消化道出血
@@ -862,8 +864,8 @@ status: initial
 - **潛血（occult GI bleeding）**：糞便潛血陽性或**[[血液腫瘤科#缺鐵性貧血（Iron Deficiency Anemia, IDA）|缺鐵性貧血]]**，但沒有肉眼可見的出血。
 - **男性或停經後女性的缺鐵性貧血 → 一律做胃鏡 + 大腸鏡**（排除消化道惡性腫瘤）；同時驗 celiac serology。
 - **不明原因消化道出血（obscure GI bleeding）**：胃鏡 + 大腸鏡皆正常，仍持續或反覆出血 → 多來自**小腸**。
-- 小腸出血依年齡：
-    - < 40 歲：小腸腫瘤、**[[胃小腸外科#Meckel's Diverticulum|Meckel 憩室]]**、[[消化內科#發炎性腸道疾病（Inflammatory Bowel Disease, IBD）|Crohn's disease]]。
+- [[胃小腸外科#小腸出血|小腸出血]]依年齡：
+    - < 40 歲：[[消化內科#小腸腫瘤|小腸腫瘤]]、**[[胃小腸外科#Meckel's Diverticulum|Meckel 憩室]]**、[[消化內科#發炎性腸道疾病（Inflammatory Bowel Disease, IBD）|Crohn's disease]]。
     - \> 40 歲：**血管擴張**（最常見）、NSAID 潰瘍、腫瘤。
 
 #### 易混淆鑑別
@@ -914,13 +916,27 @@ status: initial
 - **膽汁鬱積型**：ALP↑ + **GGT↑**（ALP 升高但 GGT 正常 → 骨骼來源）。
     - 第一步：**腹部超音波**看膽管是否擴張（:red[CBD > 6 mm]；膽囊切除後可達 8–10 mm）。
     - **膽管擴張 → 肝外阻塞**：
-        - **[[肝膽胰外科#總膽管結石（Choledocholithiasis）|總膽管結石]]**：絞痛、膽管炎（**Charcot triad**：發燒 + 右上腹痛 + 黃疸）。
+        - **[[肝膽胰外科#總膽管結石（Choledocholithiasis）|總膽管結石]]**：絞痛、[[肝膽胰外科#急性膽管炎（Acute Cholangitis）|膽管炎]]（**Charcot triad**：發燒 + 右上腹痛 + 黃疸）。
         - **[[肝膽胰外科#胰臟導管腺癌（Pancreatic Ductal Adenocarcinoma, PDAC）|胰頭癌]]、[[肝膽胰外科#壺腹周圍癌（Periampullary Cancer）|壺腹周圍癌]]**：**無痛性黃疸**、體重減輕；**Courvoisier sign**。
-        - [[肝膽胰外科#膽管癌（Cholangiocarcinoma）|膽管癌]]、慢性胰臟炎狹窄、PSC、膽道術後狹窄、[[肝膽胰外科#膽道囊腫（Choledochal Cyst）|膽道囊腫]]。
+        - [[肝膽胰外科#膽管癌（Cholangiocarcinoma）|膽管癌]]、[[消化內科#慢性胰臟炎（Chronic Pancreatitis）|慢性胰臟炎]]狹窄、[[消化內科#原發性硬化性膽管炎（Primary Sclerosing Cholangitis, PSC）|PSC]]、膽道術後狹窄、[[肝膽胰外科#膽道囊腫（Choledochal Cyst）|膽道囊腫]]。
     - **膽管未擴張 → 肝內膽汁鬱積**：
         - 藥物：amoxicillin-clavulanate、口服避孕藥、合成類固醇、chlorpromazine。
-        - **PBC**、**PSC**（見下方比較表）。
+        - **[[消化內科#原發性膽汁性膽管炎（Primary Biliary Cholangitis, PBC）|PBC]]**、**PSC**（見下方比較表）。
         - 其他：敗血症、TPN、浸潤性疾病（類澱粉、淋巴瘤、肉芽腫）、**[[產科#妊娠期肝內膽汁淤積（Intrahepatic Cholestasis of Pregnancy, ICP）|妊娠肝內膽汁鬱積]]**（第三孕期搔癢）、術後良性膽汁鬱積。
+
+#### 檢查流程
+
+```mermaid 黃疸的檢查流程
+flowchart TD
+  A["黃疸：膽紅素 #62; 2.5–3 mg/dL"]:::start --> B{{"直接膽紅素佔比？"}}
+  B -->|"#60; 15–20%"| C["非結合型<br/>溶血指標異常 → 溶血、無效造血<br/>溶血指標正常 → Gilbert、藥物"]:::key
+  B -->|"較高"| E{{"結合型：R ratio？"}}
+  E -->|"≥ 5"| F["肝細胞型<br/>病毒、缺血、藥物、自體免疫、Wilson"]:::key
+  E -->|"≤ 2"| H{{"膽汁鬱積型<br/>超音波：膽管擴張？"}}
+  H -->|"是"| I["肝外阻塞<br/>MRCP、EUS → ERCP"]:::key
+  H -->|"否"| J["肝內膽汁鬱積<br/>藥物、PBC、PSC、敗血症、妊娠"]:::key
+  I -.->|"發燒 + 右上腹痛"| K["急性膽管炎<br/>抗生素 + 緊急 ERCP 引流"]:::danger
+```
 
 #### 易混淆鑑別
 
@@ -952,11 +968,11 @@ status: initial
 | 族群 | **中年女性** | **年輕男性** |
 | 侵犯膽管 | 肝內小膽管 | 肝內外中大型膽管 |
 | 抗體 | **AMA（M2）** | p-ANCA（非特異） |
-| 相關疾病 | Sjögren、自體免疫甲狀腺炎、硬皮症 | **UC**（約 70–80%） |
+| 相關疾病 | Sjögren、自體免疫甲狀腺炎、[[免疫風濕科#全身性硬化症（Systemic Sclerosis, SSc）\|硬皮症]] | **UC**（約 70–80%） |
 | 影像 | 膽管正常 | MRCP **串珠狀（beading）** |
 | 病理 | Florid duct lesion（肉芽腫性膽管炎） | **洋蔥皮狀纖維化** |
 | 治療 | **UDCA**（第二線 obeticholic acid） | 無有效藥物，末期肝臟移植 |
-| 癌症風險 | 肝硬化後 HCC | **膽管癌**、大腸癌（合併 UC） |
+| 癌症風險 | 肝硬化後 [[消化內科#肝細胞癌（Hepatocellular Carcinoma, HCC）\|HCC]] | **膽管癌**、大腸癌（合併 UC） |
 :::
 
 :::compare[膽道影像與處置工具]
@@ -974,7 +990,7 @@ status: initial
 | 疾病 | 型態 | 缺陷 | 特點 |
 |---|---|---|---|
 | **Gilbert syndrome** | 非結合型 | UGT1A1 活性降低 | 最常見；**禁食、壓力、感染時黃疸加劇**；良性、不需治療 |
-| Crigler-Najjar type I | 非結合型 | UGT1A1 **完全缺乏** | 新生兒**核黃疸**；需肝臟移植 |
+| Crigler-Najjar type I | 非結合型 | UGT1A1 **完全缺乏** | 新生兒**[[小兒科#核黃疸（Kernicterus）\|核黃疸]]**；需肝臟移植 |
 | Crigler-Najjar type II | 非結合型 | UGT1A1 部分缺乏 | **phenobarbital 有效** |
 | **Dubin-Johnson syndrome** | 結合型 | **MRP2** 缺陷 | **肝臟外觀黑色**；良性 |
 | Rotor syndrome | 結合型 | 肝細胞儲存缺陷 | 肝臟外觀正常；良性 |
@@ -996,7 +1012,7 @@ status: initial
     - 新發生的腹水。
     - 肝硬化合併腹水者**住院時**。
     - 臨床惡化（發燒、腹痛、[[消化內科#肝性腦病變（Hepatic Encephalopathy）|肝性腦病變]]、腎功能惡化、消化道出血）。
-- 凝血功能異常**不是**穿刺的禁忌，不需常規輸 FFP 或血小板；禁忌是 DIC、腹壁感染。
+- 凝血功能異常**不是**穿刺的禁忌，不需常規輸 FFP 或血小板；禁忌是 [[血液腫瘤科#DIC（Disseminated Intravascular Coagulation）|DIC]]、腹壁感染。
 
 #### 腹水分析：SAAG
 
@@ -1006,7 +1022,7 @@ status: initial
 |---|---|---|
 | **≥ 1.1 g/dL**（門脈高壓） | **< 2.5 g/dL** | **[[消化內科#肝硬化（Liver Cirrhosis）\|肝硬化]]**（最常見）、酒精性肝炎、大量肝轉移 |
 | **≥ 1.1 g/dL** | **≥ 2.5 g/dL** | **心衰竭**、[[心臟內科#縮窄性心包膜炎（Constrictive Pericarditis）\|縮窄性心包膜炎]]、**[[消化內科#Budd-Chiari Syndrome\|Budd-Chiari syndrome]]**（早期）、SOS |
-| **< 1.1 g/dL**（非門脈高壓） | ≥ 2.5 g/dL | **腹膜癌轉移**、**結核性腹膜炎**、胰臟性腹水、漿膜炎（[[免疫風濕科#全身性紅斑狼瘡（SLE）\|SLE]]） |
+| **< 1.1 g/dL**（非門脈高壓） | ≥ 2.5 g/dL | **腹膜癌轉移**、**[[感染科#肺外結核\|結核性腹膜炎]]**、胰臟性腹水、漿膜炎（[[免疫風濕科#全身性紅斑狼瘡（SLE）\|SLE]]） |
 | < 1.1 g/dL | < 2.5 g/dL | **[[腎臟內科#Nephrotic Syndrome\|腎病症候群]]**、蛋白質營養不良 |
 
 - 其他腹水檢查：
@@ -1016,7 +1032,7 @@ status: initial
     - **ADA**：> 40 U/L → 傾向結核性腹膜炎。
     - **Amylase**：明顯升高 → 胰臟性腹水（胰管破裂）。
     - **Triglyceride > 200 mg/dL**（乳糜狀）→ **乳糜腹水**：淋巴瘤、淋巴管損傷、肝硬化。
-    - 血性腹水：惡性腫瘤、外傷、HCC 破裂。
+    - 血性腹水：惡性腫瘤、外傷、[[消化內科#肝細胞癌（Hepatocellular Carcinoma, HCC）|HCC 破裂]]。
 
 #### 易混淆鑑別
 
@@ -1048,7 +1064,7 @@ status: initial
 :::
 
 :::compare[肝硬化合併腎功能惡化]
-| | 腎前性 | 肝腎症候群（HRS-AKI） | 急性腎小管壞死（ATN） |
+| | 腎前性 | 肝腎症候群（HRS-AKI） | [[腎臟內科#急性腎小管壞死（ATN）\|急性腎小管壞死]]（ATN） |
 |---|---|---|---|
 | 誘因 | 利尿劑過量、腹瀉、出血、LVP 未補 albumin | 嚴重門脈高壓、SBP、大量放腹水 | 休克、顯影劑、腎毒性藥物 |
 | 停利尿劑 + albumin 1 g/kg × 2 天 | **改善** | **不改善** | 不改善 |
@@ -1076,9 +1092,9 @@ status: initial
 - 正常肝臟在鎖骨中線的上下徑約 6–12 cm；觸診時注意質地、邊緣、壓痛、表面結節、**搏動性**。
 - 假性肝腫大：肺氣腫（橫膈下壓）、Riedel lobe。
 - 鑑別：
-    - **鬱血**：右心衰竭、[[心臟內科#三尖瓣閉鎖不全（Tricuspid Regurgitation, TR）|三尖瓣逆流]]（**搏動性肝臟**）、縮窄性心包膜炎、**Budd-Chiari syndrome**（腹痛 + 肝腫大 + 腹水三徵）。
-    - **浸潤**：脂肪肝、[[血液腫瘤科#Primary Amyloidosis（AL Amyloidosis）|類澱粉沉積]]、肝醣儲積症、血色素沉著症、淋巴瘤/白血病、**[[消化內科#肝細胞癌（Hepatocellular Carcinoma, HCC）|肝癌]]或[[肝膽胰外科#肝轉移（Liver Metastasis）|轉移]]**。
-    - **發炎**：急性病毒性肝炎、酒精性肝炎、[[肝膽胰外科#肝膿瘍（Liver Abscess）|肝膿瘍]]。
+    - **鬱血**：右心衰竭、[[心臟內科#三尖瓣閉鎖不全（Tricuspid Regurgitation, TR）|三尖瓣逆流]]（**搏動性肝臟**）、[[心臟內科#縮窄性心包膜炎（Constrictive Pericarditis）|縮窄性心包膜炎]]、**[[消化內科#Budd-Chiari Syndrome|Budd-Chiari syndrome]]**（腹痛 + 肝腫大 + 腹水三徵）。
+    - **浸潤**：脂肪肝、[[血液腫瘤科#Primary Amyloidosis（AL Amyloidosis）|類澱粉沉積]]、[[小兒科#肝醣儲積症（Glycogen Storage Diseases）|肝醣儲積症]]、[[消化內科#Hemochromatosis（血色素沉著症）|血色素沉著症]]、淋巴瘤/白血病、**[[消化內科#肝細胞癌（Hepatocellular Carcinoma, HCC）|肝癌]]或[[肝膽胰外科#肝轉移（Liver Metastasis）|轉移]]**。
+    - **發炎**：[[消化內科#病毒性肝炎 (Viral Hepatitis)|急性病毒性肝炎]]、酒精性肝炎、[[肝膽胰外科#肝膿瘍（Liver Abscess）|肝膿瘍]]。
     - 囊性：多囊肝、[[肝膽胰外科#肝包蟲囊腫（Hydatid Cyst）|包蟲囊腫]]。
 - 質地：硬且表面結節 → 肝硬化或腫瘤；柔軟且壓痛 → 急性肝炎、鬱血。
 
@@ -1091,10 +1107,10 @@ status: initial
 | 機轉 | 疾病 |
 |---|---|
 | **鬱血（門脈高壓）** | **肝硬化**、門脈/脾靜脈栓塞、Budd-Chiari、右心衰竭 |
-| **感染** | **[[感染科#EBV（Infectious Mononucleosis）\|EBV（傳染性單核球增多症）]]**、CMV、**感染性心內膜炎**、**[[感染科#Plasmodium（瘧疾）\|瘧疾]]**、TB、黑熱病、HIV、傷寒 |
-| 免疫 | SLE、**Felty syndrome**（[[免疫風濕科#類風濕性關節炎（Rheumatoid Arthritis, RA）\|RA]] + 脾腫大 + 中性球低下）、[[免疫風濕科#Sarcoidosis（類肉瘤病）\|sarcoidosis]] |
-| **血液腫瘤** | 淋巴瘤、白血病（**[[血液腫瘤科#慢性骨髓性白血病（Chronic Myeloid Leukemia, CML）\|CML]]**、CLL、**[[血液腫瘤科#Hairy Cell Leukemia\|hairy cell leukemia]]**）、[[血液腫瘤科#原發性骨髓纖維化（Primary Myelofibrosis, PMF）\|骨髓纖維化]]、[[血液腫瘤科#真性紅血球增多症（Polycythemia Vera, PV）\|真性紅血球增多症]] |
-| 溶血（工作量增加） | [[血液腫瘤科#遺傳性球形紅血球症（Hereditary Spherocytosis, HS）\|遺傳性球形紅血球症]]、thalassemia、自體免疫溶血 |
+| **感染** | **[[感染科#EBV（Infectious Mononucleosis）\|EBV（傳染性單核球增多症）]]**、[[感染科#CMV\|CMV]]、**[[心臟內科#分類與好發\|感染性心內膜炎]]**、**[[感染科#Plasmodium（瘧疾）\|瘧疾]]**、TB、黑熱病、[[感染科#HIV / AIDS\|HIV]]、傷寒 |
+| 免疫 | [[免疫風濕科#全身性紅斑狼瘡（SLE）\|SLE]]、**Felty syndrome**（[[免疫風濕科#類風濕性關節炎（Rheumatoid Arthritis, RA）\|RA]] + 脾腫大 + 中性球低下）、[[免疫風濕科#Sarcoidosis（類肉瘤病）\|sarcoidosis]] |
+| **血液腫瘤** | 淋巴瘤、白血病（**[[血液腫瘤科#慢性骨髓性白血病（Chronic Myeloid Leukemia, CML）\|CML]]**、[[血液腫瘤科#慢性淋巴球白血病（Chronic Lymphocytic Leukemia, CLL）\|CLL]]、**[[血液腫瘤科#Hairy Cell Leukemia\|hairy cell leukemia]]**）、[[血液腫瘤科#原發性骨髓纖維化（Primary Myelofibrosis, PMF）\|骨髓纖維化]]、[[血液腫瘤科#真性紅血球增多症（Polycythemia Vera, PV）\|真性紅血球增多症]] |
+| 溶血（工作量增加） | [[血液腫瘤科#遺傳性球形紅血球症（Hereditary Spherocytosis, HS）\|遺傳性球形紅血球症]]、[[血液腫瘤科#地中海型貧血（Thalassemia）\|thalassemia]]、自體免疫溶血 |
 | 浸潤 | **Gaucher disease**、Niemann-Pick、類澱粉沉積 |
 
 - 併發症：**脾功能亢進**（全血球減少）、脾梗塞（左上腹痛、左肩痛）、脾破裂。
@@ -1146,7 +1162,7 @@ status: initial
 
 #### 腹脹的鑑別（6F）
 
-- **Flatus**（氣體）：腸阻塞、ileus、吞氣、IBS、乳糖不耐、SIBO。
+- **Flatus**（氣體）：腸阻塞、ileus、吞氣、[[消化內科#大腸激躁症（Irritable Bowel Syndrome, IBS）|IBS]]、乳糖不耐、SIBO。
 - **Fluid**（液體）：腹水。
 - **Fat**（脂肪）：肥胖。
 - **Feces**（糞便）：便秘、糞便嵌塞。
@@ -1166,9 +1182,9 @@ status: initial
 #### 易混淆鑑別
 
 :::compare[小腸阻塞 vs 大腸阻塞]
-| | 小腸阻塞（SBO） | 大腸阻塞（LBO） |
+| | [[消化內科#小腸阻塞（SBO）\|小腸阻塞（SBO）]] | [[消化內科#大腸阻塞（LBO）\|大腸阻塞（LBO）]] |
 |---|---|---|
-| 最常見原因 | **術後沾黏**（無手術史 → **疝氣**） | **大腸癌**，其次為扭轉、憩室炎 |
+| 最常見原因 | **術後沾黏**（無手術史 → **疝氣**） | **[[消化內科#大腸癌（Colorectal Cancer, CRC）\|大腸癌]]**，其次為扭轉、[[大腸直腸外科#憩室炎（Diverticulitis）\|憩室炎]] |
 | 嘔吐 | 早且多（近端阻塞更明顯） | 晚，可為糞臭 |
 | 腹脹 | 較輕（近端阻塞） | 明顯 |
 | X 光 | 中央、環狀皺襞（valvulae conniventes）貫穿整個管徑、**階梯狀氣液面** | 周邊、結腸袋（haustra）不貫穿整個管徑 |
@@ -1181,12 +1197,12 @@ status: initial
 | 腹痛 | **陣發性絞痛** | 輕微、持續 | 輕微或無 |
 | 腸音 | 早期**亢進、高音調**，晚期消失 | **減少或消失** | 正常或減少 |
 | 影像 | 阻塞點近端擴張、**遠端塌陷** | 小腸大腸**均勻擴張** | **結腸**（尤其右側）明顯擴張、無阻塞點 |
-| 常見原因 | 沾黏、疝氣、腫瘤、扭轉 | 術後、**低血鉀**、低血鎂、opioid、腹膜炎、後腹腔出血 | 重症、術後、骨科手術後的老人 |
+| 常見原因 | 沾黏、疝氣、腫瘤、扭轉 | 術後、**[[腎臟內科#低血鉀（Hypokalemia，K⁺ < 3.5 mEq/L）\|低血鉀]]**、[[腎臟內科#低血鎂（Hypomagnesemia）\|低血鎂]]、opioid、腹膜炎、後腹腔出血 | 重症、術後、骨科手術後的老人 |
 | 處置 | 減壓 ± 手術 | 矯正原因 | 保守 → neostigmine → 大腸鏡減壓 |
 :::
 
 :::compare[乙狀結腸扭轉 vs 盲腸扭轉]
-| | 乙狀結腸扭轉 | 盲腸扭轉 |
+| | [[大腸直腸外科#Sigmoid Volvulus（最常見）\|乙狀結腸扭轉]] | [[大腸直腸外科#Cecal Volvulus\|盲腸扭轉]] |
 |---|---|---|
 | 族群 | **老年、長期便秘、安養機構、神經疾病** | 較年輕、盲腸活動度大 |
 | 比例 | **最常見**（約 60–75%） | 約 25% |
@@ -1218,10 +1234,10 @@ status: initial
 | **[[大腸直腸外科#肛裂（Anal Fissure）\|肛裂]]** | **解便時撕裂痛 + 便後持續疼痛**、少量鮮血；**後正中線**最常見 | 纖維、溫水坐浴、局部 nitrate/CCB → 慢性者 **lateral internal sphincterotomy** |
 | **血栓性外痔** | 急性疼痛、肛緣藍紫色腫塊 | 發作 :red[48–72 小時內] → 切除；之後 → 保守治療 |
 | **[[大腸直腸外科#肛門膿瘍（Perianal/Anorectal Abscess）\|肛門膿瘍]]** | 持續性跳痛、發燒、局部紅腫熱痛 | **切開引流**（單用抗生素不足） |
-| 嵌頓性內痔 | 脫出無法推回、劇痛 | 急診處理 |
+| 嵌頓性[[大腸直腸外科#痔瘡（Hemorrhoids）\|內痔]] | 脫出無法推回、劇痛 | 急診處理 |
 | 一過性肛門痛（proctalgia fugax） | 突發、數秒至數分鐘、自行緩解 | 安撫、保守治療 |
 
-- **非後正中線的肛裂**（側方）→ 要懷疑 **Crohn's disease**、TB、HIV、梅毒、肛門癌。
+- **非後正中線的肛裂**（側方）→ 要懷疑 **[[大腸直腸外科#Crohn's Disease|Crohn's disease]]**、TB、HIV、梅毒、[[大腸直腸外科#肛門癌（Anal Cancer）|肛門癌]]。
 - 膿瘍引流後約 30–50% 形成 [[大腸直腸外科#肛門瘻管（Anal Fistula）|肛門瘻管]]。
 
 #### 肛門出血
@@ -1248,6 +1264,6 @@ status: initial
 
 #### 其他
 
-- **肛門搔癢**：衛生習慣、痔瘡、蟯蟲（兒童夜間搔癢 → **透明膠帶試驗**）、念珠菌、接觸性皮膚炎。
-- **大便失禁**：產傷（括約肌受損）、神經病變、直腸脫垂、**糞便嵌塞合併溢出性腹瀉**（老人常見，誤以為腹瀉）。
+- **肛門搔癢**：衛生習慣、痔瘡、蟯蟲（兒童夜間搔癢 → **透明膠帶試驗**）、念珠菌、[[皮膚科#接觸性皮膚炎（Contact Dermatitis）|接觸性皮膚炎]]。
+- **大便失禁**：產傷（括約肌受損）、神經病變、[[大腸直腸外科#直腸脫垂（Rectal Prolapse）|直腸脫垂]]、**糞便嵌塞合併溢出性腹瀉**（老人常見，誤以為腹瀉）。
 - 詳見 [[大腸直腸外科#肛門疾病|肛門疾病]]。

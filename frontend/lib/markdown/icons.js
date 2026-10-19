@@ -5,7 +5,7 @@ import { createElement } from 'react';
 import { renderToStaticMarkup } from 'react-dom/server';
 import {
   LuTarget, LuLightbulb, LuColumns2, LuTriangleAlert, LuCircleHelp,
-  LuBookmark, LuChevronRight, LuLink,
+  LuBookmark, LuChevronRight, LuLink, LuWorkflow,
 } from 'react-icons/lu';
 
 const svg = (Icon) => renderToStaticMarkup(createElement(Icon, { 'aria-hidden': true, className: 'icon' }));
@@ -19,4 +19,5 @@ export const ICONS = {
   source: svg(LuBookmark),
   detail: svg(LuChevronRight),
   link: svg(LuLink),
+  chart: svg(LuWorkflow),
 };

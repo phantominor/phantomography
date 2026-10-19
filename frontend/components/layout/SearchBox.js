@@ -2,15 +2,20 @@
 // 全站搜尋：桌面版是標題列右側的搜尋框 + 下拉結果；手機版是圖示按鈕，點了開全螢幕搜尋。
 // 索引（public/search-index.json，以 h2/h3 段落為單位）第一次使用時才載入。
 // 比對方式：查詢字串以空白分成多個詞，每個詞都要出現在段落裡（不分大小寫），標題命中加權較高。
-// 快捷鍵：「/」聚焦搜尋框，↑↓ 選擇、Enter 開啟、Esc 關閉。
+// 快捷鍵：「/」聚焦搜尋框，↑↓ 選擇、Enter 開啟、Esc 關閉。反白選單的「站內查詢」也從這裡打開。
 
 import { useCallback, useEffect, useMemo, useRef, useState } from 'react';
 import { useRouter } from 'next/router';
 import { LuSearch, LuX, LuArrowLeft } from 'react-icons/lu';
+import { SITE_SEARCH_EVENT } from './SelectionMenu';
+import SearchPreview from './SearchPreview';
 import styles from './SearchBox.module.css';
 
 const MAX_RESULTS = 30;
 const SNIPPET_RADIUS = 36;
+
+// 手機版點結果：交給 SiteLayout 開連結預覽面板
+export const PEEK_EVENT = 'phantom:peek';
 
 let indexPromise = null;
 function loadIndex() {
@@ -134,6 +139,22 @@ export default function SearchBox() {
     return () => document.removeEventListener('keydown', onKey);
   }, []);
 
+  // 反白選單的「站內查詢」：帶入文字並打開搜尋
+  useEffect(() => {
+    const onSiteSearch = (e) => {
+      setQuery(e.detail);
+      ensureIndex();
+      if (window.matchMedia('(min-width: 960px)').matches) {
+        setOpen(true);
+        inputRef.current?.focus();
+      } else {
+        setMobileOpen(true);
+      }
+    };
+    window.addEventListener(SITE_SEARCH_EVENT, onSiteSearch);
+    return () => window.removeEventListener(SITE_SEARCH_EVENT, onSiteSearch);
+  }, [ensureIndex]);
+
   // 桌面：點外面關閉下拉
   useEffect(() => {
     if (!open) return undefined;
@@ -155,11 +176,17 @@ export default function SearchBox() {
     return () => router.events.off('routeChangeStart', close);
   }, [router.events]);
 
-  const pick = (r) => {
+  const pick = (r, { preview = false } = {}) => {
     setOpen(false);
     setMobileOpen(false);
     inputRef.current?.blur();
-    router.push(r.i ? `${r.u}#${r.i}` : r.u);
+    const href = r.i ? `${r.u}#${r.i}` : r.u;
+    // 手機版：其他頁面的結果先開預覽面板（可再展開成完整頁面）；同一頁直接捲過去
+    if (preview && r.u !== router.asPath.split('#')[0]) {
+      window.dispatchEvent(new CustomEvent(PEEK_EVENT, { detail: href }));
+      return;
+    }
+    router.push(href);
   };
 
   const onKeyDown = (e) => {
@@ -206,8 +233,9 @@ export default function SearchBox() {
           )}
         </div>
         {open && (
-          <div className={styles.dropdown}>
+          <div className={`${styles.dropdown} ${results.length ? styles.dropdownWide : ''}`}>
             <Results {...resultProps} />
+            {results[activeIndex] && <SearchPreview entry={results[activeIndex]} terms={terms} />}
           </div>
         )}
       </div>
@@ -239,7 +267,7 @@ export default function SearchBox() {
             )}
           </div>
           <div className={styles.mobileBody}>
-            <Results {...resultProps} />
+            <Results {...resultProps} onPick={(r) => pick(r, { preview: true })} />
           </div>
         </div>
       )}

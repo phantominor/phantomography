@@ -17,6 +17,16 @@ import GithubSlugger from 'github-slugger';
 const ROOT = path.resolve(path.dirname(new URL(import.meta.url).pathname), '..');
 const CONTENT_DIR = path.join(ROOT, 'content');
 const OUT = path.join(ROOT, 'public', 'search-index.json');
+const CHARTS_DIR = path.join(CONTENT_DIR, '_charts');
+
+// 共用流程圖（格式同 lib/charts.js）
+function loadChart(id) {
+  const file = path.join(CHARTS_DIR, `${id}.mmd`);
+  if (!/^[a-z0-9-]+$/.test(id) || !fs.existsSync(file)) return null;
+  const lines = fs.readFileSync(file, 'utf8').replace(/\r\n/g, '\n').trim().split('\n');
+  const m = lines[0]?.match(/^%%\s*title:\s*(.+)$/);
+  return { meta: m ? m[1].trim() : '', value: (m ? lines.slice(1) : lines).join('\n') };
+}
 
 function walk(dir) {
   return fs.readdirSync(dir, { withFileTypes: true }).flatMap((entry) => {
@@ -38,8 +48,23 @@ function mdastText(node) {
   return (node.children || []).map(mdastText).join('');
 }
 
+// Mermaid 流程圖：圖標題 + 節點與連線上的文字（["…"]、{{"…"}}、("…")、|"…"|）
+function mermaidText(node) {
+  const labels = [...node.value.matchAll(/"([^"]*)"/g)].map((m) => m[1]);
+  const text = [node.meta || '', ...labels].join(' ');
+  return text
+    .replace(/<br\s*\/?>/gi, ' ')
+    .replace(/#60;/g, '<')
+    .replace(/#62;/g, '>');
+}
+
 // 段落內文：手寫 HTML（表格）去掉標籤，表格儲存格以空白分隔
 function blockText(node) {
+  if (node.type === 'code') return node.lang === 'mermaid' ? mermaidText(node) : node.value;
+  if (node.type === 'leafDirective' && node.name === 'chart') {
+    const chart = loadChart(node.attributes?.id || '');
+    return chart ? mermaidText(chart) : '';
+  }
   if (node.type === 'html') return node.value.replace(/<[^>]+>/g, ' ');
   if (node.type === 'text' || node.type === 'inlineCode' || node.type === 'inlineMath' || node.type === 'math') return node.value;
   const sep = ['table', 'tableRow', 'list', 'listItem', 'containerDirective'].includes(node.type) ? ' ' : '';
