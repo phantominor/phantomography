@@ -22,7 +22,7 @@ function loadIndex() {
   if (!indexPromise) {
     indexPromise = fetch('/search-index.json')
       .then((r) => r.json())
-      .then((entries) => entries.map((e) => ({ ...e, hay: `${e.s} ${e.t}`.toLowerCase(), title: e.s.toLowerCase(), page: e.p.toLowerCase() })))
+      .then((entries) => entries.map((e) => ({ ...e, hay: `${e.s} ${e.t} ${e.k || ''}`.toLowerCase(), title: e.s.toLowerCase(), page: e.p.toLowerCase() })))
       .catch(() => { indexPromise = null; return []; });
   }
   return indexPromise;
@@ -96,7 +96,11 @@ function Results({ results, terms, activeIndex, onPick, onHover, loading, query 
             onMouseEnter={() => onHover(i)}
             onClick={() => onPick(r)}
           >
-            <span className={styles.resultPath}>{r.p}{r.s && ' / '}{r.s && highlight(r.s, terms)}</span>
+            <span className={styles.resultPath}>
+              {r.g && <span className={styles.tag}>{r.g}</span>}
+              {r.c && <span className={styles.category}>{r.c}</span>}
+              <span>{r.p}{r.s && ' / '}{r.s && highlight(r.s, terms)}</span>
+            </span>
             {r.t && <span className={styles.resultText}>{highlight(snippet(r.t, terms), terms)}</span>}
           </button>
         </li>

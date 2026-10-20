@@ -4,9 +4,9 @@ aliases: [消化主訴]
 updated: 2026-10-19
 status: initial
 ---
-## 腹痛
+## 腹痛（Abdominal Pain）
 
-### 急性腹痛
+### 急性腹痛（Acute Abdominal Pain）
 
 #### 定義與分類
 
@@ -19,11 +19,11 @@ status: initial
 
 #### Red flags
 
-- **血行動力學不穩定**（低血壓、心搏過速、意識改變）。
-- **腹膜炎徵象**：rebound tenderness、guarding、**board-like rigidity**。
+- **血行動力學不穩定**（低血壓（hypotension）、心搏過速（tachycardia）、意識改變（altered mental status））。
+- **腹膜炎（peritonitis）徵象**：rebound tenderness、guarding、**board-like rigidity**。
 - **疼痛程度與理學檢查不成比例**（pain out of proportion）→ [[消化內科#腸繫膜缺血（Mesenteric Ischemia）|腸繫膜缺血]]。
-- 突發劇痛（數秒內達高峰）→ 穿孔、血管破裂、扭轉。
-- 搏動性腹部腫塊 + 低血壓 + 腹痛/背痛 → [[心臟內科#腹主動脈瘤（Abdominal Aortic Aneurysm, AAA）|AAA 破裂]]。
+- 突發劇痛（數秒內達高峰）→ 穿孔（perforation）、血管破裂、扭轉。
+- 搏動性腹部腫塊（abdominal mass） + 低血壓 + 腹痛/背痛 → [[心臟內科#腹主動脈瘤（Abdominal Aortic Aneurysm, AAA）|AAA 破裂]]。
 - 育齡女性腹痛 + 停經 → [[產科#子宮外孕（Ectopic Pregnancy）|子宮外孕]]。
 - 高齡、免疫低下、使用類固醇者：症狀與徵象輕微，**低估嚴重度的風險高**。
 
@@ -90,16 +90,16 @@ status: initial
 
 #### 問診與理學檢查
 
-- OPQRST：發作方式（突發 vs 漸進）、位置與轉移、性質（絞痛 vs 持續痛）、放射、伴隨症狀、時間。
+- OPQRST：發作方式（突發 vs 漸進）、位置與轉移、性質（絞痛（colicky pain） vs 持續痛）、放射、伴隨症狀、時間。
 - 伴隨症狀：
-    - 嘔吐先於腹痛 → 傾向腸胃炎；**腹痛先於嘔吐** → 傾向外科急症。
-    - 未排便排氣 → 腸阻塞。
-    - 發燒、黃疸 → 膽道感染。
+    - 嘔吐（vomiting）先於腹痛 → 傾向腸胃炎；**腹痛先於嘔吐** → 傾向外科急症。
+    - 未排便排氣 → 腸阻塞（bowel obstruction）。
+    - 發燒（fever）、黃疸 → 膽道感染。
     - 血尿 → 泌尿道結石。
 - 病史：腹部手術史（沾黏）、AF/血管疾病（腸繫膜栓塞）、酒精/膽結石（胰臟炎）、NSAID/類固醇（潰瘍穿孔）、最後月經與性行為史。
 - 理學檢查：
     - 生命徵象最優先。
-    - 視診（腹脹、手術疤痕、皮疹）→ 聽診（腸音亢進或消失）→ 觸診（從最不痛處開始）。
+    - 視診（腹脹（abdominal distension）、手術疤痕、皮疹）→ 聽診（腸音（bowel sounds）亢進或消失）→ 觸診（從最不痛處開始）。
     - **疝氣好發處**（鼠蹊、股、臍）一定要檢查，避免漏掉嵌頓性疝氣。
     - 必要時肛門指診、骨盆腔檢查、睪丸檢查。
 
@@ -148,7 +148,7 @@ status: initial
 #### 初步處置
 
 - 不穩定者：ABC、兩條大口徑靜脈留置針、輸液復甦、交叉配血、會診外科。
-- **NPO**；腸阻塞或持續嘔吐者放鼻胃管減壓。
+- **NPO**；腸阻塞或持續嘔吐者放鼻胃管（NG tube）減壓。
 - **及早止痛**：使用 opioid 止痛**不會**掩蓋腹膜徵象或延誤診斷。
 - 懷疑腹內感染或穿孔 → 抽血液培養後給廣效抗生素（涵蓋 Gram 陰性桿菌與厭氧菌）。
 - 不確定診斷且穩定者 → 留觀、重複腹部檢查（serial abdominal examination）。
@@ -161,17 +161,17 @@ status: initial
 育齡女性下腹痛 → 沒有驗孕就以腸胃炎或泌尿道感染處理（或直接安排 CT）→ 漏掉子宮外孕破裂，或讓早期懷孕暴露於輻射。所有育齡女性腹痛先驗孕。
 :::
 
-### 慢性與反覆腹痛
+### 慢性與反覆腹痛（Chronic / Recurrent Abdominal Pain）
 
 #### 定義與 Alarm features
 
 - 持續或反覆超過 **3 個月**的腹痛。
 - **Alarm features**（有任一項 → 積極排除器質性疾病，安排內視鏡/影像）：
     - 年齡 ≥ 50 歲新發症狀。
-    - 體重減輕、夜間痛醒、發燒。
+    - 體重減輕（weight loss）、夜間痛醒（nocturnal pain）、發燒（fever）。
     - 消化道出血、[[血液腫瘤科#缺鐵性貧血（Iron Deficiency Anemia, IDA）|缺鐵性貧血]]。
-    - 進行性吞嚥困難、持續嘔吐。
-    - 腹部腫塊、淋巴結腫大。
+    - 進行性吞嚥困難、持續嘔吐（vomiting）。
+    - 腹部腫塊（abdominal mass）、淋巴結腫大（lymphadenopathy）。
     - 消化道癌症或 IBD 家族史。
 
 #### 鑑別診斷
@@ -188,7 +188,7 @@ status: initial
 | 腹壁 | **前皮神經卡壓（ACNES）**、腹壁疝氣 | **Carnett sign 陽性** |
 | 其他 | 家族性地中海熱、[[神經內科#偏頭痛（Migraine）\|腹部偏頭痛]]（兒童）、慢性便秘 | FMF：週期性發燒 + 漿膜炎，colchicine 有效 |
 
-- **Carnett sign**：病人平躺抬頭使腹肌收縮，壓痛**加劇或不變** → 腹壁來源；壓痛**減輕** → 腹腔內來源。
+- **Carnett sign**：病人平躺抬頭使腹肌收縮，壓痛**加劇或不變** → 腹壁（abdominal wall）來源；壓痛**減輕** → 腹腔內來源。
 - **急性間歇性紫質症**：
     - Porphobilinogen deaminase 缺乏（AD），誘發因素：藥物（barbiturates、sulfonamides、抗癲癇藥）、禁食、酒精、月經。
     - 典型三聯：**腹痛**（理學檢查正常）+ **神經病變**（運動神經為主）+ **精神症狀**；尿液放置後變深紅色。
@@ -220,7 +220,7 @@ status: initial
 #### 功能性腸胃疾病（Rome IV）
 
 - 共同時間條件：診斷前 **6 個月**開始出現症狀，且最近 **3 個月**符合條件。
-- **功能性消化不良**：餐後飽脹、早飽、上腹痛、上腹灼熱感（≥ 1 項），且**胃鏡無結構性病灶**。
+- **功能性消化不良**：餐後飽脹（postprandial fullness）、早飽（early satiety）、上腹痛、上腹灼熱感（≥ 1 項），且**胃鏡無結構性病灶**。
     - 分為 postprandial distress syndrome 與 epigastric pain syndrome。
     - 治療：H. pylori 陽性先除菌 → PPI → 三環抗憂鬱劑或 prokinetics。
 - **大腸激躁症（IBS）**：反覆腹痛平均 :red[每週 ≥ 1 天]，並符合下列 ≥ 2 項：
@@ -230,12 +230,12 @@ status: initial
 - IBS 依主要糞便型態分為 IBS-C、IBS-D、IBS-M；治療依型態選擇（低 FODMAP 飲食、解痙劑、loperamide、瀉劑、三環抗憂鬱劑）。
 
 :::exam
-功能性腸胃疾病的診斷前提是**沒有 alarm features**。題目若出現體重減輕、血便、貧血、50 歲以上新發症狀，就不能直接診斷 IBS 或功能性消化不良，下一步是內視鏡。
+功能性腸胃疾病的診斷前提是**沒有 alarm features**。題目若出現體重減輕、血便（bloody stool）、貧血、50 歲以上新發症狀，就不能直接診斷 IBS 或功能性消化不良，下一步是內視鏡。
 :::
 
-## 上消化道症狀
+## 上消化道症狀（Upper GI Symptoms）
 
-### 噁心與嘔吐
+### 噁心與嘔吐（Nausea / Vomiting）
 
 #### 定義與分類
 
@@ -260,11 +260,11 @@ status: initial
 
 - **膽汁性（綠色）**：阻塞位於 ampulla of Vater 以下；**新生兒膽汁性嘔吐 = [[小兒外科#腸旋轉不良與中腸扭轉（Malrotation & Midgut Volvulus）|腸旋轉不良合併中腸扭轉]]，直到排除**。
 - **非膽汁性、噴射狀**（2–8 週大嬰兒）→ [[小兒外科#肥厚性幽門狹窄（Hypertrophic Pyloric Stenosis, HPS）|肥厚性幽門狹窄]]。
-- **糞臭味**：遠端小腸阻塞、胃結腸瘻管。
+- **糞臭味**：遠端小腸阻塞（bowel obstruction）、胃結腸瘻管。
 - **數小時前未消化的食物**：胃出口阻塞、胃輕癱、[[消化內科#Achalasia（食道弛緩不能症）|achalasia]]（反流）。
 - **清晨嘔吐**：懷孕、**顱內壓上升**、尿毒症、酒精。
 - **進食後立即**：心因性、幽門管潰瘍。
-- 伴隨症狀：頭痛 + 視乳突水腫 → 顱內壓上升；眩暈 + 眼振 → 前庭；腹痛先於嘔吐 → 外科急症。
+- 伴隨症狀：頭痛 + 視乳突水腫 → 顱內壓上升；眩暈 + 眼振 → 前庭；腹痛（abdominal pain）先於嘔吐 → 外科急症。
 
 #### 易混淆鑑別
 
@@ -313,7 +313,7 @@ status: initial
 
 - **胃輕癱**：
     - 常見原因：**糖尿病**（最常見）、術後（迷走神經切斷）、特發性、病毒感染後。
-    - 表現：早飽、餐後飽脹、嘔吐未消化食物。
+    - 表現：早飽（early satiety）、餐後飽脹（postprandial fullness）、嘔吐未消化食物。
     - 診斷：先排除機械性阻塞（胃鏡）→ **胃排空閃爍攝影**：:red[4 小時殘留 > 10%]（或 2 小時 > 60%）。
     - 治療：少量多餐、低脂低纖；血糖控制；**metoclopramide**（黑盒警告：tardive dyskinesia，避免使用超過 12 週）、erythromycin（短期，會快速耐受）。
 - **大麻素劇吐症候群**：長期使用大麻 → 週期性劇吐；**熱水淋浴可緩解**為特徵；治療是戒大麻。
@@ -325,7 +325,7 @@ status: initial
     - 尿液 Cl⁻ :red[< 20 mEq/L]（chloride-responsive）。
     - 嚴重時出現 **paradoxical aciduria**（為保留 Na⁺ 而排 H⁺ 與 K⁺）。
     - 治療：**生理食鹽水 + KCl**。
-- 脫水、急性腎損傷。
+- 脫水（dehydration）、急性腎損傷。
 - **Mallory-Weiss tear**、**Boerhaave syndrome**（見上方比較表）。
 - 吸入性肺炎。
 
@@ -341,7 +341,7 @@ status: initial
 | Benzodiazepine | Lorazepam | **預期性**化療嘔吐 | — |
 | 懷孕首選 | **Pyridoxine（B6）± doxylamine** | 妊娠嘔吐 | 無效再用 ondansetron 或 metoclopramide |
 
-### 吞嚥困難
+### 吞嚥困難（Dysphagia）
 
 #### 定義與分類
 
@@ -358,12 +358,12 @@ status: initial
 
 - 只有**固體**困難 → **機械性阻塞**：
     - **進行性**：
-        - **[[消化內科#食道癌|食道癌]]**：高齡、體重減輕、吸菸喝酒（鱗狀細胞癌）或 Barrett（腺癌）。
-        - **消化性狹窄**：長期胃灼熱病史。
+        - **[[消化內科#食道癌|食道癌]]**：高齡、體重減輕（weight loss）、吸菸喝酒（鱗狀細胞癌）或 Barrett（腺癌）。
+        - **消化性狹窄**：長期胃灼熱（heartburn）病史。
     - **間歇性**：Schatzki ring、嗜酸性食道炎（見下方比較表）。
 - **固體與液體**一開始都困難 → **[[消化內科#食道運動障礙|運動障礙]]**：
     - 進行性 + 胃灼熱 → **[[免疫風濕科#全身性硬化症（Systemic Sclerosis, SSc）|硬皮症]]**。
-    - 進行性 + 反流未消化食物 + 體重減輕 → **[[消化內科#Achalasia（食道弛緩不能症）|Achalasia]]**。
+    - 進行性 + 反流（regurgitation）未消化食物 + 體重減輕 → **[[消化內科#Achalasia（食道弛緩不能症）|Achalasia]]**。
     - 間歇性 + 胸痛 → **瀰漫性食道痙攣**。
 - 高齡 + 快速體重減輕 + achalasia 影像 → 懷疑**假性 achalasia**（賁門癌）→ 胃鏡、EUS、CT。
 
@@ -408,21 +408,21 @@ status: initial
 #### 檢查流程
 
 1. 口咽型 → 吞嚥攝影 + 神經學評估；食道型 → **胃鏡**（可同時切片、擴張）。
-2. 懷疑近端病灶或 Zenker 憩室 → 可先做**鋇劑攝影**（盲目放胃鏡有穿孔風險）。
+2. 懷疑近端病灶或 Zenker 憩室 → 可先做**鋇劑攝影**（盲目放胃鏡有穿孔（perforation）風險）。
 3. 胃鏡正常 → **高解析食道壓力檢查**（運動障礙的 gold standard）。
 
 :::exam
 吞嚥困難的考題重點在「固體 vs 固液皆有」與「進行性 vs 間歇性」兩個軸：只有固體 → 機械性；一開始固液都有 → 運動障礙。再用伴隨症狀（胃灼熱、體重減輕、胸痛）區分疾病。
 :::
 
-### 胸口灼熱與消化不良
+### 胸口灼熱與消化不良（Heartburn / Dyspepsia）
 
 #### 胸口灼熱（Heartburn）
 
-- 典型 [[消化內科#胃食道逆流（GERD）|GERD]] 症狀：胸骨後灼熱感 + 酸水反流，餐後、平躺、彎腰時加劇。
+- 典型 [[消化內科#胃食道逆流（GERD）|GERD]] 症狀：胸骨後（retrosternal）灼熱感 + 酸水反流（regurgitation），餐後、平躺、彎腰時加劇。
 - 無 alarm features → **PPI 經驗性治療 8 週**（試驗性治療兼診斷）。
 - 需要胃鏡的情況：
-    - Alarm features（吞嚥困難、體重減輕、出血、貧血、持續嘔吐）。
+    - Alarm features（吞嚥困難、體重減輕（weight loss）、出血、貧血、持續嘔吐（vomiting））。
     - PPI 治療無效。
     - **Barrett 篩檢**：男性、長期 GERD 並合併多項危險因子（> 50 歲、白人、肥胖、吸菸、家族史）。
 - PPI 無效、胃鏡正常 → **24 小時 pH-impedance 監測**（區分酸逆流、非酸逆流、功能性胃灼熱）。
@@ -430,7 +430,7 @@ status: initial
 
 #### 消化不良（Dyspepsia）
 
-- 上腹痛或上腹灼熱感為主（可伴隨餐後飽脹、早飽）。
+- 上腹痛（epigastric pain）或上腹灼熱感（epigastric burning）為主（可伴隨餐後飽脹（postprandial fullness）、早飽（early satiety））。
 - 處理流程：
     - **≥ 60 歲**或有 alarm features → **胃鏡**。
     - **< 60 歲**、無 alarm features → **[[消化內科#H. pylori|H. pylori]] test-and-treat** → 陰性或除菌後仍有症狀 → PPI → 三環抗憂鬱劑或 prokinetics。
@@ -459,9 +459,9 @@ status: initial
 | 培養 | 是 | 是 | 是 | **抗藥性檢測** |
 :::
 
-## 排便異常
+## 排便異常（Altered Bowel Habits）
 
-### 急性腹瀉
+### 急性腹瀉（Acute Diarrhea）
 
 #### 定義與分類
 
@@ -483,7 +483,7 @@ status: initial
 | 1–3 週 | Giardia | 溪水、露營、旅遊 | 脂肪便、脹氣 |
 | 不定 | **[[消化內科#C. difficile 感染（CDI）\|C. difficile]]** | **近期抗生素使用**、住院 | 見下方嚴重度表 |
 
-- 其他：**霍亂**（米湯樣大量水瀉 → 嚴重脫水）、**Entamoeba histolytica**（痢疾、肝膿瘍）、Yersinia（假性闌尾炎）、[[家庭醫學科#旅行者腹瀉|旅行者腹瀉]]（ETEC 最常見）。
+- 其他：**霍亂**（米湯樣大量水瀉 → 嚴重脫水（dehydration））、**Entamoeba histolytica**（痢疾、肝膿瘍）、Yersinia（假性闌尾炎）、[[家庭醫學科#旅行者腹瀉|旅行者腹瀉]]（ETEC 最常見）。
 - 細菌各論見 [[感染科#細菌性腸炎病原分類|細菌性腸炎病原分類]]。
 
 #### 易混淆鑑別
@@ -522,17 +522,17 @@ status: initial
 #### 需要進一步檢查的情況
 
 - **糞便檢查（培養、病原分子檢測）**的時機：
-    - 血便、高燒、嚴重脫水或需住院。
+    - 血便（bloody stool）、高燒、嚴重脫水或需住院。
     - 症狀 > 7 天。
     - 免疫低下、高齡、群聚感染、食品從業人員。
 - **C. difficile 檢測**：近 3 個月內使用抗生素或住院 > 3 天後出現 ≥ 3 次/天不成形便。
-- 腹瀉 + 腹膜徵象或嚴重腹痛 → CT（排除缺血性腸炎、[[大腸直腸外科#Toxic Megacolon|毒性巨結腸]]）。
+- 腹瀉 + 腹膜徵象或嚴重腹痛（abdominal pain） → CT（排除缺血性腸炎、[[大腸直腸外科#Toxic Megacolon|毒性巨結腸]]）。
 
 #### 處置
 
 - **補充水分與電解質**最重要：首選**口服補液鹽（ORS）**；嚴重脫水或無法口服 → 靜脈輸液。兒童脫水評估見 [[小兒科#脫水評估與處理|脫水評估與處理]]。
 - 止瀉劑：
-    - **Loperamide**：可用於無發燒、非血便的成人水瀉。
+    - **Loperamide**：可用於無發燒（fever）、非血便的成人水瀉。
     - **血便、發燒或懷疑 C. difficile 時避免使用** → 可能延長病程、誘發毒性巨結腸。
     - Bismuth subsalicylate：可用，會使糞便變黑。
 - 經驗性抗生素：
@@ -545,7 +545,7 @@ status: initial
 血便、不發燒的急性腹瀉（懷疑 EHEC）→ 依一般腸胃炎給經驗性抗生素 → 細菌溶解釋出更多 Shiga toxin，增加 HUS（溶血性貧血、血小板低下、急性腎損傷）的風險。先送糞便檢查，支持療法為主，並追蹤 CBC 與腎功能。
 :::
 
-### 慢性腹瀉
+### 慢性腹瀉（Chronic Diarrhea）
 
 #### 定義與分類
 
@@ -571,7 +571,7 @@ status: initial
 | 滲透壓差 | 大 | 小 |
 | 原因 | **乳糖不耐**、含鎂瀉劑/制酸劑、sorbitol、lactulose、吸收不良 | 霍亂毒素、**[[代謝內分泌科#VIPoma\|VIPoma]]**、**[[代謝內分泌科#Carcinoid Syndrome\|類癌症候群]]**、gastrinoma、**microscopic colitis**、膽汁酸性腹瀉、刺激性瀉劑濫用、[[代謝內分泌科#甲狀腺癌\|甲狀腺髓質癌]] |
 
-- **詐病性腹瀉**：濫用瀉劑 → 大腸鏡見 **melanosis coli**（anthraquinone 類，如 senna）、低血鉀；檢測糞便中的瀉劑。
+- **詐病性腹瀉**：濫用瀉劑 → 大腸鏡（colonoscopy）見 **melanosis coli**（anthraquinone 類，如 senna）、低血鉀；檢測糞便中的瀉劑。
 
 #### 脂肪便的評估
 
@@ -632,12 +632,12 @@ status: initial
 
 #### 檢查流程
 
-1. 病史：糞便型態、夜間腹瀉（器質性）、體重減輕、旅遊、藥物（**metformin**、PPI、NSAID、colchicine、Mg 製劑）、乳製品、腹部手術史（迴腸切除 → 膽汁酸性腹瀉）、全身疾病（甲狀腺、糖尿病、HIV）。
-2. 基本檢驗：CBC、電解質、白蛋白、TSH、CRP、celiac serology、糞便潛血/白血球/calprotectin、寄生蟲。
+1. 病史：糞便型態、夜間腹瀉（器質性）、體重減輕（weight loss）、旅遊、藥物（**metformin**、PPI、NSAID、colchicine、Mg 製劑）、乳製品、腹部手術史（迴腸切除 → 膽汁酸性腹瀉）、全身疾病（甲狀腺、糖尿病、HIV）。
+2. 基本檢驗：CBC、電解質、白蛋白、TSH、CRP、celiac serology、糞便潛血（fecal occult blood）/白血球/calprotectin、寄生蟲。
 3. **Fecal calprotectin** 升高 → 傾向發炎性（IBD）→ 大腸鏡；正常 → 傾向 IBS 等功能性疾病。
 4. 依類型安排：大腸鏡 + 隨機切片、胃鏡 + 十二指腸切片、影像、糞便電解質。
 
-### 便秘
+### 便秘（Constipation）
 
 #### 定義（Rome IV 功能性便秘）
 
@@ -687,7 +687,7 @@ status: initial
 #### 檢查
 
 - 無 alarm features、無次發性原因 → 不需常規檢查，直接治療。
-- Alarm features（血便、缺鐵性貧血、體重減輕、≥ 45–50 歲新發、大腸癌家族史、排便習慣急性改變）→ **大腸鏡**。
+- Alarm features（血便（bloody stool）、缺鐵性貧血、體重減輕（weight loss）、≥ 45–50 歲新發、大腸癌家族史、排便習慣急性改變）→ **大腸鏡**（colonoscopy）。
 - 基本檢驗：CBC、血鈣、血糖、TSH。
 
 #### 治療
@@ -711,17 +711,17 @@ status: initial
 新發便秘先找次發性原因：藥物（opioid、verapamil、鐵劑、鈣片）、甲狀腺功能低下、高血鈣。高齡新發便秘或合併血便、貧血、體重減輕 → 大腸鏡排除大腸癌。
 :::
 
-## 消化道出血
+## 消化道出血（GI Bleeding）
 
-### 上消化道出血
+### 上消化道出血（Upper GI Bleeding）
 
 #### 定義與表現
 
 - **Treitz 韌帶以上**的出血（食道、胃、十二指腸）。
 - 表現：
-    - **吐血（hematemesis）**：鮮紅血或**咖啡渣樣**嘔吐物。
+    - **吐血（hematemesis）**：鮮紅血或**咖啡渣樣**（coffee-ground）嘔吐物。
     - **黑便（melena）**：柏油狀、惡臭；約 :red[50–100 mL] 血量即可造成。
-    - **大量 UGIB 可表現為鮮血便**（約佔鮮血便病人的 10–15%）→ 通常合併血行動力學不穩定。
+    - **大量 UGIB 可表現為鮮血便（hematochezia）**（約佔鮮血便病人的 10–15%）→ 通常合併血行動力學不穩定。
 - 提示上消化道來源：**BUN/Cr 比值 > 30**（血液蛋白在小腸被吸收）、黑便、吐血。
 
 #### 鑑別診斷
@@ -779,7 +779,7 @@ status: initial
 3. 停用抗凝血劑與抗血小板藥（評估栓塞風險）；必要時反轉凝血。
 4. **Erythromycin**：內視鏡前 30–120 分鐘 IV → 促進胃排空、改善視野。
 5. 依是否為靜脈曲張出血，給藥與內視鏡時機不同（見上方比較表）。
-- 不建議常規放鼻胃管抽吸來判斷出血位置。
+- 不建議常規放鼻胃管（NG tube）抽吸來判斷出血位置。
 
 ::chart{id="upper-gi-bleeding"}
 
@@ -799,7 +799,7 @@ status: initial
 - 靜脈曲張出血高風險者（[[肝膽胰外科#Child-Pugh Score|Child-Pugh]] C 10–13 分，或 B 級合併活動性出血）考慮 72 小時內**早期 TIPS**。
 - 詳見 [[消化內科#上消化道出血（Upper GI Bleeding）|上消化道出血]]、[[肝膽胰外科#食道靜脈曲張出血（Esophageal Variceal Bleeding）|食道靜脈曲張出血]]。
 
-### 下消化道出血
+### 下消化道出血（Lower GI Bleeding）
 
 #### 定義與表現
 
@@ -859,10 +859,10 @@ status: initial
 血行動力學不穩定的大量鮮血便 → 直接認定是下消化道出血而先排大腸鏡或血管攝影 → 漏掉大量上消化道出血（例如十二指腸潰瘍），延誤止血。不穩定的鮮血便要先做胃鏡（或至少評估 BUN/Cr、[[消化內科#肝硬化（Liver Cirrhosis）|肝硬化]]病史）。
 :::
 
-### 潛血與不明原因消化道出血
+### 潛血與不明原因消化道出血（Occult / Obscure GI Bleeding）
 
-- **潛血（occult GI bleeding）**：糞便潛血陽性或**[[血液腫瘤科#缺鐵性貧血（Iron Deficiency Anemia, IDA）|缺鐵性貧血]]**，但沒有肉眼可見的出血。
-- **男性或停經後女性的缺鐵性貧血 → 一律做胃鏡 + 大腸鏡**（排除消化道惡性腫瘤）；同時驗 celiac serology。
+- **潛血（occult GI bleeding）**：糞便潛血（fecal occult blood）陽性或**[[血液腫瘤科#缺鐵性貧血（Iron Deficiency Anemia, IDA）|缺鐵性貧血]]**，但沒有肉眼可見的出血。
+- **男性或停經後女性的缺鐵性貧血 → 一律做胃鏡 + 大腸鏡（colonoscopy）**（排除消化道惡性腫瘤）；同時驗 celiac serology。
 - **不明原因消化道出血（obscure GI bleeding）**：胃鏡 + 大腸鏡皆正常，仍持續或反覆出血 → 多來自**小腸**。
 - [[胃小腸外科#小腸出血|小腸出血]]依年齡：
     - < 40 歲：[[消化內科#小腸腫瘤|小腸腫瘤]]、**[[胃小腸外科#Meckel's Diverticulum|Meckel 憩室]]**、[[消化內科#發炎性腸道疾病（Inflammatory Bowel Disease, IBD）|Crohn's disease]]。
@@ -880,9 +880,9 @@ status: initial
 | **Meckel scan** | 年輕人懷疑 Meckel 憩室 | 只偵測**異位胃黏膜** |
 :::
 
-## 肝膽相關徵象
+## 肝膽相關徵象（Hepatobiliary Signs）
 
-### 黃疸
+### 黃疸（Jaundice）
 
 #### 定義
 
@@ -890,7 +890,7 @@ status: initial
 - 第一步：區分**非結合型（間接）** 與**結合型（直接）** 膽紅素為主。
     - 直接膽紅素 < 15–20% 總量 → **非結合型高膽紅素血症**。
     - 直接膽紅素佔比較高 → **結合型高膽紅素血症**（肝細胞或膽汁鬱積）。
-- 結合型膽紅素為水溶性 → 可由尿液排出 → **茶色尿**；膽道完全阻塞 → **灰白便**。
+- 結合型膽紅素為水溶性 → 可由尿液排出 → **茶色尿**（tea-colored urine）；膽道完全阻塞 → **灰白便**（acholic stool）。
 
 #### 非結合型（間接）高膽紅素血症
 
@@ -914,15 +914,15 @@ status: initial
     - **AST/ALT > 2**（且 AST 很少 > 300–400）→ **[[消化內科#酒精性肝病（Alcoholic Liver Disease）|酒精性肝病]]**。
     - 其他：慢性 B/C 型肝炎、脂肪肝、[[消化內科#Hemochromatosis（血色素沉著症）|血色素沉著症]]。
 - **膽汁鬱積型**：ALP↑ + **GGT↑**（ALP 升高但 GGT 正常 → 骨骼來源）。
-    - 第一步：**腹部超音波**看膽管是否擴張（:red[CBD > 6 mm]；膽囊切除後可達 8–10 mm）。
+    - 第一步：**腹部超音波**（abdominal ultrasound）看膽管是否擴張（:red[CBD > 6 mm]；膽囊切除後可達 8–10 mm）。
     - **膽管擴張 → 肝外阻塞**：
-        - **[[肝膽胰外科#總膽管結石（Choledocholithiasis）|總膽管結石]]**：絞痛、[[肝膽胰外科#急性膽管炎（Acute Cholangitis）|膽管炎]]（**Charcot triad**：發燒 + 右上腹痛 + 黃疸）。
-        - **[[肝膽胰外科#胰臟導管腺癌（Pancreatic Ductal Adenocarcinoma, PDAC）|胰頭癌]]、[[肝膽胰外科#壺腹周圍癌（Periampullary Cancer）|壺腹周圍癌]]**：**無痛性黃疸**、體重減輕；**Courvoisier sign**。
+        - **[[肝膽胰外科#總膽管結石（Choledocholithiasis）|總膽管結石]]**：絞痛（colicky pain）、[[肝膽胰外科#急性膽管炎（Acute Cholangitis）|膽管炎]]（**Charcot triad**：發燒（fever） + 右上腹痛（RUQ pain） + 黃疸）。
+        - **[[肝膽胰外科#胰臟導管腺癌（Pancreatic Ductal Adenocarcinoma, PDAC）|胰頭癌]]、[[肝膽胰外科#壺腹周圍癌（Periampullary Cancer）|壺腹周圍癌]]**：**無痛性黃疸**、體重減輕（weight loss）；**Courvoisier sign**。
         - [[肝膽胰外科#膽管癌（Cholangiocarcinoma）|膽管癌]]、[[消化內科#慢性胰臟炎（Chronic Pancreatitis）|慢性胰臟炎]]狹窄、[[消化內科#原發性硬化性膽管炎（Primary Sclerosing Cholangitis, PSC）|PSC]]、膽道術後狹窄、[[肝膽胰外科#膽道囊腫（Choledochal Cyst）|膽道囊腫]]。
     - **膽管未擴張 → 肝內膽汁鬱積**：
         - 藥物：amoxicillin-clavulanate、口服避孕藥、合成類固醇、chlorpromazine。
         - **[[消化內科#原發性膽汁性膽管炎（Primary Biliary Cholangitis, PBC）|PBC]]**、**PSC**（見下方比較表）。
-        - 其他：敗血症、TPN、浸潤性疾病（類澱粉、淋巴瘤、肉芽腫）、**[[產科#妊娠期肝內膽汁淤積（Intrahepatic Cholestasis of Pregnancy, ICP）|妊娠肝內膽汁鬱積]]**（第三孕期搔癢）、術後良性膽汁鬱積。
+        - 其他：敗血症、TPN、浸潤性疾病（類澱粉、淋巴瘤、肉芽腫）、**[[產科#妊娠期肝內膽汁淤積（Intrahepatic Cholestasis of Pregnancy, ICP）|妊娠肝內膽汁鬱積]]**（第三孕期搔癢（pruritus））、術後良性膽汁鬱積。
 
 #### 檢查流程
 
@@ -999,7 +999,7 @@ flowchart TD
 黃疸的考題幾乎都從「直接 vs 間接」開始，再用 ALT/ALP 型態與超音波（膽管有沒有擴張）一路分下去。無痛性黃疸 + Courvoisier sign → 胰頭或壺腹周圍惡性腫瘤；禁食後黃疸、其他肝功能正常的年輕人 → Gilbert syndrome。
 :::
 
-### 腹水
+### 腹水（Ascites）
 
 #### 評估
 
@@ -1011,8 +1011,8 @@ flowchart TD
 - **診斷性腹水穿刺**時機：
     - 新發生的腹水。
     - 肝硬化合併腹水者**住院時**。
-    - 臨床惡化（發燒、腹痛、[[消化內科#肝性腦病變（Hepatic Encephalopathy）|肝性腦病變]]、腎功能惡化、消化道出血）。
-- 凝血功能異常**不是**穿刺的禁忌，不需常規輸 FFP 或血小板；禁忌是 [[血液腫瘤科#DIC（Disseminated Intravascular Coagulation）|DIC]]、腹壁感染。
+    - 臨床惡化（發燒（fever）、腹痛（abdominal pain）、[[消化內科#肝性腦病變（Hepatic Encephalopathy）|肝性腦病變]]、腎功能惡化、消化道出血）。
+- 凝血功能異常**不是**穿刺的禁忌，不需常規輸 FFP 或血小板；禁忌是 [[血液腫瘤科#DIC（Disseminated Intravascular Coagulation）|DIC]]、腹壁（abdominal wall）感染。
 
 #### 腹水分析：SAAG
 
@@ -1029,7 +1029,7 @@ flowchart TD
     - **細胞數與分類**：PMN :red[≥ 250/mm³] → **[[肝膽胰外科#自發性細菌性腹膜炎（SBP）|自發性細菌性腹膜炎（SBP）]]**。
     - 培養：床邊直接打入血液培養瓶（提高陽性率）。
     - 細胞學：腹膜癌轉移（敏感度高）；肝癌造成的腹水細胞學常陰性。
-    - **ADA**：> 40 U/L → 傾向結核性腹膜炎。
+    - **ADA**：> 40 U/L → 傾向結核性腹膜炎（TB peritonitis）。
     - **Amylase**：明顯升高 → 胰臟性腹水（胰管破裂）。
     - **Triglyceride > 200 mg/dL**（乳糜狀）→ **乳糜腹水**：淋巴瘤、淋巴管損傷、肝硬化。
     - 血性腹水：惡性腫瘤、外傷、[[消化內科#肝細胞癌（Hepatocellular Carcinoma, HCC）|HCC 破裂]]。
@@ -1085,20 +1085,20 @@ flowchart TD
 5. 避免 NSAID；頑固性腹水者避免 ACEi/ARB。
 - 詳見 [[消化內科#腹水（Ascites）|腹水]]。
 
-### 肝脾腫大
+### 肝脾腫大（Hepatosplenomegaly）
 
-#### 肝腫大
+#### 肝腫大（Hepatomegaly）
 
 - 正常肝臟在鎖骨中線的上下徑約 6–12 cm；觸診時注意質地、邊緣、壓痛、表面結節、**搏動性**。
 - 假性肝腫大：肺氣腫（橫膈下壓）、Riedel lobe。
 - 鑑別：
-    - **鬱血**：右心衰竭、[[心臟內科#三尖瓣閉鎖不全（Tricuspid Regurgitation, TR）|三尖瓣逆流]]（**搏動性肝臟**）、[[心臟內科#縮窄性心包膜炎（Constrictive Pericarditis）|縮窄性心包膜炎]]、**[[消化內科#Budd-Chiari Syndrome|Budd-Chiari syndrome]]**（腹痛 + 肝腫大 + 腹水三徵）。
+    - **鬱血**：右心衰竭、[[心臟內科#三尖瓣閉鎖不全（Tricuspid Regurgitation, TR）|三尖瓣逆流]]（**搏動性肝臟**）、[[心臟內科#縮窄性心包膜炎（Constrictive Pericarditis）|縮窄性心包膜炎]]、**[[消化內科#Budd-Chiari Syndrome|Budd-Chiari syndrome]]**（腹痛（abdominal pain） + 肝腫大 + 腹水三徵）。
     - **浸潤**：脂肪肝、[[血液腫瘤科#Primary Amyloidosis（AL Amyloidosis）|類澱粉沉積]]、[[小兒科#肝醣儲積症（Glycogen Storage Diseases）|肝醣儲積症]]、[[消化內科#Hemochromatosis（血色素沉著症）|血色素沉著症]]、淋巴瘤/白血病、**[[消化內科#肝細胞癌（Hepatocellular Carcinoma, HCC）|肝癌]]或[[肝膽胰外科#肝轉移（Liver Metastasis）|轉移]]**。
     - **發炎**：[[消化內科#病毒性肝炎 (Viral Hepatitis)|急性病毒性肝炎]]、酒精性肝炎、[[肝膽胰外科#肝膿瘍（Liver Abscess）|肝膿瘍]]。
     - 囊性：多囊肝、[[肝膽胰外科#肝包蟲囊腫（Hydatid Cyst）|包蟲囊腫]]。
 - 質地：硬且表面結節 → 肝硬化或腫瘤；柔軟且壓痛 → 急性肝炎、鬱血。
 
-#### 脾腫大
+#### 脾腫大（Splenomegaly）
 
 - 正常脾臟**觸摸不到**；超音波長徑 :red[> 13 cm] 視為腫大。
 - 理學檢查：左上腹觸診（右側臥）、Traube space 敲診變濁音、Castell sign。
@@ -1151,21 +1151,21 @@ flowchart TD
 
 #### 檢查流程
 
-1. 病史與理學檢查：肝病危險因子、旅遊史、發燒、淋巴結腫大、心衰竭徵象。
+1. 病史與理學檢查：肝病危險因子、旅遊史、發燒（fever）、淋巴結腫大（lymphadenopathy）、心衰竭徵象。
 2. 檢驗：CBC/DC + 血液抹片、肝功能、病毒性肝炎標記、EBV/CMV 血清學、LDH。
 3. 影像：腹部超音波（肝實質、門脈血流、脾臟大小）→ CT。
 4. 仍不明 → 骨髓檢查、肝臟切片；**脾臟切片出血風險高，很少做**。
 
-## 其他腹部症狀
+## 其他腹部症狀（Other Abdominal Symptoms）
 
-### 腹脹與腸阻塞
+### 腹脹與腸阻塞（Abdominal Distension / Bowel Obstruction）
 
 #### 腹脹的鑑別（6F）
 
 - **Flatus**（氣體）：腸阻塞、ileus、吞氣、[[消化內科#大腸激躁症（Irritable Bowel Syndrome, IBS）|IBS]]、乳糖不耐、SIBO。
 - **Fluid**（液體）：腹水。
 - **Fat**（脂肪）：肥胖。
-- **Feces**（糞便）：便秘、糞便嵌塞。
+- **Feces**（糞便）：便秘（constipation）、糞便嵌塞。
 - **Fetus**（懷孕）。
 - **Fatal growth**（腫瘤）：卵巢腫瘤、腹腔內腫瘤、巨大肝脾腫大。
 
@@ -1173,7 +1173,7 @@ flowchart TD
 
 - **3-6-9 原則**（X 光擴張上限）：小腸 :red[3 cm]、結腸 :red[6 cm]、盲腸 :red[9 cm]。
 - 術後腸蠕動恢復順序：小腸（數小時內）→ 胃（24–48 小時）→ 大腸（:red[48–72 小時]）。
-- **[[大腸直腸外科#Ogilvie's Syndrome（急性結腸假性阻塞）|Ogilvie syndrome]]**：盲腸 :red[> 12 cm] → 穿孔風險；治療保守 → **neostigmine**（需心電監測、備 atropine）→ 大腸鏡減壓。
+- **[[大腸直腸外科#Ogilvie's Syndrome（急性結腸假性阻塞）|Ogilvie syndrome]]**：盲腸 :red[> 12 cm] → 穿孔（perforation）風險；治療保守 → **neostigmine**（需心電監測、備 atropine）→ 大腸鏡（colonoscopy）減壓。
 - 其他類型：
     - **閉鎖性腸阻塞（closed loop）**：兩端都被阻塞 → 快速絞窄。
     - **[[胃小腸外科#Gallstone Ileus|膽石性腸阻塞]]**：高齡女性；**Rigler triad**（膽道積氣 + 小腸阻塞 + 異位結石）。
@@ -1212,20 +1212,20 @@ flowchart TD
 
 #### 絞窄（strangulation）的徵象
 
-- 臨床：持續性劇痛（由絞痛轉為持續痛）、發燒、心搏過速、腹膜炎徵象、白血球上升、**lactate 上升**、代謝性酸中毒。
+- 臨床：持續性劇痛（由絞痛（colicky pain）轉為持續痛）、發燒（fever）、心搏過速（tachycardia）、腹膜炎（peritonitis）徵象、白血球上升、**lactate 上升**、代謝性酸中毒。
 - CT：腸壁顯影減少、腸壁積氣（pneumatosis）、腸繫膜水腫、門脈積氣、閉鎖性腸環。
 - **有任何絞窄徵象 → 緊急手術**，不可繼續保守治療。
 
 #### 處置
 
-1. **NPO + 鼻胃管減壓 + 靜脈輸液**、矯正電解質、記錄尿量。
+1. **NPO + 鼻胃管（NG tube）減壓 + 靜脈輸液**、矯正電解質、記錄尿量。
 2. **沾黏性部分阻塞**、無絞窄 → 保守治療：
     - **水溶性顯影劑**（Gastrografin）試驗：:red[24 小時內]到達結腸 → 保守治療成功率高（兼具治療效果）。
     - 保守治療 48–72 小時無改善 → 手術。
 3. **完全阻塞、絞窄、嵌頓性疝氣、無手術史的 SBO、大腸癌阻塞** → 手術（或支架作為過渡）。
 - 詳見 [[消化內科#腸阻塞（Intestinal Obstruction）|腸阻塞]]、[[胃小腸外科#小腸阻塞（SBO）|小腸阻塞]]、[[大腸直腸外科#大腸扭轉（Volvulus）|大腸扭轉]]。
 
-### 肛門直腸症狀
+### 肛門直腸症狀（Anorectal Symptoms）
 
 #### 肛門疼痛
 
@@ -1244,7 +1244,7 @@ flowchart TD
 
 - **無痛性鮮血**、滴在馬桶或沾在衛生紙 → **內痔**（最常見）。
 - **疼痛 + 鮮血** → 肛裂。
-- 中高齡、有 alarm features（排便習慣改變、貧血、體重減輕、家族史）→ **大腸鏡**，不能只歸因於痔瘡。
+- 中高齡、有 alarm features（排便習慣改變、貧血、體重減輕（weight loss）、家族史）→ **大腸鏡**（colonoscopy），不能只歸因於痔瘡。
 - 年輕、典型痔瘡出血 → 肛門鏡或軟式乙狀結腸鏡即可。
 
 #### 易混淆鑑別
@@ -1264,6 +1264,6 @@ flowchart TD
 
 #### 其他
 
-- **肛門搔癢**：衛生習慣、痔瘡、蟯蟲（兒童夜間搔癢 → **透明膠帶試驗**）、念珠菌、[[皮膚科#接觸性皮膚炎（Contact Dermatitis）|接觸性皮膚炎]]。
-- **大便失禁**：產傷（括約肌受損）、神經病變、[[大腸直腸外科#直腸脫垂（Rectal Prolapse）|直腸脫垂]]、**糞便嵌塞合併溢出性腹瀉**（老人常見，誤以為腹瀉）。
+- **肛門搔癢（pruritus）**：衛生習慣、痔瘡、蟯蟲（兒童夜間搔癢 → **透明膠帶試驗**）、念珠菌、[[皮膚科#接觸性皮膚炎（Contact Dermatitis）|接觸性皮膚炎]]。
+- **大便失禁**（fecal incontinence）：產傷（括約肌受損）、神經病變、[[大腸直腸外科#直腸脫垂（Rectal Prolapse）|直腸脫垂]]、**糞便嵌塞合併溢出性腹瀉（diarrhea）**（老人常見，誤以為腹瀉）。
 - 詳見 [[大腸直腸外科#肛門疾病|肛門疾病]]。

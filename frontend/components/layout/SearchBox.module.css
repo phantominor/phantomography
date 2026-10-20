@@ -134,6 +134,30 @@
   color: var(--color-text);
 }
 
+/* 位置標籤：大分頁（基醫、臨醫、隨筆）+ 臨床分類 */
+.tag {
+  display: inline-block;
+  margin-right: 6px;
+  padding: 0 6px;
+  border: 1px solid var(--color-border-strong);
+  border-radius: var(--radius-sm);
+  font-size: 0.72rem;
+  line-height: 1.5;
+  color: var(--color-text-muted);
+  vertical-align: 1px;
+}
+
+.category {
+  margin-right: 6px;
+  font-size: 0.8rem;
+  color: var(--color-text-muted);
+}
+
+.category::after {
+  content: '·';
+  margin-left: 6px;
+}
+
 .resultText {
   font-size: 0.8rem;
   line-height: 1.6;
