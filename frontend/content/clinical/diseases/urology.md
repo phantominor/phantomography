@@ -187,6 +187,8 @@ credit:
 | **PCNL（經皮腎臟碎石）** | 腎結石 **> 2 cm**、staghorn calculus | 經皮穿刺進入腎盂，直接碎石取出 |
 | Open / Laparoscopic surgery | 罕用，極複雜或其他方法失敗時 | — |
 
+::chart{id="urolithiasis-management"}
+
 ### 結石合併感染
 
 - **最危險的狀況**：阻塞 + 感染（obstructive pyelonephritis）→ 可快速進展為 urosepsis。
