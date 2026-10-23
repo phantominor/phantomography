@@ -1,0 +1,10 @@
+%% title: 癲癇重積的處置
+flowchart TD
+  A["發作 ≥ 5 分鐘<br/>或發作間未恢復意識"]:::start --> B["ABC、給氧、監視器<br/>測血糖（低 → thiamine + 葡萄糖）"]
+  B --> C["第一線 benzodiazepine（0–10 分鐘）<br/>IV lorazepam 或 diazepam<br/>無 IV → IM midazolam"]:::danger
+  C --> D{{"仍在發作？"}}
+  D -->|"否"| E["找原因：電解質、藥物濃度<br/>CT、感染、毒物"]:::key
+  D -->|"是"| F["第二線（10–30 分鐘）<br/>IV fosphenytoin、levetiracetam<br/>或 valproate"]:::danger
+  F --> G{{"仍在發作？"}}
+  G -->|"否"| E
+  G -->|"是"| H["頑固性：插管、加護病房<br/>持續 IV midazolam、propofol<br/>或 pentobarbital + 持續 EEG"]:::danger

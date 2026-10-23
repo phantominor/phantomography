@@ -159,6 +159,8 @@ credit:
     - 血糖控制：避免低血糖（< 60）和高血糖（> 180）。
     - Aspirin 325 mg 於發病 24–48 小時內（若未給 rt-PA）。
 
+::chart{id="acute-ischemic-stroke"}
+
 ### 中風次級預防
 
 | 病因 | 預防策略 |
@@ -315,6 +317,8 @@ credit:
     1. **第一線（0-5 min）**：ABC、**Benzodiazepine** — IV Lorazepam（首選）或 IV Diazepam；無 IV → IM Midazolam。
     2. **第二線（5-20 min）**：BZD 無效 → **IV Fosphenytoin**（首選）或 Phenytoin、Levetiracetam、Valproic acid。
     3. **第三線（> 20-40 min）**：Refractory → ICU + 持續性 IV 麻醉（Midazolam / Propofol / Pentobarbital drip）→ 目標 EEG burst suppression。
+
+::chart{id="status-epilepticus"}
 
 ### Febrile Seizure（熱性痙攣）
 
