@@ -846,6 +846,8 @@ credit:
 | **Raloxifene** | SERM → 骨骼 estrogen agonist | 降低脊椎骨折；↑DVT 風險；↓breast cancer 風險 |
 | **Calcitonin** | 抑制破骨細胞 | 效果最弱；用於急性脊椎骨折止痛 |
 
+::chart{id="osteoporosis-treatment"}
+
 ### 骨軟化症與佝僂病（Osteomalacia / Rickets）
 
 - 定義：骨基質量正常但**礦化不良**（vs osteoporosis：基質減少但礦化正常）。

@@ -436,6 +436,8 @@ credit:
     - 預防：**Allopurinol（Xanthine oxidase inhibitor）**、Febuxostat；目標尿酸 :red[<6 mg/dL]。
 - **Tophi（痛風石）**：慢性期，尿酸沉積在軟組織。
 
+::chart{id="gout-management"}
+
 ### 假痛風（Pseudogout / CPPD）
 
 - **焦磷酸鈣（Calcium pyrophosphate dihydrate, CPPD）**結晶。
@@ -568,6 +570,8 @@ credit:
     - Denosumab（anti-RANK-L）：抑制破骨細胞，皮下注射；停藥後骨密度快速流失，需接續其他藥物。
     - Teriparatide（PTH 類似物）：促進骨形成（anabolic），用於極高風險者；原骨肉瘤黑框警語已移除。
     - Raloxifene（SERM）：停經後女性，可降低乳癌風險；增加 VTE 及熱潮紅。
+
+::chart{id="osteoporosis-treatment"}
 
 ### 骨軟化症（Osteomalacia）/ 佝僂病（Rickets）
 
