@@ -148,6 +148,7 @@ export const SIDE_NAV = {
   'clinical/general': [],
   'clinical/oncall': [],
   'clinical/cases': [],
+  // 逐篇筆記依日期自動產生（lib/journal.js 的 getJournalNav），由頁面資料傳入，這裡留空
   journal: [],
 };
 
@@ -168,8 +169,8 @@ export function flattenNav(navKey) {
 
 // 手機抽屜的多層導覽樹（仿 Material）：大分頁 → （臨床醫學的八個分類）→ 分組 → 頁面。
 // 節點：{ key, label, slug?, children? }；有 slug 的資料夾節點表示它有自己的總覽頁
-export function buildNavTree() {
-  const sectionsOf = (navKey) => (SIDE_NAV[navKey] || []).map((section) => ({
+export function buildNavTree(journalNav = []) {
+  const sectionsOf = (navKey) => (navKey === 'journal' ? journalNav : SIDE_NAV[navKey] || []).map((section) => ({
     key: `${navKey}:${section.title}`,
     label: section.title,
     children: section.items.map((item) => ({ key: item.slug, label: item.label, slug: item.slug })),
@@ -186,7 +187,7 @@ export function buildNavTree() {
         slug: 'clinical',
         children: CLINICAL_CATEGORIES.map((c) => ({ key: c.key, label: c.label, slug: c.slug, children: sectionsOf(c.key) })),
       },
-      { key: 'journal', label: '逐篇筆記', slug: 'journal', children: [] },
+      { key: 'journal', label: '逐篇筆記', slug: 'journal', children: sectionsOf('journal') },
     ],
   };
 }

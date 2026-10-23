@@ -116,7 +116,7 @@ export function getJournalSources(pages = getAllPages()) {
     if (!p.slug.startsWith('journal/')) continue;
     const id = p.slug.split('/').pop();
     const { date, event, speaker, title } = p.frontmatter;
-    sources[id] = { date, event: event || title, speaker, url: p.url };
+    sources[id] = { date, event: event || title, speaker: Array.isArray(speaker) ? speaker.join('、') : speaker, url: p.url };
   }
   return sources;
 }
@@ -165,5 +165,25 @@ export function buildBacklinks(pages = getAllPages(), linkIndex = buildLinkIndex
     visit(parseMarkdown(source.content));
   }
   backlinkCache = table;
+  return table;
+}
+
+// 逐篇筆記被整合到哪些段落：掃描全站的 :::source{from="<id>"}，{ 逐篇筆記 id: [來源標註所在段落…] }
+export function buildSourceUsage(pages = getAllPages()) {
+  const table = {};
+  for (const page of pages) {
+    if (page.frontmatter.noindex || page.slug.startsWith('journal/')) continue;
+    let hi = -1;
+    const visit = (node) => {
+      if (node.type === 'heading' && node.depth >= 2 && node.depth <= 4) hi += 1;
+      if (node.type === 'containerDirective' && node.name === 'source' && node.attributes?.from) {
+        const entry = hi >= 0 ? backlinkEntry(page, hi) : { url: page.url, page: page.frontmatter.title || page.slug, path: [] };
+        const list = (table[node.attributes.from] ||= []);
+        if (!list.some((e) => e.url === entry.url)) list.push(entry);
+      }
+      (node.children || []).forEach(visit);
+    };
+    visit(parseMarkdown(page.content));
+  }
   return table;
 }

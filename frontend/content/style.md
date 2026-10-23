@@ -110,6 +110,10 @@ Methanol、Uremia、DKA、Propylene glycol、Isoniazid 與 Iron、Lactic acidosi
 部分教科書已改用 GOLDMARK 取代 MUDPILES，國考採用哪一版待查證。
 :::
 
+:::supplement
+逐篇筆記裡由 Claude 依速記補寫的內容：講者只提到關鍵字，細節是事後查證補上的，與親手記下的內容區分開來。
+:::
+
 ## 其他元素
 
 ### 連結與標記

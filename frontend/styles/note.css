@@ -258,6 +258,12 @@
   border-left-style: dashed;
 }
 
+/* Claude 依速記補寫的內容：與親手記下的內容區分，不加底色 */
+.note .callout-supplement {
+  border-left-style: dotted;
+  background: none;
+}
+
 /* ── 可折疊細節 ── */
 .note details.detail {
   margin: 1em 0;
@@ -567,4 +573,123 @@
 
 .note .card-missing .card-icon {
   color: var(--color-text-faint);
+}
+
+/* ── 逐篇筆記 ── */
+.journal-meta-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-top: 6px;
+}
+
+.journal-pending {
+  color: var(--color-red);
+}
+
+.journal-item-tag {
+  font-size: 0.75rem;
+  line-height: 1.6;
+  padding: 0 7px;
+  border: 1px solid var(--color-border-strong);
+  border-radius: var(--radius-sm);
+  color: var(--color-text-muted);
+}
+
+a.journal-item-tag:hover {
+  color: var(--color-text);
+  text-decoration: none;
+}
+
+.note .journal-filter {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin: 1em 0 1.4em;
+}
+
+.note .journal-tag {
+  font: inherit;
+  font-size: 0.8rem;
+  padding: 2px 10px;
+  border: 1px solid var(--color-border-strong);
+  border-radius: 999px;
+  background: none;
+  color: var(--color-text-muted);
+  cursor: pointer;
+}
+
+.note .journal-tag:hover {
+  background: var(--color-bg-hover);
+}
+
+.note .journal-tag.active {
+  background: var(--color-text);
+  border-color: var(--color-text);
+  color: var(--color-bg);
+}
+
+.note .journal-tag-count {
+  margin-left: 5px;
+  opacity: 0.6;
+}
+
+.note .journal-year {
+  margin: 1.4em 0 0.4em;
+  font-size: 0.9rem;
+  color: var(--color-text-muted);
+}
+
+.note ul.journal-items {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.note .journal-item {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  padding: 10px 0;
+  border-bottom: 1px solid var(--color-border);
+  margin: 0;
+}
+
+.note .journal-year[hidden],
+.note .journal-items[hidden],
+.note .journal-item[hidden] {
+  display: none;
+}
+
+.note .journal-item-meta {
+  font-size: 0.8rem;
+  color: var(--color-text-muted);
+}
+
+.note .journal-item-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-top: 2px;
+}
+
+.journal-linked {
+  margin-top: 2.5em;
+  padding-top: 1em;
+  border-top: 1px solid var(--color-border);
+  font-size: 0.9rem;
+}
+
+.journal-linked-title {
+  color: var(--color-text-muted);
+  margin-bottom: 0.4em;
+}
+
+.journal-linked ul {
+  margin: 0;
+  padding-left: 1.2em;
+}
+
+.journal-linked a {
+  color: var(--color-link);
 }

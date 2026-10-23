@@ -38,7 +38,7 @@ function writeSession(key, value) {
   } catch {}
 }
 
-export default function SiteLayout({ title, tab, navKey, currentSlug, existing, toc = [], prev, next, children }) {
+export default function SiteLayout({ title, tab, navKey, currentSlug, existing, journalNav, toc = [], prev, next, children }) {
   const router = useRouter();
   const [drawerOpen, setDrawerOpen] = useState(false);
   const [scrolled, setScrolled] = useState(false);
@@ -229,7 +229,7 @@ export default function SiteLayout({ title, tab, navKey, currentSlug, existing, 
 
       <div className={styles.body}>
         <aside className={`${styles.left} thin-scroll`}>
-          {hasSideNav && <SideNav navKey={navKey} currentSlug={currentSlug} existing={existing} />}
+          {hasSideNav && <SideNav navKey={navKey} currentSlug={currentSlug} existing={existing} journalNav={journalNav} />}
         </aside>
 
         <main className={styles.content}>
@@ -313,7 +313,7 @@ export default function SiteLayout({ title, tab, navKey, currentSlug, existing, 
       {peekHref && <PeekPanel key="peek" href={peekHref} onClose={closePeek} onExpand={expandPeek} />}
 
       {drawerOpen && (
-        <MobileNav currentSlug={currentSlug} existing={existing} toc={toc} onClose={() => setDrawerOpen(false)} />
+        <MobileNav currentSlug={currentSlug} existing={existing} journalNav={journalNav} toc={toc} onClose={() => setDrawerOpen(false)} />
       )}
     </div>
   );

@@ -18,8 +18,9 @@ yarn-error.log*
 *.swo
 .DS_Store
 
-# 使用者丟進來待整理的原始筆記（可能含未去識別化內容，永不進版控）
-inbox/
+# 使用者丟進來待整理的原始筆記（可能含未去識別化內容，永不進版控）；只有範本進版控
+inbox/*
+!inbox/_template.md
 
 # 建置時產生的搜尋索引
 frontend/public/search-index.json

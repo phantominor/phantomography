@@ -1,10 +1,11 @@
 // lib/pageProps.js
 // 內容頁共用的 getStaticProps 邏輯：找到 Markdown、渲染、決定所屬分頁與上一頁/下一頁
 
-import { getAllPages, buildLinkIndex, getJournalSources, buildBacklinks, backlinkEntry } from './content';
+import { getAllPages, buildLinkIndex, getJournalSources, buildBacklinks, buildSourceUsage, backlinkEntry } from './content';
 import { renderMarkdown } from './markdown/render';
 import { findHeading } from './markdown/remarkWikiLink';
 import { getCards } from './cards';
+import { getJournalEntries, getJournalNav, JOURNAL_TYPES } from './journal';
 import { locate, flattenNav } from '@/data/nav';
 
 // 樣式樣張頁的示範逆連結：{ 本頁標題: ['來源頁#來源標題', …] }，來源要是真的頁面與段落，點了才開得了預覽
@@ -41,11 +42,19 @@ export async function getContentPageProps(slug) {
     sources,
     backlinks,
     cardsFor: (of = slug) => getCards(of, pages),
+    journalEntries: () => getJournalEntries(pages),
   });
+
+  // 逐篇筆記的導覽依日期自動產生（全站都要：手機抽屜也列得出來）
+  const journalNav = getJournalNav(pages);
+  const journal = slug.startsWith('journal/')
+    ? { type: JOURNAL_TYPES[page.frontmatter.type] || null, linked: buildSourceUsage(pages)[slug.split('/').pop()] || [] }
+    : null;
 
   const { tab, navKey } = locate(slug, page.frontmatter.nav);
   const existing = pages.map((p) => p.slug);
-  const flat = flattenNav(navKey).filter((i) => existing.includes(i.slug));
+  const navItems = navKey === 'journal' ? journalNav.flatMap((s) => s.items) : flattenNav(navKey);
+  const flat = navItems.filter((i) => existing.includes(i.slug));
   const i = flat.findIndex((item) => item.slug === slug);
 
   return {
@@ -57,6 +66,8 @@ export async function getContentPageProps(slug) {
       tab,
       navKey,
       existing,
+      journalNav,
+      journal,
       prev: i > 0 ? flat[i - 1] : null,
       next: i >= 0 && i < flat.length - 1 ? flat[i + 1] : null,
     },

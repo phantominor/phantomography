@@ -3,7 +3,8 @@
 //   行內  :red[文字]  :stage[二階]  :q[113-2 醫三 #24]
 //   流程圖 ::chart{id="…"}（共用流程圖，見 lib/charts.js）
 //   卡片  ::cards{of="…"}（總覽頁的卡片入口，見 lib/cards.js；of 省略時為目前頁面）
-//   區塊  :::exam  :::mnemonic  :::compare  :::pitfall  :::verify  :::detail{title="…"}  :::source{from="…"}
+//   列表  ::journal（逐篇筆記依日期的列表與標籤篩選，見 lib/journal.js）
+//   區塊  :::exam  :::mnemonic  :::compare  :::pitfall  :::verify  :::supplement  :::detail{title="…"}  :::source{from="…"}
 // 不認得的行內語法（例如內文剛好出現「Na:K」）會還原成原本的文字。
 
 import { visit } from 'unist-util-visit';
@@ -16,6 +17,7 @@ const CALLOUTS = {
   compare: '比較',
   pitfall: '陷阱',
   verify: '待查證',
+  supplement: '補充',
 };
 
 const INLINE = {
@@ -54,6 +56,36 @@ function cardsHtml(groups) {
   )).join('') + '</div>';
 }
 
+// 逐篇筆記列表：上方是標籤篩選（ContentPage 掛上點擊事件），下方依年份分組
+function journalHtml(entries) {
+  if (!entries.length) return '';
+  const counts = {};
+  for (const e of entries) for (const t of e.tags) counts[t] = (counts[t] || 0) + 1;
+  const tags = Object.keys(counts).sort((a, b) => counts[b] - counts[a] || a.localeCompare(b, 'zh-Hant'));
+  const filter = tags.length
+    ? '<div class="journal-filter">' + tags.map((t) => `<button type="button" class="journal-tag" data-tag="${escapeHtml(t)}">${escapeHtml(t)}<span class="journal-tag-count">${counts[t]}</span></button>`).join('') + '</div>'
+    : '';
+  const years = [];
+  for (const e of entries) {
+    const year = e.date.slice(0, 4) || '未標日期';
+    let y = years.find((g) => g.year === year);
+    if (!y) years.push((y = { year, items: [] }));
+    y.items.push(e);
+  }
+  const item = (e) => {
+    const meta = [formatDate(e.date), e.type, e.event, e.speaker].filter(Boolean).map(escapeHtml).join(' · ');
+    const tagList = e.tags.map((t) => `<span class="journal-item-tag">${escapeHtml(t)}</span>`).join('');
+    return `<li class="journal-item" data-tags="${escapeHtml(JSON.stringify(e.tags))}">`
+      + `<a class="journal-item-title" href="${escapeHtml(e.url)}">${escapeHtml(e.title)}</a>`
+      + `<span class="journal-item-meta">${meta}${e.integrated ? '' : ' · <span class="journal-pending">尚未整合</span>'}</span>`
+      + (tagList ? `<span class="journal-item-tags">${tagList}</span>` : '')
+      + '</li>';
+  };
+  return '<div class="journal-list">' + filter + years.map((y) => (
+    `<div class="journal-year">${escapeHtml(y.year)}</div><ul class="journal-items">${y.items.map(item).join('')}</ul>`
+  )).join('') + '</div>';
+}
+
 // 把 :::name[標籤] 的標籤段落取出來（沒有就回傳 null）
 function takeLabel(node) {
   const first = node.children[0];
@@ -64,8 +96,16 @@ function takeLabel(node) {
   return null;
 }
 
-export default function remarkDirectives({ sources = {}, cardsFor, warnings }) {
+export default function remarkDirectives({ sources = {}, cardsFor, journalEntries, warnings }) {
   return (tree) => {
+    // ::journal：逐篇筆記列表
+    visit(tree, 'leafDirective', (node, index, parent) => {
+      if (node.name !== 'journal') return undefined;
+      const value = journalHtml(journalEntries ? journalEntries() : []);
+      parent.children.splice(index, 1, ...(value ? [html(value)] : []));
+      return value ? index + 1 : index;
+    });
+
     // ::cards{of="…"}：總覽頁的卡片入口
     visit(tree, 'leafDirective', (node, index, parent) => {
       if (node.name !== 'cards') return undefined;

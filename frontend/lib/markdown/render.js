@@ -16,7 +16,7 @@ import remarkDirectives from './remarkDirectives';
 import rehypeHeadings from './rehypeHeadings';
 import rehypeElements from './rehypeElements';
 
-export async function renderMarkdown(markdown, { linkIndex, currentPage, sources, backlinks, cardsFor }) {
+export async function renderMarkdown(markdown, { linkIndex, currentPage, sources, backlinks, cardsFor, journalEntries }) {
   const toc = [];
   const warnings = [];
   const file = await unified()
@@ -26,7 +26,7 @@ export async function renderMarkdown(markdown, { linkIndex, currentPage, sources
     .use(remarkDirective)
     .use(remarkMath)
     .use(remarkWikiLink, { linkIndex, currentPage, warnings })
-    .use(remarkDirectives, { sources, cardsFor, warnings })
+    .use(remarkDirectives, { sources, cardsFor, journalEntries, warnings })
     .use(remarkRehype, { allowDangerousHtml: true })
     .use(rehypeRaw) // 讓 Markdown 裡手寫的 HTML（合併儲存格的表格）生效
     .use(rehypeKatex)

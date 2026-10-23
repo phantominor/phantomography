@@ -107,9 +107,12 @@ for (const file of walk(CONTENT_DIR)) {
   const slugger = new GithubSlugger();
 
   const { tag, cat } = locationOf(url);
+  // 逐篇筆記的標籤、活動、講者、地點：每個段落都比對得到
+  const asList = (v) => (Array.isArray(v) ? v : v ? [v] : []);
+  const pageKeywords = tag === '隨筆' ? [...asList(data.tags), data.event, ...asList(data.speaker), data.place].filter(Boolean).map(String) : [];
   let current = { p: pageTitle, u: url, s: '', i: '', t: [] };
   const flush = () => {
-    const keywords = new Set();
+    const keywords = new Set(pageKeywords);
     const text = stripWikiLinks(current.t.join(' '), keywords).replace(/\s+/g, ' ').trim();
     const k = [...keywords].join(' ');
     if (current.s || text) entries.push({ p: current.p, u: current.u, s: stripWikiLinks(current.s, keywords), i: current.i, t: text, k, g: tag, c: cat });
