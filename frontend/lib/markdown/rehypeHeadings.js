@@ -1,8 +1,10 @@
 // lib/markdown/rehypeHeadings.js
 // h2~h4 產生錨點 id（規則與 lib/content.js 的 collectHeadings 相同）、
 // h2「一、」h3「1.1」自動編號、加上段落連結圖示，並收集右側目錄（h2、h3）。
+// 有其他頁面連到的段落，標題右側加逆連結按鈕（圖示 + 來源數，放在平常隱藏的段落連結圖示前面），
+// 標題下方放收合的來源清單（展開由 SiteLayout 處理）。
 
-import { visit } from 'unist-util-visit';
+import { visit, SKIP } from 'unist-util-visit';
 import { toString } from 'hast-util-to-string';
 import GithubSlugger from 'github-slugger';
 import { ICONS } from './icons';
@@ -16,12 +18,28 @@ function toChineseNumeral(n) {
   return (tens === 1 ? '' : DIGITS[tens]) + '十' + DIGITS[ones];
 }
 
-export default function rehypeHeadings({ toc }) {
+const el = (tagName, properties, children) => ({ type: 'element', tagName, properties, children });
+const textNode = (value) => ({ type: 'text', value });
+
+// 來源清單依來源頁分組
+function backlinkList(entries) {
+  const groups = new Map();
+  for (const e of entries) {
+    if (!groups.has(e.page)) groups.set(e.page, []);
+    groups.get(e.page).push(e);
+  }
+  return el('div', { className: ['backlinks'], hidden: true }, [...groups].map(([page, list]) => el('div', { className: ['backlinks-group'] }, [
+    el('div', { className: ['backlinks-page'] }, [textNode(page)]),
+    el('ul', {}, list.map((e) => el('li', {}, [el('a', { className: ['wiki-link'], href: e.url }, [textNode(e.path.join(' › '))])]))),
+  ])));
+}
+
+export default function rehypeHeadings({ toc, backlinks = {} }) {
   return (tree) => {
     const slugger = new GithubSlugger();
     let h2 = 0;
     let h3 = 0;
-    visit(tree, 'element', (node) => {
+    visit(tree, 'element', (node, index, parent) => {
       const depth = { h2: 2, h3: 3, h4: 4 }[node.tagName];
       if (!depth) return;
       const text = toString(node).trim();
@@ -43,12 +61,26 @@ export default function rehypeHeadings({ toc }) {
         });
         toc.push({ depth, id, text, num });
       }
+      const entries = backlinks[id];
+      const hasBacklinks = Boolean(entries?.length && parent);
+      if (hasBacklinks) {
+        node.children.push(el('button', {
+          type: 'button',
+          className: ['backlink-toggle'],
+          ariaExpanded: 'false',
+          ariaLabel: `${entries.length} 個段落連到這裡`,
+          title: `${entries.length} 個段落連到這裡`,
+        }, [{ type: 'raw', value: ICONS.backlink }, el('span', {}, [textNode(String(entries.length))])]));
+      }
       node.children.push({
         type: 'element',
         tagName: 'a',
         properties: { className: ['anchor'], href: `#${id}`, ariaLabel: '段落連結' },
         children: [{ type: 'raw', value: ICONS.link }],
       });
+      if (!hasBacklinks) return undefined;
+      parent.children.splice(index + 1, 0, backlinkList(entries));
+      return [SKIP, index + 2];
     });
   };
 }

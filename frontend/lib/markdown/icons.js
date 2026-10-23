@@ -5,7 +5,9 @@ import { createElement } from 'react';
 import { renderToStaticMarkup } from 'react-dom/server';
 import {
   LuTarget, LuLightbulb, LuColumns2, LuTriangleAlert, LuCircleHelp,
-  LuBookmark, LuChevronRight, LuLink, LuWorkflow,
+  LuBookmark, LuChevronRight, LuLink, LuWorkflow, LuCornerUpLeft,
+  LuStethoscope, LuMessageCircleQuestion, LuMicroscope, LuPill, LuHand, LuCompass, LuSiren, LuFolderOpen,
+  LuDna, LuHospital, LuNotebookPen,
 } from 'react-icons/lu';
 
 const svg = (Icon) => renderToStaticMarkup(createElement(Icon, { 'aria-hidden': true, className: 'icon' }));
@@ -20,4 +22,20 @@ export const ICONS = {
   detail: svg(LuChevronRight),
   link: svg(LuLink),
   chart: svg(LuWorkflow),
+  backlink: svg(LuCornerUpLeft),
+};
+
+// 總覽頁卡片的圖示（data/nav.js 的 icon 欄位）
+export const CARD_ICONS = {
+  stethoscope: svg(LuStethoscope),
+  complaint: svg(LuMessageCircleQuestion),
+  microscope: svg(LuMicroscope),
+  pill: svg(LuPill),
+  hand: svg(LuHand),
+  compass: svg(LuCompass),
+  siren: svg(LuSiren),
+  folder: svg(LuFolderOpen),
+  dna: svg(LuDna),
+  hospital: svg(LuHospital),
+  notebook: svg(LuNotebookPen),
 };

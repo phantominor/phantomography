@@ -4,7 +4,7 @@
 
 import Link from 'next/link';
 import { useCallback, useEffect, useState } from 'react';
-import { useRouter } from 'next/router';
+import Router, { useRouter } from 'next/router';
 import {
   LuMenu, LuX, LuGithub, LuHouse, LuArrowUp, LuChevronLeft, LuChevronRight, LuCornerUpLeft,
 } from 'react-icons/lu';
@@ -99,6 +99,18 @@ export default function SiteLayout({ title, tab, navKey, currentSlug, existing, 
   useEffect(() => {
     const onClick = (e) => {
       if (e.defaultPrevented || e.button !== 0 || e.metaKey || e.ctrlKey || e.shiftKey || e.altKey) return;
+
+      // 標題旁的逆連結按鈕：展開／收合標題下方的來源清單
+      const toggle = e.target.closest?.('.backlink-toggle');
+      if (toggle) {
+        const list = toggle.closest('h2, h3, h4')?.nextElementSibling;
+        if (list?.classList.contains('backlinks')) {
+          list.hidden = !list.hidden;
+          toggle.setAttribute('aria-expanded', String(!list.hidden));
+        }
+        return;
+      }
+
       const a = e.target.closest?.('a[href]');
       if (!a) return;
       const href = a.getAttribute('href');
@@ -113,6 +125,13 @@ export default function SiteLayout({ title, tab, navKey, currentSlug, existing, 
         smoothScrollTo(el, peekBody);
         flash(el);
         if (!peekBody) window.history.replaceState(window.history.state, '', href);
+        return;
+      }
+
+      // 總覽頁的卡片：站內換頁
+      if (a.classList.contains('card')) {
+        e.preventDefault();
+        Router.push(href);
         return;
       }
 

@@ -2,11 +2,12 @@
 // 自訂語法（remark-directive）：
 //   行內  :red[文字]  :stage[二階]  :q[113-2 醫三 #24]
 //   流程圖 ::chart{id="…"}（共用流程圖，見 lib/charts.js）
+//   卡片  ::cards{of="…"}（總覽頁的卡片入口，見 lib/cards.js；of 省略時為目前頁面）
 //   區塊  :::exam  :::mnemonic  :::compare  :::pitfall  :::verify  :::detail{title="…"}  :::source{from="…"}
 // 不認得的行內語法（例如內文剛好出現「Na:K」）會還原成原本的文字。
 
 import { visit } from 'unist-util-visit';
-import { ICONS } from './icons';
+import { ICONS, CARD_ICONS } from './icons';
 import { loadChart } from '../charts';
 
 const CALLOUTS = {
@@ -29,6 +30,30 @@ function formatDate(value) {
   return value ? String(value).replace(/-/g, '/') : '';
 }
 
+const escapeHtml = (s) => String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+
+function cardHtml(card) {
+  const icon = card.icon && CARD_ICONS[card.icon] ? `<span class="card-icon">${CARD_ICONS[card.icon]}</span>` : '';
+  const desc = card.description ? `<span class="card-desc">${escapeHtml(card.description)}</span>` : '';
+  const foot = card.exists
+    ? (card.updated ? `<span class="card-date">更新於 ${formatDate(card.updated)}</span>` : '')
+    : '<span class="card-date">尚未撰寫</span>';
+  const body = `<span class="card-head">${icon}<span class="card-title">${escapeHtml(card.label)}</span></span>${desc}${foot}`;
+  return card.exists
+    ? `<a class="card" href="${escapeHtml(card.url)}">${body}</a>`
+    : `<span class="card card-missing" aria-disabled="true">${body}</span>`;
+}
+
+// 沒有項目的分組不顯示；整個導覽區都還沒有項目時（例如逐篇筆記）不產生任何東西
+function cardsHtml(groups) {
+  const shown = groups.filter((g) => g.items.length);
+  if (!shown.length) return '';
+  return '<div class="cards">' + shown.map((g) => (
+    (g.title ? `<div class="cards-group">${escapeHtml(g.title)}</div>` : '')
+    + `<div class="cards-grid">${g.items.map(cardHtml).join('')}</div>`
+  )).join('') + '</div>';
+}
+
 // 把 :::name[標籤] 的標籤段落取出來（沒有就回傳 null）
 function takeLabel(node) {
   const first = node.children[0];
@@ -39,8 +64,23 @@ function takeLabel(node) {
   return null;
 }
 
-export default function remarkDirectives({ sources = {}, warnings }) {
+export default function remarkDirectives({ sources = {}, cardsFor, warnings }) {
   return (tree) => {
+    // ::cards{of="…"}：總覽頁的卡片入口
+    visit(tree, 'leafDirective', (node, index, parent) => {
+      if (node.name !== 'cards') return undefined;
+      const of = node.attributes?.of;
+      const groups = cardsFor ? cardsFor(of) : null;
+      if (!groups) {
+        warnings.push(`找不到卡片的導覽區：${of}`);
+        parent.children.splice(index, 1);
+        return index;
+      }
+      const value = cardsHtml(groups);
+      parent.children.splice(index, 1, ...(value ? [html(value)] : []));
+      return value ? index + 1 : index;
+    });
+
     // ::chart{id="…"}：換成 content/_charts/<id>.mmd 的流程圖（等同直接寫 ```mermaid 圖標題）
     visit(tree, 'leafDirective', (node, index, parent) => {
       if (node.name !== 'chart') return undefined;

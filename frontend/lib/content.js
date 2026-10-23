@@ -12,6 +12,7 @@ import remarkCjkFriendly from 'remark-cjk-friendly';
 import remarkDirective from 'remark-directive';
 import remarkMath from 'remark-math';
 import GithubSlugger from 'github-slugger';
+import { WIKI_RE, findHeading } from './markdown/remarkWikiLink';
 
 export const CONTENT_DIR = path.join(process.cwd(), 'content');
 
@@ -39,8 +40,12 @@ function mdastText(node) {
 }
 
 // 依出現順序替 h2~h4 產生錨點 id；render 階段用同一套規則，兩邊才會對得上
+function parseMarkdown(markdown) {
+  return unified().use(remarkParse).use(remarkGfm, { singleTilde: false }).use(remarkCjkFriendly).use(remarkDirective).use(remarkMath).parse(markdown);
+}
+
 export function collectHeadings(markdown) {
-  const tree = unified().use(remarkParse).use(remarkGfm, { singleTilde: false }).use(remarkCjkFriendly).use(remarkDirective).use(remarkMath).parse(markdown);
+  const tree = parseMarkdown(markdown);
   const slugger = new GithubSlugger();
   const headings = [];
   const visit = (node) => {
@@ -114,4 +119,51 @@ export function getJournalSources(pages = getAllPages()) {
     sources[id] = { date, event: event || title, speaker, url: p.url };
   }
   return sources;
+}
+
+// 段落標題的層級路徑，例如「急性腹痛 › 依位置的鑑別診斷」：該標題加上它的上一層標題
+function headingPath(headings, index) {
+  const path = [headings[index]];
+  for (let k = index - 1; k >= 0 && path.length < 2; k--) {
+    if (headings[k].depth < path[0].depth) path.unshift(headings[k]);
+  }
+  return path.map((h) => h.text);
+}
+
+// 逆連結的一筆來源：來源頁的某個段落
+export function backlinkEntry(page, headingIndex) {
+  const h = page.headings[headingIndex];
+  return { url: `${page.url}#${h.id}`, page: page.frontmatter.title || page.slug, path: headingPath(page.headings, headingIndex) };
+}
+
+let backlinkCache = null;
+
+// 逆連結表：{ 目標 slug: { 目標段落 id: [來源段落…] } }。只收「指到段落」的跨頁 wiki-link，
+// 同頁連結、只指到頁面的連結、noindex 頁（樣式樣張）發出的連結都不算；同一個來源段落只記一次
+export function buildBacklinks(pages = getAllPages(), linkIndex = buildLinkIndex(pages)) {
+  if (backlinkCache && isProd) return backlinkCache;
+  const table = {};
+  for (const source of pages) {
+    if (source.frontmatter.noindex) continue;
+    let hi = -1;
+    const visit = (node) => {
+      if (node.type === 'heading' && node.depth >= 2 && node.depth <= 4) hi += 1;
+      if (node.type === 'text' && hi >= 0 && node.value.includes('[[')) {
+        for (const [, pageRef = '', headingRef] of node.value.matchAll(WIKI_RE)) {
+          if (!pageRef.trim() || !headingRef) continue;
+          const target = linkIndex.get(pageRef.trim().toLowerCase());
+          if (!target || target === source) continue;
+          const heading = findHeading(target.headings, headingRef);
+          if (!heading) continue;
+          const entry = backlinkEntry(source, hi);
+          const list = ((table[target.slug] ||= {})[heading.id] ||= []);
+          if (!list.some((e) => e.url === entry.url)) list.push(entry);
+        }
+      }
+      (node.children || []).forEach(visit);
+    };
+    visit(parseMarkdown(source.content));
+  }
+  backlinkCache = table;
+  return table;
 }

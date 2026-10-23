@@ -425,3 +425,146 @@
   font-size: 0.8rem;
   color: var(--color-text-muted);
 }
+
+/* ── 逆連結：標題右側的按鈕（圖示 + 來源數），點開後標題下方列出來源段落 ── */
+.note .backlink-toggle {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.2em;
+  margin-left: 0.5em;
+  padding: 0 0.5em;
+  vertical-align: middle;
+  font: inherit;
+  font-size: 0.65em;
+  font-weight: 400;
+  -webkit-text-stroke: 0;
+  line-height: 1.7;
+  color: var(--color-text-faint);
+  background: none;
+  border: 1px solid var(--color-border-strong);
+  border-radius: 999px;
+  cursor: pointer;
+  transition: color 0.15s ease, border-color 0.15s ease;
+}
+
+.note .backlink-toggle .icon {
+  width: 1em;
+  height: 1em;
+}
+
+.note .backlink-toggle:hover,
+.note .backlink-toggle[aria-expanded="true"] {
+  color: var(--color-text-muted);
+  border-color: var(--color-text-faint);
+}
+
+.note .backlinks {
+  margin: -0.2em 0 0.9em;
+  padding: 0.5em 0.9em;
+  font-size: 0.85rem;
+  line-height: 1.7;
+  background: var(--color-bg-alt);
+  border-radius: var(--radius-md);
+}
+
+.note .backlinks[hidden] {
+  display: none;
+}
+
+.note .backlinks-page {
+  color: var(--color-text-muted);
+}
+
+.note .backlinks ul {
+  list-style: none;
+  margin: 0 0 0.3em;
+  padding-left: 0.9em;
+}
+
+.note .backlinks-group:last-child ul {
+  margin-bottom: 0;
+}
+
+/* ── 總覽頁的卡片入口 ── */
+.note .cards {
+  margin: 1.2em 0 1.6em;
+}
+
+.note .cards-group {
+  margin: 1.4em 0 0.5em;
+  font-size: 0.9rem;
+  color: var(--color-text-muted);
+}
+
+.note .cards-group:first-child {
+  margin-top: 0;
+}
+
+.note .cards-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 12px;
+}
+
+.note .card {
+  display: flex;
+  flex-direction: column;
+  padding: 14px 16px;
+  color: var(--color-text);
+  border: 1px solid var(--color-border-strong);
+  border-radius: var(--radius-md);
+  transition: border-color 0.15s ease, background-color 0.15s ease;
+}
+
+.note a.card:hover {
+  color: var(--color-text);
+  text-decoration: none;
+  border-color: var(--color-text-faint);
+  background: var(--color-bg-hover);
+}
+
+.note .card-head {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.note .card-icon {
+  display: inline-flex;
+  color: var(--color-text-muted);
+}
+
+.note .card-icon .icon {
+  width: 1.2em;
+  height: 1.2em;
+}
+
+.note .card-title {
+  font-size: 1.05rem;
+  font-weight: 700;
+  -webkit-text-stroke: var(--bold-stroke);
+}
+
+.note .card-desc {
+  margin-top: 4px;
+  font-size: 0.85rem;
+  line-height: 1.6;
+  color: var(--color-text-muted);
+}
+
+.note .card-date {
+  margin-top: auto;
+  padding-top: 8px;
+  font-size: 0.75rem;
+  color: var(--color-text-faint);
+}
+
+.note .card-missing {
+  color: var(--color-text-faint);
+  border-color: var(--color-border);
+  cursor: default;
+}
+
+.note .card-missing .card-icon {
+  color: var(--color-text-faint);
+}

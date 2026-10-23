@@ -9,6 +9,13 @@ sampleSources:
     date: 2026-10-13
     event: 心臟內科 Grand Round（示範）
     speaker: 示範講者
+sampleBacklinks:
+  急性冠心症（Acute Coronary Syndrome, ACS）:
+    - 消化系統主訴#依位置的鑑別診斷
+    - 消化系統主訴#依機轉的鑑別診斷
+    - 心臟內科#MI 心電圖變化
+  陰離子間隙（Anion Gap）:
+    - 消化系統主訴#水瀉：滲透性 vs 分泌性
 ---
 
 這一頁集合了筆記會用到的所有排版元素，用來確認視覺設計。醫學內容僅為示範。
@@ -116,3 +123,21 @@ Methanol、Uremia、DKA、Propylene glycol、Isoniazid 與 Iron、Lactic acidosi
 - 行內程式碼與數值：`HbA1c ≥ 6.5%`。
 
 > 引用區塊：用在原文摘錄或指引原句。
+
+### 逆連結
+
+其他頁面的 wiki-link 指到某個段落時，該段落標題右側會出現逆連結按鈕（圖示加上來源段落數）。點開後，標題下方列出來源段落，依來源頁分組；點來源會開連結預覽。只計算精確指到該段落的連結，同頁連結、只指到頁面的連結不算。
+
+上方的「急性冠心症」與「陰離子間隙」是示範（來源是真實頁面，點了可以開預覽）。
+
+### 卡片入口
+
+總覽頁用 `::cards{of="…"}` 列出下一層。卡片依導覽結構自動產生：圖示、標題、描述（各頁 frontmatter 的 description）、更新日期（該頁與底下所有頁面中最新的一次）；尚未建立的頁面顯示灰卡。
+
+臨床醫學總覽（`::cards{of="clinical"}`）：
+
+::cards{of="clinical"}
+
+諸病微精總覽（`::cards{of="clinical/diseases"}`，依醫學三到醫學六分組；科別頁目前沒有描述與圖示）：
+
+::cards{of="clinical/diseases"}

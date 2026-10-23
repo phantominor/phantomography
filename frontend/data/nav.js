@@ -1,26 +1,26 @@
 // data/nav.js
 // 上方分頁與左側導覽的結構。slug 對應 content/ 底下的檔案路徑（去掉 .md，index.md 對應資料夾本身）；
-// 檔案還不存在的項目在導覽中會以灰字顯示、不可點。
+// 檔案還不存在的項目在導覽中會以灰字顯示、不可點。icon 是總覽頁卡片用的圖示名稱（見 lib/markdown/icons.js 的 CARD_ICONS）。
 //
 // 左側導覽以「導覽區」為單位：基礎醫學、逐篇筆記各一區；臨床醫學的八種切入方式各自獨立成一區，
 // 所以諸病微精的頂層（醫學三~六）與基礎醫學的頂層（醫學一~二）位階相同。
 
 export const CLINICAL_CATEGORIES = [
-  { key: 'clinical/diseases', label: '諸病微精', slug: 'clinical/diseases' },
-  { key: 'clinical/complaints', label: '病患主訴', slug: 'clinical/complaints' },
-  { key: 'clinical/tests', label: '檢查檢驗', slug: 'clinical/tests' },
-  { key: 'clinical/treatments', label: '治療處置', slug: 'clinical/treatments' },
-  { key: 'clinical/skills', label: '臨床技能', slug: 'clinical/skills' },
-  { key: 'clinical/general', label: '臨床通論', slug: 'clinical/general' },
-  { key: 'clinical/oncall', label: '值班要點', slug: 'clinical/oncall' },
-  { key: 'clinical/cases', label: '案例回顧', slug: 'clinical/cases' },
+  { key: 'clinical/diseases', label: '諸病微精', slug: 'clinical/diseases', icon: 'stethoscope' },
+  { key: 'clinical/complaints', label: '病患主訴', slug: 'clinical/complaints', icon: 'complaint' },
+  { key: 'clinical/tests', label: '檢查檢驗', slug: 'clinical/tests', icon: 'microscope' },
+  { key: 'clinical/treatments', label: '治療處置', slug: 'clinical/treatments', icon: 'pill' },
+  { key: 'clinical/skills', label: '臨床技能', slug: 'clinical/skills', icon: 'hand' },
+  { key: 'clinical/general', label: '臨床通論', slug: 'clinical/general', icon: 'compass' },
+  { key: 'clinical/oncall', label: '值班要點', slug: 'clinical/oncall', icon: 'siren' },
+  { key: 'clinical/cases', label: '案例回顧', slug: 'clinical/cases', icon: 'folder' },
 ];
 
 // 首頁由標題列的 Logo 連結，不另設分頁
 export const TABS = [
-  { key: 'basic', label: '基礎醫學', slug: 'basic' },
-  { key: 'clinical', label: '臨床醫學', slug: 'clinical', children: CLINICAL_CATEGORIES },
-  { key: 'journal', label: '逐篇筆記', slug: 'journal' },
+  { key: 'basic', label: '基礎醫學', slug: 'basic', icon: 'dna' },
+  { key: 'clinical', label: '臨床醫學', slug: 'clinical', icon: 'hospital', children: CLINICAL_CATEGORIES },
+  { key: 'journal', label: '逐篇筆記', slug: 'journal', icon: 'notebook' },
 ];
 
 const page = (label, slug) => ({ label, slug });

@@ -587,7 +587,12 @@ credit:
 | Age 65–74 | 1 |
 | Sex category（女性） | 1 |
 
-- **男性 ≥ 1 分、女性 ≥ 2 分 → 口服抗凝血劑**。
+- 抗凝門檻（2023 ACC/AHA/ACCP/HRS）：
+    - **男性 ≥ 2 分、女性 ≥ 3 分 → 建議口服抗凝血劑**（Class I）。
+    - 男性 1 分、女性 2 分 → 可考慮抗凝（Class IIa），與病人共同決策。
+    - 男性 0 分、女性 1 分 → 不需常規抗凝。
+    - 女性性別視為風險調節因子（risk modifier），本身不是抗凝適應症；指引也強調以年化中風風險判斷（≥ 2%／年建議抗凝）。
+    - 2024 ESC 改用不計性別的 **CHA₂DS₂-VA**：≥ 2 分建議抗凝，1 分應考慮。
 - **抗凝選擇**：NOAC（Rivaroxaban、Apixaban、Dabigatran、Edoxaban）**優於 Warfarin**。
     - 例外：**Valvular AF（中重度 MS 或機械瓣）→ 只能用 Warfarin**。
     - HAS-BLED score 評估出血風險。
@@ -629,6 +634,8 @@ credit:
     - **禁忌**：Adenosine、β-blocker、CCB、Digoxin（均可能加速 accessory pathway 傳導）。
     - 治療：**Procainamide** 或 **Ibutilide** → 電擊（若不穩定）。
 - 根治：**Catheter ablation of accessory pathway**。
+
+::chart{id="tachycardia-acls"}
 
 ### 心室心律不整
 
@@ -676,6 +683,8 @@ credit:
     - 第一碼：pacing chamber（A/V/D）；第二碼：sensing chamber；第三碼：response to sensing（I=inhibit、T=trigger、D=dual）。
     - **VVI**：最常用 single-chamber ventricular pacemaker。
     - **DDD**：dual-chamber（atrial + ventricular）→ 最生理性。
+
+::chart{id="bradycardia-acls"}
 
 ### 抗心律不整藥物分類（Vaughan-Williams）
 

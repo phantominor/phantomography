@@ -5,9 +5,9 @@
 import { visit, SKIP } from 'unist-util-visit';
 import GithubSlugger from 'github-slugger';
 
-const WIKI_RE = /\[\[([^\]|#]*)(?:#([^\]|]+))?(?:\|([^\]]+))?\]\]/g;
+export const WIKI_RE = /\[\[([^\]|#]*)(?:#([^\]|]+))?(?:\|([^\]]+))?\]\]/g;
 
-function findHeading(headings, text) {
+export function findHeading(headings, text) {
   const wanted = text.trim();
   const slug = new GithubSlugger().slug(wanted);
   return headings.find((h) => h.text === wanted || h.id === slug) || null;

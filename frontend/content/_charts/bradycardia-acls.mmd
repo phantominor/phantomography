@@ -1,0 +1,10 @@
+%% title: 心搏過緩的處置（ACLS）
+flowchart TD
+  A["心搏過緩 + 有脈搏"]:::start --> B["找原因：藥物、高血鉀、缺氧、MI<br/>監視器、IV、12 導程 ECG"]
+  B --> C{{"有症狀或灌流不足？"}}
+  C -->|"否"| D["監測、處理原因"]:::key
+  C -->|"是"| E["Atropine 1 mg IV<br/>每 3–5 分鐘，最多 3 mg"]
+  E --> F{{"有效？"}}
+  F -->|"是"| D
+  F -->|"否"| G["經皮節律<br/>或 dopamine、epinephrine 輸注"]:::danger
+  G --> H["經靜脈節律器、找可逆原因"]:::danger

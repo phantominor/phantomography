@@ -1,0 +1,11 @@
+%% title: 心搏過速的處置（ACLS）
+flowchart TD
+  A["心搏過速 + 有脈搏"]:::start --> B{{"不穩定？<br/>低血壓、意識改變、休克<br/>缺血性胸痛、急性心衰竭"}}
+  B -->|"是"| C["同步電擊"]:::danger
+  B -->|"否"| D{{"QRS 寬度？"}}
+  D -->|"窄（#60; 120 ms）"| E{{"規則？"}}
+  E -->|"規則"| F["Vagal maneuver<br/>→ adenosine 6 → 12 mg<br/>→ β 阻斷劑或 CCB"]:::key
+  E -->|"不規則"| G["AF、心房撲動、MAT<br/>心跳控制 + 評估抗凝血"]:::key
+  D -->|"寬（≥ 120 ms）"| H{{"規則且單形？"}}
+  H -->|"是"| I["當 VT 處理<br/>amiodarone 或 procainamide"]:::key
+  H -->|"不規則"| J["懷疑 pre-excited AF<br/>避免房室結阻斷劑<br/>procainamide 或電擊"]:::danger
