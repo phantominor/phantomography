@@ -631,6 +631,8 @@ credit:
     - 補充 Thiamine、folate、Mg²⁺。
     - 監測用 **CIWA-Ar** protocol。
 
+::chart{id="alcohol-withdrawal"}
+
 #### 酒精相關營養缺乏
 
 - **Wernicke encephalopathy**（急性）：**Thiamine（B₁）缺乏** → 治療用高劑量 IV Thiamine。

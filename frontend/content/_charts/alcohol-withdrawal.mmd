@@ -1,0 +1,12 @@
+%% title: 酒精戒斷的處置
+flowchart TD
+  A["最後一次喝酒後 6–96 小時<br/>顫抖、焦慮、心跳快、出汗"]:::start --> B["Thiamine IV（先於葡萄糖）<br/>補液、Mg、K、葉酸"]
+  B --> C["CIWA-Ar 評分"]
+  C --> D{{"分數？"}}
+  D -->|"#60; 8–10"| E["支持療法、監測<br/>每 4–8 小時重評"]
+  D -->|"10–15"| F["依症狀給 BZD<br/>diazepam、chlordiazepoxide<br/>老人或肝衰竭 → lorazepam"]:::key
+  D -->|"#62; 15"| G["積極給 BZD、住院"]:::key
+  G --> H{{"癲癇、DT、<br/>BZD 大劑量仍無效？"}}
+  F --> H
+  H -->|"是"| I["加護病房<br/>phenobarbital 或 propofol"]:::danger
+  H -->|"否"| J["減量、轉介戒酒治療<br/>naltrexone、acamprosate"]
