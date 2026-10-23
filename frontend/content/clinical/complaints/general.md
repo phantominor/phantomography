@@ -832,8 +832,12 @@ flowchart TD
 #### 初步處置
 
 - **生活型態**是所有治療的基礎：每天減少 500–750 kcal、每週 **≥ 150 分鐘**中等強度運動、行為治療；目標 6 個月內減重 **5–10%**。
-- **藥物**（台灣：**BMI ≥ 27，或 ≥ 24 合併共病**）：**GLP-1 RA（semaglutide）**、tirzepatide、orlistat、naltrexone/bupropion。
+- **藥物**：**GLP-1 RA（semaglutide）**、tirzepatide、orlistat、naltrexone/bupropion。
+    - 台灣核准適應症（食藥署仿單）：:red[BMI ≥ 30，或 ≥ 27 合併至少一項體重相關共病]（高血壓、第二型糖尿病、血脂異常等）。
+    - 台灣指引：國健署《成人肥胖防治實證指引》BMI ≥ 27 可考慮藥物；台灣肥胖醫學會 2026 年指引：BMI ≥ 27 合併共病可直接用藥，24–26.9 合併共病且生活型態介入無效時可共同決策。
+    - 註：美國 FDA 與仿單相同（≥ 30，或 ≥ 27 + 共病）；亞洲人在相同 BMI 下代謝風險較高，台灣指引門檻因此較低。
 - **減重手術**（台灣：**:red[BMI ≥ 37.5，或 ≥ 32.5 合併共病]**）：sleeve gastrectomy（最常做）、Roux-en-Y gastric bypass。
+    - 註：美國傳統標準為 BMI ≥ 40，或 ≥ 35 合併共病；2022 ASMBS/IFSO 已下修為 ≥ 35，或 30–34.9 合併代謝疾病。
 - 續發性原因 → 治療病因、調整藥物（例如 olanzapine 換成 aripiprazole）。
 - 詳見[[代謝內分泌科#肥胖治療|肥胖治療]]。
 

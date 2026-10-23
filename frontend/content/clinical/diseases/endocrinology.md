@@ -808,16 +808,21 @@ credit:
 ### 肥胖治療
 
 - **生活型態**：飲食控制 + 運動 → 所有治療的基礎。
-- **藥物治療**（BMI ≥ 27 或 ≥ 24 有共病時考慮）：
-    - **Semaglutide**（GLP-1 RA）：目前最有效的減重藥物之一。
-    - **Tirzepatide**（GLP-1/GIP dual agonist）：減重效果可能更強。
-    - **Orlistat**（lipase inhibitor）：↓脂肪吸收；副作用：steatorrhea、脂溶性 vitamin↓。
-    - **Naltrexone/Bupropion**：中樞抑制食慾。
-    - **Phentermine/Topiramate**：交感作用 + 抑制食慾。
+- **藥物治療**：
+    - 台灣核准適應症（食藥署仿單）：:red[BMI ≥ 30，或 ≥ 27 合併至少一項體重相關共病]（高血壓、第二型糖尿病、血脂異常等）。
+    - 台灣指引：國健署《成人肥胖防治實證指引》BMI ≥ 27 可考慮藥物；台灣肥胖醫學會 2026 年指引：BMI ≥ 27 合併共病可直接用藥，24–26.9 合併共病且生活型態介入無效時可共同決策。
+    - 註：美國 FDA 與仿單相同（≥ 30，或 ≥ 27 + 共病）；亞洲人在相同 BMI 下代謝風險較高，台灣指引門檻因此較低。
+    - 藥物選擇：
+        - **Semaglutide**（GLP-1 RA）：目前最有效的減重藥物之一。
+        - **Tirzepatide**（GLP-1/GIP dual agonist）：減重效果可能更強。
+        - **Orlistat**（lipase inhibitor）：↓脂肪吸收；副作用：steatorrhea、脂溶性 vitamin↓。
+        - **Naltrexone/Bupropion**：中樞抑制食慾。
+        - **Phentermine/Topiramate**：交感作用 + 抑制食慾。
 - **減重手術（Bariatric surgery）**（:red[BMI ≥ 37.5 或 ≥ 32.5 有共病]）：
     - **Roux-en-Y gastric bypass（RYGB）**：限制性 + 吸收不良性 → 減重效果佳。
     - **Sleeve gastrectomy**：目前最常做的術式；限制性；併發症較少。
     - 術後：需終身補充 vitamins（B12、iron、calcium、folate）。
+    - 註：美國傳統標準為 BMI ≥ 40，或 ≥ 35 合併共病；2022 ASMBS/IFSO 已下修為 ≥ 35，或 30–34.9 合併代謝疾病。
 
 ## 骨質代謝疾病
 
