@@ -123,6 +123,8 @@ credit:
 6. 監測：PEF、SpO₂、ABG。
 7. **Status asthmaticus**（severe refractory）→ ICU、考慮插管。
 
+::chart{id="asthma-exacerbation"}
+
 #### 特殊類型
 
 - **Exercise-induced bronchoconstriction（EIB）**：運動後 5–15 分鐘出現，預防用 SABA 運動前 15 分鐘吸入。
@@ -701,6 +703,8 @@ credit:
 | V/Q scan | CTPA 禁忌時（腎功能不全、顯影劑過敏） |
 | Echo | 右心擴大、RV dysfunction → 輔助評估嚴重度 |
 | Lower extremity duplex US | 確認 DVT 來源 |
+
+::chart{id="pe-diagnosis"}
 
 ### 治療
 

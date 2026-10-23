@@ -1,0 +1,9 @@
+%% title: 急性氣喘發作的處置
+flowchart TD
+  A["急性氣喘發作"]:::start --> B["評估嚴重度：說話能力、RR、心跳<br/>SpO₂、PEF、呼吸輔助肌"]
+  B --> C{{"有致命徵象？<br/>意識變差、安靜胸、PaCO₂ 上升"}}
+  C -->|"是"| D["呼叫加護團隊、準備插管<br/>SABA + SAMA、IV 類固醇、IV MgSO₄"]:::danger
+  C -->|"否"| E["氧氣：SpO₂ 93–95%<br/>SABA q20min × 3（± SAMA）<br/>口服或 IV 類固醇"]
+  E --> F{{"1 小時後再評估<br/>PEF #62; 60–80%、症狀改善？"}}
+  F -->|"是"| G["可出院：ICS 為主的控制藥<br/>口服類固醇 5–7 天、追蹤"]:::key
+  F -->|"否"| H["持續 SABA、加 IV MgSO₄<br/>住院；惡化 → 加護病房"]:::danger
