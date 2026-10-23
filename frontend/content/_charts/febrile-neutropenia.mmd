@@ -1,0 +1,13 @@
+%% title: 嗜中性球低下發燒的處置
+flowchart TD
+  A["ANC #60; 500 + 發燒 ≥ 38.3°C<br/>或 ≥ 38.0°C 持續 1 小時"]:::start --> B["血液培養 ≥ 2 套（導管 + 周邊）<br/>尿液、CXR、乳酸"]
+  B --> C["60 分鐘內經驗性抗生素<br/>Cefepime 或 Piperacillin-tazobactam"]:::danger
+  C --> D{{"休克、導管感染、皮膚感染<br/>肺炎或 MRSA 移生？"}}
+  D -->|"是"| E["加 Vancomycin"]
+  D -->|"否"| F{{"MASCC ≥ 21 且穩定？"}}
+  E --> G
+  F -->|"是"| H["低風險：口服 ciprofloxacin<br/>+ amoxicillin-clavulanate"]:::key
+  F -->|"否"| G["高風險：住院 IV 抗生素<br/>依培養調整"]
+  G --> I{{"4–7 天後仍發燒？"}}
+  I -->|"是"| J["胸部 CT、galactomannan<br/>加經驗性抗黴菌藥"]:::key
+  I -->|"否"| K["退燒 ≥ 48 小時且 ANC #62; 500 → 停藥"]:::key

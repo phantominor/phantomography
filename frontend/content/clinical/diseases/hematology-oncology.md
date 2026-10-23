@@ -916,6 +916,8 @@ credit:
     - 考慮加 Vancomycin、**G-CSF**。
     - 不明熱持續 4–7 天 → 加 empiric **antifungal**。
 
+::chart{id="febrile-neutropenia"}
+
 ### 化學治療
 
 | 藥物 | 類別 | 特殊毒性 |
