@@ -1,5 +1,6 @@
 <!-- UPDATE.md -->
 [2026/10/27]
+- **多來源找圖**: `fetch-commons.mjs` 改名擴充為 `fetch-image.mjs`，除了 Wikimedia Commons，新增 Open-i（PubMed Central 論文圖片，授權逐篇由 Europe PMC 查）與 Openverse（Flickr、Wellcome Collection 等）搜尋；`url` 下載須註明授權，ND 授權禁止裁切；CLAUDE.md 列出可用與不可用的來源（DermNet、LITFL 可用；Radiopaedia、EyeRounds 不自動抓）
 - **圖片授權放寬**: 本站確定永不商業化，NC 授權可用；ND 授權只能整張縮放轉檔、不能裁切（`fetch-commons.mjs` 會擋）；新增 `url` 指令處理 Commons 以外的來源，DermNet 列為皮膚圖來源；CLAUDE.md 同步更新
 - **TODO 整理**: 收件匣表單改版（SQL 已執行、測試筆記正常）與 phantominor M 按鈕 Logo（已在 phantominor 完成）兩項刪除
 - **開放授權圖片流程**: 新增 `scripts/fetch-commons.mjs`（從 Wikimedia Commons 搜尋、檢查授權、下載轉 WebP、印出出處字串，處理限流重試）；圖說支援「說明 | 出處 | 網址」，出處以小字連結顯示；圖片最大高度 420 px；CLAUDE.md 補上圖片慣例
