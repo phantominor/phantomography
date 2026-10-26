@@ -8,7 +8,8 @@
     "prebuild": "node scripts/build-search-index.mjs && node scripts/build-sitemap.mjs",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "pull-inbox": "node scripts/pull-inbox.mjs"
   },
   "dependencies": {
     "@supabase/ssr": "^0.10.3",

@@ -1,5 +1,10 @@
 <!-- UPDATE.md -->
 [2026/10/26]
+- **收件匣抓取與照片處理**: 實作 phantomajor 收件匣的本站端
+  - `scripts/pull-inbox.mjs`（`npm run pull-inbox`）：用 `.env.local` 的 `M_INGEST_SECRET` 呼叫密語函式，把收件匣寫成 `inbox/<日期>-<時間>-<id>.md`、照片存同名資料夾，全部寫入成功才從 Supabase 刪除；直接打 REST 端點，不經 supabase-js（Node 20 會要求 WebSocket）
+  - `scripts/process-photo.mjs`：照片轉正方向、依指定範圍裁切、縮到長邊 1600 px、轉 WebP 存進 `public/media/`
+  - `/ingest` skill 新增第 0 步（先抓收件匣）與照片處理步驟；CLAUDE.md 同步更新
+  - 密語已產生並寫入 `.env.local`，Supabase 端要插入它的雜湊
 - **Supabase 收件匣規劃**: 逐篇筆記改成可以在 phantomajor 用表單輸入，不用手動複製 inbox 範本；設計藍圖寫在 phantomajor 的 `frontend/blueprints/m/m_v1.md`
   - phantomajor 新增「專案管理」區（比照 phantominor 首頁 A–Z），M 管理頁的第一個功能是收件匣，可記日期時間、活動、講者、地點與四區筆記，可附照片
   - 本站之後新增 `scripts/pull-inbox.mjs`：用密語呼叫專用函式抓下收件匣，寫成 inbox 檔（照片存同名資料夾），寫入成功才從 Supabase 刪除；`/ingest` 的第一步改成先執行它

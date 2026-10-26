@@ -32,10 +32,9 @@ phantomography 接下來的待辦事項。完成的項目直接刪掉（完成�
 - [ ] 各分類之間、與諸病微精之間補 wiki-link 互相連結。
 - [ ] 逐篇筆記：第一篇文章（照 `inbox/_template.md` 寫好後說 `/ingest`），順便檢驗流程與提案檔格式是否好用。
 - [ ] 逐篇筆記的日曆檢視（依 `date`、`time` 排成月曆）：之後再討論。
-- [ ] Supabase 收件匣（藍圖：phantomajor `frontend/blueprints/m/m_v1.md`）：等你看過藍圖後實作。
-  - phantomajor：首頁專案管理區、`/m`、`/m/inbox`、照片上傳。
-  - SQL `m_01`、`m_02` 要你手動貼到 SQL Editor，並插入密語雜湊。
-  - 本站：`scripts/pull-inbox.mjs`、`.env.local` 加 `M_INGEST_SECRET`、`/ingest` skill 加上抓取與照片處理。
+- [ ] Supabase 收件匣上線（程式已完成）：
+  - 把 phantomajor 的 `backend/supabase/m/m_01_inbox.sql`、`m_02_ingest_functions.sql` 依序貼到 SQL Editor 執行，再插入密語雜湊（見 UPDATE.md 2026/10/26 或對話）。
+  - phantomajor 推上去部署後，用手機記一篇測試筆記（附照片），再 `/ingest` 走完整流程。
 
 ## 題庫
 

@@ -56,7 +56,10 @@ npm run lint     # next lint
 
 ## 新增逐篇筆記（/ingest）
 
-使用者把筆記丟進 `inbox/`（照 `inbox/_template.md`）後說 `/ingest`，完整步驟見 `.claude/skills/ingest/SKILL.md`。重點：
+使用者平常在 phantomajor 的 `/m/inbox` 用表單記筆記（可附照片，暫存在 Supabase），也可以照 `inbox/_template.md` 直接放檔案進 `inbox/`，然後說 `/ingest`。完整步驟見 `.claude/skills/ingest/SKILL.md`。重點：
+
+- 第一步跑 `npm run pull-inbox`（`scripts/pull-inbox.mjs`）：用 `.env.local` 的 `M_INGEST_SECRET` 呼叫 phantomajor 的密語函式，把收件匣寫成 inbox 檔（照片存同名資料夾），寫入成功才從 Supabase 刪除。設計見 phantomajor 的 `frontend/blueprints/m/m_v1.md`。
+- 照片用 `scripts/process-photo.mjs` 裁切、轉 WebP（長邊 1600 px）存進 `public/media/journal/<YYYY>/`，依 `[圖 N]` 標記放進筆記；病人可辨識資訊裁掉或不用。
 
 - 整理成逐篇筆記（前三種內容條列、心得寫敘述文、補寫內容包 `:::supplement`），標籤由 Claude 下，沿用既有標籤。
 - 要改哪些知識頁寫成提案檔 `temp/proposals/<檔名>.md`，等使用者回覆才改；套用後刪提案檔。
