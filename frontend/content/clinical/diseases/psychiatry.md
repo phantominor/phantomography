@@ -616,6 +616,8 @@ credit:
 
 ## 物質使用障礙（Substance Use Disorders）
 
+- 毒品與愛滋傳播（共用針具、藥愛）、減害計畫、台灣毒品分級與刑責，詳見 [[20261022-community-hiv|社區醫學：愛滋篩檢、預防與感染者就醫]]（逐篇筆記）。
+
 ### 酒精（Alcohol）
 
 #### 酒精中毒（Alcohol Intoxication）
