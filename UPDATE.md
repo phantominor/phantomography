@@ -1,4 +1,10 @@
 <!-- UPDATE.md -->
+[2026/10/26]
+- **Supabase 收件匣規劃**: 逐篇筆記改成可以在 phantomajor 用表單輸入，不用手動複製 inbox 範本；設計藍圖寫在 phantomajor 的 `frontend/blueprints/m/m_v1.md`
+  - phantomajor 新增「專案管理」區（比照 phantominor 首頁 A–Z），M 管理頁的第一個功能是收件匣，可記日期時間、活動、講者、地點與四區筆記，可附照片
+  - 本站之後新增 `scripts/pull-inbox.mjs`：用密語呼叫專用函式抓下收件匣，寫成 inbox 檔（照片存同名資料夾），寫入成功才從 Supabase 刪除；`/ingest` 的第一步改成先執行它
+  - 照片在 `/ingest` 時裁切、轉 WebP 放進 `public/media/journal/`，依 `[圖 N]` 標記放到筆記的正確位置；病人可辨識資訊裁掉或不用
+  - 本機 inbox 範本保留；Supabase 會用在這個腳本上，不再考慮移除
 [2026/10/24]
 - **逐篇筆記流程**: 建立從 inbox 原始筆記整理成逐篇筆記、再提案整合進知識頁的流程
   - `inbox/_template.md`：填日期、時間、活動類型、活動名稱、講者、地點，筆記分速記、重點、查閱資料、心得四區；`.gitignore` 改成只有範本進版控
