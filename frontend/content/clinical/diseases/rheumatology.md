@@ -97,6 +97,8 @@ credit:
 - 確認指標：**血清 tryptase**（mast cell 脫顆粒標記，1–3 hr 內抽血）。
 - 出院後需開立 **Epipen（epinephrine auto-injector）** 自行攜帶。
 
+::chart{id="anaphylaxis"}
+
 ### 血管性水腫（Angioedema）
 
 - **ACEi 引起**：最常見藥物引起之血管性水腫，bradykinin 媒介（非 histamine）→ **antihistamine 無效**。
