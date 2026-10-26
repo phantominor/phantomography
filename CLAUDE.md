@@ -40,6 +40,7 @@ npm run lint     # next lint
 │   └── blueprints/        # 設計藍圖，版本化（<name>_v<N>.md）
 ├── TODO.md              # 待辦清單（完成就刪，記錄寫進 UPDATE.md）
 ├── .claude/skills/ingest/ # /ingest：inbox → 逐篇筆記 → 整合提案的完整流程
+├── .claude/skills/relink/ # /relink：定期全站掃描、補上各頁之間的 wiki-link
 ├── inbox/                 # 使用者丟進來待整理的原始筆記，不進版控（只有 _template.md 進版控，不可刪）
 ├── temp/                  # 草稿，非程式碼；temp/proposals/ 是等使用者回覆的整合提案
 └── trash/                 # 廢棄但保留備查的舊檔
@@ -50,6 +51,7 @@ npm run lint     # next lint
 - 建置時 console 會列出失效連結與找不到的來源，新增內容後要看一下。
 - 流程圖：內文寫 ```mermaid 圖標題 區塊（圖標題會顯示在圖上方，也會進搜尋索引；`lib/markdown/rehypeElements.js` 轉成占位元素，`lib/mermaid.js` 在瀏覽器端繪製）。可用的共用節點樣式：`:::danger`（緊急）、`:::key`（結論）、`:::start`（起點）；判斷節點用六角形 `{{"…？"}}`，同一層盡量不超過 4 個節點。標籤裡的 `<`、`>` 要寫成 `#60;`、`#62;`。要在多頁出現的流程圖（例如單一疾病的處置流程）存成 `content/_charts/<id>.mmd`（第一行 `%% title: 圖標題`），內文用 `::chart{id="<id>"}` 嵌入；從症狀出發的檢查流程只放在病患主訴，其他頁用連結。
 - 逆連結：建置時由 `lib/content.js` 的 `buildBacklinks` 掃描全站跨頁、指到段落的 wiki-link，被連到的標題旁自動出現來源清單，不用手動維護。
+- 跨頁連結：不預先留指向尚未建立頁面的連結；一批新頁面寫完後跑 `/relink` 全站讀一次補連結（`.claude/skills/relink/SKILL.md`）。沒有直接提到詞彙的獨立討論也可以在段落末尾加一行「詳見 [[…]]」；太瑣碎、不整合進知識頁的內容留在逐篇筆記，從知識頁用「詳見」連出去。
 - 總覽頁卡片：`::cards`（或 `::cards{of="<導覽區>"}`）依 `data/nav.js` 產生下一層卡片；描述取各頁 frontmatter 的 `description`，圖示取 `nav.js` 的 `icon`（對應 `lib/markdown/icons.js` 的 `CARD_ICONS`）。
 - 逐篇筆記：`content/journal/<YYYY>/<YYYYMMDD>-<slug>.md`，列表（`::journal`，含標籤篩選）與左側導覽依 frontmatter `date` 自動產生（`lib/journal.js`），不用改 `nav.js`；頁尾「已整合至」由建置時掃描全站 `:::source{from="<檔名>"}` 產生。Claude 依速記補寫的內容包 `:::supplement`。
 - `lib/supabase.js`：Supabase browser client 單例，目前沒有使用。
