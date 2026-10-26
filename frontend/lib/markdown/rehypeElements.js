@@ -51,6 +51,7 @@ export default function rehypeElements() {
       }
 
       // 段落裡只有一張圖：轉成 <figure>，title 當圖說
+      // title 可寫成「說明 | 出處 | 網址」：出處以小字接在說明後面，有網址就變成連結
       if (node.tagName === 'p') {
         const kids = node.children.filter((c) => !(c.type === 'text' && !c.value.trim()));
         if (kids.length === 1 && kids[0].tagName === 'img') {
@@ -59,7 +60,7 @@ export default function rehypeElements() {
           delete img.properties.title;
           node.tagName = 'figure';
           node.children = [img];
-          if (caption) node.children.push({ type: 'element', tagName: 'figcaption', properties: {}, children: [{ type: 'text', value: caption }] });
+          if (caption) node.children.push({ type: 'element', tagName: 'figcaption', properties: {}, children: captionChildren(String(caption)) });
         }
         return;
       }
@@ -70,4 +71,15 @@ export default function rehypeElements() {
       }
     });
   };
+}
+
+function captionChildren(caption) {
+  const [text, credit, url] = caption.split(' | ').map((s) => s.trim());
+  const children = [{ type: 'text', value: text }];
+  if (!credit) return children;
+  const creditNode = url
+    ? { type: 'element', tagName: 'a', properties: { href: url, target: '_blank', rel: 'noopener noreferrer' }, children: [{ type: 'text', value: credit }] }
+    : { type: 'text', value: credit };
+  children.push({ type: 'element', tagName: 'span', properties: { className: ['fig-credit'] }, children: [{ type: 'text', value: '圖：' }, creditNode] });
+  return children;
 }

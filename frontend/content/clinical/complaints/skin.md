@@ -18,6 +18,10 @@ status: initial
     - **瀰漫性紅斑（diffuse erythroderma）**：**毒性休克症候群**、**葡萄球菌燙傷樣皮膚症候群（SSSS）**、猩紅熱、**川崎病**、DRESS。
 - **手掌腳掌皮疹**：**二期梅毒**、**手足口病**、**落磯山斑疹熱**、**多形性紅斑**、**川崎病**、感染性心內膜炎（Janeway 病灶）、毒性休克症候群（脫皮）。
 
+![麻疹的 Koplik 斑：頰黏膜上紅底白點，出疹前 1–2 天出現](media/commons/koplik-spots.webp "麻疹的 Koplik 斑：頰黏膜上紅底白點，出疹前 1–2 天出現 | CDC，Public domain，Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Koplik_spots,_measles_6111_lores.jpg")
+
+![手足口病：手掌與手指的紅斑與小水疱](media/commons/hfmd-palm.webp "手足口病：手掌與手指的紅斑與小水疱 | Mrradiostar82，CC BY-SA 3.0，Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Hand,_Foot_and_Mouth_Disease_Blisters.jpeg")
+
 #### Red flags
 
 - **發燒 + 快速擴散的瘀點紫斑** → **腦膜炎雙球菌血症**，數小時內致命，**:red[立即抗生素]**。
@@ -202,6 +206,8 @@ flowchart TD
 
 - SCORTEN 越高死亡率越高：0–1 分約 3%，**≥ 5 分 > 90%**。
 
+![多形性紅斑的典型三圈靶狀病灶（中央暗、白圈、外圍紅暈）；SJS 多為只有兩圈的非典型靶狀](media/commons/erythema-multiforme-target.webp "多形性紅斑的典型三圈靶狀病灶（中央暗、白圈、外圍紅暈）；SJS 多為只有兩圈的非典型靶狀 | kilbad，CC BY-SA 3.0，Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Target_lesion_1.jpg")
+
 #### 問診與理學檢查
 
 - **詳細用藥時間表**：所有藥物（含**中藥、保健食品、成藥、顯影劑**）的**開始日期**；**最可疑的是皮疹前 1–4 週內開始的藥**。
@@ -255,6 +261,8 @@ DRESS 用類固醇控制後 1–2 週就停藥 → 復發，甚至數月後出�
     - **組織胺媒介**：常與蕁麻疹同時出現、對抗組織胺有效。
     - **緩激肽（bradykinin）媒介**：**沒有蕁麻疹**、**對抗組織胺、類固醇、epinephrine 反應差** → **ACE 抑制劑**、**遺傳性血管性水腫（C1 抑制劑缺乏）**、後天性 C1 抑制劑缺乏。
 - **蕁麻疹性血管炎**：**單一病灶 > 24 小時、燒灼痛、消退後留紫斑或色素** → 皮膚切片。
+
+![蕁麻疹的風疹塊：隆起、邊界清楚，單一病灶 24 小時內消退](media/commons/urticaria.webp "蕁麻疹的風疹塊：隆起、邊界清楚，單一病灶 24 小時內消退 | Allergyresearch，CC BY-SA 4.0，Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Hives_Urticaria.jpg")
 
 #### Red flags
 
@@ -346,6 +354,8 @@ DRESS 用類固醇控制後 1–2 週就停藥 → 復發，甚至數月後出�
     - **血管脆弱**：**老年性紫斑**、**類固醇**、**壞血病**（毛囊周圍出血、牙齦出血）、Cushing、類澱粉沉積（**眼周紫斑**）、Ehlers-Danlos。
 - **可觸摸（隆起）紫斑** → **血管炎**（小血管）：IgA 血管炎、冷凝球蛋白血症、ANCA 血管炎、白血球破碎性血管炎（藥物、感染）。
 - **網狀紫斑（retiform purpura）** → **血管阻塞**：DIC、**猛爆性紫斑**、抗磷脂症候群、**鈣化防禦（calciphylaxis，洗腎病人）**、膽固醇栓塞、warfarin 皮膚壞死。
+
+![小血管炎的可觸摸紫斑：下肢密集、隆起、按壓不褪色](media/commons/palpable-purpura.webp "小血管炎的可觸摸紫斑：下肢密集、隆起、按壓不褪色 | Diasbuenasio，CC0，Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Vasculitis_on_legs.jpg")
 
 #### Red flags
 
@@ -517,6 +527,8 @@ flowchart TD
 | 治療 | acyclovir、valacyclovir | **72 小時內 valacyclovir**；**疫苗（Shingrix）預防** | 避開過敏原、外用類固醇；貼膚試驗 |
 :::
 
+![帶狀疱疹：單側、沿單一皮節分布的成群水疱，不過中線](media/commons/herpes-zoster-chest.webp "帶狀疱疹：單側、沿單一皮節分布的成群水疱，不過中線 | Preston Hunt，CC BY 3.0，Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Shingles_on_the_chest.jpg")
+
 #### 問診與理學檢查
 
 - 年齡、**起始部位**（口腔先？）、**癢或痛**、前驅疼痛、反覆同一處。
@@ -620,6 +632,8 @@ flowchart TD
 | **甲狀腺** | 心悸、體重變化 | TSH |
 :::
 
+![疥瘡的隧道（burrow）：細長彎曲的灰白線，末端可找到疥蟲](media/commons/scabies-burrow.webp "疥瘡的隧道（burrow）：細長彎曲的灰白線，末端可找到疥蟲 | Michael Geary，Public domain，Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Scabies-burrow.jpg")
+
 #### 問診與理學檢查
 
 - **先有疹還是先有癢**、部位、**夜間加重**、洗澡後、**同住者是否也癢**、季節、職業。
@@ -722,6 +736,10 @@ flowchart TD
 | 病程 | 慢性；**口腔糜爛型有 SCC 風險** | **6–8 週自行消退** |
 | 鑑別 | 苔蘚樣藥物疹 | **二期梅毒（手掌腳掌）** → 驗 RPR |
 :::
+
+![乾癬：邊界清楚的紅色斑塊合併銀白鱗屑](media/commons/psoriasis-plaques.webp "乾癬：邊界清楚的紅色斑塊合併銀白鱗屑 | Marnanel，CC BY-SA 3.0，Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Psoriasis_on_back.jpg")
+
+![體癬：環狀、邊緣隆起有鱗屑、中央較淡](media/commons/tinea-corporis.webp "體癬：環狀、邊緣隆起有鱗屑、中央較淡 | CDC／Lucille K. Georg，Public domain，Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Ringworm_on_the_arm,_or_tinea_corporis_due_to_Trichophyton_mentagrophytes_PHIL_2938_lores.jpg")
 
 #### 問診與理學檢查
 
@@ -1021,6 +1039,12 @@ flowchart TD
 | 前哨淋巴結切片 | **> 0.8 mm，或 ≤ 0.8 mm 合併潰瘍** |
 :::
 
+![黑色素瘤（左）與良性痣（右）的 ABCD 對照：由上而下為不對稱、邊界不規則、顏色不均、直徑大](media/commons/melanoma-abcd.webp "黑色素瘤（左）與良性痣（右）的 ABCD 對照：由上而下為不對稱、邊界不規則、顏色不均、直徑大 | NCI，Public domain，Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Melanoma_vs_normal_mole_ABCD_rule_NCI_Visuals_Online.jpg")
+
+![肢端黑痣型黑色素瘤：腳底不規則、顏色不均的黑斑，是亞洲人最常見的型態](media/commons/acral-lentiginous-melanoma.webp "肢端黑痣型黑色素瘤：腳底不規則、顏色不均的黑斑，是亞洲人最常見的型態 | Xavier-Júnior J 等，CC BY 4.0，Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Photography_of_a_large_acral_lentiginous_melanoma.jpg")
+
+![基底細胞癌：鼻翼的珍珠樣結節合併中央潰瘍](media/commons/bcc-nose.webp "基底細胞癌：鼻翼的珍珠樣結節合併中央潰瘍 | James Heilman, MD，CC BY 3.0，Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Basal_cell_carcinoma2.JPG")
+
 #### 問診與理學檢查
 
 - 病灶**出現時間、變化（大小、顏色、形狀）、出血、癢**；過去皮膚癌、家族黑色素瘤史。
@@ -1225,6 +1249,8 @@ flowchart TD
 | **深部組織損傷** | 皮膚完整但**深紅、紫色或褐紅色不褪色**，或血疱 |
 :::
 
+![靜脈性潰瘍：周圍皮膚有色素沉著與鬱積變化，基底有肉芽與滲液](media/commons/venous-ulcer.webp "靜脈性潰瘍：周圍皮膚有色素沉著與鬱積變化，基底有肉芽與滲液 | Raimundo Pastor，CC BY-SA 4.0，Wikimedia Commons | https://commons.wikimedia.org/wiki/File:%C3%9Alcera_varicosa_(RPS_24-08-2020)_en_pierna_con_insuficiencia_venosa_cr%C3%B3nica.png")
+
 #### 問診與理學檢查
 
 - 潰瘍**多久、如何開始**（外傷？）、疼痛特性（抬高或下垂）、**間歇性跛行**、靜脈曲張與 DVT 病史。
@@ -1337,6 +1363,8 @@ flowchart TD
 | 代表 | 雄性禿、休止期、圓禿、頭癬 | 盤狀狼瘡、扁平毛髮苔蘚、前額纖維化禿髮 |
 | 處置 | 依病因 | **早期切片、積極抗發炎治療** |
 :::
+
+![圓禿：邊界清楚的圓形禿斑，頭皮外觀正常](media/commons/alopecia-areata.webp "圓禿：邊界清楚的圓形禿斑，頭皮外觀正常 | Kevlaraz，CC0，Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Alopecia_areata_bald_spot.jpg")
 
 #### 問診與理學檢查
 
@@ -1520,6 +1548,10 @@ flowchart TD
 | **E**xtension | **色素延伸到甲周皮膚（Hutchinson sign）** |
 | **F**amily / personal history | 家族或個人黑色素瘤或發育不良痣病史 |
 :::
+
+![匙狀甲：指甲中央凹陷，缺鐵性貧血](media/commons/koilonychia.webp "匙狀甲：指甲中央凹陷，缺鐵性貧血 | CHeitz，CC BY 2.0，Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Koilonychia_iron_deficiency_anemia.jpg")
+
+![Terry 甲：指甲近端大部分變白，遠端留一條紅褐色帶，見於肝硬化](media/commons/terry-nails.webp "Terry 甲：指甲近端大部分變白，遠端留一條紅褐色帶，見於肝硬化 | Hojasmuertas，CC BY-SA 3.0，Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Terry%27s_nails.jpg")
 
 #### 問診與理學檢查
 

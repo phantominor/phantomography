@@ -330,6 +330,8 @@
 
 .note figure img {
   margin: 0 auto;
+  max-height: 420px; /* 直式照片不要撐得太高 */
+  width: auto;
   border-radius: var(--radius-sm);
 }
 
@@ -337,6 +339,18 @@
   margin-top: 0.4em;
   font-size: 0.8rem;
   color: var(--color-text-muted);
+}
+
+.note figcaption .fig-credit {
+  display: block;
+  margin-top: 0.15em;
+  font-size: 0.7rem;
+}
+
+.note figcaption .fig-credit a {
+  color: inherit;
+  text-decoration: underline;
+  text-decoration-color: var(--color-border-strong);
 }
 
 /* ── 公式 ── */

@@ -54,6 +54,10 @@ npm run lint     # next lint
 - 跨頁連結：不預先留指向尚未建立頁面的連結；完成一個分類、開始新分類之前、或逐篇筆記新增約 10 篇時，主動問使用者要不要跑 `/relink` 全站讀一次補連結（`.claude/skills/relink/SKILL.md`）。沒有直接提到詞彙的獨立討論也可以在段落末尾加一行「詳見 [[…]]」；太瑣碎、不整合進知識頁的內容留在逐篇筆記，從知識頁用「詳見」連出去。
 - 總覽頁卡片：`::cards`（或 `::cards{of="<導覽區>"}`）依 `data/nav.js` 產生下一層卡片；描述取各頁 frontmatter 的 `description`，圖示取 `nav.js` 的 `icon`（對應 `lib/markdown/icons.js` 的 `CARD_ICONS`）。
 - 逐篇筆記：`content/journal/<YYYY>/<YYYYMMDD>-<slug>.md`，列表（`::journal`，含標籤篩選）與左側導覽依 frontmatter `date` 自動產生（`lib/journal.js`），不用改 `nav.js`；標籤只用 `data/tags.js` 的兩份固定清單（科別取自 `nav.js` 頁名、性質是固定幾個），主題詞不當標籤，清單外的標籤建置時會警告；頁尾「已整合至」由建置時掃描全站 `:::source{from="<檔名>"}` 產生。Claude 依速記補寫的內容包 `:::supplement`。
+- 圖片：寫 `![說明](media/… "說明 | 作者，授權，來源 | 網址")`，段落裡只有一張圖會轉成 `<figure>`，第二、三段變成圖說下方的小字出處連結（`lib/markdown/rehypeElements.js`）。需要看外觀才記得住的知識點，Claude 主動找開放授權圖：
+  - 用 `scripts/fetch-commons.mjs`（`search` 找圖、`get` 下載轉 WebP 存 `public/media/commons/<slug>.webp` 並印出出處字串）；只收公眾領域、CC0、CC BY、CC BY-SA，不收 NC、ND。
+  - 放進頁面前一定先看過圖（內容正確、清楚、不過度血腥）；病人臉部等可辨識特徵盡量避開或裁掉。
+  - 使用者手邊有好圖，或指定要圖的地方，再由使用者提供。
 - `lib/supabase.js`：Supabase browser client 單例，目前沒有使用。
 
 ## 新增逐篇筆記（/ingest）
