@@ -434,6 +434,8 @@ credit:
 - 治療：
     - 急性期：**Colchicine（首選）**、NSAIDs、類固醇。
     - 預防：**Allopurinol（Xanthine oxidase inhibitor）**、Febuxostat；目標尿酸 :red[<6 mg/dL]。
+        - 適應症（ACR 2020）：痛風石、影像證實關節破壞、一年發作 ≥ 2 次；首次發作合併 CKD 第 3 期以上、尿路結石或尿酸 > 9 mg/dL；無症狀高尿酸血症不建議常規治療。
+        - 已在吃的發作時不停藥；符合適應症者發作期間即可開始，小劑量起步（allopurinol ≤ 100 mg/day），前 3–6 個月合併低劑量 colchicine 預防。
 - **Tophi（痛風石）**：慢性期，尿酸沉積在軟組織。
 
 ::chart{id="gout-management"}
@@ -570,6 +572,11 @@ credit:
     - Denosumab（anti-RANK-L）：抑制破骨細胞，皮下注射；停藥後骨密度快速流失，需接續其他藥物。
     - Teriparatide（PTH 類似物）：促進骨形成（anabolic），用於極高風險者；原骨肉瘤黑框警語已移除。
     - Raloxifene（SERM）：停經後女性，可降低乳癌風險；增加 VTE 及熱潮紅。
+- 台灣健保給付：
+    - 初級預防：T-score ≤ -2.5 且為使用胰島素的糖尿病、RA、或長期類固醇（> 3 個月、每天 ≥ 5 mg）。
+    - 次級預防：脊椎、髖部、橈骨遠端、肱骨近端骨折。
+    - 115 年 8 月 1 日起 romosozumab 可作停經後骨鬆第一或第二線，不需先用抗骨吸收藥 12 個月。
+    - DXA：高風險族群，間隔 ≥ 2 年、終生最多 3 次。
 
 ::chart{id="osteoporosis-treatment"}
 

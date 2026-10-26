@@ -1,5 +1,7 @@
 <!-- UPDATE.md -->
 [2026/10/26]
+- **痛風降尿酸與骨鬆健保給付**: 肌肉骨骼主訴、骨科與共用圖痛風處置改依 ACR 2020（降尿酸藥適應症、發作期間即可開始、allopurinol 小劑量起步、前 3–6 個月合併 colchicine 預防、無症狀高尿酸不常規治療）；肌肉骨骼主訴與骨科補上放寬後的骨鬆健保給付（初級與次級預防、romosozumab 115/8/1 起第一或第二線、DXA 給付條件）與牙科提醒
+[2026/10/26]
 - **收件匣抓取與照片處理**: 實作 phantomajor 收件匣的本站端
   - `scripts/pull-inbox.mjs`（`npm run pull-inbox`）：用 `.env.local` 的 `M_INGEST_SECRET` 呼叫密語函式，把收件匣寫成 `inbox/<日期>-<時間>-<id>.md`、照片存同名資料夾，全部寫入成功才從 Supabase 刪除；直接打 REST 端點，不經 supabase-js（Node 20 會要求 WebSocket）
   - `scripts/process-photo.mjs`：照片轉正方向、依指定範圍裁切、縮到長邊 1600 px、轉 WebP 存進 `public/media/`
