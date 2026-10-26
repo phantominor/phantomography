@@ -53,7 +53,7 @@ npm run lint     # next lint
 - 逆連結：建置時由 `lib/content.js` 的 `buildBacklinks` 掃描全站跨頁、指到段落的 wiki-link，被連到的標題旁自動出現來源清單，不用手動維護。
 - 跨頁連結：不預先留指向尚未建立頁面的連結；完成一個分類、開始新分類之前、或逐篇筆記新增約 10 篇時，主動問使用者要不要跑 `/relink` 全站讀一次補連結（`.claude/skills/relink/SKILL.md`）。沒有直接提到詞彙的獨立討論也可以在段落末尾加一行「詳見 [[…]]」；太瑣碎、不整合進知識頁的內容留在逐篇筆記，從知識頁用「詳見」連出去。
 - 總覽頁卡片：`::cards`（或 `::cards{of="<導覽區>"}`）依 `data/nav.js` 產生下一層卡片；描述取各頁 frontmatter 的 `description`，圖示取 `nav.js` 的 `icon`（對應 `lib/markdown/icons.js` 的 `CARD_ICONS`）。
-- 逐篇筆記：`content/journal/<YYYY>/<YYYYMMDD>-<slug>.md`，列表（`::journal`，含標籤篩選）與左側導覽依 frontmatter `date` 自動產生（`lib/journal.js`），不用改 `nav.js`；頁尾「已整合至」由建置時掃描全站 `:::source{from="<檔名>"}` 產生。Claude 依速記補寫的內容包 `:::supplement`。
+- 逐篇筆記：`content/journal/<YYYY>/<YYYYMMDD>-<slug>.md`，列表（`::journal`，含標籤篩選）與左側導覽依 frontmatter `date` 自動產生（`lib/journal.js`），不用改 `nav.js`；標籤只用 `data/tags.js` 的兩份固定清單（科別取自 `nav.js` 頁名、性質是固定幾個），主題詞不當標籤，清單外的標籤建置時會警告；頁尾「已整合至」由建置時掃描全站 `:::source{from="<檔名>"}` 產生。Claude 依速記補寫的內容包 `:::supplement`。
 - `lib/supabase.js`：Supabase browser client 單例，目前沒有使用。
 
 ## 新增逐篇筆記（/ingest）
@@ -63,7 +63,7 @@ npm run lint     # next lint
 - 第一步跑 `npm run pull-inbox`（`scripts/pull-inbox.mjs`）：用 `.env.local` 的 `M_INGEST_SECRET` 呼叫 phantomajor 的密語函式，把收件匣寫成 inbox 檔（照片存同名資料夾），寫入成功才從 Supabase 刪除。設計見 phantomajor 的 `frontend/blueprints/m/m_v1.md`。
 - 照片用 `scripts/process-photo.mjs` 裁切、轉 WebP（長邊 1600 px）存進 `public/media/journal/<YYYY>/`，依 `[圖 N]` 標記放進筆記；病人可辨識資訊裁掉或不用。
 
-- 整理成逐篇筆記（前三種內容條列、心得寫敘述文、補寫內容包 `:::supplement`），標籤由 Claude 下，沿用既有標籤。
+- 收件匣與範本的筆記不分區，速記、重點、查閱資料、心得由 Claude 分辨；整理成逐篇筆記（前三種內容條列、心得寫敘述文、補寫內容包 `:::supplement`）。標籤由 Claude 從 `data/tags.js` 的清單挑（科別 1–2 個、性質 0–2 個），要新增性質先問使用者。
 - 要改哪些知識頁寫成提案檔 `temp/proposals/<檔名>.md`，等使用者回覆才改；套用後刪提案檔。
 - 使用者確認逐篇筆記後，刪除 inbox 原檔。
 - 去識別化只針對病人（姓名、病歷號、可辨識特徵與影像）；講者、地點、醫院可以公開。

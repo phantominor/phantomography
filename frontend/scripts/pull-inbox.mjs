@@ -1,6 +1,6 @@
 // scripts/pull-inbox.mjs
 // 從 phantomajor 的逐篇筆記收件匣（/m/inbox，Supabase 的 m_inbox 系列表）抓下待整理的筆記，
-// 寫成 inbox/<YYYYMMDD>-<HHmm>-<id 前 6 碼>.md（格式同 inbox/_template.md），照片存到同名資料夾，
+// 寫成 inbox/<YYYYMMDD>-<HHmm>-<id 前 6 碼>.md（格式同 inbox/_template.md：frontmatter + 一個「筆記」區），照片存到同名資料夾，
 // 全部寫入成功才從 Supabase 刪除那一篇。中途失敗就不刪，下次重抓會覆寫同名檔案。
 // 用法：npm run pull-inbox（/ingest 的第一步）。
 // 需要 .env.local 的 NEXT_PUBLIC_SUPABASE_URL、NEXT_PUBLIC_SUPABASE_ANON_KEY、M_INGEST_SECRET；
@@ -35,12 +35,16 @@ async function rpc(name, args) {
 const pad2 = (n) => String(n).padStart(2, '0');
 const yaml = (v) => JSON.stringify(v); // JSON 字串就是合法的 YAML 字串
 
-const SECTIONS = [
+// 收件匣在 phantomajor m_03 之後只有一個 body 欄位；還沒跑 m_03 的舊格式（四區）接成同樣的寫法
+const OLD_SECTIONS = [
   ['quick_notes', '速記'],
   ['key_points', '重點'],
   ['research', '查閱資料'],
   ['reflections', '心得'],
 ];
+const bodyOf = (note) => ('body' in note
+  ? note.body || ''
+  : OLD_SECTIONS.filter(([key]) => (note[key] || '').trim()).map(([key, label]) => `【${label}】\n${note[key].trim()}`).join('\n\n'));
 
 function toMarkdown(note, base, photoFiles) {
   const fm = [
@@ -54,7 +58,7 @@ function toMarkdown(note, base, photoFiles) {
     `source: ${yaml(`phantomajor /m/inbox（${note.id}）`)}`,
     '---',
   ].filter(Boolean);
-  const body = SECTIONS.map(([key, label]) => `## ${label}\n\n${(note[key] || '').trim()}\n`);
+  const body = [`## 筆記\n\n${bodyOf(note).trim()}\n`];
   if (photoFiles.length) {
     body.push('## 照片\n\n內文的 [圖 N] 標記對應下列照片。\n\n'
       + photoFiles.map((p) => `- 圖 ${p.no}：\`inbox/${base}/${p.file}\`${p.caption ? `　${p.caption}` : ''}`).join('\n') + '\n');

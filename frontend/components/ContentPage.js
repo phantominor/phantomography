@@ -17,12 +17,16 @@ const asList = (v) => (Array.isArray(v) ? v : v ? [v] : []);
 function setupJournalFilter(root) {
   const list = root?.querySelector('.journal-list');
   if (!list) return undefined;
-  const apply = (tag) => {
-    list.querySelectorAll('.journal-tag').forEach((b) => b.classList.toggle('active', b.dataset.tag === tag));
+  // 每一種（科別、性質）最多選一個，不同種之間是「且」
+  const selected = {};
+  const apply = () => {
+    const picked = Object.values(selected).filter(Boolean);
+    list.querySelectorAll('.journal-tag').forEach((b) => b.classList.toggle('active', selected[b.dataset.kind] === b.dataset.tag));
     list.querySelectorAll('.journal-items').forEach((ul) => {
       let shown = 0;
       ul.querySelectorAll('.journal-item').forEach((li) => {
-        const hit = !tag || JSON.parse(li.dataset.tags || '[]').includes(tag);
+        const tags = JSON.parse(li.dataset.tags || '[]');
+        const hit = picked.every((t) => tags.includes(t));
         li.hidden = !hit;
         if (hit) shown += 1;
       });
@@ -30,13 +34,16 @@ function setupJournalFilter(root) {
       ul.previousElementSibling.hidden = !shown;
     });
   };
-  let current = new URLSearchParams(window.location.search).get('tag');
-  apply(current);
+  const fromUrl = new URLSearchParams(window.location.search).get('tag');
+  const urlBtn = fromUrl && [...list.querySelectorAll('.journal-tag')].find((b) => b.dataset.tag === fromUrl);
+  if (urlBtn) selected[urlBtn.dataset.kind] = fromUrl;
+  apply();
   const onClick = (e) => {
     const btn = e.target.closest('.journal-tag');
     if (!btn) return;
-    current = current === btn.dataset.tag ? null : btn.dataset.tag;
-    apply(current);
+    const { kind, tag } = btn.dataset;
+    selected[kind] = selected[kind] === tag ? null : tag;
+    apply();
   };
   list.addEventListener('click', onClick);
   return () => list.removeEventListener('click', onClick);

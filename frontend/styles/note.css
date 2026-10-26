@@ -603,9 +603,22 @@ a.journal-item-tag:hover {
 
 .note .journal-filter {
   display: flex;
-  flex-wrap: wrap;
-  gap: 6px;
+  flex-direction: column;
+  gap: 8px;
   margin: 1em 0 1.4em;
+}
+
+.note .journal-filter-row {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 6px;
+}
+
+.note .journal-filter-label {
+  margin-right: 4px;
+  font-size: 0.8rem;
+  color: var(--color-text-muted);
 }
 
 .note .journal-tag {

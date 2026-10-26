@@ -22,7 +22,7 @@ description: 先從 phantomajor 收件匣（Supabase）抓下筆記，再把 inb
 cd frontend && npm run pull-inbox
 ```
 
-- 每篇寫成 `inbox/<YYYYMMDD>-<HHmm>-<id 前 6 碼>.md`（格式同範本，多一行 `source:` 註明來自收件匣），照片存在同名資料夾（`01.jpg`、`02.jpg`…，編號就是內文 `[圖 N]` 的 N），檔案末尾的「照片」區列出每張照片的說明。
+- 每篇寫成 `inbox/<YYYYMMDD>-<HHmm>-<id 前 6 碼>.md`（格式同範本：frontmatter 多一行 `source:` 註明來自收件匣，內文只有一個「筆記」區；舊格式的四區會接成【速記】【重點】這類小標），照片存在同名資料夾（`01.jpg`、`02.jpg`…，編號就是內文 `[圖 N]` 的 N），檔案末尾的「照片」區列出每張照片的說明。
 - 寫入成功的筆記會從 Supabase 刪除；失敗的不刪，訊息會列出來，下次重抓。
 - 收件匣是空的、或腳本出錯（密語、SQL）時照常處理 `inbox/` 裡既有的檔案，並把錯誤告訴使用者。
 - 腳本與 SQL 見 `frontend/scripts/pull-inbox.mjs`、phantomajor 的 `backend/supabase/m/`、藍圖 phantomajor `frontend/blueprints/m/m_v1.md`。
@@ -36,7 +36,7 @@ cd frontend && npm run pull-inbox
 
 ### 2. 分辨四種內容
 
-使用者的筆記混雜四種內容。分類只是給你參考，使用者寫在哪一區不一定準：
+使用者的筆記不分區，四種內容混在一起，要自己分辨（有【速記】這類小標或（講者）（我）標記時可以參考，但不一定準）：
 
 | 種類 | 特徵 | 怎麼處理 |
 |---|---|---|
@@ -60,7 +60,7 @@ type: rounds         # 照抄 inbox
 event: 心臟內科 Grand Round
 speaker: 王醫師       # 多位用陣列
 place: …             # 有就寫，地點可公開
-tags: [心臟內科, ACS, 指引更新]
+tags: [心臟內科, 指引更新]
 integrated: false    # 提案套用（或確定不必整合）後改 true
 ---
 ```
@@ -91,13 +91,13 @@ integrated: false    # 提案套用（或確定不必整合）後改 true
 
 ### 4. 標籤
 
-- 分三種，每篇大約 3–6 個：
-  - 科別：心臟內科、藥理學……，用 `data/nav.js` 裡的頁名。
-  - 主題：疾病、藥物、檢查，例如 ACS、抗凝血劑。
-  - 性質：指引更新、臨床技巧、考點、病例、個人經驗。
-- 下標籤前先看既有標籤，能沿用就沿用，不要另造同義詞：
-  `grep -rh "^tags:" frontend/content/journal`
-- 縮寫統一用大寫英文（ACS、AKI），沒有通用縮寫的用中文。
+標籤只用兩份固定清單（`frontend/data/tags.js`），避免越下越多：
+
+- **科別** 1–2 個：基礎醫學與諸病微精的頁名（感染科、藥理學、公共衛生……），清單跟著 `data/nav.js` 自動更新。
+- **性質** 0–2 個：指引更新、臨床技巧、考點、病例、法規、個人經驗。
+- 疾病、藥物、檢查這類**主題詞不下標籤**：它們已經在內文與標題裡（全站搜尋找得到），第一次出現時也連到知識頁。
+- 清單裡沒有適合的性質時，不要自己加：回報時提議新的性質名稱，使用者同意後才加進 `data/tags.js`。
+- 建置時不在清單裡的標籤會在 console 警告，`/journal` 篩選列會把它放在「其他」。
 
 ### 5. 去識別化
 

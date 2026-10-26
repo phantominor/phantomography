@@ -7,6 +7,7 @@ import { findHeading } from './markdown/remarkWikiLink';
 import { getCards } from './cards';
 import { getJournalEntries, getJournalNav, JOURNAL_TYPES } from './journal';
 import { locate, flattenNav } from '@/data/nav';
+import { tagKind } from '@/data/tags';
 
 // 樣式樣張頁的示範逆連結：{ 本頁標題: ['來源頁#來源標題', …] }，來源要是真的頁面與段落，點了才開得了預覽
 function sampleBacklinks(page, linkIndex) {
@@ -50,6 +51,12 @@ export async function getContentPageProps(slug) {
   const journal = slug.startsWith('journal/')
     ? { type: JOURNAL_TYPES[page.frontmatter.type] || null, linked: buildSourceUsage(pages)[slug.split('/').pop()] || [] }
     : null;
+  if (journal) {
+    // 標籤只能用固定清單（data/tags.js），打錯字或另造的同義詞在這裡抓出來
+    const unknown = [].concat(page.frontmatter.tags || []).map(String).filter((t) => !tagKind(t));
+    if (unknown.length) console.warn(`[content] ${slug}:
+  不在標籤清單裡的標籤：${unknown.join('、')}（見 data/tags.js）`);
+  }
 
   const { tab, navKey } = locate(slug, page.frontmatter.nav);
   const existing = pages.map((p) => p.slug);

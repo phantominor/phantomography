@@ -6,7 +6,7 @@ type: lecture
 event: 社區醫學 愛滋管理
 speaker: 個管師
 place: 板橋衛生所 3F
-tags: [感染科, 公共衛生, HIV, PrEP, 法規]
+tags: [感染科, 公共衛生, 法規]
 integrated: true
 ---
 

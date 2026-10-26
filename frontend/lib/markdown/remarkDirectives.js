@@ -10,6 +10,7 @@
 import { visit } from 'unist-util-visit';
 import { ICONS, CARD_ICONS } from './icons';
 import { loadChart } from '../charts';
+import { TAG_KINDS, tagKind } from '../../data/tags';
 
 const CALLOUTS = {
   exam: '考點',
@@ -56,14 +57,21 @@ function cardsHtml(groups) {
   )).join('') + '</div>';
 }
 
-// 逐篇筆記列表：上方是標籤篩選（ContentPage 掛上點擊事件），下方依年份分組
+// 逐篇筆記列表：上方是標籤篩選（科別、性質各一排，兩排可以交叉；ContentPage 掛上點擊事件），下方依年份分組
 function journalHtml(entries) {
   if (!entries.length) return '';
   const counts = {};
   for (const e of entries) for (const t of e.tags) counts[t] = (counts[t] || 0) + 1;
   const tags = Object.keys(counts).sort((a, b) => counts[b] - counts[a] || a.localeCompare(b, 'zh-Hant'));
-  const filter = tags.length
-    ? '<div class="journal-filter">' + tags.map((t) => `<button type="button" class="journal-tag" data-tag="${escapeHtml(t)}">${escapeHtml(t)}<span class="journal-tag-count">${counts[t]}</span></button>`).join('') + '</div>'
+  // 不在清單裡的標籤（建置時會警告）放「其他」，修好之前仍篩得到
+  const rows = [...TAG_KINDS, { key: 'other', label: '其他' }]
+    .map((k) => ({ ...k, tags: tags.filter((t) => (tagKind(t) || 'other') === k.key) }))
+    .filter((k) => k.tags.length);
+  const button = (t, kind) => `<button type="button" class="journal-tag" data-kind="${kind}" data-tag="${escapeHtml(t)}">${escapeHtml(t)}<span class="journal-tag-count">${counts[t]}</span></button>`;
+  const filter = rows.length
+    ? '<div class="journal-filter">' + rows.map((k) => (
+      `<div class="journal-filter-row"><span class="journal-filter-label">${k.label}</span>${k.tags.map((t) => button(t, k.key)).join('')}</div>`
+    )).join('') + '</div>'
     : '';
   const years = [];
   for (const e of entries) {
