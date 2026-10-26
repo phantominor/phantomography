@@ -407,6 +407,8 @@ credit:
 3. **根治**：**雷射虹膜穿孔術（Laser Peripheral Iridotomy, LPI）** → 解除瞳孔阻滯。
     - 對側眼也需預防性 LPI（高風險）。
 
+::chart{id="acute-angle-closure"}
+
 ## 白內障（Cataract）
 
 ### 分類

@@ -1,0 +1,11 @@
+%% title: 急性閉角型青光眼的處置
+flowchart TD
+  A["眼睛紅痛、視力模糊、光暈<br/>頭痛、噁心嘔吐"]:::start --> B["瞳孔中度散大固定<br/>角膜霧狀水腫、前房淺<br/>眼壓 #62; 40 mmHg"]
+  B --> C["立即降眼壓（同時進行）"]:::danger
+  C --> D["局部：timolol、brimonidine<br/>眼壓降後 → pilocarpine 縮瞳"]
+  C --> E["全身：acetazolamide 口服或 IV<br/>眼壓極高 → IV mannitol"]
+  D --> F{{"1–2 小時後<br/>眼壓下降、角膜變清？"}}
+  E --> F
+  F -->|"否"| G["前房穿刺或雷射虹膜成形術<br/>緊急手術"]:::danger
+  F -->|"是"| H["雷射周邊虹膜切開術（LPI）"]:::key
+  H --> I["對側眼預防性 LPI<br/>避免抗膽鹼藥與散瞳劑"]:::key

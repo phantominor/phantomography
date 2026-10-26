@@ -1,5 +1,9 @@
 <!-- UPDATE.md -->
 [2026/10/27]
+- **病患主訴：五官**: 新增 `content/clinical/complaints/heent.md`，涵蓋紅眼、急性視力喪失、慢性視力模糊、複視、瞳孔不等大、眼瞼與眼眶腫脹、耳痛與耳漏、聽力喪失、耳鳴、鼻塞與流鼻水、流鼻血、喉嚨痛、聲音沙啞、口腔病灶、頸部腫塊共 15 個主訴
+  - 每個主訴都有易混淆鑑別比較表（共 36 張），標題與常用詞附英文，疾病首次出現連回諸病微精（約 220 個連結）
+  - 6 張流程圖：紅眼、瞳孔不等大、鼻出血、喉嚨痛、成人頸部腫塊，加上共用圖急性閉角型青光眼處置（`_charts/acute-angle-closure.mmd`），同時嵌進眼科
+  - 寫作時同步配圖 16 張（結膜炎、結膜下出血、急性閉角型青光眼、CRAO、CRVO、正常鼓膜、急性中耳炎、膽脂瘤、鼻息肉、鏈球菌咽炎、扁桃腺周圍膿瘍、會厭炎拇指徵象、阿弗他口瘡、口腔念珠菌、口腔白斑、甲狀舌管囊腫）
 - **多來源找圖**: `fetch-commons.mjs` 改名擴充為 `fetch-image.mjs`，除了 Wikimedia Commons，新增 Open-i（PubMed Central 論文圖片，授權逐篇由 Europe PMC 查）與 Openverse（Flickr、Wellcome Collection 等）搜尋；`url` 下載須註明授權，ND 授權禁止裁切；CLAUDE.md 列出可用與不可用的來源（DermNet、LITFL 可用；Radiopaedia、EyeRounds 不自動抓）
 - **圖片授權放寬**: 本站確定永不商業化，NC 授權可用；ND 授權只能整張縮放轉檔、不能裁切（`fetch-commons.mjs` 會擋）；新增 `url` 指令處理 Commons 以外的來源，DermNet 列為皮膚圖來源；CLAUDE.md 同步更新
 - **TODO 整理**: 收件匣表單改版（SQL 已執行、測試筆記正常）與 phantominor M 按鈕 Logo（已在 phantominor 完成）兩項刪除
