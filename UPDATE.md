@@ -1,5 +1,7 @@
 <!-- UPDATE.md -->
 [2026/10/27]
+- **圖片授權放寬**: 本站確定永不商業化，NC 授權可用；ND 授權只能整張縮放轉檔、不能裁切（`fetch-commons.mjs` 會擋）；新增 `url` 指令處理 Commons 以外的來源，DermNet 列為皮膚圖來源；CLAUDE.md 同步更新
+- **TODO 整理**: 收件匣表單改版（SQL 已執行、測試筆記正常）與 phantominor M 按鈕 Logo（已在 phantominor 完成）兩項刪除
 - **開放授權圖片流程**: 新增 `scripts/fetch-commons.mjs`（從 Wikimedia Commons 搜尋、檢查授權、下載轉 WebP、印出出處字串，處理限流重試）；圖說支援「說明 | 出處 | 網址」，出處以小字連結顯示；圖片最大高度 420 px；CLAUDE.md 補上圖片慣例
   - 皮膚主訴試做：補 16 張圖（Koplik 斑、手足口病、靶狀病灶、蕁麻疹、可觸摸紫斑、帶狀疱疹、疥瘡隧道、乾癬、體癬、黑色素瘤 ABCD、肢端黑色素瘤、基底細胞癌、靜脈性潰瘍、圓禿、匙狀甲、Terry 甲），存在 `public/media/commons/`
 - **病患主訴：皮膚**: 新增 `content/clinical/complaints/skin.md`，涵蓋發燒合併皮疹、藥物疹與嚴重皮膚反應、蕁麻疹與血管性水腫、紫斑與瘀點、水疱與大疱、搔癢、紅斑脫屑性皮疹、臉部紅疹、色素變化、皮膚腫塊與痣的變化、皮膚與軟組織感染、皮膚潰瘍、掉髮、多毛、指甲變化共 15 個主訴

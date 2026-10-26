@@ -6,7 +6,9 @@
 //       下載長邊 1200 px 的版本，裁切座標以下載後的圖為準；授權不在允許清單內就拒絕
 //   node scripts/fetch-commons.mjs info "<File:檔名>"
 //       只印尺寸與出處字串（決定裁切範圍用）
-// 允許的授權：公眾領域、CC0、CC BY、CC BY-SA（不收 NC、ND：ND 不能裁切，NC 日後網站用途改變會有疑慮）
+//   node scripts/fetch-commons.mjs url <圖片網址> <輸出檔> [--crop=…]
+//       Commons 以外的來源（DermNet 等）：只下載轉檔，授權與出處自行確認後手寫進圖說
+// 允許的授權：公眾領域、CC0、各種 CC（網站確定永不商業化，NC 可用）；ND 不能裁切，只能整張縮放轉檔
 
 import path from 'path';
 import fs from 'fs';
@@ -21,7 +23,8 @@ const stripHtml = (s = '') => s.replace(/<[^>]+>/g, '')
   .replace(/&amp;/g, '&').replace(/&quot;/g, '"').replace(/&#0?39;/g, "'").replace(/&lt;/g, '<').replace(/&gt;/g, '>')
   .replace(/\s*\(?[\w.+-]+@[\w-]+\.[\w.]+\)?/g, '') // 作者欄位裡的 email 不放進圖說
   .replace(/\s+/g, ' ').trim();
-const allowed = (license) => /^(public domain|pd|cc0|cc by(-sa)? [\d.]+)/i.test(license) && !/nc|nd/i.test(license);
+const allowed = (license) => /^(public domain|pd|cc0|cc by)/i.test(license);
+const noDerivs = (license) => /\bnd\b/i.test(license.replace(/-/g, ' '));
 
 // Commons 會限流（429）：依 Retry-After 或遞增秒數重試
 async function get(url) {
@@ -82,8 +85,23 @@ if (cmd === 'search' && arg) {
     process.exit(0);
   }
   if (!out) throw new Error('缺輸出檔');
-  let img = sharp(buf).rotate();
   const crop = flags.find((f) => f.startsWith('--crop='));
+  if (crop && noDerivs(d.license)) {
+    console.error(`✗ ${d.license} 禁止改作，不能裁切，請整張使用`);
+    process.exit(1);
+  }
+  await save(buf, out, crop);
+  console.log(credit(d));
+} else if (cmd === 'url' && arg && out) {
+  await save(Buffer.from(await (await get(arg)).arrayBuffer()), out, flags.find((f) => f.startsWith('--crop=')));
+  console.log('授權與出處請到來源網站確認後手寫進圖說');
+} else {
+  console.error('用法：search <關鍵字> [數量] | info "<File:檔名>" | get "<File:檔名>" <輸出檔> [--crop=左,上,寬,高] | url <圖片網址> <輸出檔> [--crop=…]');
+  process.exit(1);
+}
+
+async function save(buf, out, crop) {
+  let img = sharp(buf).rotate();
   if (crop) {
     const [left, top, w, h] = crop.slice(7).split(',').map(Number);
     img = img.extract({ left, top, width: w, height: h });
@@ -93,8 +111,4 @@ if (cmd === 'search' && arg) {
   fs.mkdirSync(path.dirname(dest), { recursive: true });
   const info = await img.toFile(dest);
   console.log(`已存 ${out}（${info.width} x ${info.height}，${Math.round(info.size / 1024)} KB）`);
-  console.log(credit(d));
-} else {
-  console.error('用法：search <關鍵字> [數量] | info "<File:檔名>" | get "<File:檔名>" <輸出檔> [--crop=左,上,寬,高]');
-  process.exit(1);
 }

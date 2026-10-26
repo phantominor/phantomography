@@ -11,7 +11,6 @@ phantomography 接下來的待辦事項。完成的項目直接刪掉（完成�
   - 本站 `scripts/build-sitemap.mjs` 的 `SITE_URL`。
 - [ ] 部署後到 Google Search Console 驗證網域、提交 `sitemap.xml`。
 - [ ] 部署後實機檢查：手機瀏覽器、深色模式、搜尋、連結預覽、favicon 與 apple-touch-icon。
-- [ ] phantominor 主站：考慮用 `public/brand/logo-black.png`（或 `logo-white.png`）當 M 按鈕的圖示。
 
 ## 內容：諸病微精（TWMLE 匯入的 33 頁）
 
@@ -33,9 +32,6 @@ phantomography 接下來的待辦事項。完成的項目直接刪掉（完成�
 - [ ] 二階限定內容（倫理、法規、公衛、預防醫學），標 `:stage[二階]`。
 - [ ] 各分類之間、基礎與臨床之間、知識頁與逐篇筆記之間補 wiki-link：用 `/relink`。完成一個分類、開始新分類之前、或逐篇筆記新增約 10 篇時，Claude 會問要不要跑（還沒跑過第一次）。
 - [ ] 逐篇筆記的日曆檢視（依 `date`、`time` 排成月曆）：之後再討論。
-- [ ] 收件匣表單改版上線：
-  - 先把 phantomajor 的 `backend/supabase/m/m_03_single_body.sql` 貼到 SQL Editor 執行（四區合併成一個 `body` 欄位），再推 phantomajor 部署；順序反過來的話，舊版前端會寫已刪除的欄位而存檔失敗。
-  - 部署後用手機記一篇測試筆記（附照片），再 `/ingest` 走完整流程。
 
 ## 題庫
 
