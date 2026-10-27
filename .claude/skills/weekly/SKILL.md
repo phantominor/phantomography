@@ -21,6 +21,10 @@ cd frontend && node scripts/weekly-period.mjs 2026-10-21 # 指定某一週
 
 - 只收發表日落在 `start`–`end` 的消息（指引、新聞稿以發布日為準）。
 - 依藍圖 §4 的來源逐一看：期刊目錄與 RSS、PubMed、WHO／CDC／FDA／EMA、衛福部與各署新聞稿、醫藥新聞。
+- 期刊用官方提供給程式讀的管道，不抓網頁、不偽裝瀏覽器：
+    - 目錄：各期刊 RSS（NEJM `https://www.nejm.org/action/showFeed?type=etoc&feed=rss&jc=nejm`、Lancet `https://www.thelancet.com/rssfeed/lancet_online.xml`、Nature Medicine `https://www.nature.com/nm.rss`、JAMA `https://jamanetwork.com/rss/site_3/67.xml` 等）。
+    - 摘要與數字：PubMed E-utilities，`esearch.fcgi?db=pubmed&term=<關鍵字>+AND+N+Engl+J+Med[ta]&datetype=edat&mindate=<start>&maxdate=<end>` 找 PMID，再 `efetch.fcgi?db=pubmed&id=<PMID>&rettype=abstract&retmode=text` 讀摘要（不要開 pubmed.ncbi.nlm.nih.gov 網頁，會跳 CAPTCHA）。開放取用全文用 Europe PMC REST API。
+    - `url` 寫 `https://doi.org/<DOI>`。
 - **每一則都要實際打開來源頁面讀過**，記下原文標題、發表日、網址與關鍵數字。讀不到的不寫，不憑記憶補。
 - 同一件事有多個來源時，以原始出處為主（論文 > 學會 > 新聞）。
 
@@ -32,7 +36,7 @@ cd frontend && node scripts/weekly-period.mjs 2026-10-21 # 指定某一週
 - 「病例與專題」：1 個病例分析、1 個疾病專題，見藍圖 §4。
     - 使用者提供當週的 NEJM Resident Briefing（或其他電子報）內容時，以它的教學主題為準，在內文註明取材自哪一期。
     - 沒有提供時，自行從開放來源找相似的實證內容（開放取用的病例報告、回顧文章、新指引的重點），或這段整段不寫；不要等使用者。
-    - 期刊官網常擋自動存取（NEJM、Lancet、Nature 403；PubMed 摘要頁有時跳 CAPTCHA），改用學會或藥廠新聞稿、FDA 頁面、PubMed 搜尋結果；數字讀不到就包 `:::verify`，不從記憶補。
+    - 期刊文章頁會擋自動存取（NEJM、Lancet、Nature 403），用上面的 RSS 與 E-utilities 讀摘要；只有摘要時內文寫「依摘要」，摘要也沒有的數字包 `:::verify`，不從記憶補。
 
 ## 4. 撰寫
 

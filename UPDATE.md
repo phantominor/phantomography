@@ -1,4 +1,8 @@
 <!-- UPDATE.md -->
+[2026/10/28]
+- **醫學周報改用 PubMed E-utilities 與期刊 RSS 讀摘要**: 期刊文章頁擋自動存取，改用官方給程式讀的管道
+  - 第 43 週：remibrutinib、tarlatamab 改依 Lancet／NEJM 摘要補上數字與 DOI 連結；IgA 腎病變擴充為同週 NEJM 四篇（sibeprenlimab、atacicept、povetacicept、ravulizumab），拿掉兩個 verify
+  - /weekly skill 寫入 RSS 網址、E-utilities 用法、url 用 doi.org
 [2026/10/27]
 - **醫學周報第一期（2026 第 43 週）**: 新增 `content/weekly/2026/2026-w43.md`，涵蓋 10/19–10/25，共 17 則
   - 本週焦點：FDA 加速核准 dostarlimab 單獨治療 dMMR／MSI-H 局部晚期直腸癌、第一個 B 肝反義寡核苷酸 bepirovirsen（深入解讀）
