@@ -680,6 +680,8 @@ credit:
     5. **Bicarbonate**：只在 :red[pH < 6.9] 時考慮。
     6. 停用 IV insulin 前需 **重疊皮下 insulin 1–2 小時**。
 
+::chart{id="dka-hhs-management"}
+
 #### HHS（Hyperosmolar Hyperglycemic State）
 
 - 好發 **Type 2 DM 老年人**。
