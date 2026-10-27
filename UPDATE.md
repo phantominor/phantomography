@@ -1,5 +1,12 @@
 <!-- UPDATE.md -->
 [2026/10/27]
+- **醫學周報第一期（2026 第 43 週）**: 新增 `content/weekly/2026/2026-w43.md`，涵蓋 10/19–10/25，共 17 則
+  - 本週焦點：FDA 加速核准 dostarlimab 單獨治療 dMMR／MSI-H 局部晚期直腸癌、第一個 B 肝反義寡核苷酸 bepirovirsen（深入解讀）
+  - 新研究 3、新指引 2（PBC、胃食道腺癌 HER2）、藥物與器材 2、公衛與政策 2、疫情 2（M 痘 Ib、伊波拉）、時事 2
+  - 病例與專題：依使用者提供的 NEJM Resident Briefing（10/22）寫 milvexian（LIBREXIA ACS）與 H. pylori 兩個專題
+  - NEJM、Lancet、Nature 擋自動存取，數字改依 FDA、疾管署、ESC 與藥廠新聞稿；讀不到結果的三則包 `:::verify`
+  - 整合提案 `temp/proposals/weekly-2026-W43.md`：H. pylori 第一線（衝突）、PBC 第二線治療、dMMR 直腸癌、B 肝新藥連結
+  - 修正 `lib/weekly.js` 則數計算漏算四個冒號的 `::::news`；`/weekly` skill 補上病例與專題的取材規則與期刊擋存取時的做法
 - **醫學周報分頁**: 新增第四個大分頁「醫學周報」，每週整理期刊、指引、新聞稿與醫療時事，連回醫學筆記；藍圖 `frontend/blueprints/weekly_v1.md`
   - 檔案 `content/weekly/<YYYY>/<YYYY>-w<WW>.md`；h2 依性質分段（本週焦點、新研究、新指引、藥物與器材、公衛與政策、疫情、時事、新發現、病例與專題，沒內容的不寫），每則包 `:::news{subjects source date url}`，渲染成科別標籤加原文連結
   - `lib/weekly.js`：列表、左側導覽（依年份、「第 N 週 MM/DD–MM/DD」）、頁首的期間、則數與科別；`::weekly` 列表依科別篩選（沿用逐篇筆記列表的樣式與篩選）

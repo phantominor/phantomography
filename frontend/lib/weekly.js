@@ -4,7 +4,7 @@
 
 export const WEEKLY_KINDS = ['本週焦點', '新研究', '新指引', '藥物與器材', '公衛與政策', '疫情', '時事', '新發現', '病例與專題'];
 
-const NEWS_RE = /^:::news\{([^}]*)\}/gm;
+const NEWS_RE = /^:{3,}news\{([^}]*)\}/gm;
 const ATTR_RE = /(\w+)="([^"]*)"/g;
 const H2_RE = /^## (.+)$/gm;
 
