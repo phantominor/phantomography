@@ -1,0 +1,13 @@
+%% title: 產後出血的處置
+flowchart TD
+  A["產後出血<br/>≥ 1000 mL 或休克指數 #62; 1"]:::start --> B["呼叫支援、兩條大 IV<br/>備血、CBC、凝血、纖維蛋白原"]:::danger
+  B --> C["子宮按摩 + oxytocin<br/>tranexamic acid 1 g IV（3 小時內）"]
+  C --> D{{"子宮軟？"}}
+  D -->|"是（Tone）"| E["加 methylergonovine（高血壓禁）<br/>carboprost（氣喘禁）、misoprostol"]
+  D -->|"否"| F["檢查產道（Trauma）<br/>胎盤完整性（Tissue）<br/>凝血功能（Thrombin）"]
+  E --> G{{"仍出血？"}}
+  F --> G
+  G -->|"是"| H["子宮內氣球填塞<br/>修補裂傷、移除殘留"]
+  H --> I{{"仍出血？"}}
+  I -->|"是"| J["子宮動脈栓塞<br/>B-Lynch、血管結紮<br/>子宮切除（最後手段）"]:::danger
+  G -->|"否"| K["監測、矯正貧血"]:::key

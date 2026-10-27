@@ -806,6 +806,8 @@ credit:
     - 血管栓塞（Interventional radiology）。
     - **Hysterectomy**（最後手段）→ 生命優先於生育。
 
+::chart{id="pph-management"}
+
 ### 產道裂傷分級
 
 | 度 | 範圍 |
