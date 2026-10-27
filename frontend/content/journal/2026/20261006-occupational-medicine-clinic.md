@@ -7,7 +7,7 @@ event: 職業醫學門診
 speaker: 蔡閔翰
 place: 部北
 tags: [家庭醫學科, 個人經驗]
-integrated: false
+integrated: true
 ---
 
 ## 摘要

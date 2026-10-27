@@ -7,7 +7,7 @@ event: 安寧個案討論會
 speaker: [邱泰源, 李雅萍, 鄭以信]
 place: 部北
 tags: [家庭醫學科, 法規]
-integrated: false
+integrated: true
 ---
 
 ## 摘要

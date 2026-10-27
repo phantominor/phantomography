@@ -7,7 +7,7 @@ event: 家醫門診教學
 speaker: 鄭以信
 place: 部北
 tags: [家庭醫學科, 指引更新]
-integrated: false
+integrated: true
 ---
 
 ## 摘要

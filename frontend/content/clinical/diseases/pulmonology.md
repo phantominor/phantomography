@@ -415,6 +415,10 @@ credit:
 - 傳染途徑：**飛沫核（droplet nuclei / airborne）**。
 - 種類：**Acid-fast bacilli（AFB）**（Ziehl-Neelsen stain）。
 - 好發位置：**上肺葉頂後段**及下肺葉上段（氧分壓高）。
+
+:::source{from="20261020-community-tb"}
+- 台灣 2024 年新案 6,141 人（每 10 萬人口 26 例），目標 :red[2035 年降到每 10 萬人口 10 例以下]。
+:::
 - 病理特徵：**乾酪性肉芽腫（caseating granuloma）**，由 epithelioid cells + Langhans giant cells + caseous necrosis 組成。
 
 ### 自然史
@@ -479,9 +483,16 @@ credit:
 
 #### 潛伏結核感染治療
 
-- **9H**：INH × 9 個月（最常使用）。
+- **9H**：INH × 9 個月。
 - **3HP**：INH + Rifapentine × 12 doses。
 - **4R**：Rifampin × 4 個月。
+
+:::source{from="20261020-community-tb"}
+- **1HP**：INH + Rifapentine 每日 × 1 個月。
+- **3HR**：INH + Rifampin 每日 × 3 個月。
+- **6H**：INH × 6 個月。
+- 短程處方（1HP、3HP、3HR、4R）完治率較高，是台灣目前推廣的主流。
+:::
 
 #### 多重抗藥性結核（MDR-TB）
 
@@ -493,6 +504,14 @@ credit:
 - **空氣隔離（Airborne precautions）**：負壓隔離病房、N95 口罩、限制訪客。
 - 解除隔離條件：3 次痰 AFB 抹片陰性（每次間隔 8–24 小時）。
 - 通報：台灣為第三類法定傳染病。
+
+:::source{from="20261020-community-tb"}
+- **都治（DOTS）**：關懷員親眼看病人服藥，2006 年起推動，防止不規則服藥產生抗藥性。
+- 接觸者定義：同住者，或可傳染期內一天接觸 ≥ 8 小時、累計 ≥ 40 小時；接觸者照胸部 X 光，未滿 2 歲驗 TST、2 歲以上驗 IGRA。
+- 拒絕治療的傳染性病人，可依傳染病防治法第 44 條強制隔離治療。
+:::
+
+- 衛生所個案管理、接觸者追蹤時程等社區實務，詳見 [[20261020-community-tb|社區結核病防治]]（逐篇筆記）。
 
 ## 肺癌（Lung Cancer）
 

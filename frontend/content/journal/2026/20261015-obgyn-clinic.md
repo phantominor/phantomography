@@ -7,7 +7,7 @@ event: 婦產科門診教學
 speaker: 曹國桃
 place: 部北
 tags: [婦科, 產科]
-integrated: false
+integrated: true
 ---
 
 ## 摘要

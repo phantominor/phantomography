@@ -7,7 +7,7 @@ event: 社區健康議題
 speaker: 鄭以信
 place: 部北
 tags: [家庭醫學科, 公共衛生]
-integrated: false
+integrated: true
 ---
 
 ## 摘要

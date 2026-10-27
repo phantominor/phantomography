@@ -704,6 +704,26 @@ credit:
 | 傳染性紅斑（Erythema infectiosum / 5th disease） | **Parvovirus B19** | **Slapped cheek** → 軀幹四肢網狀紅斑（lace-like） | 可致暫時性純紅血球再生不良（aplastic crisis，尤其 SCD、spherocytosis）；孕婦感染 → **胎兒水腫（hydrops fetalis）** |
 | 猩紅熱（Scarlet fever） | **GAS** | 砂紙樣疹（sandpaper-like）、**Pastia lines**（皺褶處加深）、**草莓舌** | Pharyngitis 後 1–2 天出疹；可能併發 rheumatic fever、PSGN |
 
+::::source{from="20261006-pediatric-fever-rash"}
+- 手足口病：**Coxsackie A6** 水泡較大，可在原有濕疹處大量出疹（eczema coxsackium）；**EV-D68** 也可造成急性無力脊髓炎（AFM）。
+- 猩紅熱：沒有咽喉炎、經皮膚傷口感染者稱**外科性猩紅熱（surgical scarlet fever）**；台灣 GAS 對 clindamycin 抗藥率高，首選 penicillin 或第一代 cephalosporin。
+
+:::compare[疱疹性齦口炎與腸病毒口腔病灶比較]
+| | 疱疹性齦口炎（HSV-1） | 腸病毒（疱疹性咽峽炎、手足口病） |
+|---|---|---|
+| 牙齦 | **紅腫、易出血** | 不侵犯牙齦 |
+| 病灶位置 | 牙齦、舌、唇、頰黏膜（口腔前半） | 軟顎、懸雍垂、扁桃腺前柱（口腔後半） |
+| 病程 | 較長 | 較短 |
+:::
+
+:::compare[水痘與 Coxsackie A6 比較]
+| | 水痘 | Coxsackie A6 |
+|---|---|---|
+| 分布 | 全身，軀幹多（向心性） | 以四肢、口周、臀部為主 |
+| 病灶時期 | **各期並存**，大小不一 | 大水泡，時期較一致 |
+:::
+::::
+
 ### 兒童上呼吸道感染
 
 #### 急性中耳炎（Acute Otitis Media, AOM）
@@ -899,6 +919,11 @@ credit:
 3. **四肢末端變化**：急性期手足紅腫（edema/erythema）→ 恢復期指尖**脫皮（desquamation）**。
 4. **多形性皮疹**（polymorphous rash）→ 無水泡。
 5. **頸部淋巴結腫大**（:red[≥ 1.5 cm]，通常單側）→ 5 項中最少見。
+
+:::source{from="20261006-pediatric-fever-rash"}
+- 結膜炎的特徵：球結膜充血、**角膜緣周圍不紅（perilimbal sparing）**，無分泌物。
+- 其他線索：卡介苗（BCG）接種處紅腫、肛周紅疹。
+:::
 
 #### 實驗室
 

@@ -185,6 +185,12 @@ credit:
     - **無子宮者**：**Estrogen alone（ET）** 即可。
     - **Window of opportunity**：停經後 **:red[< 10 年]** 或 **< 60 歲** 開始 → 心血管保護效果。
     - 使用最低有效劑量、最短必要時間。
+
+:::source{from="20261015-obgyn-clinic"}
+- 給法：
+    - **週期性**（cyclic）：每月有撤退性出血，適合剛停經者；實務上常開 E + P 複方，吃 21 天停 7 天。
+    - **連續合併**（continuous combined）：每天 E + P、不出血，適合停經較久者。
+:::
 - 絕對禁忌：不明原因陰道出血、乳癌、活動性 VTE、活動性肝病、冠心病/中風、已知 thrombophilia。
 
 #### 風險研究結論
@@ -292,6 +298,10 @@ credit:
 | 其他 | 隱睪、感染（mumps orchitis）、藥物、生活型態 |
 
 ### 不孕評估
+
+:::source{from="20261015-obgyn-clinic"}
+- **HSG（輸卵管攝影）**：月經結束後、排卵前做；沒有顯影劑時可打空氣聽診；手術中以 methylene blue 通水（chromopertubation），從腹腔鏡看染劑是否流出。
+:::
 
 #### 排卵評估
 

@@ -7,7 +7,7 @@ event: 胸內 TB 門診教學
 speaker: 李俊年
 place: 板橋衛生所
 tags: [胸腔內科, 公共衛生]
-integrated: false
+integrated: true
 ---
 
 ## 摘要

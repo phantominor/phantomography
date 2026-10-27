@@ -286,6 +286,11 @@ credit:
 - 藍綠色色素（pyocyanin）、葡萄味、biofilm。
 - **高度抗藥性**，天然對許多抗生素抗藥。
 - 抗 Pseudomonas 抗生素：Piperacillin-tazobactam、Ceftazidime、Cefepime、Meropenem、Ciprofloxacin、Aminoglycosides、Aztreonam、Colistin。
+
+:::source{from="20261006-pediatric-fever-rash"}
+- **壞疽性臁瘡（ecthyma gangrenosum）**：中央黑色壞死、外圍紅暈，是綠膿桿菌敗血症的皮膚表現。
+- 原本健康的嬰幼兒社區感染併敗血症稱**上海熱（Shanghai fever）**。
+:::
 - 臨床：
     - 院內肺炎（HAP/VAP）：ICU 最重要病原之一。
     - 燒傷感染：晚期最常見病原。
@@ -921,6 +926,10 @@ credit:
 - Lab：WBC↓、Plt↓、Hct↑、AST/ALT↑。
 - 診斷：NS1 Ag（1–5 天）、IgM/IgG（> 5 天）。
 - 治療：**支持療法**（**禁 aspirin/NSAID** → 出血風險）。
+
+:::source{from="20261007-community-epidemic-control"}
+- 可感染期：:red[發病前 1 天到發病後 5 天]，此期間住院要防蚊（曾有院內感染）。
+:::
 
 #### 日本腦炎（Japanese Encephalitis）
 
