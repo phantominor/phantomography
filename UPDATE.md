@@ -1,5 +1,8 @@
 <!-- UPDATE.md -->
 [2026/10/28]
+- **H. pylori 第一線改為台灣建議**: 消化內科 H. pylori 根除治療改成鉍劑四合（經驗性首選）、共伴／混合／序列療法、含 vonoprazan 處方；三合療法限 clarithromycin 抗藥率 < 15% 或確認敏感時，註明國考舊題寫法
+  - 依使用者查到的消化系醫學會建議，以 Taipei Global Consensus II（Gut 2025）與台灣 10 天 vs 14 天鉍劑四合試驗（EClinicalMedicine 2024）核對
+  - 周報第 43 週 H. pylori 專題改寫對照段落；整合提案移除已解決的衝突
 - **醫學周報改用 PubMed E-utilities 與期刊 RSS 讀摘要**: 期刊文章頁擋自動存取，改用官方給程式讀的管道
   - 第 43 週：remibrutinib、tarlatamab 改依 Lancet／NEJM 摘要補上數字與 DOI 連結；IgA 腎病變擴充為同週 NEJM 四篇（sibeprenlimab、atacicept、povetacicept、ravulizumab），拿掉兩個 verify
   - /weekly skill 寫入 RSS 網址、E-utilities 用法、url 用 doi.org

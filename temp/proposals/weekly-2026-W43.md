@@ -3,11 +3,6 @@
 周報：`frontend/content/weekly/2026/2026-w43.md`
 回覆方式：留著的項目照做，不要的直接刪掉，有意見寫在項目下方；或在對話中回答。回覆後跟 Claude 說「套用提案」。
 
-## 衝突（需要你決定）
-- [[消化內科#H. pylori]]：現有寫「第一線：PPI + Amoxicillin + Clarithromycin 三合療法；clarithromycin 抗藥性漸升 → 鉍劑四合療法」。NEJM 回顧（Li、Megraud、Marshall）的立場是：原發抗藥率幾乎各區都 > 15%，沒有藥敏試驗時三合療法不再適合當經驗性治療，首選鉍劑四合療法。要改成哪一種？
-  - 選項 A：改成「經驗性首選鉍劑四合療法（鉍劑 + PPI + tetracycline + metronidazole）；三合療法只在確認 clarithromycin 敏感時使用」，並註明國考舊題多以三合療法為第一線。
-  - 選項 B：先不改，等我查台灣的治療共識後再決定。
-
 ## 新重點（插入知識頁）
 - [[消化內科#原發性膽汁性膽管炎（Primary Biliary Cholangitis, PBC）]]：「治療」改成三條：
   - 第一線 UDCA。
