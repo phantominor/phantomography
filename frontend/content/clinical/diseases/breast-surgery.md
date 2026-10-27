@@ -139,7 +139,7 @@ credit:
 - **乳癌篩檢的 gold standard**。
 - 一般風險女性：各指引略有不同。
     - 美國：40–45 歲開始，每 1–2 年。
-    - 台灣：**:red[45–69 歲]** 每 2 年一次（二等親內有乳癌 → 40 歲開始）。
+    - 台灣：**:red[40–74 歲]** 每 2 年一次（114 年起擴大，原為 45–69 歲）。
 - 可偵測：microcalcification（鈣化）、mass、architectural distortion、asymmetric density。
 - **最早期的乳癌 mammographic sign：microcalcifications（微小鈣化）**。
     - Clustered、pleomorphic、linear/branching 型態 → 高度懷疑惡性（尤其 DCIS）。
