@@ -6,8 +6,9 @@ import { renderMarkdown } from './markdown/render';
 import { findHeading } from './markdown/remarkWikiLink';
 import { getCards } from './cards';
 import { getJournalEntries, getJournalNav, JOURNAL_TYPES } from './journal';
+import { getWeeklyEntries, getWeeklyNav, periodLabel } from './weekly';
 import { locate, flattenNav } from '@/data/nav';
-import { tagKind } from '@/data/tags';
+import { tagKind, SUBJECT_TAGS } from '@/data/tags';
 
 // 樣式樣張頁的示範逆連結：{ 本頁標題: ['來源頁#來源標題', …] }，來源要是真的頁面與段落，點了才開得了預覽
 function sampleBacklinks(page, linkIndex) {
@@ -44,10 +45,11 @@ export async function getContentPageProps(slug) {
     backlinks,
     cardsFor: (of = slug) => getCards(of, pages),
     journalEntries: () => getJournalEntries(pages),
+    weeklyEntries: () => getWeeklyEntries(pages),
   });
 
-  // 逐篇筆記的導覽依日期自動產生（全站都要：手機抽屜也列得出來）
-  const journalNav = getJournalNav(pages);
+  // 逐篇筆記、醫學周報的導覽依日期自動產生（全站都要：手機抽屜也列得出來）
+  const autoNav = { journal: getJournalNav(pages), weekly: getWeeklyNav(pages) };
   const journal = slug.startsWith('journal/')
     ? { type: JOURNAL_TYPES[page.frontmatter.type] || null, linked: buildSourceUsage(pages)[slug.split('/').pop()] || [] }
     : null;
@@ -58,9 +60,19 @@ export async function getContentPageProps(slug) {
   不在標籤清單裡的標籤：${unknown.join('、')}（見 data/tags.js）`);
   }
 
+  let weekly = null;
+  if (slug.startsWith('weekly/') && slug.split('/').length === 3) {
+    const entry = getWeeklyEntries([page])[0];
+    weekly = { period: periodLabel(entry.start, entry.end), count: entry.count, subjects: entry.tags };
+    // 科別只能用固定清單裡的科別頁名
+    const unknown = entry.tags.filter((t) => !SUBJECT_TAGS.includes(t));
+    if (unknown.length) console.warn(`[content] ${slug}:
+  不在科別清單裡的 subjects：${unknown.join('、')}（見 data/tags.js）`);
+  }
+
   const { tab, navKey } = locate(slug, page.frontmatter.nav);
   const existing = pages.map((p) => p.slug);
-  const navItems = navKey === 'journal' ? journalNav.flatMap((s) => s.items) : flattenNav(navKey);
+  const navItems = autoNav[navKey] ? autoNav[navKey].flatMap((s) => s.items) : flattenNav(navKey);
   const flat = navItems.filter((i) => existing.includes(i.slug));
   const i = flat.findIndex((item) => item.slug === slug);
 
@@ -73,8 +85,9 @@ export async function getContentPageProps(slug) {
       tab,
       navKey,
       existing,
-      journalNav,
+      autoNav,
       journal,
+      weekly,
       prev: i > 0 ? flat[i - 1] : null,
       next: i >= 0 && i < flat.length - 1 ? flat[i + 1] : null,
     },

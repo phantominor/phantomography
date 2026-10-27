@@ -8,7 +8,7 @@ phantomography 是 [phantominor](https://github.com/phantominor/phantominor)（"
 
 姊妹專案 [phantomajor](https://github.com/phantominor/phantomajor) 是同樣模式（從 phantominor 拆出、共用 Supabase），架構與慣例可以參考它。
 
-**目前狀態**：設計藍圖見 `frontend/blueprints/notes-system_v3.md`（最新版）（資訊架構、內容語法、視覺規範、分期都以藍圖為準）。第一期的版面與渲染流程已完成；諸病微精 33 頁匯入自同學的 TWMLE 筆記（經同意，每頁 frontmatter 的 `credit` 註明出處），其他分類尚未撰寫；樣式樣張在 `/style`。純靜態網站、無登入、無資料庫，所有新增都在本地與 Claude 協作完成。
+**目前狀態**：設計藍圖見 `frontend/blueprints/notes-system_v3.md`（最新版）（資訊架構、內容語法、視覺規範、分期都以藍圖為準）；醫學周報另見 `frontend/blueprints/weekly_v1.md`。第一期的版面與渲染流程已完成；諸病微精 33 頁匯入自同學的 TWMLE 筆記（經同意，每頁 frontmatter 的 `credit` 註明出處），其他分類尚未撰寫；樣式樣張在 `/style`。純靜態網站、無登入、無資料庫，所有新增都在本地與 Claude 協作完成。
 
 ## 開發指令
 
@@ -41,6 +41,7 @@ npm run lint     # next lint
 ├── TODO.md              # 待辦清單（完成就刪，記錄寫進 UPDATE.md）
 ├── .claude/skills/ingest/ # /ingest：inbox → 逐篇筆記 → 整合提案的完整流程
 ├── .claude/skills/relink/ # /relink：定期全站掃描、補上各頁之間的 wiki-link
+├── .claude/skills/weekly/ # /weekly：產出一期醫學周報
 ├── inbox/                 # 使用者丟進來待整理的原始筆記，不進版控（只有 _template.md 進版控，不可刪）
 ├── temp/                  # 草稿，非程式碼；temp/proposals/ 是等使用者回覆的整合提案
 └── trash/                 # 廢棄但保留備查的舊檔
@@ -54,6 +55,7 @@ npm run lint     # next lint
 - 跨頁連結：不預先留指向尚未建立頁面的連結；完成一個分類、開始新分類之前、或逐篇筆記新增約 10 篇時，主動問使用者要不要跑 `/relink` 全站讀一次補連結（`.claude/skills/relink/SKILL.md`）。沒有直接提到詞彙的獨立討論也可以在段落末尾加一行「詳見 [[…]]」；太瑣碎、不整合進知識頁的內容留在逐篇筆記，從知識頁用「詳見」連出去。
 - 總覽頁卡片：`::cards`（或 `::cards{of="<導覽區>"}`）依 `data/nav.js` 產生下一層卡片；描述取各頁 frontmatter 的 `description`，圖示取 `nav.js` 的 `icon`（對應 `lib/markdown/icons.js` 的 `CARD_ICONS`）。
 - 逐篇筆記：`content/journal/<YYYY>/<YYYYMMDD>-<slug>.md`，列表（`::journal`，含標籤篩選）與左側導覽依 frontmatter `date` 自動產生（`lib/journal.js`），不用改 `nav.js`；標籤只用 `data/tags.js` 的兩份固定清單（科別取自 `nav.js` 頁名、性質是固定幾個），主題詞不當標籤，清單外的標籤建置時會警告；頁尾「已整合至」由建置時掃描全站 `:::source{from="<檔名>"}` 產生。Claude 依速記補寫的內容包 `:::supplement`。
+- 醫學周報：`content/weekly/<YYYY>/<YYYY>-w<WW>.md`，期別與涵蓋期間一律用 `scripts/weekly-period.mjs` 算（台北時間）；h2 是性質分段（`lib/weekly.js` 的 `WEEKLY_KINDS`，沒內容的不寫），每則消息包 `:::news{subjects="…" source="…" date="…" url="…"}`，`subjects` 只用科別清單；列表 `::weekly`、左側導覽自動產生。每則都要讀過原始來源才寫，流程見 `.claude/skills/weekly/SKILL.md`。
 - 圖片：寫 `![說明](media/… "說明 | 作者，授權，來源 | 網址")`，段落裡只有一張圖會轉成 `<figure>`，第二、三段變成圖說下方的小字出處連結（`lib/markdown/rehypeElements.js`）。需要看外觀才記得住的知識點，Claude 主動找開放授權圖：
   - 用 `scripts/fetch-image.mjs` 找圖與下載（轉 WebP、長邊 1200 px，存 `public/media/<來源>/<slug>.webp`），各指令說明在檔案開頭。來源依序：
     - Wikimedia Commons（`search`／`get`）：第一優先，臨床照片、示意圖、切片、影像、心電圖都有。

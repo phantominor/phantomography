@@ -1,6 +1,6 @@
 // components/ContentPage.js
 // 單一筆記頁：頁名（frontmatter.title）+ 渲染好的 Markdown，外面套全站版面。
-// 逐篇筆記另外顯示日期、活動、講者、標籤，以及頁尾的「整合到哪些段落」。
+// 逐篇筆記另外顯示日期、活動、講者、標籤，以及頁尾的「整合到哪些段落」；醫學周報顯示涵蓋期間、則數與科別。
 
 import Head from 'next/head';
 import Link from 'next/link';
@@ -13,7 +13,7 @@ const SITE_URL = 'https://phantomography.vercel.app';
 
 const asList = (v) => (Array.isArray(v) ? v : v ? [v] : []);
 
-// 逐篇筆記列表（::journal）的標籤篩選：點標籤只顯示含該標籤的文章，再點一次取消；網址 ?tag=… 可直接帶入
+// 逐篇筆記列表（::journal）與醫學周報列表（::weekly）的標籤篩選：點標籤只顯示含該標籤的文章，再點一次取消；網址 ?tag=… 可直接帶入
 function setupJournalFilter(root) {
   const list = root?.querySelector('.journal-list');
   if (!list) return undefined;
@@ -66,7 +66,20 @@ function JournalMeta({ frontmatter, journal }) {
   );
 }
 
-export default function ContentPage({ slug, frontmatter, html, toc, tab, navKey, existing, journalNav, journal, prev, next }) {
+function WeeklyMeta({ weekly }) {
+  return (
+    <div className="page-meta journal-meta">
+      {[weekly.period && `涵蓋 ${weekly.period}`, `${weekly.count} 則`].filter(Boolean).join(' · ')}
+      {weekly.subjects.length > 0 && (
+        <span className="journal-meta-tags">
+          {weekly.subjects.map((t) => <Link key={t} href={`/weekly?tag=${encodeURIComponent(t)}`} className="journal-item-tag">{t}</Link>)}
+        </span>
+      )}
+    </div>
+  );
+}
+
+export default function ContentPage({ slug, frontmatter, html, toc, tab, navKey, existing, autoNav, journal, weekly, prev, next }) {
   const title = frontmatter.title ? `${frontmatter.title} | ${SITE_NAME}` : SITE_NAME;
   const description = frontmatter.description || 'Phantom 的醫學筆記：醫師國考一階、二階核心重點整理';
   const articleRef = useRef(null);
@@ -87,7 +100,7 @@ export default function ContentPage({ slug, frontmatter, html, toc, tab, navKey,
       navKey={navKey}
       currentSlug={slug}
       existing={existing}
-      journalNav={journalNav}
+      autoNav={autoNav}
       toc={toc}
       prev={prev}
       next={next}
@@ -100,6 +113,7 @@ export default function ContentPage({ slug, frontmatter, html, toc, tab, navKey,
       </Head>
       {frontmatter.title && <h1 className="page-title">{frontmatter.title}</h1>}
       {journal && <JournalMeta frontmatter={frontmatter} journal={journal} />}
+      {weekly && <WeeklyMeta weekly={weekly} />}
       {(frontmatter.updated || frontmatter.status === 'initial') && (
         <div className="page-meta">
           {frontmatter.updated && <>更新於 {String(frontmatter.updated).replace(/-/g, '/')}</>}

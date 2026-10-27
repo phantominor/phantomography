@@ -2,7 +2,7 @@
 // 上方分頁與左側導覽的結構。slug 對應 content/ 底下的檔案路徑（去掉 .md，index.md 對應資料夾本身）；
 // 檔案還不存在的項目在導覽中會以灰字顯示、不可點。icon 是總覽頁卡片用的圖示名稱（見 lib/markdown/icons.js 的 CARD_ICONS）。
 //
-// 左側導覽以「導覽區」為單位：基礎醫學、逐篇筆記各一區；臨床醫學的八種切入方式各自獨立成一區，
+// 左側導覽以「導覽區」為單位：基礎醫學、逐篇筆記、醫學周報各一區；臨床醫學的八種切入方式各自獨立成一區，
 // 所以諸病微精的頂層（醫學三~六）與基礎醫學的頂層（醫學一~二）位階相同。
 
 export const CLINICAL_CATEGORIES = [
@@ -21,6 +21,7 @@ export const TABS = [
   { key: 'basic', label: '基礎醫學', slug: 'basic', icon: 'dna' },
   { key: 'clinical', label: '臨床醫學', slug: 'clinical', icon: 'hospital', children: CLINICAL_CATEGORIES },
   { key: 'journal', label: '逐篇筆記', slug: 'journal', icon: 'notebook' },
+  { key: 'weekly', label: '醫學周報', slug: 'weekly', icon: 'newspaper' },
 ];
 
 const page = (label, slug) => ({ label, slug });
@@ -148,8 +149,9 @@ export const SIDE_NAV = {
   'clinical/general': [],
   'clinical/oncall': [],
   'clinical/cases': [],
-  // 逐篇筆記依日期自動產生（lib/journal.js 的 getJournalNav），由頁面資料傳入，這裡留空
+  // 逐篇筆記、醫學周報依日期自動產生（lib/journal.js、lib/weekly.js），由頁面資料的 autoNav 傳入，這裡留空
   journal: [],
+  weekly: [],
 };
 
 // 頁面所屬的上方分頁與左側導覽區。frontmatter 的 nav 可覆寫（例如樣式樣張頁）
@@ -169,8 +171,8 @@ export function flattenNav(navKey) {
 
 // 手機抽屜的多層導覽樹（仿 Material）：大分頁 → （臨床醫學的八個分類）→ 分組 → 頁面。
 // 節點：{ key, label, slug?, children? }；有 slug 的資料夾節點表示它有自己的總覽頁
-export function buildNavTree(journalNav = []) {
-  const sectionsOf = (navKey) => (navKey === 'journal' ? journalNav : SIDE_NAV[navKey] || []).map((section) => ({
+export function buildNavTree(autoNav = {}) {
+  const sectionsOf = (navKey) => (autoNav[navKey] || SIDE_NAV[navKey] || []).map((section) => ({
     key: `${navKey}:${section.title}`,
     label: section.title,
     children: section.items.map((item) => ({ key: item.slug, label: item.label, slug: item.slug })),
@@ -188,6 +190,7 @@ export function buildNavTree(journalNav = []) {
         children: CLINICAL_CATEGORIES.map((c) => ({ key: c.key, label: c.label, slug: c.slug, children: sectionsOf(c.key) })),
       },
       { key: 'journal', label: '逐篇筆記', slug: 'journal', children: sectionsOf('journal') },
+      { key: 'weekly', label: '醫學周報', slug: 'weekly', children: sectionsOf('weekly') },
     ],
   };
 }

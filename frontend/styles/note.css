@@ -720,3 +720,29 @@ a.journal-item-tag:hover {
 .journal-linked a {
   color: var(--color-link);
 }
+
+/* ── 醫學周報 ── */
+.note .news {
+  margin: 0.4em 0 1.6em;
+}
+
+.note .news-meta {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 6px;
+  margin-bottom: 0.5em;
+}
+
+.note .news-source {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  font-size: 0.8rem;
+  color: var(--color-text-muted);
+}
+
+.note .news-source svg {
+  width: 13px;
+  height: 13px;
+}

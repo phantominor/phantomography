@@ -7,7 +7,7 @@ import {
   LuTarget, LuLightbulb, LuColumns2, LuTriangleAlert, LuCircleHelp,
   LuBookmark, LuChevronRight, LuLink, LuWorkflow, LuCornerUpLeft,
   LuStethoscope, LuMessageCircleQuestion, LuMicroscope, LuPill, LuHand, LuCompass, LuSiren, LuFolderOpen,
-  LuDna, LuHospital, LuNotebookPen, LuSparkles,
+  LuDna, LuHospital, LuNotebookPen, LuNewspaper, LuSparkles, LuExternalLink,
 } from 'react-icons/lu';
 
 const svg = (Icon) => renderToStaticMarkup(createElement(Icon, { 'aria-hidden': true, className: 'icon' }));
@@ -24,6 +24,7 @@ export const ICONS = {
   link: svg(LuLink),
   chart: svg(LuWorkflow),
   backlink: svg(LuCornerUpLeft),
+  external: svg(LuExternalLink),
 };
 
 // 總覽頁卡片的圖示（data/nav.js 的 icon 欄位）
@@ -39,4 +40,5 @@ export const CARD_ICONS = {
   dna: svg(LuDna),
   hospital: svg(LuHospital),
   notebook: svg(LuNotebookPen),
+  newspaper: svg(LuNewspaper),
 };

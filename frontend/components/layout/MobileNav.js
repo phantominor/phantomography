@@ -30,8 +30,8 @@ function initialStack(tree, slug) {
   return isFolder(target) ? path : path.slice(0, -1);
 }
 
-export default function MobileNav({ currentSlug, existing, journalNav, toc, onClose }) {
-  const tree = useMemo(() => buildNavTree(journalNav), [journalNav]);
+export default function MobileNav({ currentSlug, existing, autoNav, toc, onClose }) {
+  const tree = useMemo(() => buildNavTree(autoNav), [autoNav]);
   const currentPath = useMemo(() => findPath(tree, currentSlug) || [], [tree, currentSlug]);
   const [stack, setStack] = useState(() => initialStack(tree, currentSlug));
   const [showToc, setShowToc] = useState(false);

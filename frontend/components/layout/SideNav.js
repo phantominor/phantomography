@@ -43,8 +43,8 @@ function Section({ section, currentSlug, existing }) {
   );
 }
 
-export default function SideNav({ navKey, currentSlug, existing, journalNav = [] }) {
-  const sections = navKey === 'journal' ? journalNav : SIDE_NAV[navKey] || [];
+export default function SideNav({ navKey, currentSlug, existing, autoNav = {} }) {
+  const sections = autoNav[navKey] || SIDE_NAV[navKey] || [];
   if (!sections.length) return <p className={styles.empty}>尚無頁面</p>;
   return (
     <nav className={styles.nav} aria-label="本區導覽">

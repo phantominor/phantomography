@@ -1,5 +1,11 @@
 <!-- UPDATE.md -->
 [2026/10/27]
+- **醫學周報分頁**: 新增第四個大分頁「醫學周報」，每週整理期刊、指引、新聞稿與醫療時事，連回醫學筆記；藍圖 `frontend/blueprints/weekly_v1.md`
+  - 檔案 `content/weekly/<YYYY>/<YYYY>-w<WW>.md`；h2 依性質分段（本週焦點、新研究、新指引、藥物與器材、公衛與政策、疫情、時事、新發現、病例與專題，沒內容的不寫），每則包 `:::news{subjects source date url}`，渲染成科別標籤加原文連結
+  - `lib/weekly.js`：列表、左側導覽（依年份、「第 N 週 MM/DD–MM/DD」）、頁首的期間、則數與科別；`::weekly` 列表依科別篩選（沿用逐篇筆記列表的樣式與篩選）
+  - 左側導覽與手機抽屜的自動導覽改成通用的 `autoNav`（逐篇筆記、醫學周報各一區）；搜尋索引位置標籤「周報」；首頁卡片多一張
+  - `scripts/weekly-period.mjs`：用台北時間算期別（ISO 週）、涵蓋期間、檔名與標題，雲端主機在 UTC 也不會算錯
+  - `/weekly` skill：蒐集、篩選、撰寫、檢查、整合提案的流程；每則都要讀過原始來源
 - **套用整合提案：居家整合醫學**: 使用者確認講者用的是 INHOMESSS，移除待查證；家醫科老年評估加入 INHOMESSS 並連到逐篇筆記，逐篇筆記改為已整合，提案檔與 inbox 原檔刪除
 - **逐篇筆記：居家整合醫學（INHOMESSS）**: 收件匣第 12 篇只有標題「IMHOMELESS 評估方法」，依使用者說明補寫成 `journal/2026/20261027-home-visit-inhomesss.md`
   - INHOMESSS 九個面向的評估表（依 AAFP 居家訪視文章），和 CGA、多重用藥、跌倒、家庭 APGAR 對照；台灣居家醫療整合計畫三階段

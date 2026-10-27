@@ -72,7 +72,7 @@ function blockText(node) {
   return (node.children || []).map(blockText).join(sep);
 }
 
-// 頁面位置標籤：大分頁（基醫、臨醫、隨筆）+ 臨床醫學的分類
+// 頁面位置標籤：大分頁（基醫、臨醫、隨筆、周報）+ 臨床醫學的分類
 const CLINICAL = {
   diseases: '諸病微精', complaints: '病患主訴', tests: '檢查檢驗', treatments: '治療處置',
   skills: '臨床技能', general: '臨床通論', oncall: '值班要點', cases: '案例回顧',
@@ -82,6 +82,7 @@ function locationOf(url) {
   if (top === 'basic') return { tag: '基醫', cat: '' };
   if (top === 'clinical') return { tag: '臨醫', cat: CLINICAL[sub] || '' };
   if (top === 'journal') return { tag: '隨筆', cat: '' };
+  if (top === 'weekly') return { tag: '周報', cat: '' };
   return { tag: '', cat: '' };
 }
 
