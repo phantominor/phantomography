@@ -1,5 +1,6 @@
 <!-- UPDATE.md -->
 [2026/10/27]
+- **套用整合提案：居家整合醫學**: 使用者確認講者用的是 INHOMESSS，移除待查證；家醫科老年評估加入 INHOMESSS 並連到逐篇筆記，逐篇筆記改為已整合，提案檔與 inbox 原檔刪除
 - **逐篇筆記：居家整合醫學（INHOMESSS）**: 收件匣第 12 篇只有標題「IMHOMELESS 評估方法」，依使用者說明補寫成 `journal/2026/20261027-home-visit-inhomesss.md`
   - INHOMESSS 九個面向的評估表（依 AAFP 居家訪視文章），和 CGA、多重用藥、跌倒、家庭 APGAR 對照；台灣居家醫療整合計畫三階段
   - 全篇包 `:::supplement`，講者 IMHOMELESS 版本的字母對應包 `:::verify` 待對照投影片；整合提案放在 `temp/proposals/`

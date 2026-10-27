@@ -542,6 +542,12 @@ RSV 疫苗與單株抗體在台灣的核准年齡、公費對象，以食藥署�
 | 衰弱 | Fried frailty phenotype（5 項中符合 ≥ 3 項：體重減輕、疲倦、活動量低、握力差、步行速度慢） |
 | 多重用藥 | ≥ 5 種藥物（polypharmacy），使用 Beers criteria 檢視不適當用藥 |
 
+:::source{from="20261027-home-visit-inhomesss"}
+- 居家訪視用 **INHOMESSS** 評估：Impairments/Immobility、Nutrition、Home environment、Other people、Medications、Examination、Safety、Spiritual health、Services；比 CGA 多了環境、照顧者與可用服務。
+:::
+
+- 各面向的評估細節、台灣居家醫療三階段，詳見 [[20261027-home-visit-inhomesss|居家訪視的 INHOMESSS 評估]]（逐篇筆記）。
+
 ### 失智症（Dementia）
 
 | 類型 | 特點 |

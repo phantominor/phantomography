@@ -7,16 +7,16 @@ event: 居家整合醫學個案報告與討論
 speaker: 薛復宸
 place: 部北
 tags: [家庭醫學科, 臨床技巧]
-integrated: false
+integrated: true
 ---
 
 ## 摘要
 
-薛復宸醫師的居家整合醫學個案報告與討論，用 IMHOMELESS（INHOMESSS）的架構評估居家個案。到病人家裡看診，除了疾病本身，還要看功能、營養、居家環境、照顧者、用藥、安全、靈性與可用的服務，這些是門診看不到、卻決定病人能不能在家生活的事。
+薛復宸醫師的居家整合醫學個案報告與討論，用 INHOMESSS 的架構評估居家個案。到病人家裡看診，除了疾病本身，還要看功能、營養、居家環境、照顧者、用藥、安全、靈性與可用的服務，這些是門診看不到、卻決定病人能不能在家生活的事。
 
 ## INHOMESSS 評估架構
 
-- 課堂用 IMHOMELESS 的架構分析居家個案。
+- 課堂用 INHOMESSS 的架構分析居家個案。
 
 :::supplement
 - INHOMESSS 是家庭醫學居家訪視（house call）常用的評估清單，由早期的 INHOME 擴充而來，美國家庭醫師學會（AAFP）的居家訪視回顧文章都用它當檢核表。
@@ -36,10 +36,6 @@ integrated: false
 
 - 和門診的老年評估（CGA）互補：CGA 用量表評估病人本身（見[[家庭醫學科#老年評估（CGA, Comprehensive Geriatric Assessment）|老年評估]]），INHOMESSS 多了環境、照顧者、服務這些只有到家裡才看得到的面向。
 - M 的用藥核對對應[[家庭醫學科#多重用藥（Polypharmacy）|多重用藥]]的處理；S 的居家安全對應[[家庭醫學科#跌倒|跌倒]]預防；O 的家庭功能可以搭配[[家庭醫學科#家庭 APGAR（Family APGAR）|家庭 APGAR]]。
-:::
-
-:::verify
-課堂的名稱是 IMHOMELESS，筆記只寫了標題，各字母對應的面向沒有記下來。上表是文獻常見的 INHOMESSS 版本；講者版本若多了或換了某些字母（例如 L、E），請對照投影片補上。
 :::
 
 ## 台灣的居家醫療
