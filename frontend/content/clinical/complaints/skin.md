@@ -26,7 +26,7 @@ status: initial
 
 - **發燒 + 快速擴散的瘀點紫斑** → **腦膜炎雙球菌血症**，數小時內致命，**:red[立即抗生素]**。
 - **發燒 + 低血壓 + 瀰漫性紅斑** → **毒性休克症候群**（棉條、傷口、術後）。
-- **皮膚痛、水疱、表皮剝落、黏膜侵犯（≥ 2 處）** → **SJS／TEN**。
+- **皮膚痛、水疱、表皮剝落、黏膜侵犯（≥ 2 處）** → **SJS/TEN**。
 - **發燒 + 皮疹 + 嗜酸性球高 + 肝炎**，新藥 2–8 週後 → **DRESS**。
 - **兒童發燒 :red[≥ 5 天]** + 結膜充血、草莓舌、手腳腫脹 → **川崎病**（冠狀動脈瘤）。
 - **腸病毒 + 嗜睡、肌躍型抽搐、持續嘔吐、呼吸急促、心跳快** → **腸病毒 71 重症**前兆。
@@ -43,7 +43,7 @@ status: initial
 | **蟲媒與立克次體** | **[[感染科#登革熱（Dengue）\|登革熱]]**、**[[感染科#Rickettsia & related\|恙蟲病、斑疹熱]]**、屈公病 | **旅遊、草叢、焦痂（eschar）**、白血球與血小板低 |
 | **性傳染與 HIV** | **[[皮膚科#梅毒（Syphilis）\|二期梅毒]]**、**[[感染科#HIV / AIDS\|急性 HIV]]** | **手掌腳掌**、淋巴結、性行為史 |
 | **疱疹病毒** | [[感染科#VZV\|水痘、播散性帶狀疱疹]]、EBV（**amoxicillin 後出疹**） | 水疱、不同時期病灶並存 |
-| **藥物** | **[[皮膚科#藥物疹類型\|麻疹樣藥物疹]]**、**[[皮膚科#Stevens-Johnson Syndrome（SJS）/ Toxic Epidermal Necrolysis（TEN）\|SJS／TEN]]**、**[[皮膚科#Drug Reaction with Eosinophilia and Systemic Symptoms（DRESS）\|DRESS]]**、[[皮膚科#Acute Generalized Exanthematous Pustulosis（AGEP）\|AGEP]] | **新藥時間軸**、黏膜、嗜酸性球 |
+| **藥物** | **[[皮膚科#藥物疹類型\|麻疹樣藥物疹]]**、**[[皮膚科#Stevens-Johnson Syndrome（SJS）/ Toxic Epidermal Necrolysis（TEN）\|SJS/TEN]]**、**[[皮膚科#Drug Reaction with Eosinophilia and Systemic Symptoms（DRESS）\|DRESS]]**、[[皮膚科#Acute Generalized Exanthematous Pustulosis（AGEP）\|AGEP]] | **新藥時間軸**、黏膜、嗜酸性球 |
 | **發炎與免疫** | **[[小兒科#川崎病（Kawasaki Disease）\|川崎病]]**、[[免疫風濕科#成人 Still's Disease（Adult-Onset Still's Disease, AOSD）\|成人 Still's disease]]、[[免疫風濕科#全身性紅斑狼瘡（SLE）\|SLE]]、[[小兒科#過敏性紫斑（Henoch-Schönlein Purpura / IgA Vasculitis）\|IgA 血管炎]]、[[皮膚科#多形性紅斑（Erythema Multiforme, EM）\|多形性紅斑]] | 鮭魚色暫時性皮疹、可觸摸紫斑 |
 
 #### 易混淆鑑別
@@ -93,7 +93,7 @@ flowchart TD
   A["發燒 + 皮疹"]:::start --> B{{"生命徵象不穩<br/>或快速擴散的紫斑？"}}
   B -->|"是"| C["血液培養後立即抗生素<br/>ceftriaxone ± vancomycin<br/>輸液、加護病房"]:::danger
   B -->|"否"| D{{"黏膜侵犯、表皮剝落<br/>或 Nikolsky 陽性？"}}
-  D -->|"是"| E["SJS／TEN 或 SSSS<br/>停可疑藥物、燒燙傷中心"]:::danger
+  D -->|"是"| E["SJS/TEN 或 SSSS<br/>停可疑藥物、燒燙傷中心"]:::danger
   D -->|"否"| F{{"皮疹型態？"}}
   F -->|"斑丘疹"| G["病毒、藥物、登革熱<br/>恙蟲病、二期梅毒、川崎病"]
   F -->|"水疱"| H["水痘、手足口病<br/>疱疹、播散性帶狀疱疹"]
@@ -104,7 +104,7 @@ flowchart TD
 ```
 
 - **CBC（白血球、血小板、嗜酸性球）**、肝腎功能、CRP、**血液培養**、尿液檢查。
-- 依臨床：**登革熱 NS1 抗原**、恙蟲病抗體或 PCR、**RPR／TPPA**、HIV、ASO、喉嚨快篩、麻疹 IgM、水疱 PCR；川崎病 → 心臟超音波。
+- 依臨床：**登革熱 NS1 抗原**、恙蟲病抗體或 PCR、**RPR/TPPA**、HIV、ASO、喉嚨快篩、麻疹 IgM、水疱 PCR；川崎病 → 心臟超音波。
 - 診斷不明 → **皮膚切片**。
 
 #### 初步處置
@@ -128,7 +128,7 @@ flowchart TD
 - 玫瑰疹：高燒 3–5 天、燒退後出疹；傳染性紅斑：紅臉頰、再生不全危象、胎兒水腫。
 - 麻疹：3C + Koplik 斑、由上往下；給維生素 A；水痘：不同時期病灶並存。
 - 手掌腳掌皮疹：二期梅毒、手足口病、斑疹熱、多形性紅斑、川崎病。
-- SSSS：Nikolsky 陽性、黏膜不侵犯；SJS／TEN：黏膜侵犯。
+- SSSS：Nikolsky 陽性、黏膜不侵犯；SJS/TEN：黏膜侵犯。
 - 恙蟲病：焦痂 → doxycycline；登革熱避免 NSAIDs。
 :::
 
@@ -138,13 +138,13 @@ flowchart TD
 
 - **藥物疹（drug eruption）**：最常見為**麻疹樣（斑丘疹）藥物疹**，佔 **> 90%**；通常**用藥後 :red[4–14 天]**出現，**不侵犯黏膜**、無全身症狀。
 - **嚴重皮膚不良反應（severe cutaneous adverse reactions, SCAR）**：
-    - **SJS／TEN**：**表皮壞死剝落 + 黏膜侵犯**；依剝落面積：**SJS :red[< 10%]**、重疊 10–30%、**TEN :red[> 30%]**。
+    - **SJS/TEN**：**表皮壞死剝落 + 黏膜侵犯**；依剝落面積：**SJS :red[< 10%]**、重疊 10–30%、**TEN :red[> 30%]**。
     - **DRESS**：**發燒、皮疹、臉部腫脹、淋巴結腫、嗜酸性球增多、內臟侵犯（肝最常見）**；**用藥後 :red[2–8 週]**。
     - **AGEP**：**數百個小膿疱（非毛囊性）在紅斑上**，**用藥後 1–2 天**，常見於 β-lactam。
 - **其他型態**：**蕁麻疹與過敏性休克**（數分鐘到數小時）、**固定性藥物疹**（同一位置反覆出現的圓形暗紅斑，**NSAIDs、sulfonamide**）、光敏感、藥物性紫斑、苔蘚樣疹。
 - **台灣重要的基因篩檢**：
-    - **:red[HLA-B\*15:02] → carbamazepine**（SJS／TEN）：**健保給付用藥前篩檢**。
-    - **:red[HLA-B\*58:01] → allopurinol**（SJS／TEN、DRESS）。
+    - **:red[HLA-B\*15:02] → carbamazepine**（SJS/TEN）：**健保給付用藥前篩檢**。
+    - **:red[HLA-B\*58:01] → allopurinol**（SJS/TEN、DRESS）。
     - HLA-B\*13:01 → dapsone（DRESS）。
 
 #### Red flags
@@ -160,7 +160,7 @@ flowchart TD
 | 類別 | 疾病 | 鑑別關鍵 |
 |---|---|---|
 | **輕型藥物疹** | **[[皮膚科#藥物疹類型\|麻疹樣藥物疹]]**、固定性藥物疹、光敏感 | 無黏膜、無全身症狀 |
-| **SCAR** | **[[皮膚科#Stevens-Johnson Syndrome（SJS）/ Toxic Epidermal Necrolysis（TEN）\|SJS／TEN]]**、**[[皮膚科#Drug Reaction with Eosinophilia and Systemic Symptoms（DRESS）\|DRESS]]**、**[[皮膚科#Acute Generalized Exanthematous Pustulosis（AGEP）\|AGEP]]** | **時間軸、黏膜、嗜酸性球、膿疱** |
+| **SCAR** | **[[皮膚科#Stevens-Johnson Syndrome（SJS）/ Toxic Epidermal Necrolysis（TEN）\|SJS/TEN]]**、**[[皮膚科#Drug Reaction with Eosinophilia and Systemic Symptoms（DRESS）\|DRESS]]**、**[[皮膚科#Acute Generalized Exanthematous Pustulosis（AGEP）\|AGEP]]** | **時間軸、黏膜、嗜酸性球、膿疱** |
 | **立即型過敏** | [[皮膚科#蕁麻疹（Urticaria）\|蕁麻疹]]、**[[免疫風濕科#過敏性休克（Anaphylaxis）\|過敏性休克]]**、[[免疫風濕科#血管性水腫（Angioedema）\|血管性水腫]] | **數分鐘到數小時內**、風疹塊 |
 | **感染** | **病毒疹**、[[皮膚科#葡萄球菌燙傷樣皮膚症候群（SSSS, Staphylococcal Scalded Skin Syndrome）\|SSSS]]、毒性休克症候群、**黴漿菌引起的黏膜炎（MIRM）** | 前驅感染、兒童 |
 | **水疱病** | [[皮膚科#多形性紅斑（Erythema Multiforme, EM）\|多形性紅斑]]、[[皮膚科#類天疱瘡（Pemphigoid）\|類天疱瘡]]、[[皮膚科#天疱瘡（Pemphigus）\|天疱瘡]] | **典型三圈靶狀、肢端** → EM（HSV） |
@@ -169,7 +169,7 @@ flowchart TD
 #### 易混淆鑑別
 
 :::compare[嚴重皮膚藥物反應比較]
-| | 麻疹樣藥物疹 | SJS／TEN | DRESS | AGEP |
+| | 麻疹樣藥物疹 | SJS/TEN | DRESS | AGEP |
 |---|---|---|---|---|
 | 發生時間 | **4–14 天** | **4–28 天** | **2–8 週** | **1–2 天** |
 | 皮膚 | 對稱斑丘疹、癢 | **暗紅斑、非典型靶狀 → 水疱、剝落**、痛 | 麻疹樣 → 瀰漫紅斑、**臉部腫脹** | **紅斑上數百個非毛囊性小膿疱**，皺褶處開始 |
@@ -181,8 +181,8 @@ flowchart TD
 | 治療 | 停藥、抗組織胺、外用類固醇 | **停藥、燒燙傷照護、眼科**；cyclosporine、IVIG、etanercept | **停藥、全身性類固醇並慢慢減量**（數週到數月） | 停藥、外用類固醇 |
 :::
 
-:::compare[SJS／TEN vs 多形性紅斑]
-| | 多形性紅斑（EM major） | SJS／TEN |
+:::compare[SJS/TEN vs 多形性紅斑]
+| | 多形性紅斑（EM major） | SJS/TEN |
 |---|---|---|
 | 誘因 | **HSV（最常見）**、黴漿菌 | **藥物** |
 | 病灶 | **典型三圈靶狀**（中心暗、白圈、紅暈） | **非典型靶狀、暗紅斑、融合** |
@@ -197,7 +197,7 @@ flowchart TD
 |---|
 | **年齡 ≥ 40 歲** |
 | **惡性腫瘤** |
-| **心跳 ≥ 120 次／分** |
+| **心跳 ≥ 120 次/分** |
 | **初始表皮剝落 ≥ 10%** |
 | **BUN > 28 mg/dL** |
 | **血糖 > 252 mg/dL** |
@@ -220,13 +220,13 @@ flowchart TD
 
 - **CBC（嗜酸性球、非典型淋巴球）**、**肝腎功能**、電解質、血糖、BUN、HCO₃⁻（SCORTEN）。
 - DRESS → 肝、腎、肺、**心臟（troponin、心臟超音波）**、甲狀腺（後期自體免疫）、**HHV-6 再活化**。
-- **皮膚切片**：SJS／TEN（**全層表皮壞死**）、AGEP（角層下膿疱）。
+- **皮膚切片**：SJS/TEN（**全層表皮壞死**）、AGEP（角層下膿疱）。
 - 確認致病藥物：**藥物因果評估（ALDEN）**；急性期後可做淋巴球活化試驗；**不建議再挑戰（rechallenge）**。
 
 #### 初步處置
 
 - **:red[立即停用所有可疑藥物]**（越早停預後越好）。
-- **SJS／TEN**：
+- **SJS/TEN**：
     - **燒燙傷中心或加護病房**、傷口照護、保溫、輸液與營養、**避免感染**。
     - **眼科會診**（**每天評估，預防角膜與眼瞼沾黏造成失明**）、口腔與泌尿生殖道照護。
     - 免疫治療：cyclosporine、IVIG、etanercept（證據有限）。
@@ -471,17 +471,17 @@ flowchart TD
 - **水疱（vesicle）< 1 cm**；**大疱（bulla）≥ 1 cm**；膿疱（pustule）含膿。
 - **依水疱位置**：
     - **表皮內（鬆弛、容易破）**：**天疱瘡**、SSSS、膿痂疹、病毒性水疱 → **Nikolsky 陽性**（天疱瘡、SSSS、TEN）。
-    - **表皮下（緊繃、不易破）**：**類天疱瘡**、疱疹樣皮膚炎、**SJS／TEN**、表皮分解性水疱症、遲發性皮膚紫質症。
+    - **表皮下（緊繃、不易破）**：**類天疱瘡**、疱疹樣皮膚炎、**SJS/TEN**、表皮分解性水疱症、遲發性皮膚紫質症。
 - **常見原因**：
     - **感染**：**單純疱疹**、**帶狀疱疹**、水痘、手足口病、**膿痂疹**（大疱性）。
     - **過敏與物理**：**接觸性皮膚炎**（直線排列、植物）、昆蟲叮咬、**燒燙傷**、摩擦、凍傷。
-    - **藥物**：**SJS／TEN**、固定性藥物疹。
+    - **藥物**：**SJS/TEN**、固定性藥物疹。
     - **自體免疫水疱病**：天疱瘡、類天疱瘡、疱疹樣皮膚炎。
     - **代謝**：遲發性皮膚紫質症（日曬處、C 型肝炎）、糖尿病大疱。
 
 #### Red flags
 
-- **廣泛表皮剝落 + 黏膜侵犯** → **SJS／TEN**。
+- **廣泛表皮剝落 + 黏膜侵犯** → **SJS/TEN**。
 - **天疱瘡**：**口腔糜爛先出現**，未治療死亡率高。
 - **眼部帶狀疱疹（V1）**：**鼻尖水疱（Hutchinson sign）** → [[眼科#角膜炎（Keratitis）|角膜炎]]、視力喪失，眼科會診。
 - **耳朵帶狀疱疹 + 顏面神經麻痺** → Ramsay Hunt 症候群。
@@ -496,7 +496,7 @@ flowchart TD
 | **病毒** | **[[皮膚科#單純疱疹（Herpes Simplex）\|單純疱疹]]**、**[[皮膚科#帶狀疱疹（Herpes Zoster / Shingles）\|帶狀疱疹]]**、[[感染科#VZV\|水痘]]、手足口病 | **紅底上成群水疱**、**單側皮節**、Tzanck 多核巨細胞 |
 | **細菌** | **[[皮膚科#膿痂疹（Impetigo）\|大疱性膿痂疹]]**、**[[皮膚科#葡萄球菌燙傷樣皮膚症候群（SSSS, Staphylococcal Scalded Skin Syndrome）\|SSSS]]** | **蜂蜜色痂**、兒童 |
 | **自體免疫** | **[[皮膚科#天疱瘡（Pemphigus）\|天疱瘡]]**、**[[皮膚科#類天疱瘡（Pemphigoid）\|類天疱瘡]]**、**[[皮膚科#疱疹樣皮膚炎（Dermatitis Herpetiformis, DH）\|疱疹樣皮膚炎]]**、線狀 IgA 皮膚病 | **年齡、黏膜、Nikolsky、免疫螢光** |
-| **藥物** | **[[皮膚科#Stevens-Johnson Syndrome（SJS）/ Toxic Epidermal Necrolysis（TEN）\|SJS／TEN]]**、固定性藥物疹（大疱型） | 新藥、黏膜 |
+| **藥物** | **[[皮膚科#Stevens-Johnson Syndrome（SJS）/ Toxic Epidermal Necrolysis（TEN）\|SJS/TEN]]**、固定性藥物疹（大疱型） | 新藥、黏膜 |
 | **過敏與物理** | **[[皮膚科#接觸性皮膚炎（Contact Dermatitis）\|接觸性皮膚炎]]**、昆蟲叮咬、燒燙傷、摩擦、凍傷、**隱翅蟲皮膚炎（線狀，台灣夏季）** | **形狀與接觸物相符**、直線排列 |
 | **發炎** | [[皮膚科#多形性紅斑（Erythema Multiforme, EM）\|多形性紅斑]]、汗疱疹（手掌側緣小水疱） | 靶狀病灶 |
 | **遺傳與代謝** | [[皮膚科#表皮分解性水疱症（Epidermolysis Bullosa, EB）\|表皮分解性水疱症]]、**遲發性皮膚紫質症**、糖尿病大疱 | **日曬處 + 皮膚脆弱 + 多毛** → 紫質症 |
@@ -739,7 +739,7 @@ flowchart TD
 
 ![乾癬：邊界清楚的紅色斑塊合併銀白鱗屑](media/commons/psoriasis-plaques.webp "乾癬：邊界清楚的紅色斑塊合併銀白鱗屑 | Marnanel，CC BY-SA 3.0，Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Psoriasis_on_back.jpg")
 
-![體癬：環狀、邊緣隆起有鱗屑、中央較淡](media/commons/tinea-corporis.webp "體癬：環狀、邊緣隆起有鱗屑、中央較淡 | CDC／Lucille K. Georg，Public domain，Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Ringworm_on_the_arm,_or_tinea_corporis_due_to_Trichophyton_mentagrophytes_PHIL_2938_lores.jpg")
+![體癬：環狀、邊緣隆起有鱗屑、中央較淡](media/commons/tinea-corporis.webp "體癬：環狀、邊緣隆起有鱗屑、中央較淡 | CDC/Lucille K. Georg，Public domain，Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Ringworm_on_the_arm,_or_tinea_corporis_due_to_Trichophyton_mentagrophytes_PHIL_2938_lores.jpg")
 
 #### 問診與理學檢查
 
@@ -851,7 +851,7 @@ flowchart TD
 #### 檢查流程
 
 - 典型痤瘡與酒糟 → **臨床診斷**。
-- 痤瘡合併雄性素過多徵象 → **total testosterone、DHEA-S、LH／FSH、prolactin**、骨盆超音波。
+- 痤瘡合併雄性素過多徵象 → **total testosterone、DHEA-S、LH/FSH、prolactin**、骨盆超音波。
 - 懷疑 SLE → **ANA、anti-dsDNA、補體、CBC、尿液檢查**；皮肌炎 → **CK、肌炎抗體、惡性腫瘤篩檢**。
 - 不典型 → 皮膚切片。
 
@@ -1278,7 +1278,7 @@ flowchart TD
 
 - **ABI**（所有下肢潰瘍，壓迫治療前必做）；ABI 不可靠（鈣化）→ **趾肱指數（TBI）**、經皮氧分壓。
 - **靜脈雙功能超音波**（逆流）、**動脈超音波或血管攝影**。
-- 感染 → **深部組織培養**（不用表淺拭子）、**X 光、MRI**（骨髓炎）、ESR／CRP。
+- 感染 → **深部組織培養**（不用表淺拭子）、**X 光、MRI**（骨髓炎）、ESR/CRP。
 - **非典型或 3 個月不癒合 → 邊緣切片**。
 - **營養評估**（白蛋白、前白蛋白）、血糖控制（HbA1c）。
 
@@ -1441,7 +1441,7 @@ flowchart TD
 | 月經 | **不規則** | 不規則 | 停經 | 不規則 | **規則** |
 | 男性化 | 少 | 少 | **常見** | 少 | 無 |
 | Testosterone | 輕度 ↑ | 輕度 ↑ | **↑↑（> 150–200）** | 輕度 ↑ | **正常** |
-| 特殊檢查 | **超音波多囊卵巢**、LH／FSH 比值高、胰島素阻抗 | **清晨 17-OH progesterone ↑**（ACTH 刺激試驗確認） | **DHEA-S ↑↑（腎上腺）**、影像 | **24 小時尿液 cortisol、深夜唾液 cortisol、1 mg dexamethasone 抑制試驗** | 排除診斷 |
+| 特殊檢查 | **超音波多囊卵巢**、LH/FSH 比值高、胰島素阻抗 | **清晨 17-OH progesterone ↑**（ACTH 刺激試驗確認） | **DHEA-S ↑↑（腎上腺）**、影像 | **24 小時尿液 cortisol、深夜唾液 cortisol、1 mg dexamethasone 抑制試驗** | 排除診斷 |
 :::
 
 #### 問診與理學檢查

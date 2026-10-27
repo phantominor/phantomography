@@ -19,7 +19,7 @@ status: initial
     - **N**eurologic：局部神經缺損、意識改變、**[[眼科#視乳頭水腫（Papilledema）|乳突水腫]]（papilledema）**、癲癇發作。
     - **O**nset：**突發（雷擊樣）**。
     - **O**lder：**> 50 歲新發頭痛**（GCA、腫瘤、硬腦膜下出血）。
-    - **P**attern change／**P**ositional（平躺加重 → 顱內壓高；站立加重 → 低顱內壓）／**P**recipitated by Valsalva（咳嗽、用力）／**P**regnancy 或產後。
+    - **P**attern change/**P**ositional（平躺加重 → 顱內壓高；站立加重 → 低顱內壓）/**P**recipitated by Valsalva（咳嗽、用力）/**P**regnancy 或產後。
 
 #### Red flags
 
@@ -53,7 +53,7 @@ status: initial
 | 頭痛 | **單次、極劇烈** | **1–4 週內反覆多次雷擊樣頭痛** | 漸進或雷擊樣、平躺加重 | 頸部或臉部疼痛 + 頭痛 |
 | 誘因 | **動脈瘤破裂**；用力、性行為 | **產後**、**血清素藥物、血管收縮劑（偽麻黃鹼、triptan）**、大麻 | **懷孕產後、口服避孕藥**、脫水、感染、易栓症 | **頸部外傷、按摩（整脊）**、咳嗽 |
 | 伴隨 | 頸部僵硬、意識改變、**[[眼科#CN III（動眼神經）麻痺\|動眼神經麻痺]]（後交通動脈瘤）** | 可併發出血或梗塞 | **乳突水腫**、癲癇、局部缺損 | **Horner syndrome**（頸動脈）、[[神經內科#Wallenberg Syndrome（延腦外側症候群）\|延腦外側症候群]]（椎動脈） |
-| 診斷 | **非顯影頭部 CT** → 陰性 → **腰椎穿刺（黃變）** | **CTA／MRA：串珠狀血管收縮**，**3 個月內恢復** | **MR 靜脈攝影（MRV）**、CT 靜脈攝影；**空三角徵象（empty delta sign）** | CTA／MRA |
+| 診斷 | **非顯影頭部 CT** → 陰性 → **腰椎穿刺（黃變）** | **CTA/MRA：串珠狀血管收縮**，**3 個月內恢復** | **MR 靜脈攝影（MRV）**、CT 靜脈攝影；**空三角徵象（empty delta sign）** | CTA/MRA |
 | 治療 | **Nimodipine**、動脈瘤夾閉或栓塞 | 停誘發藥物、**nimodipine 或 verapamil**；**避免類固醇** | **抗凝血（即使有出血性梗塞也要給）** | 抗血小板或抗凝血 |
 :::
 
@@ -97,7 +97,7 @@ flowchart TD
   G --> H{{"陽性？"}}
   H -->|"是"| D
   H -->|"否"| F
-  F --> I["CTA／MRA、MRV<br/>找 RCVS、剝離、CVST"]:::key
+  F --> I["CTA/MRA、MRV<br/>找 RCVS、剝離、CVST"]:::key
 ```
 
 - **頭部 CT 在 SAH 發作 :red[6 小時]內敏感度接近 100%**，之後逐漸下降。
@@ -143,7 +143,7 @@ flowchart TD
     - 合併**同側自主神經症狀**：流淚、結膜充血、流鼻水、眼瞼下垂、瞳孔縮小（Horner）。
     - **坐立不安、來回走動**（偏頭痛是想躺在暗處不動）。
     - 每天固定時間發作（常在夜間）、成串發作數週到數月。
-- **藥物過度使用頭痛（medication-overuse headache, MOH）**：**每月頭痛 :red[≥ 15 天]**，且止痛藥使用 **:red[≥ 10–15 天／月]**超過 3 個月 → 停用過度使用的藥物。
+- **藥物過度使用頭痛（medication-overuse headache, MOH）**：**每月頭痛 :red[≥ 15 天]**，且止痛藥使用 **:red[≥ 10–15 天/月]**超過 3 個月 → 停用過度使用的藥物。
 - **三叉神經痛（trigeminal neuralgia）**：**單側臉部電擊樣、數秒鐘**的劇痛；**觸發點（洗臉、刷牙、咀嚼、吹風）**；**V2、V3 最常見**；年輕人或雙側 → 想**[[神經內科#多發性硬化症（Multiple Sclerosis, MS）|多發性硬化症]]**。
 
 #### Red flags
@@ -188,7 +188,7 @@ flowchart TD
 | 偏癱型或腦幹先兆偏頭痛 | 理論上增加缺血風險 |
 | **24 小時內用過 ergotamine 或另一種 triptan** | 血管收縮疊加 |
 | MAO 抑制劑（部分 triptan） | 代謝受抑制 |
-| 與 SSRI／SNRI 併用 | [[精神科#Serotonin Syndrome（血清素症候群）\|血清素症候群]]風險（實際很低，但要知道） |
+| 與 SSRI/SNRI 併用 | [[精神科#Serotonin Syndrome（血清素症候群）\|血清素症候群]]風險（實際很低，但要知道） |
 - 有血管疾病者可改用 **gepant（CGRP 受體拮抗劑）**或 **lasmiditan（5-HT1F，不收縮血管，但會頭暈、不能開車）**。
 :::
 
@@ -245,7 +245,7 @@ flowchart TD
     - **代謝與中毒（最常見）**：低血糖、高血糖、低血鈉、高血鈣、尿毒、肝性腦病變、缺氧、高碳酸、敗血症、甲狀腺、腎上腺、Wernicke、藥物與酒精 → **對稱、瞳孔反射多保留**。
     - **癲癇**：非痙攣性癲癇重積（NCSE）、發作後狀態。
     - **心因性**：假性昏迷（眼皮抗拒被打開、手落下會避開臉）。
-- 口訣 **AEIOU TIPS**：Alcohol、Epilepsy／Electrolytes／Encephalopathy、Insulin（低血糖）、Opioids／Oxygen、Uremia、Trauma／Temperature、Infection、Psychiatric／Poisoning、Stroke／Shock。
+- 口訣 **AEIOU TIPS**：Alcohol、Epilepsy/Electrolytes/Encephalopathy、Insulin（低血糖）、Opioids/Oxygen、Uremia、Trauma/Temperature、Infection、Psychiatric/Poisoning、Stroke/Shock。
 
 #### Red flags
 
@@ -262,7 +262,7 @@ flowchart TD
 | **結構：血管** | [[神經內科#腦內出血（ICH）\|腦內出血]]、[[神經內科#蜘蛛膜下腔出血（SAH）\|SAH]]、**基底動脈阻塞**、大面積 MCA 梗塞 | 突發、局部缺損；基底動脈 → 眼球運動異常、四肢癱瘓 |
 | **結構：外傷** | [[神經外科#Epidural Hematoma（EDH）\|硬腦膜上出血]]（**清醒期 lucid interval**）、[[神經外科#Subdural Hematoma（SDH）\|硬腦膜下出血]]、[[神經外科#瀰漫性軸突損傷（Diffuse Axonal Injury, DAI）\|瀰漫性軸突損傷]] | 外傷史、頭皮傷口 |
 | **結構：其他** | 腫瘤、[[神經內科#腦膿瘍（Brain Abscess）\|膿瘍]]、[[神經外科#水腦症（Hydrocephalus）\|急性水腦症]] | 漸進、乳突水腫 |
-| **代謝** | **[[代謝內分泌科#Hypoglycemia\|低血糖]]**、[[代謝內分泌科#糖尿病急性併發症\|DKA／HHS]]、[[腎臟內科#低血鈉（Hyponatremia，Na⁺ < 135 mEq/L）\|低血鈉]]、[[腎臟內科#高血鈣（Hypercalcemia，Ca²⁺ > 10.5 mg/dL）\|高血鈣]]、尿毒、**[[消化內科#肝性腦病變（Hepatic Encephalopathy）\|肝性腦病變]]**、高碳酸血症、[[代謝內分泌科#黏液水腫昏迷（Myxedema Coma）\|黏液水腫昏迷]]、[[代謝內分泌科#腎上腺功能不全（Adrenal Insufficiency）\|腎上腺危象]]、**[[神經內科#Wernicke-Korsakoff Syndrome\|Wernicke 腦病變]]** | 對稱、**撲翼樣震顫（asterixis）**、檢驗異常 |
+| **代謝** | **[[代謝內分泌科#Hypoglycemia\|低血糖]]**、[[代謝內分泌科#糖尿病急性併發症\|DKA/HHS]]、[[腎臟內科#低血鈉（Hyponatremia，Na⁺ < 135 mEq/L）\|低血鈉]]、[[腎臟內科#高血鈣（Hypercalcemia，Ca²⁺ > 10.5 mg/dL）\|高血鈣]]、尿毒、**[[消化內科#肝性腦病變（Hepatic Encephalopathy）\|肝性腦病變]]**、高碳酸血症、[[代謝內分泌科#黏液水腫昏迷（Myxedema Coma）\|黏液水腫昏迷]]、[[代謝內分泌科#腎上腺功能不全（Adrenal Insufficiency）\|腎上腺危象]]、**[[神經內科#Wernicke-Korsakoff Syndrome\|Wernicke 腦病變]]** | 對稱、**撲翼樣震顫（asterixis）**、檢驗異常 |
 | **中毒** | **鴉片類**、benzodiazepine、酒精、一氧化碳、抗膽鹼、TCA、水楊酸、有機磷 | 瞳孔、呼吸、皮膚、毒物症候群（toxidrome） |
 | **感染** | [[神經內科#細菌性腦膜炎\|腦膜炎]]、[[神經內科#病毒性腦炎\|腦炎]]、**敗血症**（老人） | 發燒、頸部僵硬 |
 | **癲癇** | **非痙攣性癲癇重積（NCSE）**、發作後狀態 | 眼球震顫、細微抽動；**EEG** |
@@ -514,10 +514,10 @@ flowchart TD
 
 #### 檢查流程
 
-- **可逆原因的基本檢查**：**B12**、**TSH**、CBC、電解質、鈣、血糖、肝腎功能；危險族群加**梅毒（RPR／TPHA）**、HIV。
+- **可逆原因的基本檢查**：**B12**、**TSH**、CBC、電解質、鈣、血糖、肝腎功能；危險族群加**梅毒（RPR/TPHA）**、HIV。
 - **頭部影像（CT 或 MRI）**：排除 NPH、腫瘤、硬腦膜下出血、中風。
 - 快速進展：**MRI DWI（CJD：皮質緞帶與基底核高訊號）**、**EEG（週期性尖波）**、**腦脊髓液 14-3-3、RT-QuIC**、自體免疫抗體。
-- 診斷不明：神經心理測驗、FDG-PET、類澱粉 PET、腦脊髓液 Aβ42／tau。
+- 診斷不明：神經心理測驗、FDG-PET、類澱粉 PET、腦脊髓液 Aβ42/tau。
 
 #### 初步處置
 
@@ -546,7 +546,7 @@ flowchart TD
     - **≥ 2 次非誘發性發作（間隔 > 24 小時）**；或
     - **1 次非誘發性發作 + 再發風險 :red[≥ 60%]**（EEG 癲癇波、腦部結構病變）；或
     - 癲癇症候群。
-- **誘發性發作（provoked／acute symptomatic）**：有明確的急性原因 → **治療原因即可，通常不需長期抗癲癇藥**。
+- **誘發性發作（provoked/acute symptomatic）**：有明確的急性原因 → **治療原因即可，通常不需長期抗癲癇藥**。
     - 代謝：**低血糖**、**低血鈉**、低血鈣、低血鎂、尿毒、高血糖高滲。
     - **酒精或 benzodiazepine 戒斷**。
     - 藥物：**tramadol**、**bupropion**、**isoniazid（→ pyridoxine）**、theophylline、TCA、carbapenem（imipenem）、cocaine。
@@ -609,7 +609,7 @@ flowchart TD
 |---|---|
 | **Valproate** | **致畸（神經管缺陷）→ 育齡女性避免**、肝毒性、胰臟炎、高血氨、體重增加、血小板低下 |
 | **Phenytoin** | **牙齦增生**、多毛、**小腦運動失調與眼球震顫（中毒）**、[[皮膚科#Stevens-Johnson Syndrome（SJS）/ Toxic Epidermal Necrolysis（TEN）\|SJS]]（**HLA-B\*15:02**）、零階動力學、致畸 |
-| **Carbamazepine** | **SJS／TEN（:red[HLA-B\*15:02]，台灣與東南亞人用藥前需篩檢）**、**低血鈉（[[代謝內分泌科#抗利尿激素不當分泌症候群（SIADH）\|SIADH]]）**、[[血液腫瘤科#再生不良性貧血（Aplastic Anemia）\|再生不良性貧血]]、酵素誘導 |
+| **Carbamazepine** | **SJS/TEN（:red[HLA-B\*15:02]，台灣與東南亞人用藥前需篩檢）**、**低血鈉（[[代謝內分泌科#抗利尿激素不當分泌症候群（SIADH）\|SIADH]]）**、[[血液腫瘤科#再生不良性貧血（Aplastic Anemia）\|再生不良性貧血]]、酵素誘導 |
 | **Lamotrigine** | **皮疹與 SJS（劑量要慢慢加；與 valproate 併用風險更高）**、懷孕相對安全 |
 | **Levetiracetam** | **情緒與行為副作用（易怒、憂鬱）**；交互作用少、可 IV、懷孕相對安全 |
 | **Ethosuximide** | **只用於失神發作** |
@@ -648,7 +648,7 @@ flowchart TD
 - 誘發性發作：治療原因（例如低血鈉緩慢矯正、低血糖、酒精戒斷給 benzodiazepine）。
 
 :::pitfall
-台灣病人需要用 carbamazepine 時沒有先驗 HLA-B*15:02 → 帶有此基因者發生 SJS／TEN 的風險大幅增加。健保已給付篩檢，開立 carbamazepine 前要先檢驗；phenytoin 也與此基因相關。
+台灣病人需要用 carbamazepine 時沒有先驗 HLA-B*15:02 → 帶有此基因者發生 SJS/TEN 的風險大幅增加。健保已給付篩檢，開立 carbamazepine 前要先檢驗；phenytoin 也與此基因相關。
 :::
 
 :::pitfall
@@ -976,12 +976,12 @@ flowchart TD
 ```
 
 - 血液：**電解質（鉀、磷、鈣、鎂）**、**CK**、**TSH 與 free T4**、血糖、CBC、ESR。
-- 神經傳導與[[復健科#肌電圖（EMG）|肌電圖]]（NCS／EMG）：區分神經、NMJ、肌肉。
+- 神經傳導與[[復健科#肌電圖（EMG）|肌電圖]]（NCS/EMG）：區分神經、NMJ、肌肉。
 - 重症肌無力：AChR 抗體、**胸部 CT（胸腺瘤）**；發炎性肌病變：肌炎抗體、MRI、**肌肉切片**、**找潛在癌症（皮肌炎）**。
 
 #### 初步處置
 
-- **呼吸衰竭的插管指標**：**:red[FVC < 20 mL/kg]、NIF 弱於 −30 cmH₂O**（**20／30／40 規則**：FVC < 20、NIF > −30、最大呼氣壓 < 40）、延腦功能不良無法保護呼吸道。
+- **呼吸衰竭的插管指標**：**:red[FVC < 20 mL/kg]、NIF 弱於 −30 cmH₂O**（**20/30/40 規則**：FVC < 20、NIF > −30、最大呼氣壓 < 40）、延腦功能不良無法保護呼吸道。
 - GBS：**IVIG 或血漿置換**（兩者效果相當、**不要合併**）、**類固醇無效**、監測自主神經、預防 DVT。
 - 重症肌無力危象：IVIG 或血漿置換、**暫停 pyridostigmine（插管後）**、停用惡化藥物；區分**膽鹼性危象**（藥物過量：分泌物多、縮瞳、腹瀉、心搏過緩）。
 - **甲狀腺毒性週期性麻痺**：**小心補鉀（:red[避免反彈性高血鉀]，因為鉀是轉移到細胞內而非流失）**、**非選擇性 β 阻斷劑（propranolol）**、治療甲亢。
@@ -1051,7 +1051,7 @@ flowchart TD
 - **L4–L5 椎間盤突出 → 壓迫 L5 神經根**；L5–S1 → 壓迫 S1（後外側突出壓迫下一節神經根）。
 :::
 
-:::compare[腕隧道症候群 vs C6／C7 神經根病變 vs 尺神經病變]
+:::compare[腕隧道症候群 vs C6/C7 神經根病變 vs 尺神經病變]
 | | 腕隧道症候群（正中神經） | 頸椎神經根病變 | 尺神經病變（肘部） |
 |---|---|---|---|
 | 感覺 | **拇指、食指、中指、無名指外側半**；**掌部近端（手掌皮支）保留** | 皮節分布（含前臂、手臂） | **小指、無名指內側半** |
@@ -1065,7 +1065,7 @@ flowchart TD
 
 - **分布**（畫出來）、對稱性、進展速度、從哪裡開始、夜間或姿勢誘發、疼痛性質、無力。
 - 糖尿病、酒精、**素食或胃切除（B12）**、**metformin 長期使用（B12↓）**、**笑氣使用**、化療、職業與重複動作、懷孕。
-- 理學檢查：**痛溫覺、觸覺、震動覺（128 Hz 音叉）、本體感覺**、**Romberg**、反射、肌力、Tinel／Phalen、Spurling、直腿抬高、**感覺平面**、Chvostek 與 Trousseau。
+- 理學檢查：**痛溫覺、觸覺、震動覺（128 Hz 音叉）、本體感覺**、**Romberg**、反射、肌力、Tinel/Phalen、Spurling、直腿抬高、**感覺平面**、Chvostek 與 Trousseau。
 
 #### 檢查流程
 
@@ -1097,7 +1097,7 @@ flowchart TD
 - **顫抖（tremor）**：規律、有節律的擺動。
     - **靜止型（rest）**：肢體放鬆時出現，動作時減弱 → **Parkinson 病（4–6 Hz、搓藥丸、不對稱）**。
     - **姿勢型（postural）**：維持姿勢時（雙手平舉）→ **原發性顫抖**、**生理性顫抖加強**。
-    - **動作型（kinetic）／意向型（intention）**：接近目標時加劇 → **小腦病變**。
+    - **動作型（kinetic）/意向型（intention）**：接近目標時加劇 → **小腦病變**。
 - 其他不自主運動：
     - **舞蹈症（chorea）**：不規則、流動、快速 → **Huntington 病**、**Sydenham 舞蹈症（風濕熱）**、**非酮酸性高血糖偏側舞蹈症**、懷孕、SLE、藥物（levodopa）。
     - **半側抽搐（hemiballismus）**：大幅度甩動 → **對側視丘下核（subthalamic nucleus）**中風。
@@ -1148,7 +1148,7 @@ flowchart TD
 | 時間 | **數小時到數天** | 數天到數週 | **數週到數月** | **數月到數年** |
 | 表現 | **斜頸、眼球上吊（oculogyric crisis）**、舌頭伸出、牙關緊閉 | **坐立不安、一直想動** | **對稱**的僵硬、動作遲緩、靜止型顫抖 | **口舌臉部不自主運動**（咀嚼、舔唇） |
 | 好發 | **年輕男性**、高效價藥物（haloperidol） | | 老人、女性 | 老人、女性、長期使用 |
-| 治療 | **抗膽鹼（benztropine）或 diphenhydramine IV／IM** | **propranolol**、benzodiazepine、減量 | 減量、換藥、抗膽鹼 | **停藥或換 clozapine**、**VMAT2 抑制劑（valbenazine、deutetrabenazine）**；**抗膽鹼會惡化** |
+| 治療 | **抗膽鹼（benztropine）或 diphenhydramine IV/IM** | **propranolol**、benzodiazepine、減量 | 減量、換藥、抗膽鹼 | **停藥或換 clozapine**、**VMAT2 抑制劑（valbenazine、deutetrabenazine）**；**抗膽鹼會惡化** |
 :::
 
 #### 問診與理學檢查
@@ -1197,7 +1197,7 @@ flowchart TD
 |---|---|---|
 | **Parkinson 步態** | **小碎步、拖步、前傾、手臂擺動減少、整體轉身、急促步（festination）、凍結** | Parkinson 病 |
 | **磁性步態** | **腳像黏在地上抬不起來**、寬基 | **常壓性水腦症** |
-| **剪刀步態／痙攣步態** | 雙腿僵硬交叉 | **雙側 UMN**（脊髓病變、[[小兒科#腦性麻痺（Cerebral Palsy, CP）\|腦性麻痺]]） |
+| **剪刀步態/痙攣步態** | 雙腿僵硬交叉 | **雙側 UMN**（脊髓病變、[[小兒科#腦性麻痺（Cerebral Palsy, CP）\|腦性麻痺]]） |
 | **偏癱步態** | 患側下肢**畫圈（circumduction）** | 中風 |
 | **跨閾步態（steppage）** | **高抬腿、腳掌拍地** | **垂足**（[[骨科#腓神經麻痺（Common Peroneal Nerve Palsy）\|腓神經麻痺]]、L5 神經根、多發神經病變） |
 | **鴨子步態（waddling）** | 骨盆左右擺動 | **近端肌無力**（肌病變、[[神經內科#肌肉失養症（Muscular Dystrophies）\|肌肉失養症]]）、懷孕、髖關節發育不良 |

@@ -20,7 +20,7 @@ cd frontend && node scripts/weekly-period.mjs 2026-10-21 # 指定某一週
 ## 2. 蒐集
 
 - 只收發表日落在 `start`–`end` 的消息（指引、新聞稿以發布日為準）。
-- 依藍圖 §4 的來源逐一看：期刊目錄與 RSS、PubMed、WHO／CDC／FDA／EMA、衛福部與各署新聞稿、醫藥新聞。
+- 依藍圖 §4 的來源逐一看：期刊目錄與 RSS、PubMed、WHO/CDC/FDA/EMA、衛福部與各署新聞稿、醫藥新聞。
 - 期刊用官方提供給程式讀的管道，不抓網頁、不偽裝瀏覽器：
     - 目錄：各期刊 RSS（NEJM `https://www.nejm.org/action/showFeed?type=etoc&feed=rss&jc=nejm`、Lancet `https://www.thelancet.com/rssfeed/lancet_online.xml`、Nature Medicine `https://www.nature.com/nm.rss`、JAMA `https://jamanetwork.com/rss/site_3/67.xml` 等）。
     - 摘要與數字：PubMed E-utilities，`esearch.fcgi?db=pubmed&term=<關鍵字>+AND+N+Engl+J+Med[ta]&datetype=edat&mindate=<start>&maxdate=<end>` 找 PMID，再 `efetch.fcgi?db=pubmed&id=<PMID>&rettype=abstract&retmode=text` 讀摘要（不要開 pubmed.ncbi.nlm.nih.gov 網頁，會跳 CAPTCHA）。開放取用全文用 Europe PMC REST API。

@@ -21,7 +21,7 @@ description: 定期全站掃描一次，把各頁之間應該有、但還沒加�
 
 ### 1. 列出連結目標
 
-- 所有頁面的 `title`、`aliases` 與 h2／h3 標題（`frontend/content/**/*.md`，含 `content/journal/`；`_charts/` 除外）。
+- 所有頁面的 `title`、`aliases` 與 h2/h3 標題（`frontend/content/**/*.md`，含 `content/journal/`；`_charts/` 除外）。
 - 看 `UPDATE.md` 找上次 relink 的日期，列出那之後新增或大改的頁面，這些是這次的重點目標。
 
 ### 2. 逐頁讀完並補連結

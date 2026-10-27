@@ -267,7 +267,7 @@ flowchart TD
 #### 定義與分類
 
 - **躁症發作（manic episode）**：情緒高昂、易怒或膨脹，**活動量或精力增加**，持續 **:red[≥ 1 週]**（或需住院則不論時間）+ **DIG FAST** ≥ 3 項（只有易怒 → ≥ 4 項）：
-    - **D**istractibility（注意力分散）、**I**mpulsivity／Indiscretion（衝動、魯莽：花大錢、性、投資）、**G**randiosity（誇大）。
+    - **D**istractibility（注意力分散）、**I**mpulsivity/Indiscretion（衝動、魯莽：花大錢、性、投資）、**G**randiosity（誇大）。
     - **F**light of ideas（意念飛躍）、**A**ctivity increase（目標導向活動增加）、**S**leep deficit（**睡眠需求減少**，不覺得累）、**T**alkativeness（多話、言語急迫 pressured speech）。
 - **輕躁症（hypomania）**：同樣症狀但 **≥ 4 天**、**不需住院、無精神病症狀、無明顯功能減損**。
 - **雙極 I 型**：至少 1 次躁症；**雙極 II 型**：輕躁症 + 鬱症，**從未躁症**；**循環性情緒障礙**：≥ 2 年反覆輕微高低起伏。
@@ -355,7 +355,7 @@ flowchart TD
 
 :::exam
 - 躁症 ≥ 1 週（或住院）、輕躁症 ≥ 4 天且無精神病症狀；雙極 II 型從未躁症。
-- Lithium 毒性誘因：脫水、NSAIDs、ACEi／ARB、thiazide；懷孕第一孕期 → Ebstein anomaly。
+- Lithium 毒性誘因：脫水、NSAIDs、ACEi/ARB、thiazide；懷孕第一孕期 → Ebstein anomaly。
 - Valproate → 神經管缺損、肝毒性、胰臟炎；lamotrigine → [[皮膚科#Stevens-Johnson Syndrome（SJS）/ Toxic Epidermal Necrolysis（TEN）|SJS]]，要慢慢加量。
 :::
 
@@ -404,7 +404,7 @@ flowchart TD
 | 焦慮對象 | **多件日常事情** | **再次發作**、身體症狀 | **被他人評價** | **特定物體或情境** |
 | 型態 | **持續、慢性**（≥ 6 個月） | **突發、10 分鐘內達高峰** | 社交場合出現 | 接觸時立即出現 |
 | 迴避 | 少 | **懼曠症（agoraphobia）**：怕在難以逃脫的地方 | 迴避社交、演講 | 迴避恐懼對象 |
-| 首選治療 | **SSRI／SNRI + CBT**；buspirone | **SSRI + CBT** | **SSRI + CBT**；表演型 → **propranolol** | **暴露治療（exposure therapy）** |
+| 首選治療 | **SSRI/SNRI + CBT**；buspirone | **SSRI + CBT** | **SSRI + CBT**；表演型 → **propranolol** | **暴露治療（exposure therapy）** |
 :::
 
 :::compare[急性壓力症 vs PTSD vs 適應障礙]
@@ -457,7 +457,7 @@ flowchart TD
 - 減少咖啡因與酒精、規律運動、睡眠衛生。
 
 :::pitfall
-焦慮病人長期只開 BZD（如 alprazolam）→ 產生依賴，停藥時反彈焦慮甚至癲癇。BZD 只作短期過渡，長期治療用 SSRI／SNRI 與 CBT；要停用時必須慢慢減量。
+焦慮病人長期只開 BZD（如 alprazolam）→ 產生依賴，停藥時反彈焦慮甚至癲癇。BZD 只作短期過渡，長期治療用 SSRI/SNRI 與 CBT；要停用時必須慢慢減量。
 :::
 
 :::pitfall
@@ -637,7 +637,7 @@ flowchart TD
 
 #### 檢查流程
 
-- 依症狀做**合理且有限的基本檢查**：CBC、生化、TSH、ESR／CRP、尿液檢查；神經學症狀 → 影像、EEG、肌電圖。
+- 依症狀做**合理且有限的基本檢查**：CBC、生化、TSH、ESR/CRP、尿液檢查；神經學症狀 → 影像、EEG、肌電圖。
 - **避免重複、無止盡的檢查與侵入性處置**（醫源性傷害、強化疾病行為）。
 - 疑人為障礙：**低血糖 → insulin 與 C-peptide**（外源性 insulin：C-peptide 低；sulfonylurea：C-peptide 高 + 藥物篩檢）；不明感染 → 培養出多種腸道菌。
 
@@ -704,7 +704,7 @@ flowchart TD
 | **物質** | **[[精神科#興奮劑（Stimulants）\|安非他命]]**、古柯鹼、[[精神科#大麻（Cannabis）\|大麻]]、[[精神科#幻覺劑（Hallucinogens）\|LSD、PCP、ketamine]]；**[[精神科#酒精戒斷（Alcohol Withdrawal）\|酒精幻覺症、DT]]** | 尿液毒物篩檢、**瞳孔、心跳、出汗** |
 | **藥物** | **類固醇**、levodopa 與 dopamine 致效劑、抗膽鹼藥、isoniazid、mefloquine | 用藥後出現 |
 | **神經** | **[[神經內科#NMDA Receptor Encephalitis\|抗 NMDA 受體腦炎]]**、[[神經內科#病毒性腦炎\|HSV 腦炎]]、**顳葉癲癇**、腦腫瘤、中風、[[神經內科#亨丁頓舞蹈症（Huntington's Disease）\|Huntington 病]]、**[[神經內科#威爾森氏病（Wilson Disease）\|Wilson 病]]** | 癲癇、不自主運動、**角膜 K-F 環** |
-| **感染** | **[[神經內科#Neurosyphilis\|神經性梅毒]]**、[[感染科#HIV / AIDS\|HIV]]、腦膜炎 | RPR／VDRL、HIV |
+| **感染** | **[[神經內科#Neurosyphilis\|神經性梅毒]]**、[[感染科#HIV / AIDS\|HIV]]、腦膜炎 | RPR/VDRL、HIV |
 | **內分泌與代謝** | 甲狀腺機能亢進或低下、[[代謝內分泌科#庫欣氏症候群（Cushing's Syndrome）\|Cushing]]、**低血糖**、**低血鈉**、高血鈣、[[消化內科#肝性腦病變（Hepatic Encephalopathy）\|肝性腦病變]]、尿毒症、**[[血液腫瘤科#維生素 B₁₂（Cobalamin）缺乏\|B₁₂ 缺乏]]**、急性間歇性紫質症 | 生化檢查 |
 | **自體免疫** | **[[免疫風濕科#全身性紅斑狼瘡（SLE）\|SLE]]（神經精神狼瘡）** | 多系統、ANA |
 
@@ -737,7 +737,7 @@ flowchart TD
 | **視幻覺** | **譫妄**、**酒精戒斷（DT）**、**路易體失智**、Parkinson 藥物、致幻劑、Charles Bonnet 症候群（視力喪失的老人） |
 | **觸幻覺（蟲爬感）** | **古柯鹼、安非他命**、**酒精戒斷** |
 | **嗅、味幻覺** | **顳葉癲癇（鉤回發作 uncinate fit）**、腫瘤 |
-| **入睡與醒來時幻覺** | **[[神經內科#猝睡症（Narcolepsy）\|猝睡症]]**（hypnagogic／hypnopompic），正常人也可有 |
+| **入睡與醒來時幻覺** | **[[神經內科#猝睡症（Narcolepsy）\|猝睡症]]**（hypnagogic/hypnopompic），正常人也可有 |
 :::
 
 #### 問診與理學檢查
@@ -764,7 +764,7 @@ flowchart TD
   H -->|"否"| J["原發性精神病<br/>第二代抗精神病藥"]:::key
 ```
 
-- **首次發作的基本檢查**：CBC、電解質、血糖、Ca、肝腎功能、**TSH**、**B₁₂**、**RPR／VDRL**、**HIV**、**尿液毒物篩檢**、懷孕試驗。
+- **首次發作的基本檢查**：CBC、電解質、血糖、Ca、肝腎功能、**TSH**、**B₁₂**、**RPR/VDRL**、**HIV**、**尿液毒物篩檢**、懷孕試驗。
 - 非典型（> 40 歲、急性、神經學徵象、癲癇、意識改變）→ **腦部 MRI、EEG、腰椎穿刺**、ANA、**血清 ceruloplasmin**（年輕人）。
 - **開抗精神病藥前**：體重、BMI、血糖、血脂、**ECG（QT）**、prolactin（必要時）。
 
@@ -843,8 +843,8 @@ flowchart TD
 :::compare[快速鎮靜常用藥物]
 | 藥物 | 途徑 | 優點 | 注意 |
 |---|---|---|---|
-| **Haloperidol** | IM／IV | 效果確實、少呼吸抑制 | **急性肌張力不全**、**QT 延長**、NMS |
-| **Lorazepam、midazolam** | IM／IV | 戒斷與興奮劑首選 | **呼吸抑制**（尤其合併酒精）、矛盾性激躁（老人） |
+| **Haloperidol** | IM/IV | 效果確實、少呼吸抑制 | **急性肌張力不全**、**QT 延長**、NMS |
+| **Lorazepam、midazolam** | IM/IV | 戒斷與興奮劑首選 | **呼吸抑制**（尤其合併酒精）、矛盾性激躁（老人） |
 | **Haloperidol + lorazepam（± promethazine）** | IM | **合併使用起效快、減少肌張力不全** | 監測呼吸與 QT |
 | **Olanzapine** | IM | 少錐體外症狀 | **不可與 IM BZD 同時給（低血壓、呼吸抑制）** |
 | **Ketamine** | IM | 極度激躁、興奮性譫妄 | [[麻醉科#喉痙攣（Laryngospasm）\|喉痙攣]]、高血壓，需能處理呼吸道 |
@@ -913,7 +913,7 @@ flowchart TD
 - **錐體外症狀（EPS）**：急性肌張力不全、靜坐不能、Parkinson 症候群、遲發性運動異常。
 - **QT 延長與 Torsades de Pointes**：haloperidol IV、ziprasidone、citalopram、methadone、TCA。
 - **血液**：**clozapine → 顆粒性白血球缺乏（agranulocytosis）**；carbamazepine → [[血液腫瘤科#再生不良性貧血（Aplastic Anemia）|再生不良性貧血]]、白血球下降。
-- **皮膚**：**carbamazepine（HLA-B\*15:02）、lamotrigine → SJS／TEN**。
+- **皮膚**：**carbamazepine（HLA-B\*15:02）、lamotrigine → SJS/TEN**。
 - **代謝**：**SSRI → 低血鈉（SIADH）**，老人常見；valproate → 高血氨、胰臟炎、肝毒性。
 - **其他**：**clozapine → 心肌炎（前 2 個月）、癲癇、便秘至腸阻塞**；trazodone → [[泌尿科#陰莖異常勃起（Priapism）|陰莖異常勃起]]；MAOI + tyramine → [[心臟內科#高血壓危象（Hypertensive Crisis）|高血壓危象]]。
 
@@ -922,7 +922,7 @@ flowchart TD
 - **高燒 + 肌肉僵硬 + 意識改變 + 血壓心跳不穩** → NMS 或血清素症候群。
 - **ECG：QRS > :red[100 ms]** → TCA 過量，有心律不整與癲癇風險；**QTc > 500 ms** → TdP 風險。
 - **服用 clozapine 出現發燒、喉嚨痛** → 顆粒性白血球缺乏；**前幾週出現胸痛、心跳快、呼吸困難** → 心肌炎。
-- **新用藥後 1–8 週發燒 + 皮疹 + 黏膜潰瘍** → SJS／TEN。
+- **新用藥後 1–8 週發燒 + 皮疹 + 黏膜潰瘍** → SJS/TEN。
 - **鋰中毒 + 意識改變、癲癇、腎衰竭** → 血液透析。
 - **喉部肌張力不全** → 呼吸道危險。
 
@@ -955,7 +955,7 @@ flowchart TD
 :::compare[急性 vs 慢性鋰中毒]
 | | 急性（一次大量服用） | 慢性（長期服用、濃度慢慢升高） |
 |---|---|---|
-| 誘因 | **自殺服藥** | **脫水、腎功能惡化、NSAIDs、ACEi／ARB、thiazide** |
+| 誘因 | **自殺服藥** | **脫水、腎功能惡化、NSAIDs、ACEi/ARB、thiazide** |
 | 早期症狀 | **腸胃道：嘔吐、腹瀉** | **神經：粗大顫抖、步態不穩、構音障礙、意識混亂** |
 | 濃度與症狀 | **濃度高但症狀可較輕**（尚未進入腦） | **濃度不高也可能很嚴重** |
 | 後遺症 | 較少 | **可留下永久小腦症狀（SILENT）** |
@@ -970,7 +970,7 @@ flowchart TD
 | 出現時間 | **數小時到 :red[數天]** | **數天到數週** | **數週到數月** | **數月到數年** |
 | 表現 | **斜頸、眼球上吊（oculogyric crisis）**、牙關緊閉、**喉部痙攣** | **坐立不安、來回走** | 靜止性顫抖、僵硬、動作慢 | **口舌顏面不自主運動**（咀嚼、吐舌） |
 | 高風險 | **年輕男性、高效價藥物（haloperidol）** | 高效價藥物 | 老人、女性 | **老人、長期使用** |
-| 處理 | **benztropine、diphenhydramine IM／IV** | **propranolol**、降劑量、BZD | 降劑量、換藥、抗膽鹼藥 | **停藥或換 clozapine**、**valbenazine、deutetrabenazine** |
+| 處理 | **benztropine、diphenhydramine IM/IV** | **propranolol**、降劑量、BZD | 降劑量、換藥、抗膽鹼藥 | **停藥或換 clozapine**、**valbenazine、deutetrabenazine** |
 :::
 
 :::compare[TCA 過量的 ECG 與處置]
@@ -1003,7 +1003,7 @@ flowchart TD
 - **血清素症候群**：停藥、**BZD**、**cyproheptadine**；**高體溫 > 41.1°C → 插管、肌肉鬆弛劑**；避免**身體約束**（肌肉對抗加重高體溫）。
 - **鋰中毒**：**停藥、生理食鹽水**、停用 NSAIDs 與利尿劑、**血液透析**（見上表）；透析後會**濃度反彈**，要反覆抽血、可能重複透析。
 - **TCA 過量**：**sodium bicarbonate**、活性碳（呼吸道安全時）、BZD 處理癲癇。
-- **急性肌張力不全**：**benztropine 或 diphenhydramine IV／IM**；喉部肌張力不全 → 確保呼吸道。
+- **急性肌張力不全**：**benztropine 或 diphenhydramine IV/IM**；喉部肌張力不全 → 確保呼吸道。
 - **QTc 延長**：停用延長 QT 的藥物、補鉀與鎂；TdP → **IV magnesium sulfate**。
 - **Clozapine 顆粒性白血球缺乏**：停藥、隔離、G-CSF、廣效抗生素；**不可再使用**。
 
@@ -1019,7 +1019,7 @@ flowchart TD
 - NMS：數天、鉛管樣僵硬、CK 高 → dantrolene、bromocriptine；血清素症候群：24 小時內、陣攣、腹瀉 → cyproheptadine。
 - 抗膽鹼中毒：乾、紅、熱、瞳孔散大、尿滯留 → physostigmine（TCA 過量禁用）。
 - TCA 過量：QRS > 100 ms → sodium bicarbonate。
-- 鋰中毒誘因：脫水、NSAIDs、ACEi／ARB、thiazide；嚴重 → 血液透析。
+- 鋰中毒誘因：脫水、NSAIDs、ACEi/ARB、thiazide；嚴重 → 血液透析。
 - Clozapine：顆粒性白血球缺乏、心肌炎、癲癇、流口水、便秘。
 :::
 
@@ -1367,7 +1367,7 @@ Parkinson 病人開始 dopamine 致效劑後開車時突然睡著 → 把它當�
     - **所有精神疾病中死亡率最高之一**（營養不良、心律不整、自殺）。
 - **神經性暴食症（bulimia nervosa, BN）**：**反覆暴食 + 代償行為**（催吐、瀉劑、利尿劑、禁食、過度運動），**每週 ≥ 1 次、≥ 3 個月**；**體重多正常**。
 - **暴食症（binge eating disorder, BED）**：反覆暴食、失控感，**沒有代償行為**；常合併**肥胖**；**最常見的飲食障礙**。
-- **迴避／節制型攝食障礙（ARFID）**：因感覺特性、怕噎到或嘔吐而限制進食，**沒有身體意象扭曲**；兒童常見。
+- **迴避/節制型攝食障礙（ARFID）**：因感覺特性、怕噎到或嘔吐而限制進食，**沒有身體意象扭曲**；兒童常見。
 - **異食癖（pica）**：吃非食物（土、冰、紙）≥ 1 個月 → **缺鐵**、鉛中毒。
 - **反芻障礙（rumination）**：反覆把食物逆流出來重新咀嚼。
 
@@ -1375,7 +1375,7 @@ Parkinson 病人開始 dopamine 致效劑後開車時突然睡著 → 把它當�
 
 以下符合任一項 → **考慮住院**：
 
-- **心跳 < :red[40]（成人）／< 50（青少年白天）**、**收縮壓 < 90**、**姿態性變化明顯**、體溫 < 35.5°C。
+- **心跳 < :red[40]（成人）/< 50（青少年白天）**、**收縮壓 < 90**、**姿態性變化明顯**、體溫 < 35.5°C。
 - **BMI < 15** 或體重 < 理想體重 75%、**快速下降**。
 - **低血鉀（< 3.0）、[[腎臟內科#低血磷（Hypophosphatemia）|低血磷]]、低血鎂**、低血糖。
 - **ECG 異常：QTc 延長、心律不整**；暈厥。
@@ -1467,7 +1467,7 @@ Parkinson 病人開始 dopamine 致效劑後開車時突然睡著 → 把它當�
 #### 定義與分類
 
 - **注意力不足過動症（ADHD）**：
-    - **注意力不足**和／或**過動衝動**症狀 **≥ :red[6 項]**（**≥ 17 歲 → ≥ 5 項**），持續 **≥ 6 個月**。
+    - **注意力不足**和/或**過動衝動**症狀 **≥ :red[6 項]**（**≥ 17 歲 → ≥ 5 項**），持續 **≥ 6 個月**。
     - **12 歲前出現**、**≥ 2 個場合**（家裡與學校）、造成功能減損。
     - 分型：**注意力不足型**（女生多，易被忽略）、**過動衝動型**、**混合型**。
     - 男：女約 **2–3：1**；約一半持續到成人（過動減少、注意力問題持續）。

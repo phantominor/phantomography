@@ -45,7 +45,7 @@ integrated: true
 :::supplement
 **PrEP**
 
-- 藥物：tenofovir disoproxil fumarate／emtricitabine（TDF/FTC）複方，即 Truvada 與其學名藥。
+- 藥物：tenofovir disoproxil fumarate/emtricitabine（TDF/FTC）複方，即 Truvada 與其學名藥。
 - 每日服用：每天 1 顆，適用所有性別與傳染途徑（包括注射藥物）。
     - 肛交約服藥 7 天後達到保護；陰道性行為與注射藥物約需 21 天。
 - 依需求服用（2-1-1）：

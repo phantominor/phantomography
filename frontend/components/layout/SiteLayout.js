@@ -100,7 +100,7 @@ export default function SiteLayout({ title, tab, navKey, currentSlug, existing, 
     const onClick = (e) => {
       if (e.defaultPrevented || e.button !== 0 || e.metaKey || e.ctrlKey || e.shiftKey || e.altKey) return;
 
-      // 標題旁的逆連結按鈕：展開／收合標題下方的來源清單
+      // 標題旁的逆連結按鈕：展開/收合標題下方的來源清單
       const toggle = e.target.closest?.('.backlink-toggle');
       if (toggle) {
         const list = toggle.closest('h2, h3, h4')?.nextElementSibling;

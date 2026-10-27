@@ -4,7 +4,7 @@
 export const JOURNAL_TYPES = {
   lecture: '課堂',
   talk: '講座',
-  rounds: '晨會／查房',
+  rounds: '晨會/查房',
   clinical: '臨床學習',
   case: '案例討論',
   reading: '閱讀',

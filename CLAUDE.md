@@ -20,8 +20,8 @@ npm run start    # 啟動建置後的伺服器
 npm run lint     # next lint
 ```
 
-- 沒有測試指令／測試框架。
-- `predev`／`prebuild` 會先跑 `scripts/build-search-index.mjs` 產生搜尋索引 `public/search-index.json`（不進版控）；dev 中改了內容要重開 dev server 索引才會更新。`prebuild` 另外跑 `scripts/build-sitemap.mjs` 產生 `public/sitemap.xml` 與 `robots.txt`（同樣不進版控，`noindex`／`draft` 頁不列入）。
+- 沒有測試指令/測試框架。
+- `predev`/`prebuild` 會先跑 `scripts/build-search-index.mjs` 產生搜尋索引 `public/search-index.json`（不進版控）；dev 中改了內容要重開 dev server 索引才會更新。`prebuild` 另外跑 `scripts/build-sitemap.mjs` 產生 `public/sitemap.xml` 與 `robots.txt`（同樣不進版控，`noindex`/`draft` 頁不列入）。
 - 環境變數在 `frontend/.env.local`（不進版控）：`NEXT_PUBLIC_SUPABASE_URL`、`NEXT_PUBLIC_SUPABASE_ANON_KEY`——跟 phantominor 是**同一個 Supabase 專案**，數值直接沿用。
 - 部署在 Vercel（預期網址 `https://phantomography.vercel.app`，phantominor 首頁 M 按鈕連的就是這個網址；若實際網域不同，記得回頭改 phantominor 的 `frontend/pages/index.js`）。之後若加入 Google OAuth 登入，要到 Supabase Dashboard → Authentication → URL Configuration → Redirect URLs 加上本站網域。
 - SQL 遷移檔（`backend/supabase/**/*.sql`）**沒有自動執行機制**，是純粹的變更歷史記錄，要套用必須手動貼到 Supabase SQL Editor 執行。命名慣例：`backend/supabase/<子系統>/<子系統>_<序號>_<說明>.sql`。新表建議用 `m_` 前綴，延續 phantominor「M = Medicine」的字母對應，避免跟同一個 Supabase 專案裡其他站的表撞名。
@@ -58,7 +58,7 @@ npm run lint     # next lint
 - 醫學周報：`content/weekly/<YYYY>/<YYYY>-w<WW>.md`，期別與涵蓋期間一律用 `scripts/weekly-period.mjs` 算（台北時間）；h2 是性質分段（`lib/weekly.js` 的 `WEEKLY_KINDS`，沒內容的不寫），每則消息包 `:::news{subjects="…" source="…" date="…" url="…"}`，`subjects` 只用科別清單；列表 `::weekly`、左側導覽自動產生。每則都要讀過原始來源才寫，流程見 `.claude/skills/weekly/SKILL.md`。
 - 圖片：寫 `![說明](media/… "說明 | 作者，授權，來源 | 網址")`，段落裡只有一張圖會轉成 `<figure>`，第二、三段變成圖說下方的小字出處連結（`lib/markdown/rehypeElements.js`）。需要看外觀才記得住的知識點，Claude 主動找開放授權圖：
   - 用 `scripts/fetch-image.mjs` 找圖與下載（轉 WebP、長邊 1200 px，存 `public/media/<來源>/<slug>.webp`），各指令說明在檔案開頭。來源依序：
-    - Wikimedia Commons（`search`／`get`）：第一優先，臨床照片、示意圖、切片、影像、心電圖都有。
+    - Wikimedia Commons（`search`/`get`）：第一優先，臨床照片、示意圖、切片、影像、心電圖都有。
     - Open-i（`openi`）：PubMed Central 論文的病例照片、影像、心電圖、病理；授權逐篇由 Europe PMC 查，多為 CC BY 或 CC BY-NC(-ND)；常是多格拼圖，ND 的不能只截其中一格。
     - Openverse（`openverse`）：彙整 Flickr、Wellcome Collection、博物館等開放圖庫。
     - DermNet（皮膚，CC BY-NC-ND 3.0，浮水印低解析圖，出處寫 DermNet 並附原頁連結）、LITFL ECG Library（心電圖，CC BY-NC-SA 4.0）：用 `url` 下載。

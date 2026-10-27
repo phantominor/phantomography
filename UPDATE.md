@@ -1,14 +1,19 @@
 <!-- UPDATE.md -->
 [2026/10/28]
-- **H. pylori 第一線改為台灣建議**: 消化內科 H. pylori 根除治療改成鉍劑四合（經驗性首選）、共伴／混合／序列療法、含 vonoprazan 處方；三合療法限 clarithromycin 抗藥率 < 15% 或確認敏感時，註明國考舊題寫法
+- **套用周報第 43 週整合提案、斜線改半形**: 全站「／」改成「/」
+  - 消化內科 PBC：AMA 陰性驗 sp100、gp210；治療分三線（UDCA → 加 PPAR 致效劑 → 肝移植），連到周報
+  - 大腸直腸外科直腸癌 neoadjuvant：dMMR/MSI-H 用 dostarlimab 單獨治療、watch and wait，連到周報
+  - 消化內科 HBV：段落末尾連到周報 bepirovirsen
+  - 斜線：內容、skill、CLAUDE.md、程式註解、範本全部替換，周報標題與連到它的錨點一起改；刪除提案檔
+- **H. pylori 第一線改為台灣建議**: 消化內科 H. pylori 根除治療改成鉍劑四合（經驗性首選）、共伴/混合/序列療法、含 vonoprazan 處方；三合療法限 clarithromycin 抗藥率 < 15% 或確認敏感時，註明國考舊題寫法
   - 依使用者查到的消化系醫學會建議，以 Taipei Global Consensus II（Gut 2025）與台灣 10 天 vs 14 天鉍劑四合試驗（EClinicalMedicine 2024）核對
   - 周報第 43 週 H. pylori 專題改寫對照段落；整合提案移除已解決的衝突
 - **醫學周報改用 PubMed E-utilities 與期刊 RSS 讀摘要**: 期刊文章頁擋自動存取，改用官方給程式讀的管道
-  - 第 43 週：remibrutinib、tarlatamab 改依 Lancet／NEJM 摘要補上數字與 DOI 連結；IgA 腎病變擴充為同週 NEJM 四篇（sibeprenlimab、atacicept、povetacicept、ravulizumab），拿掉兩個 verify
+  - 第 43 週：remibrutinib、tarlatamab 改依 Lancet/NEJM 摘要補上數字與 DOI 連結；IgA 腎病變擴充為同週 NEJM 四篇（sibeprenlimab、atacicept、povetacicept、ravulizumab），拿掉兩個 verify
   - /weekly skill 寫入 RSS 網址、E-utilities 用法、url 用 doi.org
 [2026/10/27]
 - **醫學周報第一期（2026 第 43 週）**: 新增 `content/weekly/2026/2026-w43.md`，涵蓋 10/19–10/25，共 17 則
-  - 本週焦點：FDA 加速核准 dostarlimab 單獨治療 dMMR／MSI-H 局部晚期直腸癌、第一個 B 肝反義寡核苷酸 bepirovirsen（深入解讀）
+  - 本週焦點：FDA 加速核准 dostarlimab 單獨治療 dMMR/MSI-H 局部晚期直腸癌、第一個 B 肝反義寡核苷酸 bepirovirsen（深入解讀）
   - 新研究 3、新指引 2（PBC、胃食道腺癌 HER2）、藥物與器材 2、公衛與政策 2、疫情 2（M 痘 Ib、伊波拉）、時事 2
   - 病例與專題：依使用者提供的 NEJM Resident Briefing（10/22）寫 milvexian（LIBREXIA ACS）與 H. pylori 兩個專題
   - NEJM、Lancet、Nature 擋自動存取，數字改依 FDA、疾管署、ESC 與藥廠新聞稿；讀不到結果的三則包 `:::verify`
@@ -27,7 +32,7 @@
 - **套用整合提案：社區醫學與門診教學 11 篇**: 依使用者回覆修改知識頁，插入段落包 `:::source`，11 篇逐篇筆記改為已整合，提案檔與 inbox 原檔刪除
   - 家庭醫學科：3C2A、社會處方、ABC-X 與 SRRS（折疊）、成人預防保健改為五列表格（30–39 歲每 5 年）、B/C 肝篩檢改為民國 75 年以前出生至 79 歲、Alameda 7、RSV 疫苗、戒菸劑量與合併治療（不建議 varenicline 併用 NRT）、電子菸、血脂目標改用健保 2026/9/1 六級表、台灣安寧照護模式、COPC、渥太華憲章與 RE-AIM、疾病因果模式、通報法源、職災後復工評估
   - 小兒科：齦口炎 vs 腸病毒、水痘 vs CA6 比較表，CA6、EV-D68、外科性猩紅熱、川崎病 perilimbal sparing
-  - 感染科：壞疽性臁瘡與上海熱、登革熱可感染期；胸腔內科：台灣 TB 發生率與 2035 目標、1HP／3HR／6H、都治、接觸者定義、強制隔離
+  - 感染科：壞疽性臁瘡與上海熱、登革熱可感染期；胸腔內科：台灣 TB 發生率與 2035 目標、1HP/3HR/6H、都治、接觸者定義、強制隔離
   - 生殖內分泌科：HRT 週期性 vs 連續合併、HSG；婦科：子宮頸篩檢連到逐篇筆記
   - 逐篇筆記同步：社區行前說明補上臺大星月計畫（附臺大校訊來源）、猴痘改稱 M 痘、戒菸補上不併用的理由、成人預防保健移除待查證
 - **乳房攝影篩檢對象更新**: 依國健署 114 年起的新制，乳房攝影補助對象改為 40–74 歲女性每 2 年一次（原為 45–69 歲），更新家醫科篩檢表、乳房外科與婦產主訴

@@ -587,6 +587,7 @@ credit:
     - 台灣自 1984 年全面新生兒 B 肝疫苗接種。
     - HBsAg(+) 母親：:red[出生 24 小時內]打 **HBIG + B 肝疫苗第一劑**。
     - 高病毒量母親：懷孕後期口服抗病毒藥。
+- 新藥：反義寡核苷酸 bepirovirsen，詳見 [[2026-w43#Bepirovirsen：第一個治療慢性 B 型肝炎的反義寡核苷酸|醫學周報 2026 第 43 週]]。
 
 #### Hepatitis C（HCV）
 
@@ -667,11 +668,15 @@ credit:
 #### 原發性膽汁性膽管炎（Primary Biliary Cholangitis, PBC）
 
 - 好發：中年女性。
-- 抗體：**Anti-mitochondrial Ab（AMA）** 陽性。
+- 抗體：**Anti-mitochondrial Ab（AMA）** 陽性；AMA 陰性時驗 **sp100、gp210**。
 - 病理：自體免疫破壞肝內小膽管 → 膽汁淤積。
 - 症狀：搔癢、疲倦、黃疸。
 - 常合併：Sjögren's syndrome、甲狀腺疾病。
-- 治療：**Ursodeoxycholic acid（UDCA）**；肝移植。
+- 治療：
+    - 第一線：**Ursodeoxycholic acid（UDCA）**。
+    - UDCA 反應不佳：加 **PPAR 致效劑**（elafibranor、seladelpar）；UDCA 不耐受可單用。
+    - 末期：肝移植，移植後用 UDCA 預防復發。
+- 依 2026 AGA/AASLD 指引，詳見 [[2026-w43#AGA/AASLD 原發性膽汁性膽管炎指引：PPAR 致效劑列為第二線|醫學周報 2026 第 43 週]]。
 
 #### 原發性硬化性膽管炎（Primary Sclerosing Cholangitis, PSC）
 

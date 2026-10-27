@@ -591,7 +591,7 @@ credit:
     - **男性 ≥ 2 分、女性 ≥ 3 分 → 建議口服抗凝血劑**（Class I）。
     - 男性 1 分、女性 2 分 → 可考慮抗凝（Class IIa），與病人共同決策。
     - 男性 0 分、女性 1 分 → 不需常規抗凝。
-    - 女性性別視為風險調節因子（risk modifier），本身不是抗凝適應症；指引也強調以年化中風風險判斷（≥ 2%／年建議抗凝）。
+    - 女性性別視為風險調節因子（risk modifier），本身不是抗凝適應症；指引也強調以年化中風風險判斷（≥ 2%/年建議抗凝）。
     - 2024 ESC 改用不計性別的 **CHA₂DS₂-VA**：≥ 2 分建議抗凝，1 分應考慮。
 - **抗凝選擇**：NOAC（Rivaroxaban、Apixaban、Dabigatran、Edoxaban）**優於 Warfarin**。
     - 例外：**Valvular AF（中重度 MS 或機械瓣）→ 只能用 Warfarin**。

@@ -19,7 +19,7 @@ status: initial
     - **弛張熱（remittent）**：波動 > 1°C、不降到正常 → 多數感染、膿瘍。
     - **間歇熱（intermittent）**：一天內有降到正常 → 瘧疾、膿瘍、敗血症、淋巴瘤。
     - **日發熱（quotidian）**：每天一次高峰 → [[免疫風濕科#成人 Still's Disease（Adult-Onset Still's Disease, AOSD）|成人 Still's disease]]（每天傍晚高燒、退燒時疹子消失）。
-    - **週期熱**：三日瘧（*P. malariae*，每 72 小時）、間日瘧（*P. vivax*／*P. ovale*，每 48 小時）；**Pel-Ebstein fever**（數天到數週交替）→ [[血液腫瘤科#Hodgkin Lymphoma（HL）|Hodgkin lymphoma]]。
+    - **週期熱**：三日瘧（*P. malariae*，每 72 小時）、間日瘧（*P. vivax*/*P. ovale*，每 48 小時）；**Pel-Ebstein fever**（數天到數週交替）→ [[血液腫瘤科#Hodgkin Lymphoma（HL）|Hodgkin lymphoma]]。
 - **相對心搏過緩（relative bradycardia, Faget sign）**：體溫每升 1°C 心跳應增加約 10 次；高燒卻心跳不快 → **傷寒**、Legionella、鸚鵡熱（psittacosis）、Q fever、**藥物熱**、病人正在使用 β 阻斷劑。
 
 #### Red flags
@@ -27,7 +27,7 @@ status: initial
 - **敗血症（sepsis）徵象**：意識改變（altered mental status）、低血壓、呼吸急促、皮膚花斑（mottling）、尿量減少；**qSOFA ≥ 2 項**（:red[RR ≥ 22/min、SBP ≤ 100 mmHg]、意識改變）。
 - **嗜中性球低下**（化療後、免疫抑制）→ 見[[#嗜中性球低下發燒（Febrile Neutropenia）|嗜中性球低下發燒]]。
 - **頸部僵硬（neck stiffness）、頭痛、意識改變** → [[神經內科#細菌性腦膜炎|細菌性腦膜炎]]。
-- **瘀點／紫斑（petechiae / purpura）**：腦膜炎雙球菌血症、DIC、立克次體病、[[血液腫瘤科#血栓性血小板低下紫斑症（Thrombotic Thrombocytopenic Purpura, TTP）|TTP]]。
+- **瘀點/紫斑（petechiae / purpura）**：腦膜炎雙球菌血症、DIC、立克次體病、[[血液腫瘤科#血栓性血小板低下紫斑症（Thrombotic Thrombocytopenic Purpura, TTP）|TTP]]。
 - **脾臟切除後（asplenia）**：莢膜菌（*S. pneumoniae*、*H. influenzae*、*N. meningitidis*）→ 猛爆性敗血症（OPSI）。
 - 新出現的心雜音 + 栓塞徵象 → [[心臟內科#感染性心內膜炎（Infective Endocarditis, IE）|感染性心內膜炎]]。
 - 旅遊史（瘧疾流行區）、劇烈腹痛、[[皮膚科#壞死性筋膜炎（Necrotizing Fasciitis）|壞死性筋膜炎]]（皮膚疼痛遠超過外觀）、體溫 > 41°C。
@@ -180,7 +180,7 @@ flowchart TD
 | **感染** | **[[感染科#肺外結核\|肺外結核]]**、培養陰性心內膜炎、膿瘍（肝、脾、腎周、骨盆、**腰大肌**）、骨髓炎、牙周膿瘍、鼻竇炎、[[泌尿科#前列腺炎（Prostatitis）\|前列腺炎]] | 結核：IGRA 可陰性 → **組織切片**（肝、骨髓、淋巴結）+ 培養 |
 | | 病毒（CMV、EBV、HIV）、Q fever、布氏桿菌、[[感染科#Rickettsia & related\|立克次體]]、[[感染科#Toxoplasma gondii\|弓漿蟲]]、組織漿菌、瘧疾、內臟利什曼原蟲（kala-azar） | 動物接觸（羊、未消毒乳品）、旅遊史 |
 | **腫瘤** | **淋巴瘤**、白血病、MDS、[[血液腫瘤科#多發性骨髓瘤（Multiple Myeloma）\|多發性骨髓瘤]]（少見）、**腎細胞癌**、肝癌、[[胃小腸外科#胃癌（Gastric Cancer）\|胃癌]]、[[大腸直腸外科#大腸直腸癌（Colorectal Cancer, CRC）\|大腸癌]]、[[肝膽胰外科#胰臟導管腺癌（Pancreatic Ductal Adenocarcinoma, PDAC）\|胰臟癌]]、心房黏液瘤 | **Naprosyn test**：腫瘤熱對 naproxen 反應明顯（非特異） |
-| **非感染性發炎** | 成人 Still's、GCA／PMR、[[免疫風濕科#全身性紅斑狼瘡（SLE）\|SLE]]、血管炎、類肉瘤病、[[消化內科#發炎性腸道疾病（Inflammatory Bowel Disease, IBD）\|IBD（Crohn）]]、Kikuchi disease、[[免疫風濕科#Behçet's Disease\|Behçet]] | 自體抗體、ESR 極高、組織切片 |
+| **非感染性發炎** | 成人 Still's、GCA/PMR、[[免疫風濕科#全身性紅斑狼瘡（SLE）\|SLE]]、血管炎、類肉瘤病、[[消化內科#發炎性腸道疾病（Inflammatory Bowel Disease, IBD）\|IBD（Crohn）]]、Kikuchi disease、[[免疫風濕科#Behçet's Disease\|Behçet]] | 自體抗體、ESR 極高、組織切片 |
 | **其他** | 藥物熱、肺栓塞、亞急性甲狀腺炎、[[代謝內分泌科#腎上腺功能不全（Adrenal Insufficiency）\|腎上腺功能不全]]、詐病、週期熱、中樞性發燒（腦傷後） | 停藥試驗；詐病：體溫與心跳不相稱、無日夜變化 |
 
 #### 易混淆鑑別
@@ -272,7 +272,7 @@ FUO 病人在診斷前給類固醇「試試看」→ 淋巴瘤暫時縮小、切
     - **革蘭氏陰性菌**：*[[感染科#Pseudomonas aeruginosa|Pseudomonas aeruginosa]]*、*E. coli*、*Klebsiella* → **死亡率高，經驗性抗生素一定要涵蓋**。
     - **革蘭氏陽性菌**（目前分離最多）：CoNS（導管）、*S. aureus*、viridans streptococci（黏膜炎）。
     - **黴菌**：嗜中性球低下 > 7 天 → *[[感染科#Candida|Candida]]*、*[[感染科#Aspergillus|Aspergillus]]*。
-- 感染來源：皮膚軟組織與導管、肺、消化道（黏膜炎、**嗜中性球低下性腸炎 neutropenic enterocolitis／typhlitis**）、肛周。
+- 感染來源：皮膚軟組織與導管、肺、消化道（黏膜炎、**嗜中性球低下性腸炎 neutropenic enterocolitis/typhlitis**）、肛周。
 
 #### Red flags
 
@@ -354,7 +354,7 @@ FUO 病人在診斷前給類固醇「試試看」→ 淋巴瘤暫時縮小、切
 |---|---|
 | **< :red[10 天]** | **登革熱**（3–14 天，多 4–7 天）、屈公病（chikungunya）、茲卡、立克次體病、流感、[[家庭醫學科#旅行者腹瀉\|旅行者腹瀉]]、鉤端螺旋體病（2–26 天） |
 | **10–21 天** | **瘧疾**（*P. falciparum* 多 < 1 個月）、**傷寒**、鉤端螺旋體病、急性 HIV、Q fever、布氏桿菌、[[感染科#日本腦炎（Japanese Encephalitis）\|日本腦炎]] |
-| **> 21 天** | **瘧疾（*P. vivax / ovale* 可數月後復發）**、結核、A／B／E 型肝炎、**[[肝膽胰外科#阿米巴性肝膿瘍（Amoebic Liver Abscess）\|阿米巴肝膿瘍]]**、血吸蟲、HIV、內臟利什曼原蟲 |
+| **> 21 天** | **瘧疾（*P. vivax / ovale* 可數月後復發）**、結核、A/B/E 型肝炎、**[[肝膽胰外科#阿米巴性肝膿瘍（Amoebic Liver Abscess）\|阿米巴肝膿瘍]]**、血吸蟲、HIV、內臟利什曼原蟲 |
 
 - 地區：
     - **撒哈拉以南非洲 → 惡性瘧（*P. falciparum*）最重要**。
@@ -421,7 +421,7 @@ FUO 病人在診斷前給類固醇「試試看」→ 淋巴瘤暫時縮小、切
 
 - 第一線：CBC 與分類、抹片、肝腎功能、血液培養、尿液、CXR。
 - **瘧疾流行區回國 → 立即厚薄血片**；陰性時 12–24 小時後重複，**共 3 次**才排除。
-- 依暴露與地區：登革熱 NS1／IgM、恙蟲病與鉤端螺旋體抗體、HIV、肝炎血清學。
+- 依暴露與地區：登革熱 NS1/IgM、恙蟲病與鉤端螺旋體抗體、HIV、肝炎血清學。
 - 許多是**法定傳染病**（登革熱、瘧疾、恙蟲病、鉤端螺旋體病、傷寒）→ 依規定通報疾管署；見[[家庭醫學科#傳染病通報|傳染病通報]]。
 
 #### 初步處置
@@ -873,7 +873,7 @@ flowchart TD
     - **風濕**：RA、SLE、Sjögren、[[免疫風濕科#Fibromyalgia（纖維肌痛症）|纖維肌痛症]]、PMR。
     - **神經**：[[神經內科#多發性硬化症（Multiple Sclerosis, MS）|多發性硬化症]]、Parkinson、重症肌無力（疲勞性無力）、中風後。
     - **藥物與物質**：β 阻斷劑、抗組織胺、benzodiazepine、鴉片類、抗憂鬱藥、抗癲癇藥、酒精、咖啡因戒斷。
-    - **肌痛性腦脊髓炎／慢性疲勞症候群（ME/CFS）**：排除性診斷。
+    - **肌痛性腦脊髓炎/慢性疲勞症候群（ME/CFS）**：排除性診斷。
 
 #### Red flags
 

@@ -182,7 +182,7 @@ flowchart TD
 | 甲狀腺 | **瀰漫腫大、可有血管雜音** | **結節** | **壓痛、硬** | 正常或輕度腫大 | **不大** |
 | 疼痛 | 無 | 無 | **頸前痛、放射到耳**、病毒感染後 | 無 | 無 |
 | 特殊表現 | **眼病變、脛前黏液水腫、杵狀指（acropachy）** | 老人、心房顫動 | 發燒 | **產後 1 年內**；之後常低下 | 減肥、誤服 |
-| **RAIU／掃描** | **高、瀰漫** | **高、局部（熱結節）** | **低** | **低** | **低** |
+| **RAIU/掃描** | **高、瀰漫** | **高、局部（熱結節）** | **低** | **低** | **低** |
 | 抗體 | **TRAb（+）** | 陰性 | 陰性 | **anti-TPO（+）** | 陰性 |
 | ESR | 正常 | 正常 | **↑↑** | 正常 | 正常 |
 | **Thyroglobulin** | ↑ | ↑ | ↑ | ↑ | **↓** |
@@ -209,7 +209,7 @@ flowchart TD
 | 支持 | **降溫（acetaminophen，避免 aspirin）**、輸液、治療誘因 | aspirin 會增加游離甲狀腺素 |
 :::
 
-![Graves 眼病變：照片右側那眼明顯突出（檢查者撐開眼瞼以便觀察）](media/commons/exophthalmos.webp "Graves 眼病變：照片右側那眼明顯突出（檢查者撐開眼瞼以便觀察） | CDC／Dr. Sellers, Emory University，Public domain，Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Bilateral_exophthalmos.jpg")
+![Graves 眼病變：照片右側那眼明顯突出（檢查者撐開眼瞼以便觀察）](media/commons/exophthalmos.webp "Graves 眼病變：照片右側那眼明顯突出（檢查者撐開眼瞼以便觀察） | CDC/Dr. Sellers, Emory University，Public domain，Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Bilateral_exophthalmos.jpg")
 
 #### 問診與理學檢查
 
@@ -417,7 +417,7 @@ flowchart TD
 | 族群 | **第 1 型**、年輕 | **第 2 型、老人** |
 | 發展 | **數小時到 1 天** | **數天到數週** |
 | 血糖 | > 250（SGLT2 抑制劑可正常） | **> 600** |
-| pH／HCO₃⁻ | **< 7.3／< 18** | **> 7.3／> 18** |
+| pH/HCO₃⁻ | **< 7.3/< 18** | **> 7.3/> 18** |
 | 酮體 | **明顯（β-hydroxybutyrate）** | 少 |
 | 滲透壓 | 可升高 | **> 320 mOsm/kg** |
 | 陰離子間隙 | **↑** | 正常或輕度 ↑ |
@@ -474,7 +474,7 @@ flowchart TD
 - **第 1 型**：**基礎 + 餐前 insulin**、或胰島素幫浦。
 - **控制目標（一般成人）**：**HbA1c :red[< 7%]**；老人、低血糖風險高 → 放寬到 7.5–8%。
 - **台灣**：**糖尿病共同照護網**、全民健保 **Pay-for-Performance**。
-- **DKA／HHS**：見上表與下圖；**治療誘因**。
+- **DKA/HHS**：見上表與下圖；**治療誘因**。
 
 ::chart{id="dka-hhs-management"}
 
@@ -610,7 +610,7 @@ DKA 病人一到院就打 insulin，沒有先看鉀 → insulin 讓鉀進入細�
     - **高血壓 + 低血鉀（只有約 1/3 有）+ 代謝性鹼中毒**；**腎素（renin）被抑制**。
     - **雙側腎上腺增生（約 60%）**、**單側腺瘤（Conn 症候群，約 35%）**。
     - **心血管與腎臟損傷比同血壓的原發性高血壓更嚴重**（心房顫動、中風）。
-- **[[代謝內分泌科#嗜鉻細胞瘤（Pheochromocytoma）|嗜鉻細胞瘤／副神經節瘤]]**：**陣發性頭痛、心悸、出汗 + 高血壓**；**10% 規則已過時**（約 30–40% 有遺傳突變）。
+- **[[代謝內分泌科#嗜鉻細胞瘤（Pheochromocytoma）|嗜鉻細胞瘤/副神經節瘤]]**：**陣發性頭痛、心悸、出汗 + 高血壓**；**10% 規則已過時**（約 30–40% 有遺傳突變）。
 - **Cushing 症候群**：高血壓 + 中心型肥胖、紫紋、高血糖；見[[#Cushing 樣外觀（Cushingoid Features）|Cushing 樣外觀]]。
 - **其他**：**甲狀腺機能亢進（收縮壓高、脈壓寬）**、**甲狀腺機能低下（舒張壓高）**、**原發性副甲狀腺機能亢進**、**肢端肥大症**、**先天性腎上腺增生（11β-、17α-羥化酶缺乏）**、**假性醛固酮症（甘草、[[腎臟內科#Bartter vs. Gitelman vs. Liddle Syndrome|Liddle 症候群]]）**。
 - **非內分泌的次發性高血壓**：**[[腎臟內科#腎動脈狹窄（Renal Artery Stenosis）|腎動脈狹窄]]**、**腎實質疾病**、**OSA**、**主動脈縮窄**、藥物（NSAIDs、口服避孕藥、類固醇、興奮劑、calcineurin 抑制劑）。
@@ -622,7 +622,7 @@ DKA 病人一到院就打 insulin，沒有先看鉀 → insulin 讓鉀進入細�
 - **< 30 歲發病**、**難治型高血壓（3 種藥含利尿劑仍控制不良）**、**突然惡化**、**高血壓急症**。
 - **[[代謝內分泌科#腎上腺偶發瘤（Adrenal Incidentaloma）|腎上腺偶發瘤]] + 高血壓**。
 - **年輕人中風 + 高血壓 + 低血鉀**。
-- **ACEi／ARB 後肌酸酐急升 > 30%、腹部血管雜音、反覆急性肺水腫（flash pulmonary edema）** → 腎動脈狹窄。
+- **ACEi/ARB 後肌酸酐急升 > 30%、腹部血管雜音、反覆急性肺水腫（flash pulmonary edema）** → 腎動脈狹窄。
 
 #### 鑑別診斷
 
@@ -650,7 +650,7 @@ DKA 病人一到院就打 insulin，沒有先看鉀 → insulin 讓鉀進入細�
 |---|---|---|---|
 | 血壓 | **持續、難治** | **陣發性或持續**、**姿勢性低血壓** | 持續 |
 | 特徵 | **低血鉀（1/3）、肌無力、多尿、代謝性鹼中毒** | **頭痛、心悸、出汗（三聯）**、蒼白、焦慮、高血糖 | **中心型肥胖、紫紋、近端無力、易瘀青、高血糖** |
-| 篩檢 | **醛固酮／腎素比值（ARR）**（先矯正低血鉀） | **血漿游離 metanephrine** 或 24 小時尿液分餾 metanephrine | **24 小時尿液游離 cortisol、深夜唾液 cortisol、1 mg dexamethasone 抑制試驗**（任兩項） |
+| 篩檢 | **醛固酮/腎素比值（ARR）**（先矯正低血鉀） | **血漿游離 metanephrine** 或 24 小時尿液分餾 metanephrine | **24 小時尿液游離 cortisol、深夜唾液 cortisol、1 mg dexamethasone 抑制試驗**（任兩項） |
 | 確認 | **鹽水負荷試驗或 captopril 試驗** → CT → **腎上腺靜脈取樣（區分單側或雙側）** | **CT 或 MRI**（MRI T2 亮）、MIBG、PET | ACTH → 定位 |
 | 治療 | **單側 → 腹腔鏡腎上腺切除**；**雙側 → spironolactone、eplerenone** | **術前先 α-blocker（phenoxybenzamine）10–14 天 → 再加 β-blocker** → 手術 | 依病因 |
 :::
@@ -734,7 +734,7 @@ DKA 病人一到院就打 insulin，沒有先看鉀 → insulin 讓鉀進入細�
 | **2. ACTH** | 早上血漿 ACTH | **低（< 5 pg/mL）→ 腎上腺**；**正常或高 → ACTH 依賴性** |
 | **3a. 腎上腺** | **腎上腺 CT** | 腺瘤、癌、增生 |
 | **3b. ACTH 依賴性** | **腦下垂體 MRI**、**高劑量 dexamethasone 抑制試驗**、CRH 或 desmopressin 刺激 | 腦下垂體：**可被高劑量抑制、對 CRH 有反應** |
-| **4. 仍不確定** | **岩下竇取樣（IPSS）**：中樞／周邊 ACTH 比值 **≥ 2（CRH 後 ≥ 3）** → 腦下垂體 | 腦下垂體 MRI 常看不到小腺瘤 |
+| **4. 仍不確定** | **岩下竇取樣（IPSS）**：中樞/周邊 ACTH 比值 **≥ 2（CRH 後 ≥ 3）** → 腦下垂體 | 腦下垂體 MRI 常看不到小腺瘤 |
 | **異位 ACTH 定位** | 胸部 CT、**Ga-68 DOTATATE PET** | — |
 :::
 
@@ -831,7 +831,7 @@ DKA 病人一到院就打 insulin，沒有先看鉀 → insulin 讓鉀進入細�
 | 高血鉀 | **有** | **無** |
 | 低血鈉 | 有 | 有 |
 | 嗜鹽、姿勢性低血壓 | **明顯** | 較輕 |
-| 其他荷爾蒙 | 可合併其他自體免疫（甲狀腺、第 1 型糖尿病、白斑） | **可合併 TSH、LH／FSH、GH 缺乏** |
+| 其他荷爾蒙 | 可合併其他自體免疫（甲狀腺、第 1 型糖尿病、白斑） | **可合併 TSH、LH/FSH、GH 缺乏** |
 | 治療 | **hydrocortisone + fludrocortisone** | **hydrocortisone**（不需 fludrocortisone） |
 :::
 
@@ -1050,7 +1050,7 @@ flowchart TD
 - **懷孕試驗**（育齡女性第一步）、**泌乳素**（輕度升高 → 重驗、靜坐休息後抽）、**TSH、肌酸酐、肝功能**。
 - 藥物引起 → **停藥 72 小時後重驗**（不能停藥時直接 MRI 排除腫瘤）。
 - 無藥物或其他原因 → **腦下垂體 MRI**。
-- 巨腺瘤 → **視野檢查**、**其他前葉荷爾蒙**（cortisol、free T4、IGF-1、LH／FSH、性荷爾蒙）。
+- 巨腺瘤 → **視野檢查**、**其他前葉荷爾蒙**（cortisol、free T4、IGF-1、LH/FSH、性荷爾蒙）。
 - 無症狀的升高 → **巨泌乳素**。
 
 #### 初步處置

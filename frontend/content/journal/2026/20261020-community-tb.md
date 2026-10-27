@@ -103,7 +103,7 @@ integrated: true
 | 3HP | isoniazid + rifapentine 每週一次 | 3 個月（12 劑） |
 | 3HR | isoniazid + rifampin 每日服用 | 3 個月 |
 | 4R | rifampin 每日服用 | 4 個月 |
-| 6H／9H | isoniazid 每日服用 | 6–9 個月 |
+| 6H/9H | isoniazid 每日服用 | 6–9 個月 |
 
 - 短程處方（1HP、3HP、3HR、4R）完治率較高，是目前推廣的主流；1HP、3HP 用的藥是專案進口，要簽同意書。
 - LTBI 治療一樣可以加入都治（DOPT）。
