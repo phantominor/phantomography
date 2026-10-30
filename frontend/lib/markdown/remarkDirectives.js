@@ -7,6 +7,7 @@
 //   區塊  :::exam  :::mnemonic  :::compare  :::pitfall  :::verify  :::supplement  :::detail{title="…"}  :::source{from="…"}
 //         :::news{subjects="科別,…" evidence="大型臨床試驗" source="NEJM" date="2026-10-23" url="…"}（醫學周報的一則消息）
 //         :::review（周報裡涉及具名人物、爭議、醫糾，等使用者審核的條目；審核後拿掉）
+//         :::background（周報每則開頭的背景知識：專科知識、導火線、時空背景）
 // 不認得的行內語法（例如內文剛好出現「Na:K」）會還原成原本的文字。
 
 import { visit } from 'unist-util-visit';
@@ -23,6 +24,7 @@ const CALLOUTS = {
   verify: '待查證',
   supplement: '補充',
   review: '待審核',
+  background: '背景知識',
 };
 
 const INLINE = {
