@@ -15,7 +15,7 @@ cd frontend && node scripts/weekly-period.mjs 2026-10-21 # 指定某一週
 ```
 
 - 用輸出的 `issue`、`start`、`end`、`date`、`file`、`title`，**不要自己判斷今天幾號**（雲端主機是 UTC）。
-- `file` 已存在：這期做過了，停下來告訴使用者，不覆寫。
+- `file` 或草稿 `temp/proposals/weekly-<issue>.md` 已存在：這期做過了，停下來告訴使用者，不覆寫。
 
 ## 2. 蒐集
 
@@ -28,7 +28,7 @@ cd frontend && node scripts/weekly-period.mjs 2026-10-21 # 指定某一週
 - 台灣醫界與國際醫界：用網路搜尋找本週的醫院、醫師、健保、醫糾、醫界人物新聞，再打開原始報導讀過；STAT News、Retraction Watch 看國際事件。Google News RSS 被 robots.txt 禁止，不用。
 - 正反觀點：找本週有正反雙方公開表態的議題（學會草案、政策爭議），雙方論點都要有原文出處。
 - 醫學史：本週日期的醫學人物生日、重大發現週年，用 Wikipedia API（`/api/rest_v1/page/summary/<title>` 或 `w/api.php?action=query&prop=extracts`）核對日期與事蹟。
-- 論壇：見藍圖 §5。PTT 用站內搜尋 `https://www.ptt.cc/bbs/Gossiping/search?q=<關鍵字>+recommend:20`（加 cookie `over18=1`），以文章網址的 Unix 時間篩出本期範圍；文章與推文都要讀過才寫摘要。
+- 論壇：見藍圖 §5。Dcard 擋程式存取、A-Pen 條款禁止爬蟲與未經同意轉載，都不抓；使用者貼來的連結或內容才收。PTT 用站內搜尋 `https://www.ptt.cc/bbs/Gossiping/search?q=<關鍵字>+recommend:20`（加 cookie `over18=1`），以文章網址的 Unix 時間篩出本期範圍；文章與推文都要讀過才寫摘要。
 - **每一則都要實際讀過來源**，記下原文標題、發表日、網址與關鍵數字。讀不到的不寫，常識性的補充也要找到出處（例如 Wikipedia），不憑記憶補。
 
 ## 3. 篩選
@@ -38,7 +38,7 @@ cd frontend && node scripts/weekly-period.mjs 2026-10-21 # 指定某一週
 
 ## 4. 撰寫
 
-- 檔案照 `file`，frontmatter 照 v1 藍圖 §3，h2 依 v2 藍圖 §2 的順序與名稱。
+- 先寫成草稿 `temp/proposals/weekly-<issue>.md`（不是 `file`），frontmatter 照 v1 藍圖 §3，frontmatter 後面接一段 HTML 註解的審核說明（照前一期草稿的寫法），h2 依 v2 藍圖 §2 的順序與名稱。
 - 每則一個 h3（標題講清楚發生了什麼），內容包 `:::news{subjects="…" evidence="…" source="…" date="…" url="…"}`：
   - 第一條 `**重點**：` 一句話；第二條 `**可以聊什麼**：`（臨床更新改 `**對值班的影響**：`）；之後細節 1–4 條。
   - `evidence` 只用 `lib/weekly.js` 的 `EVIDENCE_LEVELS`；`subjects` 只用 `data/tags.js` 的科別，醫學史、論壇可以不寫。
@@ -51,14 +51,13 @@ cd frontend && node scripts/weekly-period.mjs 2026-10-21 # 指定某一週
 ## 5. 檢查
 
 1. 逐則對照來源：每個數字、每個說法都能在讀過的原文裡找到；找不到的刪掉或包 `:::verify`。
-2. `cd frontend && npm run build`（記憶體不夠時用 `npx next dev` 開該期頁面），看失效連結、清單外的 subjects 與 evidence、沒有原文連結的消息、待審核則數。
+2. 上線後 `cd frontend && npm run build`（記憶體不夠時用 `npx next dev` 開該期頁面），看失效連結、清單外的 subjects 與 evidence、沒有原文連結的消息；草稿階段可以暫時複製到 `file` 檢查，檢查完刪掉。
 
-## 6. 審核與整合提案
+## 6. 整合到知識頁
 
-- 回報待審核條目，使用者在對話中逐條說留、刪、改；確認後刪掉 `:::review` 區塊。
-- 已改變臨床建議、且和既有知識頁相關的消息，寫 `temp/proposals/weekly-<issue>.md`，格式同 `/ingest` 的提案檔；插入的段落末尾加「詳見 [[<檔名>#<則標題>|…]]（醫學周報）」。衝突寫進「衝突（需要你決定）」。
+- 已改變臨床建議、且和既有知識頁相關的消息，寫在草稿最後的 HTML 註解「整合到知識頁」，格式同 `/ingest` 的提案：哪一頁哪一段、插入什麼文字；插入的段落末尾加「詳見 [[<期別檔名>#<則標題>|…]]（醫學周報）」。衝突寫進「衝突（需要你決定）」。沒有就寫「本期沒有」。
 
-## 7. 收尾
+## 7. 收尾與上線
 
-1. 記進 `UPDATE.md`、commit（不 push）。雲端排程時推到新分支 `weekly/<issue>`，PR 說明列出各分段則數、頭條、待審核條目、提案檔路徑，由使用者看過後合併。
-2. 回報：檔案路徑、各分段則數、頭條、待審核條目、依摘要的項目、提案檔。
+1. 草稿完成：記進 `UPDATE.md`、commit（不 push），回報草稿路徑、各分段則數、頭條、待審核條目、依摘要的項目、要改的知識頁。雲端排程時推到新分支 `weekly/<issue>`、開 PR，由使用者在 PR 裡改草稿。
+2. 使用者在草稿裡改完、說「周報上線」：讀使用者的修改與回覆，照著改；刪掉審核說明、`:::review` 區塊與「整合到知識頁」註解；移到 `file`；套用知識頁修改；build 檢查；記 `UPDATE.md`、commit。

@@ -34,7 +34,7 @@ phantomography 接下來的待辦事項。完成的項目直接刪掉（完成�
 
 ## 醫學周報
 
-- [ ] 第 43 週已改成談資格式重寫：待你審核 4 處 `:::review`（65 歲免健保費、喜克潰墮胎案、PRS Global Open 利益衝突、論壇熱議整段），確認後刪 review 區塊再 commit 上線版。
+- [ ] 第 43 週草稿 `temp/proposals/weekly-2026-W43.md`：直接在檔案裡改與回覆 4 處 `:::review`（65 歲免健保費、喜克潰墮胎案、PRS Global Open 利益衝突、論壇熱議整段），改完說「周報上線」。
 - [ ] 推上 GitHub 後，用 `/schedule` 設每週一台北時間早上自動跑，推到分支或開 PR 等你合併。
 
 ## 題庫
