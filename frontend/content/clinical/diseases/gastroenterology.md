@@ -131,7 +131,7 @@ credit:
         - 含 vonoprazan（鉀離子競爭性酸阻斷劑，P-CAB）的處方：替代選項。
     - **三合療法**：PPI + Amoxicillin + Clarithromycin（或 metronidazole），7–14 天；只在 clarithromycin 抗藥率 < 15% 的地區或確認敏感時使用。國考舊題多以三合療法為第一線。
     - 根除確認：治療結束後 :red[**至少 4 週**] 做 Urea breath test。
-    - 依 2025 Taipei Global Consensus II（抗藥率高的地區經驗性治療首選鉍劑四合、P-CAB 處方為替代）；台灣隨機試驗 10 天與 14 天鉍劑四合療法根除率 92.4% vs 92.9%（ITT），10 天頭暈、嘔吐較少。另見 [[2026-w43#NEJM 回顧 H. pylori：抗藥率普遍超過 15%，經驗性治療首選鉍劑四合療法|醫學周報 2026 第 43 週]]。
+    - 依 2025 Taipei Global Consensus II（抗藥率高的地區經驗性治療首選鉍劑四合、P-CAB 處方為替代）；台灣隨機試驗 10 天與 14 天鉍劑四合療法根除率 92.4% vs 92.9%（ITT），10 天頭暈、嘔吐較少。另見 [[2026-w43#「H. pylori 第一線是三合療法？」NEJM 回顧與台灣共識都改推鉍劑四合療法|醫學周報 2026 第 43 週]]。
 
 #### NSAIDs 潰瘍
 
@@ -587,7 +587,7 @@ credit:
     - 台灣自 1984 年全面新生兒 B 肝疫苗接種。
     - HBsAg(+) 母親：:red[出生 24 小時內]打 **HBIG + B 肝疫苗第一劑**。
     - 高病毒量母親：懷孕後期口服抗病毒藥。
-- 新藥：反義寡核苷酸 bepirovirsen，詳見 [[2026-w43#Bepirovirsen：第一個治療慢性 B 型肝炎的反義寡核苷酸|醫學周報 2026 第 43 週]]。
+- 新藥：反義寡核苷酸 bepirovirsen，詳見 [[2026-w43#FDA 核准 bepirovirsen：第一個以「停藥後仍受控」為目標的 B 肝新藥|醫學周報 2026 第 43 週]]。
 
 #### Hepatitis C（HCV）
 
@@ -676,7 +676,7 @@ credit:
     - 第一線：**Ursodeoxycholic acid（UDCA）**。
     - UDCA 反應不佳：加 **PPAR 致效劑**（elafibranor、seladelpar）；UDCA 不耐受可單用。
     - 末期：肝移植，移植後用 UDCA 預防復發。
-- 依 2026 AGA/AASLD 指引，詳見 [[2026-w43#AGA/AASLD 原發性膽汁性膽管炎指引：PPAR 致效劑列為第二線|醫學周報 2026 第 43 週]]。
+- 依 2026 AGA/AASLD 指引（[Guideline Central 摘要](https://www.guidelinecentral.com/insights/oct-2026-agaaasld-primarybiliarycholangitis-guideline-spotlight/)）。
 
 #### 原發性硬化性膽管炎（Primary Sclerosing Cholangitis, PSC）
 

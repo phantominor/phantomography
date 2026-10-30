@@ -210,7 +210,7 @@ credit:
 - 適應症：**局部進展直腸癌（T3/T4 或 N+）**。
 - 方案：**術前 neoadjuvant CCRT**（concurrent chemoradiotherapy）→ 手術 → adjuvant chemo。
 - 好處：腫瘤縮小（downstaging）、提高括約肌保留率、降低局部復發。
-- **dMMR/MSI-H** 的局部晚期直腸癌：PD-1 抑制劑 **dostarlimab** 單獨使用，12 個月臨床完全緩解 47–68%，達完全緩解可不開刀密切追蹤（watch and wait；美國 FDA 2026/10 加速核准）→ 診斷時就要驗 MMR/MSI。詳見 [[2026-w43#Dostarlimab 單獨治療 dMMR/MSI-H 局部晚期直腸癌，FDA 加速核准|醫學周報 2026 第 43 週]]。
+- **dMMR/MSI-H** 的局部晚期直腸癌：PD-1 抑制劑 **dostarlimab** 單獨使用，12 個月臨床完全緩解 47–68%，達完全緩解可不開刀密切追蹤（watch and wait；美國 FDA 2026/10 加速核准）→ 診斷時就要驗 MMR/MSI。詳見 [[2026-w43#FDA 加速核准 dostarlimab 單獨治療 dMMR/MSI-H 局部晚期直腸癌|醫學周報 2026 第 43 週]]。
 
 #### 輔助化療（Adjuvant Chemotherapy）
 
