@@ -1,0 +1,12 @@
+%% title: 疑似 HIT 的處置
+flowchart TD
+  A["使用 heparin 中血小板下降<br/>或出現新血栓"]:::start --> B["4T 分數"]
+  B --> C{{"分數？"}}
+  C -->|"0–3 低機率"| D["HIT 可排除<br/>找其他原因、可續用 heparin"]:::key
+  C -->|"≥ 4 中高機率"| E["立即停所有 heparin<br/>（含 LMWH、沖管）"]:::danger
+  E --> F["改用非 heparin 抗凝血劑<br/>argatroban、bivalirudin<br/>fondaparinux、DOAC"]
+  F --> G["anti-PF4 抗體（ELISA）"]
+  G --> H{{"陽性？"}}
+  H -->|"否"| I["可考慮恢復 heparin"]
+  H -->|"是"| J["功能試驗（SRA）確認<br/>下肢靜脈超音波找血栓"]
+  J --> K["血小板 > 150,000 後才轉 warfarin<br/>（重疊 ≥ 5 天）<br/>不輸血小板"]:::key

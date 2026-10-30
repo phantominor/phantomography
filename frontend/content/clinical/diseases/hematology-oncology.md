@@ -748,6 +748,8 @@ credit:
 - 處理：**立即停所有 heparin** → 改用 **Argatroban** 或 Bivalirudin。
 - **禁忌**：Warfarin（急性期加重）、輸血小板（加重血栓）。
 
+::chart{id="hit-management"}
+
 ## 輸血及骨髓移植
 
 ### 血型系統
