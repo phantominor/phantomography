@@ -168,8 +168,11 @@ export function buildBacklinks(pages = getAllPages(), linkIndex = buildLinkIndex
   return table;
 }
 
+let sourceUsageCache = null;
+
 // 逐篇筆記被整合到哪些段落：掃描全站的 :::source{from="<id>"}，{ 逐篇筆記 id: [來源標註所在段落…] }
 export function buildSourceUsage(pages = getAllPages()) {
+  if (sourceUsageCache && isProd) return sourceUsageCache;
   const table = {};
   for (const page of pages) {
     if (page.frontmatter.noindex || page.slug.startsWith('journal/')) continue;
@@ -185,5 +188,6 @@ export function buildSourceUsage(pages = getAllPages()) {
     };
     visit(parseMarkdown(page.content));
   }
+  sourceUsageCache = table;
   return table;
 }

@@ -777,6 +777,8 @@ credit:
     - 中度：**Dexamethasone（:red[單劑 0.6 mg/kg]）**。
     - 嚴重：Racemic epinephrine（吸入）+ Dexamethasone。
 
+::chart{id="croup-management"}
+
 #### 急性會厭炎（Epiglottitis）
 
 - 好發年齡：2–7 歲。

@@ -660,6 +660,8 @@ credit:
     - 中至重度：**Dexamethasone** + **吸入性 epinephrine**。
     - 嚴重呼吸窘迫：Intubation。
 
+::chart{id="croup-management"}
+
 | 鑑別 | Croup | Epiglottitis |
 |------|-------|-------------|
 | 年齡 | 6 月–3 歲 | 2–7 歲（以前）/ 成人（現在） |
