@@ -131,7 +131,7 @@ credit:
         - 含 vonoprazan（鉀離子競爭性酸阻斷劑，P-CAB）的處方：替代選項。
     - **三合療法**：PPI + Amoxicillin + Clarithromycin（或 metronidazole），7–14 天；只在 clarithromycin 抗藥率 < 15% 的地區或確認敏感時使用。國考舊題多以三合療法為第一線。
     - 根除確認：治療結束後 :red[**至少 4 週**] 做 Urea breath test。
-    - 依 2025 Taipei Global Consensus II（抗藥率高的地區經驗性治療首選鉍劑四合、P-CAB 處方為替代）；台灣隨機試驗 10 天與 14 天鉍劑四合療法根除率 92.4% vs 92.9%（ITT），10 天頭暈、嘔吐較少。另見 [[2026-w43#專題：H. pylori 感染的進展與挑戰：經驗性治療首選已是鉍劑四合療法|醫學周報 2026 第 43 週]]。
+    - 依 2025 Taipei Global Consensus II（抗藥率高的地區經驗性治療首選鉍劑四合、P-CAB 處方為替代）；台灣隨機試驗 10 天與 14 天鉍劑四合療法根除率 92.4% vs 92.9%（ITT），10 天頭暈、嘔吐較少。另見 [[2026-w43#NEJM 回顧 H. pylori：抗藥率普遍超過 15%，經驗性治療首選鉍劑四合療法|醫學周報 2026 第 43 週]]。
 
 #### NSAIDs 潰瘍
 

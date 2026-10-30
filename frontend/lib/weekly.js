@@ -1,8 +1,11 @@
 // lib/weekly.js
 // 醫學周報（content/weekly/<YYYY>/<YYYY>-w<WW>.md）：依期別排序的列表（::weekly）、左側導覽、頁首資訊用的資料。
-// 每期內文的 h2 是性質分段（WEEKLY_KINDS，沒有內容的分段不寫）；每則消息包在 :::news{subjects="…" source="…" date="…" url="…"} 裡。
+// 每期內文的 h2 是分段（WEEKLY_KINDS，沒有內容的分段不寫）；每則消息包在 :::news{subjects="…" evidence="…" source="…" date="…" url="…"} 裡。
 
-export const WEEKLY_KINDS = ['本週焦點', '新研究', '新指引', '藥物與器材', '公衛與政策', '疫情', '時事', '新發現', '病例與專題'];
+export const WEEKLY_KINDS = ['本週頭條', '臨床更新', '新研究', '台灣醫界', '國際醫界', '正反觀點', '醫學史與冷知識', '本週數字', '論壇熱議（未查證）'];
+
+// 每則消息的證據強度標籤（evidence）；論壇熱議一律「未查證」
+export const EVIDENCE_LEVELS = ['大型臨床試驗', '初步研究', '預印本', '指引', '專家意見或個案', '官方公告', '媒體報導', '未查證'];
 
 const NEWS_RE = /^:{3,}news\{([^}]*)\}/gm;
 const ATTR_RE = /(\w+)="([^"]*)"/g;
@@ -16,16 +19,20 @@ export function newsAttrs(raw) {
 
 export const splitSubjects = (v) => String(v || '').split(/[,、]/).map((s) => s.trim()).filter(Boolean);
 
-// 一期周報裡出現的科別（各則消息 subjects 的聯集）與則數
+// 一期周報裡出現的科別（各則消息 subjects 的聯集）、則數、清單外的證據標籤、還沒審核的條目數
 function scanIssue(content) {
   const subjects = new Set();
+  const badEvidence = new Set();
   let count = 0;
   for (const [, raw] of content.matchAll(NEWS_RE)) {
     count += 1;
-    splitSubjects(newsAttrs(raw).subjects).forEach((s) => subjects.add(s));
+    const attrs = newsAttrs(raw);
+    splitSubjects(attrs.subjects).forEach((s) => subjects.add(s));
+    if (!EVIDENCE_LEVELS.includes(attrs.evidence)) badEvidence.add(attrs.evidence || '（未標）');
   }
   const kinds = [...content.matchAll(H2_RE)].map((m) => m[1].trim()).filter((h) => WEEKLY_KINDS.includes(h));
-  return { subjects: [...subjects], count, kinds };
+  const pendingReview = (content.match(/^:{3,}review\b/gm) || []).length;
+  return { subjects: [...subjects], count, kinds, badEvidence: [...badEvidence], pendingReview };
 }
 
 // 新的在前
@@ -34,7 +41,7 @@ export function getWeeklyEntries(pages) {
     .filter((p) => p.slug.startsWith('weekly/'))
     .map((p) => {
       const fm = p.frontmatter;
-      const { subjects, count, kinds } = scanIssue(p.content);
+      const { subjects, count, kinds, badEvidence, pendingReview } = scanIssue(p.content);
       return {
         slug: p.slug,
         url: p.url,
@@ -46,6 +53,8 @@ export function getWeeklyEntries(pages) {
         tags: subjects,
         kinds,
         count,
+        badEvidence,
+        pendingReview,
       };
     })
     .sort((a, b) => b.issue.localeCompare(a.issue));

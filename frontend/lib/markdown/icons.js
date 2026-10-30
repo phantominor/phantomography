@@ -7,7 +7,7 @@ import {
   LuTarget, LuLightbulb, LuColumns2, LuTriangleAlert, LuCircleHelp,
   LuBookmark, LuChevronRight, LuLink, LuWorkflow, LuCornerUpLeft,
   LuStethoscope, LuMessageCircleQuestion, LuMicroscope, LuPill, LuHand, LuCompass, LuSiren, LuFolderOpen,
-  LuDna, LuHospital, LuNotebookPen, LuNewspaper, LuSparkles, LuExternalLink,
+  LuDna, LuHospital, LuNotebookPen, LuNewspaper, LuSparkles, LuExternalLink, LuEye,
 } from 'react-icons/lu';
 
 const svg = (Icon) => renderToStaticMarkup(createElement(Icon, { 'aria-hidden': true, className: 'icon' }));
@@ -19,6 +19,7 @@ export const ICONS = {
   pitfall: svg(LuTriangleAlert),
   verify: svg(LuCircleHelp),
   supplement: svg(LuSparkles),
+  review: svg(LuEye),
   source: svg(LuBookmark),
   detail: svg(LuChevronRight),
   link: svg(LuLink),

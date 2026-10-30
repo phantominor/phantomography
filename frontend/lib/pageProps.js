@@ -68,6 +68,10 @@ export async function getContentPageProps(slug) {
     const unknown = entry.tags.filter((t) => !SUBJECT_TAGS.includes(t));
     if (unknown.length) console.warn(`[content] ${slug}:
   不在科別清單裡的 subjects：${unknown.join('、')}（見 data/tags.js）`);
+    if (entry.badEvidence.length) console.warn(`[content] ${slug}:
+  不在清單裡的證據標籤 evidence：${entry.badEvidence.join('、')}（見 lib/weekly.js 的 EVIDENCE_LEVELS）`);
+    if (entry.pendingReview) console.warn(`[content] ${slug}:
+  還有 ${entry.pendingReview} 則 :::review 待審核`);
   }
 
   const { tab, navKey } = locate(slug, page.frontmatter.nav);

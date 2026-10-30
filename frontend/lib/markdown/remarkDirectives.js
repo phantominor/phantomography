@@ -5,7 +5,8 @@
 //   卡片  ::cards{of="…"}（總覽頁的卡片入口，見 lib/cards.js；of 省略時為目前頁面）
 //   列表  ::journal（逐篇筆記依日期的列表與標籤篩選，見 lib/journal.js）  ::weekly（醫學周報依期別的列表與科別篩選，見 lib/weekly.js）
 //   區塊  :::exam  :::mnemonic  :::compare  :::pitfall  :::verify  :::supplement  :::detail{title="…"}  :::source{from="…"}
-//         :::news{subjects="科別,…" source="NEJM" date="2026-10-23" url="…"}（醫學周報的一則消息）
+//         :::news{subjects="科別,…" evidence="大型臨床試驗" source="NEJM" date="2026-10-23" url="…"}（醫學周報的一則消息）
+//         :::review（周報裡涉及具名人物、爭議、醫糾，等使用者審核的條目；審核後拿掉）
 // 不認得的行內語法（例如內文剛好出現「Na:K」）會還原成原本的文字。
 
 import { visit } from 'unist-util-visit';
@@ -21,6 +22,7 @@ const CALLOUTS = {
   pitfall: '陷阱',
   verify: '待查證',
   supplement: '補充',
+  review: '待審核',
 };
 
 const INLINE = {
@@ -114,7 +116,7 @@ function weeklyHtml(entries) {
     y.items.push(e);
   }
   const item = (e) => {
-    const meta = [periodLabel(e.start, e.end), `${e.count} 則`, e.kinds.filter((k) => k !== '本週焦點').join('、')].filter(Boolean).map(escapeHtml).join(' · ');
+    const meta = [periodLabel(e.start, e.end), `${e.count} 則`, e.kinds.filter((k) => k !== '本週頭條').join('、')].filter(Boolean).map(escapeHtml).join(' · ');
     return `<li class="journal-item" data-tags="${escapeHtml(JSON.stringify(e.tags))}">`
       + `<a class="journal-item-title" href="${escapeHtml(e.url)}">${escapeHtml(e.title)}</a>`
       + `<span class="journal-item-meta">${meta}</span>`
@@ -125,9 +127,12 @@ function weeklyHtml(entries) {
   )).join('') + '</div>';
 }
 
-// 一則消息的出處列：科別、來源（連到原文）、日期
+// 一則消息的出處列：證據標籤、科別、來源（連到原文）、日期
 function newsMetaHtml(attrs) {
-  const subjects = splitSubjects(attrs.subjects).map((t) => `<span class="journal-item-tag">${escapeHtml(t)}</span>`).join('');
+  const evidence = attrs.evidence
+    ? `<span class="news-evidence${attrs.evidence === '未查證' || attrs.evidence === '預印本' ? ' news-evidence-weak' : ''}">${escapeHtml(attrs.evidence)}</span>`
+    : '';
+  const subjects = evidence + splitSubjects(attrs.subjects).map((t) => `<span class="journal-item-tag">${escapeHtml(t)}</span>`).join('');
   const label = [attrs.source, formatDate(attrs.date)].filter(Boolean).map(escapeHtml).join(' · ');
   const source = attrs.url
     ? `<a class="news-source" href="${escapeHtml(attrs.url)}" target="_blank" rel="noopener noreferrer">${ICONS.external}${label || '原文'}</a>`

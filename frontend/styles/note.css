@@ -746,3 +746,24 @@ a.journal-item-tag:hover {
   width: 13px;
   height: 13px;
 }
+
+/* 證據強度標籤：比科別標籤深一階；預印本、未查證用紅框提醒 */
+.note .news-evidence {
+  font-size: 0.75rem;
+  line-height: 1.6;
+  padding: 0 7px;
+  border: 1px solid var(--color-text);
+  border-radius: var(--radius-sm);
+  color: var(--color-text);
+}
+
+.note .news-evidence-weak {
+  border-color: var(--color-red);
+  color: var(--color-red);
+}
+
+/* 待審核：只在草稿階段出現，審核後整個區塊拿掉 */
+.note .callout-review {
+  border-left-color: var(--color-red);
+  border-left-style: dashed;
+}
