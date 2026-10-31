@@ -913,6 +913,10 @@ RE-AIM 計畫評估五面向：
 - 耐受度難以客觀評估，很大部分取決於**報酬**：收入取決於業績或收入高時，耐受度會相應增加。
 :::
 
+:::source{from="20261030-occupational-case-discussion"}
+- **駕駛適能**（fitness to drive）：職業駕駛的標準比自用駕駛嚴格（Risk = Likelihood × Severity；強制禁駕期較長、需專科醫師評估、覆查間隔較短）；評估感覺、認知、動作三類能力，骨折術後短期內不適合開車，benzodiazepine 等鎮靜藥物要另外評估。
+:::
+
 - 醫師對拖延復工的觀點、上下班交通事故屬職災等實務，詳見 [[20261006-occupational-medicine-clinic|職業醫學門診：休養期與漸進式復工]]（逐篇筆記）。
 - 駕駛適能評估、診斷書的雙重否定寫法、職醫科的業務與收入結構，詳見 [[20261030-occupational-case-discussion|職醫個案討論]]（逐篇筆記）。
 
