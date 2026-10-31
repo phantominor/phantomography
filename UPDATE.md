@@ -1,5 +1,10 @@
 <!-- UPDATE.md -->
 [2026/11/01]
+- **病患主訴：電解質與酸鹼**: 新增 content/clinical/complaints/electrolytes-acid-base.md，以檢驗值為單位分四組 11 項
+  - 鈉與水：低血鈉、高血鈉；鉀：低血鉀、高血鉀；鈣磷鎂：高血鈣、低血鈣、磷異常、鎂異常；酸鹼：代謝性酸中毒、代謝性鹼中毒、呼吸性酸鹼異常
+  - 22 個易混淆鑑別表（SIADH vs 腦性鹽耗損 vs thiazide、低血鈉矯正速度、Bartter/Gitelman/Liddle、高血鉀三步驟、高血鈣急性處置、RTA 分型、甲醇/乙二醇/水楊酸、A-a gradient 等），4 張流程圖，74 個連結，38 處紅字
+  - 共用流程圖 _charts/hyperkalemia-management.mmd（高血鉀的緊急處置），同時嵌入腎臟內科高血鉀段落
+  - 配圖 6 張（Wikimedia Commons）：高血鉀與低血鉀、低血鈣心電圖，橋腦中央脫髓鞘 MRI，Trousseau sign，Russell sign
 - **套用 10/28–10/30 逐篇筆記的整合提案**: 4 份提案照使用者回覆全部套用，提案檔刪除，4 篇改 integrated: true
   - 小兒主訴（兒虐）：浸泡燙傷的斑馬紋與甜甜圈洞、簡易篩檢指標；小兒科：AHT 六項特徵三項以上 PPV > 85%
   - 家庭醫學科：醫療法第 82 條改為 2018 修正版、醫預法調解先行、老人受虐指標、同意書由誰簽、五大職業危害因子、復工耐受度與報酬，以及連到逐篇筆記的詳見

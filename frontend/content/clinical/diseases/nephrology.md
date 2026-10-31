@@ -678,6 +678,8 @@ credit:
     6. **Loop diuretics**：腎功能尚可者促腎臟排 K⁺。
     7. **Hemodialysis**：最有效移除 K⁺ 的方法（難治性或嚴重腎衰竭）。
 
+::chart{id="hyperkalemia-management"}
+
 ### 鈣異常
 
 #### 低血鈣（Hypocalcemia，Ca²⁺ < 8.5 mg/dL）

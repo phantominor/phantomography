@@ -1,0 +1,11 @@
+%% title: 高血鉀的緊急處置
+flowchart TD
+  A["K #62; 5.5"]:::start --> B["立即 ECG<br/>排除假性高血鉀（溶血、止血帶）"]
+  B --> C{{"ECG 變化或<br/>K ≥ 6.5？"}}
+  C -->|"否"| D["停用致病藥物、低鉀飲食<br/>利尿劑、鉀結合劑<br/>找原因"]:::key
+  C -->|"是"| E["calcium gluconate 10% IV<br/>穩定心肌膜（不降 K）"]:::danger
+  E --> F["insulin 10 U + 葡萄糖<br/>albuterol 噴霧<br/>（酸中毒時加 bicarbonate）"]
+  F --> G["排出：loop 利尿劑<br/>鉀結合劑"]
+  G --> H{{"腎衰竭、頑固<br/>或危及生命？"}}
+  H -->|"是"| I["血液透析"]:::danger
+  H -->|"否"| J["心電圖監測<br/>1–2 小時後重驗 K"]:::key
