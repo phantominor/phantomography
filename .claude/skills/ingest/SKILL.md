@@ -56,7 +56,7 @@ cd frontend && npm run pull-inbox
 title: 中文標題，點出主題（例：Type 2 MI 的診斷與處置）
 date: 2026-10-20
 time: "14:00"        # 有就寫
-type: rounds         # 照抄 inbox
+type: morning        # 照抄 inbox
 event: 心臟內科 Grand Round
 speaker: 王醫師       # 多位用陣列
 place: …             # 有就寫，地點可公開

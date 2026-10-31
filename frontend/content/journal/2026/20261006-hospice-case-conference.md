@@ -2,7 +2,7 @@
 title: 安寧照護三種模式：居家、共照、病房與轉介銜接
 date: 2026-10-06
 time: "12:30"
-type: case
+type: report
 event: 安寧個案討論會
 speaker: [邱泰源, 李雅萍, 鄭以信]
 place: 部北

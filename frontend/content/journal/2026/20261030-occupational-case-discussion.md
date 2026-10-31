@@ -2,7 +2,7 @@
 title: 職醫個案討論：駕駛適能、職業病診斷與復工
 date: 2026-10-30
 time: "13:30"
-type: case
+type: report
 event: 職醫個案討論
 speaker: 蔡旻翰
 place: 部北

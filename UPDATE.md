@@ -1,5 +1,9 @@
 <!-- UPDATE.md -->
 [2026/11/01]
+- **逐篇筆記活動類型改版**: 配合 phantomajor 收件匣，活動類型改成八種：課程、講座、研討會、晨會、臨床學習、報告、自主學習、討論
+  - `lib/journal.js` 的 `JOURNAL_TYPES`：lecture 名稱改「課程」，新增 conference、morning、report、discussion，拿掉 rounds、case、reading（併入 morning/clinical、report、self）
+  - 既有逐篇筆記：3 篇 case 改 report（安寧個案討論會、居家整合醫學個案報告、職醫個案討論），導生座談會從 lecture 改 discussion
+  - `inbox/_template.md`、藍圖 `notes-system_v3.md` 的 type 對照、`/ingest` 範例同步更新
 - **10/28–10/30 心得確認上線**: 4 篇逐篇筆記放回使用者修改後的心得，改回 integrated: true，提案檔刪除
   - 家庭醫學科「職災後復工評估」加上駕駛適能（職業駕駛標準較嚴、三類能力、骨折術後與鎮靜藥物）
 - **職醫個案討論改寫、心得改為先提案確認**: 原本誤把三峽事件當成討論個案，依報告投影片重寫

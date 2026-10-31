@@ -92,7 +92,7 @@ draft: false        # true 的頁面不進正式建置
 ---
 title: 心臟科 Grand Round：Type 2 MI
 date: 2026-10-13
-type: rounds        # lecture | talk | rounds | clinical | case | reading | self
+type: morning       # lecture | talk | conference | morning | clinical | report | self | discussion
 event: 心臟內科 Grand Round
 speaker: 王醫師     # 可留空
 tags: [心臟內科, ACS]
@@ -101,7 +101,7 @@ linked: []          # 整合到哪些段落，由 Claude 整合時填寫
 ---
 ```
 
-type 對照：lecture 課堂、talk 講座/研討會、rounds 晨會/查房/教學迴診、clinical 臨床學習、case 案例討論、reading 閱讀（教科書、指引、期刊）、self 自學整理。
+type 對照（2026/11/01 改版）：lecture 課程、talk 講座、conference 研討會、morning 晨會、clinical 臨床學習（查房、教學回診）、report 報告（個案報告、journal reading）、self 自主學習（閱讀、自學）、discussion 討論（師生討論、導生會、同儕討論）。
 
 ### 4.2 標題層級
 

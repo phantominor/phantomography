@@ -2,7 +2,7 @@
 title: 居家整合醫學：居家訪視的 INHOMESSS 評估
 date: 2026-10-27
 time: "14:00"
-type: case
+type: report
 event: 居家整合醫學個案報告與討論
 speaker: 薛復宸
 place: 部北

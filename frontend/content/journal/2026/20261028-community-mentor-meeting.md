@@ -2,7 +2,7 @@
 title: 部北社區醫學導生座談會：社區醫學的訓練與資源
 date: 2026-10-28
 time: "12:30"
-type: lecture
+type: discussion
 event: 部北社區醫學：導生座談會
 speaker: 李雅萍
 place: 部北

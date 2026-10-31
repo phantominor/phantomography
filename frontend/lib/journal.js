@@ -2,13 +2,14 @@
 // 逐篇筆記（content/journal/<YYYY>/<YYYYMMDD>-<slug>.md）：依日期排序的列表（::journal）、左側導覽、頁首資訊用的資料。
 
 export const JOURNAL_TYPES = {
-  lecture: '課堂',
+  lecture: '課程',
   talk: '講座',
-  rounds: '晨會/查房',
+  conference: '研討會',
+  morning: '晨會',
   clinical: '臨床學習',
-  case: '案例討論',
-  reading: '閱讀',
-  self: '自學',
+  report: '報告',
+  self: '自主學習',
+  discussion: '討論',
 };
 
 const asList = (v) => (Array.isArray(v) ? v : v ? [v] : []);
