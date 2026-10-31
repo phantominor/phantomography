@@ -1,5 +1,9 @@
 <!-- UPDATE.md -->
 [2026/11/01]
+- **收件匣照片透視校正與旋轉**: `scripts/process-photo.mjs` 新增 `--perspective`、`--rotate`
+  - `--perspective`：給斜拍投影片的四個角，用投影轉換（逐點反推回原圖、雙線性取樣）拉成正面的長方形
+  - `--rotate`：任意角度扶正，空角補白；處理順序為透視校正 → 旋轉 → 裁切，`--info` 可印處理後的尺寸
+  - `/ingest` 說明照片步驟補上什麼時候用哪一個
 - **逐篇筆記活動類型改版**: 配合 phantomajor 收件匣，活動類型改成八種：課程、講座、研討會、晨會、臨床學習、報告、自主學習、討論
   - `lib/journal.js` 的 `JOURNAL_TYPES`：lecture 名稱改「課程」，新增 conference、morning、report、discussion，拿掉 rounds、case、reading（併入 morning/clinical、report、self）
   - 既有逐篇筆記：3 篇 case 改 report（安寧個案討論會、居家整合醫學個案報告、職醫個案討論），導生座談會從 lecture 改 discussion
