@@ -1,4 +1,12 @@
 <!-- UPDATE.md -->
+[2026/11/01]
+- **逐篇筆記新增 5 篇（收件匣 10/28–10/30）**: 從 phantomajor 收件匣抓下 5 篇，整理成逐篇筆記
+  - 20261028-medical-safeguards：保護性個案辨識（兒虐、老人保護）、溝通漏斗、醫療法第 82 條、同意書簽署決策樹；投影片 3 張裁切放入
+  - 20261028-community-mentor-meeting：導生座談會心得（無可整合內容，integrated: true）
+  - 20261029-end-of-life-ethics：邱泰源醫師的安寧緩和醫療四大原則
+  - 20261030-discharge-planning：長照 3.0 五大重點、家庭照顧者關懷專線
+  - 20261030-occupational-case-discussion：駕駛適能、職醫業務、職業病診斷五大準則、復工耐受度與報酬
+  - 整合提案 4 份放在 `temp/proposals/`；npm run build 通過，只有 /style 樣張的示範失效連結
 [2026/10/31]
 - **醫學周報第 43 週上線**: 第二版草稿使用者確認，移到 `content/weekly/2026/2026-w43.md`
   - 刪除審核說明、3 處 :::review、評分欄與結尾註解；被告照草稿寫「Yuli（報導用名）」
