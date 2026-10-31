@@ -1863,6 +1863,10 @@ credit:
     - 特徵性骨折：**metaphyseal corner fractures**（bucket-handle / classic metaphyseal lesion）→ 最具特異性。
     - **Posterior rib fractures**（擠壓）、spiral fractures in non-ambulatory children。
     - 嬰兒 **subdural hematoma + retinal hemorrhage** → 高度懷疑 **搖晃嬰兒症候群**（Shaken Baby Syndrome = Abusive Head Trauma）。
+:::source{from="20261028-medical-safeguards"}
+- 3 歲以下顱內傷害合併**呼吸暫停、視網膜出血、肋骨骨折、長骨骨折、癲癇、頭頸部瘀傷**其中三項以上 → 虐待的陽性預測值 **> 85%**（Maguire, Pediatrics 2011）。
+:::
+
 - 骨骼調查（skeletal survey）：< 2 歲懷疑虐待時。
 - 醫師有**法定通報義務**。
 

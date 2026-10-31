@@ -7,7 +7,7 @@ event: 醫療守護的四大防線：社衛政法規與臨床實務指南
 speaker: 楊淑貞
 place: 部北
 tags: [小兒科, 法規]
-integrated: false
+integrated: true
 ---
 
 ## 摘要
@@ -57,8 +57,10 @@ integrated: false
 - 疑似虐待時的檢查：2 歲以下做**全身骨骼 X 光**（skeletal survey）、眼底檢查、頭部影像；並排除凝血異常、成骨不全症等鑑別診斷。
 :::
 
-:::verify
-講者版本的四項（硬腦膜下出血、腦實質傷害、視網膜出血、肋骨骨折）與 Maguire 2011 的六項特徵不完全相同，引用前請以原文為準。
+:::supplement
+- 查證：講者的四項和文獻不完全相同。
+    - 「三項以上、> 85%」出自上面的 Maguire 2011：前提是已經有顱內傷害（例如硬腦膜下出血），再看六項特徵中符合幾項；其中**肋骨骨折或視網膜出血**合併任何一項其他特徵，陽性預測值也 > 85%。
+    - 「硬腦膜下出血 + 視網膜出血 + 骨折」三聯徵另有研究（J Neurosurg Pediatr 2023）報告陽性預測值 100%，但陽性個案數少，信賴區間很寬。
 :::
 
 #### 簡易篩檢指標
@@ -74,7 +76,10 @@ integrated: false
 - 原因不明的口腔、陰部、肛門疼痛或損傷。
 - 體重過輕或營養不良。
 
-參考文獻：[Maguire S, et al. Estimating the probability of abusive head trauma: a pooled analysis. Pediatrics 2011;128:e550–e564](https://pubmed.ncbi.nlm.nih.gov/21844052/)
+參考文獻：
+
+- [Maguire S, et al. Estimating the probability of abusive head trauma: a pooled analysis. Pediatrics 2011;128:e550–e564](https://pubmed.ncbi.nlm.nih.gov/21844052/)
+- [Subdural hematoma, retinal hemorrhage, and fracture triad as a clinical predictor for the diagnosis of child abuse. J Neurosurg Pediatr 2023](https://thejns.org/pediatrics/view/journals/j-neurosurg-pediatr/33/2/article-p142.xml)
 
 ### 老人保護
 

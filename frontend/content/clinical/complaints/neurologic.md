@@ -525,7 +525,10 @@ flowchart TD
 - **乙醯膽鹼酯酶抑制劑（donepezil、rivastigmine、galantamine）**：輕中度阿茲海默、DLB、Parkinson 失智；副作用 → **心搏過緩、暈厥**、腸胃不適。
 - **Memantine（NMDA 拮抗劑）**：中重度阿茲海默。
 - 行為與精神症狀：先非藥物（環境、作息、照顧技巧）；抗精神病藥**增加失智老人死亡率（中風）**，只用於嚴重且其他方法無效時。
-- 照顧者支持、安全（駕駛、走失、用火）、預立醫療決定；台灣**長照 2.0** 資源。
+
+:::source{from="20261030-discharge-planning"}
+- 照顧者支持、安全（駕駛、走失、用火）、預立醫療決定；台灣**長照 3.0**（2026 起）資源；**1966 長照專線**、**家庭照顧者關懷專線 0800-507-272**。
+:::
 
 :::pitfall
 失智病人出現幻覺與躁動，給了 haloperidol 後變得僵硬、意識更差、發燒 → 路易體失智對抗精神病藥極度敏感，可誘發嚴重錐體外症狀甚至 [[精神科#惡性抗精神病藥症候群（Neuroleptic Malignant Syndrome, NMS）|NMS]]。認知起伏、視幻覺、Parkinson 症狀的病人要想到 DLB，必要時用 quetiapine 或 clozapine。
