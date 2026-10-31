@@ -1,5 +1,10 @@
 <!-- UPDATE.md -->
 [2026/11/01]
+- **病患主訴：生化異常**: 新增 content/clinical/complaints/chemistry.md，以檢驗值為單位分五組 15 項
+  - 肝膽胰：轉胺酶、ALP、澱粉酶與脂肪酶；腎與代謝：肌酸酐、尿酸、血脂；肌肉蛋白與發炎：CK、白蛋白、CRP/ESR/procalcitonin、鐵蛋白；心肺標記：troponin、BNP、D-dimer；腫瘤標記：PSA、其他腫瘤標記
+  - 易混淆鑑別表包括轉胺酶 > 1000 四大原因、PBC vs PSC、澱粉酶 vs 脂肪酶、AKI vs CKD、BUN/Cr、ACR 2020 降尿酸、台灣血脂目標、肌紅素尿 vs 血紅素尿、statin 肌肉症狀、HLH vs Still vs 敗血症、MI 第 1/2 型、hs-troponin 0/1 小時、PERC、睪丸生殖細胞瘤標記；3 張流程圖，146 個連結，49 處紅字
+  - 黃疸、急性腎損傷、高低血糖已在其他主訴頁，這頁從檢驗值切入，再用詳見連過去
+  - 配圖 4 張（Wikimedia Commons）：K-F 環、Grey Turner sign、眼瞼黃斑瘤、手部黃色瘤
 - **收件匣照片透視校正與旋轉**: `scripts/process-photo.mjs` 新增 `--perspective`、`--rotate`
   - `--perspective`：給斜拍投影片的四個角，用投影轉換（逐點反推回原圖、雙線性取樣）拉成正面的長方形
   - `--rotate`：任意角度扶正，空角補白；處理順序為透視校正 → 旋轉 → 裁切，`--info` 可印處理後的尺寸
