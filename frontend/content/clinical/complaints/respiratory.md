@@ -81,6 +81,10 @@ status: initial
 | 羊音（egophony） | 無 | 積液上緣可有 | 無 | **有** |
 :::
 
+![張力性氣胸：左側沒有肺紋理、左肺塌陷（箭頭），縱膈腔被推向右側](media/commons/pneumothorax-cxr.webp "張力性氣胸：左側沒有肺紋理、左肺塌陷（箭頭），縱膈腔被推向右側 | Karthik Easvur，CC BY-SA 3.0，Wikimedia Commons | https://commons.wikimedia.org/wiki/File:X-ray_of_pneumothorax_signs.jpg")
+
+![心因性肺水腫：心臟擴大、肺血管模糊，肺外側底部垂直於肋膜的短橫線為 Kerley B 線（箭頭）](media/commons/kerley-b-lines.webp "心因性肺水腫：心臟擴大、肺血管模糊，肺外側底部垂直於肋膜的短橫線為 Kerley B 線（箭頭） | Mikael Häggström，CC0，Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Chest_radiograph_of_a_lung_with_Kerley_B_lines_-_annotated.jpg")
+
 #### 問診與理學檢查
 
 - **發作方式**：
@@ -906,6 +910,8 @@ flowchart TD
 | 處置 | **抗生素即可** | **抗生素 + 胸管引流** | **胸管引流**；包膜化 → 肋膜腔內 tPA + DNase；失敗 → **[[胸腔外科#VATS\|VATS]] 剝離（decortication）** |
 :::
 
+![右側大量肋膜積液：右側胸腔大片白化](media/commons/pleural-effusion-cxr.webp "右側大量肋膜積液：右側胸腔大片白化 | Sara Nabih，CC BY-SA 4.0，Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Unilateral_Pleural_Effusion.jpg")
+
 #### 問診與理學檢查
 
 - 呼吸困難、肋膜性胸痛、咳嗽、發燒、體重減輕、心衰竭或肝腎病史、抽菸、石綿、結核接觸、用藥、近期手術。
@@ -983,6 +989,8 @@ flowchart TD
 | **IPF**、石綿肺 | 肺炎、急性支氣管炎 |
 | 肺動靜脈畸形 | 類肉瘤病（少見） |
 :::
+
+![杵狀指：指甲床與指甲的夾角（Lovibond 角）消失，指尖膨大](media/commons/digital-clubbing.webp "杵狀指：指甲床與指甲的夾角（Lovibond 角）消失，指尖膨大 | Wesalius，CC BY-SA 4.0，Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Clubbing_fingers_2.jpg")
 
 #### 問診與理學檢查
 

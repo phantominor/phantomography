@@ -1426,6 +1426,8 @@ Parkinson 病人開始 dopamine 致效劑後開車時突然睡著 → 把它當�
 | 預防 | **從低熱量開始逐步增加**、**先補 thiamine**、**前幾天每天監測磷、鉀、鎂** |
 :::
 
+![Russell sign：反覆用手指催吐，掌指關節背側被門牙磨出的繭與傷口](media/commons/russell-sign.webp "Russell sign：反覆用手指催吐，掌指關節背側被門牙磨出的繭與傷口 | User:Kyukyusha，Public domain，Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Russell%27s_Sign.png")
+
 #### 問診與理學檢查
 
 - **SCOFF 問卷**（≥ 2 題陽性 → 懷疑）：會不會因為太飽而**催吐**？是否擔心**失控**吃太多？3 個月內體重減少 **> 6 公斤**？別人說你瘦你仍覺得**胖**？**食物**主宰你的生活？

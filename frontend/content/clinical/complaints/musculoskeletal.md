@@ -75,6 +75,10 @@ status: initial
 | 治療 | **ceftriaxone** | NSAIDs |
 :::
 
+![第一蹠趾關節的痛風石：關節內側隆起的結節](media/commons/tophaceous-gout.webp "第一蹠趾關節的痛風石：關節內側隆起的結節 | Chainwit.，CC BY 4.0（裁切），Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Tophaceous_gout_of_Lt_MTP_joint,_elder_female_patient,_Thailand.jpg")
+
+![軟骨鈣化（chondrocalcinosis）：膝關節軟骨內的線狀鈣化（箭頭），提示 CPPD（假痛風）](media/commons/chondrocalcinosis-knee.webp "軟骨鈣化（chondrocalcinosis）：膝關節軟骨內的線狀鈣化（箭頭），提示 CPPD（假痛風） | Taokinesis (Pixabay profile)Annotated by Mikael Häggström，CC0，Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Chondrocalcinosis_-_annotated.jpg")
+
 #### 問診與理學檢查
 
 - **發作速度**（痛風數小時內達高峰）、外傷、發燒、過去發作、性行為史、藥癮、近期感染（腹瀉、尿道炎）。
@@ -199,6 +203,10 @@ flowchart TD
 | 抗體 | **B19 IgM**；RF 可短暫陽性 | **anti-CCP** |
 | 處置 | NSAIDs、觀察 | **早期 DMARD（methotrexate）** |
 :::
+
+![類風濕性關節炎的天鵝頸變形：近端指間關節過度伸直、遠端指間關節屈曲](media/commons/ra-swan-neck.webp "類風濕性關節炎的天鵝頸變形：近端指間關節過度伸直、遠端指間關節屈曲 | User:Phoenix119，CC BY-SA 3.0，Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Swan_neck_deformity_in_a_65_year_old_Rheumatoid_Arthritis_patient-_2014-05-27_01-49.jpg")
+
+![骨關節炎的 Heberden 結節：遠端指間關節的骨性膨大（近端指間關節為 Bouchard 結節）](media/commons/heberden-nodes.webp "骨關節炎的 Heberden 結節：遠端指間關節的骨性膨大（近端指間關節為 Bouchard 結節） | PhilipPirrip，CC BY 4.0，Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Heberden%27s_nodes_-_48_year_old_male_-_left_hand_01.jpg")
 
 #### 問診與理學檢查
 
@@ -395,6 +403,8 @@ flowchart TD
 | 併發症 | **不癒合、近端缺血性壞死**（血流由遠端逆流供應） | 正中神經病變、**伸拇長肌腱斷裂** | — |
 :::
 
+![遠端橈骨骨折（Colles 骨折，圓圈）：跌倒時手掌撐地，遠端骨折片向背側移位](media/commons/colles-fracture.webp "遠端橈骨骨折（Colles 骨折，圓圈）：跌倒時手掌撐地，遠端骨折片向背側移位 | Ashish j29，CC BY 3.0，Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Colles_fracture.JPG")
+
 #### 問診與理學檢查
 
 - 疼痛或麻木的**確切分布**、夜間症狀、職業與嗜好、外傷機轉、懷孕、糖尿病、甲狀腺。
@@ -501,6 +511,8 @@ flowchart TD
 | 早期影像 | X 光：**關節腔狹窄、骨刺** | **X 光早期正常 → MRI 最敏感**；晚期新月徵象（crescent sign）、塌陷 |
 | 處置 | 減重、運動、NSAIDs → 全髖置換 | 早期 → 髓心減壓；塌陷 → 全髖置換 |
 :::
+
+![股骨頭骨骺滑脫（SCFE）：骨骺相對股骨頸向後下方滑脫（框內示意），好發於肥胖的青春期男孩](media/commons/scfe-xray.webp "股骨頭骨骺滑脫（SCFE）：骨骺相對股骨頸向後下方滑脫（框內示意），好發於肥胖的青春期男孩 | Dr. Jochen Lengerke，CC0，Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Slipped_capital_femoral_epiphysis.jpg")
 
 #### 問診與理學檢查
 
@@ -852,6 +864,8 @@ flowchart TD
 | 鞍區麻木 | 不對稱 | 對稱 |
 :::
 
+![僵直性脊椎炎的竹節狀脊椎：韌帶骨贅使椎體相連](media/commons/bamboo-spine.webp "僵直性脊椎炎的竹節狀脊椎：韌帶骨贅使椎體相連 | Stevenfruitsmaak，CC BY-SA 3.0，Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Bamboo_spine_ankylosing_spondylitis.jpg")
+
 #### 問診與理學檢查
 
 - 疼痛位置、**是否放射到膝蓋以下**、發作經過、與姿勢活動的關係、**夜間痛**、晨僵。
@@ -1093,6 +1107,8 @@ flowchart TD
 | **尿酸** | ↑ | — | 核酸分解 |
 | **尿液潛血** | **陽性但鏡檢無紅血球** | — | **肌紅素** |
 :::
+
+![皮肌炎的 Gottron 丘疹：掌指與指間關節背側的紫紅色丘疹](media/commons/gottron-papules.webp "皮肌炎的 Gottron 丘疹：掌指與指間關節背側的紫紅色丘疹 | Mohammad2018，CC BY-SA 4.0，Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Gottron_papules_.dermatomyocitis.jpg")
 
 #### 問診與理學檢查
 
@@ -1393,6 +1409,8 @@ flowchart TD
 | 主要器官併發症 | **肺動脈高壓（晚期）** | **間質性肺病**、**硬皮症腎危象**（早期） |
 | 特徵 | **CREST：鈣質沉著、雷諾、[[消化內科#食道運動障礙\|食道運動障礙]]、指端硬化、微血管擴張** | 進展快 |
 :::
+
+![雷諾現象：遇冷時手指末端蒼白（缺血期），之後轉為發紺、再充血發紅](media/commons/raynaud-phenomenon.webp "雷諾現象：遇冷時手指末端蒼白（缺血期），之後轉為發紺、再充血發紅 | knotimpressed，CC0，Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Raynaud%27s_phenomenon_1.jpg")
 
 #### 問診與理學檢查
 

@@ -83,6 +83,8 @@ status: initial
 | 檢驗 | | **CK 極高** | **LDH↑、haptoglobin↓、間接膽紅素↑** |
 :::
 
+![尿沉渣圓柱：(a) 腎小管上皮細胞圓柱、(b) 泥棕色顆粒圓柱（ATN）、(c) 白血球圓柱（腎盂腎炎、間質性腎炎）、(d) 紅血球圓柱（腎絲球腎炎）](media/commons/urine-casts.webp "尿沉渣圓柱：(a) 腎小管上皮細胞圓柱、(b) 泥棕色顆粒圓柱（ATN）、(c) 白血球圓柱（腎盂腎炎、間質性腎炎）、(d) 紅血球圓柱（腎絲球腎炎） | Mohsenin V.，CC BY 4.0，Wikimedia Commons | https://commons.wikimedia.org/wiki/File:RTE_cast,_muddy_granular_cast,_WBC_cast_and_RBC_cast_in_urine.jpg")
+
 #### 問診與理學檢查
 
 - 肉眼或鏡下、**有無疼痛**、排尿時段、血塊、排尿症狀、腰痛。
@@ -411,6 +413,8 @@ flowchart TD
 | **停利尿劑 + 白蛋白 1 g/kg 輸注 2 天** | **不改善** | **改善** | 不改善 |
 | 治療 | **Terlipressin（或 norepinephrine）+ 白蛋白**；肝臟移植 | 補充容積 | 支持療法 |
 :::
+
+![水腎（矢狀切面超音波）：腎盞擴張呈無回音，提示腎後性阻塞](media/commons/hydronephrosis-us.webp "水腎（矢狀切面超音波）：腎盞擴張呈無回音，提示腎後性阻塞 | Cerevisae，CC BY-SA 4.0，Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Ultrasound_of_right_kidney_moderate_hydronephrosis.jpg")
 
 #### 問診與理學檢查
 
@@ -795,6 +799,8 @@ flowchart TD
 - **ESWL 禁忌**：**懷孕**、凝血異常、**未控制的感染**、遠端阻塞、結石附近有動脈瘤。
 :::
 
+![非顯影 CT（冠狀切面）：雙側腎結石（箭頭），是腎絞痛的首選影像](media/commons/renal-calculi-ct.webp "非顯影 CT（冠狀切面）：雙側腎結石（箭頭），是腎絞痛的首選影像 | Kristie Guite, Louis Hinshaw and Fred Lee，CC BY 3.0，Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Non-contrast_coronal_CT_of_multiple_bilateral_renal_calculi.jpg")
+
 #### 問診與理學檢查
 
 - 疼痛發作方式、位置、放射、陣發或持續、血尿、發燒、排尿症狀、噁心嘔吐。
@@ -978,6 +984,8 @@ flowchart TD
 | 放射線敏感 | **非常敏感** | 不敏感 |
 | 預後 | 極佳 | 佳（cisplatin 化療） |
 :::
+
+![精索靜脈曲張（示意圖）：陰囊上方蔓狀靜脈叢擴張，「一袋蟲」觸感，多在左側](media/commons/varicocele.webp "精索靜脈曲張（示意圖）：陰囊上方蔓狀靜脈叢擴張，「一袋蟲」觸感，多在左側 | BruceBlaus，CC BY-SA 4.0，Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Varicocele.png")
 
 #### 問診與理學檢查
 

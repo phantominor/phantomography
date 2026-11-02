@@ -88,6 +88,10 @@ status: initial
 | 預後 | 死亡率高 | 多數數天內自行緩解 |
 :::
 
+![腸胃道穿孔：立姿胸部 X 光橫膈下游離氣體（左），CT 可見肝臟前方的腹腔內氣體（右）](media/commons/pneumoperitoneum-cxr.webp "腸胃道穿孔：立姿胸部 X 光橫膈下游離氣體（左），CT 可見肝臟前方的腹腔內氣體（右） | Cerevisae，CC BY-SA 4.0，Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Chest_X-ray_showing_presence_of_free_air_under_left_diaphragm.png")
+
+![Cullen sign：臍周瘀青，見於出血性胰臟炎、子宮外孕破裂等腹腔內出血](media/commons/cullen-sign.webp "Cullen sign：臍周瘀青，見於出血性胰臟炎、子宮外孕破裂等腹腔內出血 | Herbert L. Fred, MD and Hendrik A. van Dijk，CC BY 2.0，Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Cullen%27s_sign.jpg")
+
 #### 問診與理學檢查
 
 - OPQRST：發作方式（突發 vs 漸進）、位置與轉移、性質（絞痛（colicky pain） vs 持續痛）、放射、伴隨症狀、時間。
@@ -404,6 +408,8 @@ status: initial
 | 切片 | 菌絲、假菌絲 | 多核巨細胞、Cowdry A 包涵體；取**潰瘍邊緣** | 巨細胞 + 核內包涵體（owl's eye）；取**潰瘍基底** | — |
 | 治療 | **Fluconazole**（口腔念珠菌 + 吞嚥痛可經驗性治療） | Acyclovir | Ganciclovir | 停藥；大量開水送服、服藥後坐直 30 分鐘 |
 :::
+
+![食道弛緩不能：鋇劑攝影見食道擴張、下端平滑變窄呈鳥嘴狀（bird's beak）](media/commons/achalasia-bird-beak.webp "食道弛緩不能：鋇劑攝影見食道擴張、下端平滑變窄呈鳥嘴狀（bird's beak） | Farnoosh Farrokhi, Michael F. Vaezi.，CC BY 2.0，Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Acha.JPG")
 
 #### 檢查流程
 
@@ -799,6 +805,9 @@ status: initial
 - 靜脈曲張出血高風險者（[[肝膽胰外科#Child-Pugh Score|Child-Pugh]] C 10–13 分，或 B 級合併活動性出血）考慮 72 小時內**早期 TIPS**。
 - 詳見 [[消化內科#上消化道出血（Upper GI Bleeding）|上消化道出血]]、[[肝膽胰外科#食道靜脈曲張出血（Esophageal Variceal Bleeding）|食道靜脈曲張出血]]。
 
+![食道靜脈曲張與內視鏡結紮（示意圖）](media/commons/esophageal-varices-banding.webp "食道靜脈曲張與內視鏡結紮（示意圖） | Kel898，CC BY-SA 4.0，Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Endoscopic_Banding_for_Esophageal_Varices.png")
+
+
 ### 下消化道出血（Lower GI Bleeding）
 
 #### 定義與表現
@@ -923,6 +932,8 @@ status: initial
         - 藥物：amoxicillin-clavulanate、口服避孕藥、合成類固醇、chlorpromazine。
         - **[[消化內科#原發性膽汁性膽管炎（Primary Biliary Cholangitis, PBC）|PBC]]**、**PSC**（見下方比較表）。
         - 其他：敗血症、TPN、浸潤性疾病（類澱粉、淋巴瘤、肉芽腫）、**[[產科#妊娠期肝內膽汁淤積（Intrahepatic Cholestasis of Pregnancy, ICP）|妊娠肝內膽汁鬱積]]**（第三孕期搔癢（pruritus））、術後良性膽汁鬱積。
+
+![鞏膜黃疸：膽紅素約 > 2.5–3 mg/dL 時最早在鞏膜看出](media/commons/scleral-icterus.webp "鞏膜黃疸：膽紅素約 > 2.5–3 mg/dL 時最早在鞏膜看出 | James Heilman, MD，CC BY 3.0（裁切），Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Comparison_of_Cutaneous_Jaundice_and_Scleral_Icterus.jpg")
 
 #### 檢查流程
 
@@ -1085,6 +1096,15 @@ flowchart TD
 5. 避免 NSAID；頑固性腹水者避免 ACEi/ARB。
 - 詳見 [[消化內科#腹水（Ascites）|腹水]]。
 
+![海蛇頭（caput medusae）：門脈高壓時臍周腹壁靜脈曲張](media/commons/caput-medusae.webp "海蛇頭（caput medusae）：門脈高壓時臍周腹壁靜脈曲張 | డా. గన్నవరపు నరసింహమూర్తి，CC0，Wikimedia Commons | https://commons.wikimedia.org/wiki/File:%E0%B0%89%E0%B0%A6%E0%B0%B0%E0%B0%95%E0%B1%81%E0%B0%A1%E0%B1%8D%E0%B0%AF%E0%B0%82%E0%B0%B2%E0%B1%8B_%E0%B0%89%E0%B0%AC%E0%B1%8D%E0%B0%AC%E0%B1%81%E0%B0%B8%E0%B0%BF%E0%B0%B0%E0%B0%B2%E0%B1%81_(_Caput_Medusae_).jpeg")
+
+![蜘蛛痣：中央小動脈向外放射的細小血管，壓迫中央會退白；慢性肝病的徵象](media/commons/spider-angioma.webp "蜘蛛痣：中央小動脈向外放射的細小血管，壓迫中央會退白；慢性肝病的徵象 | Michael Sand, Daniel Sand, Christina Thrandorf, Volker Paech, Peter Altmeyer, Falk G Bechara，CC BY 2.5，Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Spidernevus.jpg")
+
+![手掌紅斑：大小魚際最明顯，慢性肝病與懷孕常見](media/commons/palmar-erythema.webp "手掌紅斑：大小魚際最明顯，慢性肝病與懷孕常見 | Jmarchn，CC BY-SA 3.0，Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Palmar_erythema.jpg")
+
+
+
+
 ### 肝脾腫大（Hepatosplenomegaly）
 
 #### 肝腫大（Hepatomegaly）
@@ -1224,6 +1244,9 @@ flowchart TD
     - 保守治療 48–72 小時無改善 → 手術。
 3. **完全阻塞、絞窄、嵌頓性疝氣、無手術史的 SBO、大腸癌阻塞** → 手術（或支架作為過渡）。
 - 詳見 [[消化內科#腸阻塞（Intestinal Obstruction）|腸阻塞]]、[[胃小腸外科#小腸阻塞（SBO）|小腸阻塞]]、[[大腸直腸外科#大腸扭轉（Volvulus）|大腸扭轉]]。
+
+![小腸阻塞：立姿腹部 X 光多處氣液面、擴張的小腸呈階梯狀排列](media/commons/small-bowel-obstruction-xray.webp "小腸阻塞：立姿腹部 X 光多處氣液面、擴張的小腸呈階梯狀排列 | James Heilman, MD，CC BY-SA 3.0，Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Upright_X-ray_demonstrating_small_bowel_obstruction.jpg")
+
 
 ### 肛門直腸症狀（Anorectal Symptoms）
 

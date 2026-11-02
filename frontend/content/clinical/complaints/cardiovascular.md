@@ -79,6 +79,10 @@ status: initial
 | 血栓溶解劑 | 可用 | **不用** | **不用** |
 :::
 
+![下壁 STEMI：II、III、aVF ST 上升，I、aVL 對側 ST 下降](media/commons/inferior-stemi-ecg.webp "下壁 STEMI：II、III、aVF ST 上升，I、aVL 對側 ST 下降 | James Heilman, MD，CC BY-SA 3.0，Wikimedia Commons | https://commons.wikimedia.org/wiki/File:IandRStemi.JPG")
+
+![主動脈剝離（Stanford A 型）：顯影 CT 升主動脈內的內膜瓣（箭頭）將血管分成真腔與假腔](media/commons/aortic-dissection-ct.webp "主動脈剝離（Stanford A 型）：顯影 CT 升主動脈內的內膜瓣（箭頭）將血管分成真腔與假腔 | James Heilman, MD，CC BY-SA 3.0，Wikimedia Commons | https://commons.wikimedia.org/wiki/File:DissectionCT.png")
+
 #### 問診與理學檢查
 
 - 疼痛特徵：OPQRST，特別問**發作方式**（突發 vs 漸進）、**誘發與緩解因素**（勞動、呼吸、姿勢、進食、按壓）、**放射**、持續時間。
@@ -251,6 +255,10 @@ Cocaine 引起的胸痛 → 給單純 β 阻斷劑 → α 受體作用失去抵�
 - **不可給 verapamil**：若其實是 VT → 低血壓、心室顫動。
 :::
 
+![心房顫動：沒有 P 波、基線細小顫動、RR 間隔完全不規則](media/commons/atrial-fibrillation-ecg.webp "心房顫動：沒有 P 波、基線細小顫動、RR 間隔完全不規則 | Ewingdo，CC BY-SA 4.0，Wikimedia Commons | https://commons.wikimedia.org/wiki/File:ECG_Atrial_Fibrillation_98_bpm.jpg")
+
+![WPW 症候群：PR 間期短、QRS 起始處的 delta 波使 QRS 變寬](media/commons/wpw-ecg.webp "WPW 症候群：PR 間期短、QRS 起始處的 delta 波使 QRS 變寬 | User Ksheka on en.wikipedia，CC BY-SA 3.0，Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Wolff-Parkinson-White_syndrome_12_lead_EKG.png")
+
 #### 問診與理學檢查
 
 - 發作方式：**突然開始、突然結束** → 折返性心律不整（AVNRT、AVRT）；漸進加速與減速 → 竇性心搏過速。
@@ -334,6 +342,8 @@ WPW 病人發生 AF（不規則、寬窄不一的 QRS）→ 依一般 AF 給 dil
 | 高血鉀 | **Calcium gluconate** 穩定心肌膜 → insulin + glucose、β2 致效劑 |
 | Clonidine、opioid | 支持療法；naloxone 對 clonidine 部分有效 |
 :::
+
+![三度房室傳導阻滯：P 波（虛線箭頭）與 QRS 各自規則出現、彼此無關（房室解離）](media/commons/third-degree-av-block-ecg.webp "三度房室傳導阻滯：P 波（虛線箭頭）與 QRS 各自規則出現、彼此無關（房室解離） | Gregory Marcus, MD, MAS, FACC，CC BY 3.0，Wikimedia Commons | https://commons.wikimedia.org/wiki/File:3rd_degree_heart_block.PNG")
 
 #### 問診與理學檢查
 
@@ -528,6 +538,10 @@ flowchart TD
 - 詳見 [[小兒科#Functional Murmur（功能性心雜音）|功能性心雜音]]。
 :::
 
+![指甲下裂片狀出血：感染性心內膜炎的周邊徵象之一（外傷也常見）](media/commons/splinter-hemorrhage.webp "指甲下裂片狀出血：感染性心內膜炎的周邊徵象之一（外傷也常見） | Splarka，Public domain，Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Splinter_hemorrhage.jpg")
+
+![Janeway lesion：手掌無痛性紅斑出血點，感染性心內膜炎的栓塞現象](media/commons/janeway-lesion.webp "Janeway lesion：手掌無痛性紅斑出血點，感染性心內膜炎的栓塞現象 | Warfieldian，CC BY-SA 4.0，Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Janeway_lesion.JPG")
+
 #### 檢查流程
 
 - **心臟超音波**是評估瓣膜疾病的首選。
@@ -662,6 +676,8 @@ flowchart TD
 | 皮膚 | **色素沉著**、鬱積性皮膚炎、內踝潰瘍 | 增厚、角化（象皮病） | 正常、易瘀青、觸痛 | 乾燥、粗糙 |
 | 原因 | 靜脈瓣膜功能不全、DVT 後 | 癌症手術或放療後（乳癌腋下淋巴結清除）、絲蟲病 | 不明，荷爾蒙相關 | **甲狀腺功能低下** |
 :::
+
+![凹陷性水腫：手指按壓數秒後留下凹痕](media/commons/pitting-edema.webp "凹陷性水腫：手指按壓數秒後留下凹痕 | James Heilman, MD，CC BY-SA 3.0，Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Combinpedal.jpg")
 
 #### 問診與理學檢查
 
@@ -902,6 +918,8 @@ flowchart TD
 | 相關疾病 | — | **[[免疫風濕科#全身性硬化症（Systemic Sclerosis, SSc）\|全身性硬化症]]**（> 90%）、[[免疫風濕科#全身性紅斑狼瘡（SLE）\|SLE]]、Sjögren、振動工具、β 阻斷劑 |
 | 治療 | 保暖、避免誘因；**CCB（nifedipine）** | 治療原病 + CCB、PDE5 抑制劑、prostacyclin |
 :::
+
+![動脈血栓造成的急性肢體缺血：足部蒼白發紺（右側較明顯）](media/commons/acute-limb-ischemia.webp "動脈血栓造成的急性肢體缺血：足部蒼白發紺（右側較明顯） | James Heilman, MD，CC BY-SA 3.0，Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Arterial_thrombosis_causing_cyanosis.jpg")
 
 #### 問診與理學檢查
 

@@ -78,6 +78,8 @@ status: initial
 | 特殊檢查 | 革蘭氏染色、培養、抗原 | **PCR（HSV、腸病毒）** | 抗酸菌染色、培養、**ADA**、PCR | **India ink、隱球菌抗原（CrAg）** |
 :::
 
+![蜘蛛膜下腔出血：非顯影 CT 腦池與腦溝內的高密度血液（箭頭）](media/commons/sah-ct.webp "蜘蛛膜下腔出血：非顯影 CT 腦池與腦溝內的高密度血液（箭頭） | edit Shazia Mirza and Sankalp Gokhale See also source article for additional image creators.，CC BY 4.0，Wikimedia Commons | https://commons.wikimedia.org/wiki/File:CT_of_subarachnoid_hemorrhage.png")
+
 #### 問診與理學檢查
 
 - **發作速度**（幾秒鐘內到最痛？）、最痛程度、與過去頭痛是否相同、位置、伴隨症狀（嘔吐、發燒、視力、神經症狀）。
@@ -192,6 +194,8 @@ flowchart TD
 - 有血管疾病者可改用 **gepant（CGRP 受體拮抗劑）**或 **lasmiditan（5-HT1F，不收縮血管，但會頭暈、不能開車）**。
 :::
 
+![視乳突水腫：視神經盤邊緣模糊隆起、周圍火焰狀出血，提示顱內壓升高](media/commons/papilledema.webp "視乳突水腫：視神經盤邊緣模糊隆起、周圍火焰狀出血，提示顱內壓升高 | Jonathan Trobe, M.D. - University of Michigan Kellogg Eye Center，CC BY 3.0，Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Papilledema.jpg")
+
 #### 問診與理學檢查
 
 - **頭痛日記**：頻率、持續時間、誘因、月經關聯、止痛藥使用天數。
@@ -302,6 +306,10 @@ flowchart TD
 | GCS 運動分數 | **M3** | **M2** |
 | 預後 | 較好 | **較差** |
 :::
+
+![硬腦膜上血腫：凸透鏡狀高密度（箭頭），不跨越顱縫](media/commons/epidural-hematoma-ct.webp "硬腦膜上血腫：凸透鏡狀高密度（箭頭），不跨越顱縫 | James Heilman, MD，CC BY-SA 4.0，Wikimedia Commons | https://commons.wikimedia.org/wiki/File:EpiduralHematoma.jpg")
+
+![急性硬腦膜下血腫：新月形高密度（箭頭）沿腦表面分佈、可跨越顱縫，造成中線偏移](media/commons/subdural-hematoma-ct.webp "急性硬腦膜下血腫：新月形高密度（箭頭）沿腦表面分佈、可跨越顱縫，造成中線偏移 | Glitzy queen00 at English Wikipedia，Public domain，Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Trauma_subdural_arrow.jpg")
 
 #### 問診與理學檢查
 
@@ -505,6 +513,8 @@ flowchart TD
 | 腰椎穿刺 | **開放壓正常或輕度上升**；**放出 30–50 mL 腦脊髓液後步態改善 → 預測分流手術效果** |
 | 治療 | **腦室腹腔分流（VP shunt）**；**步態改善最多**，認知改善最少 |
 :::
+
+![常壓性水腦：腦室明顯擴大、與腦溝萎縮程度不成比例；臨床三徵為步態不穩、失智、尿失禁](media/commons/nph-ct.webp "常壓性水腦：腦室明顯擴大、與腦溝萎縮程度不成比例；臨床三徵為步態不穩、失智、尿失禁 | RadsWiki，CC BY-SA 3.0，Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Normal_pressure_hydrocephalus_001.jpg")
 
 #### 問診與理學檢查
 
@@ -838,6 +848,8 @@ flowchart TD
 | 伴隨 | **同側肢體無力**、失語 | 耳後痛、聽覺過敏、味覺改變、淚液減少 |
 :::
 
+![腦內出血破入腦室：非顯影 CT 的高密度血塊延伸到側腦室](media/commons/ich-ct.webp "腦內出血破入腦室：非顯影 CT 的高密度血塊延伸到側腦室 | Glitzy queen00 at English Wikipedia，Public domain，Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Intracerebral_hemorrage_(CT_scan).jpg")
+
 #### 問診與理學檢查
 
 - **最後正常時間（last known well）**：決定治療時間窗；睡醒發現者以入睡前時間計算。
@@ -955,6 +967,8 @@ TIA 的病人症狀完全恢復就讓他回家、門診追蹤 → TIA 後 48 小
 | 相關腫瘤 | **胸腺瘤**（約 10–15%；做胸部 CT） | **[[胸腔內科#小細胞肺癌（SCLC，約 15%）\|小細胞肺癌]]**（約 50–60%） |
 | 治療 | **Pyridostigmine**、免疫抑制、**胸腺切除** | 治療腫瘤、**3,4-diaminopyridine** |
 :::
+
+![Babinski sign：刮足底外側時大拇趾背屈、其餘腳趾扇形張開，代表上運動神經元病灶](media/commons/babinski-sign.webp "Babinski sign：刮足底外側時大拇趾背屈、其餘腳趾扇形張開，代表上運動神經元病灶 | Medicus of Borg，Public domain，Wikimedia Commons | https://commons.wikimedia.org/wiki/File:BabinskiSign.jpg")
 
 #### 問診與理學檢查
 
@@ -1324,6 +1338,8 @@ flowchart TD
 | 預後 | **好（約 70–85% 完全恢復）** | **較差** | 依中風 |
 | 治療 | **72 小時內 prednisolone** ± 抗病毒藥 | **類固醇 + 抗病毒藥（acyclovir、valacyclovir）** | 中風流程 |
 :::
+
+![周邊型顏面神經麻痺（示意圖）：同側額紋消失、無法閉眼、鼻唇溝變淺、嘴角下垂；中樞型則額頭不受影響](media/commons/bells-palsy-diagram.webp "周邊型顏面神經麻痺（示意圖）：同側額紋消失、無法閉眼、鼻唇溝變淺、嘴角下垂；中樞型則額頭不受影響 | Patrick J. Lynch, medical illustrator，CC BY 2.5，Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Bells_palsy_diagram.svg")
 
 #### 問診與理學檢查
 

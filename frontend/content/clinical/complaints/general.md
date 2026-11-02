@@ -410,6 +410,8 @@ FUO 病人在診斷前給類固醇「試試看」→ 淋巴瘤暫時縮小、切
 | 重點 | NS1 抗原陽性 | **退燒不代表好轉**，要監測血比容、血小板、尿量 | 停止輸液、觀察心衰竭 |
 :::
 
+![惡性瘧原蟲：周邊血液抹片上的香蕉形配子體，是 P. falciparum 的特徵](media/commons/plasmodium-falciparum-smear.webp "惡性瘧原蟲：周邊血液抹片上的香蕉形配子體，是 P. falciparum 的特徵 | Photo Credit: Content Providers(s): CDC/Dr. Mae Melvin Transwiki approved by: w:en:User:Dmcdevit，Public domain，Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Plasmodium_falciparum_01.png")
+
 #### 問診與理學檢查
 
 - 去過的國家與地區（都市或鄉村）、停留時間、**回國日期與發燒日期**（推算潛伏期）。
@@ -607,6 +609,8 @@ NMS 與血清素症候群混淆：兩者都會發燒、意識改變、自主神�
 | 重度（< 28°C） | 交界性節律、**VF**；< 20°C → **asystole** |
 - Osborn wave 也見於[[腎臟內科#高血鈣（Hypercalcemia，Ca²⁺ > 10.5 mg/dL）|高血鈣]]、腦傷、Brugada（不是低體溫專屬）。
 :::
+
+![低體溫的心電圖：心搏過緩，QRS 後方的駝峰狀 Osborn 波（J 波），V2–V4 最明顯](media/commons/hypothermia-osborn-wave.webp "低體溫的心電圖：心搏過緩，QRS 後方的駝峰狀 Osborn 波（J 波），V2–V4 最明顯 | WikiSysop，CC BY 3.0，Wikimedia Commons | https://commons.wikimedia.org/wiki/File:HypothermiaECG.jpg")
 
 #### 問診與理學檢查
 
@@ -816,6 +820,8 @@ flowchart TD
 | 典型症狀 | 怕冷、便秘、皮膚乾、聲音沙啞、心搏過緩、反射遲緩 | 紫紋、近端肌無力、易瘀青 | **月經稀少、多毛、痤瘡**、不孕 | **Whipple triad**（低血糖症狀 + 血糖低 + 給糖改善） |
 | 篩檢 | **TSH↑、free T4↓** | DST、UFC、唾液 cortisol | LH/FSH 比↑、睾固酮↑、超音波多囊卵巢 | **72 小時禁食試驗**：低血糖時 insulin、C-peptide 不被抑制 |
 :::
+
+![黑色棘皮症：頸後與腋下天鵝絨樣色素增厚，提示胰島素阻抗](media/commons/acanthosis-nigricans.webp "黑色棘皮症：頸後與腋下天鵝絨樣色素增厚，提示胰島素阻抗 | Masryyy，CC BY-SA 4.0，Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Acanthious_nigricans_new_photo_for_diagnosis,_pigmentation_appears_in_neck_,arm,elbow,it_be_related_often_to_insulin_it_related_to_obesity_and_some_times_called_pseudonigricans.jpg")
 
 #### 問診與理學檢查
 
