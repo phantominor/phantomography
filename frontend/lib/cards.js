@@ -1,6 +1,6 @@
 // lib/cards.js
 // 總覽頁的卡片入口（::cards{of="…"}）：依 data/nav.js 的結構列出下一層。
-// 描述取各頁 frontmatter 的 description；更新日期取該頁與底下所有頁面中最新的 updated；尚未建立的頁面顯示灰卡。
+// 描述取各頁 frontmatter 的 description；更新日期取該頁與底下所有頁面中最新的 updated（逐篇筆記、周報沒有 updated，用 date）；尚未建立的頁面顯示灰卡。
 
 import { TABS, CLINICAL_CATEGORIES, SIDE_NAV } from '@/data/nav';
 
@@ -15,7 +15,7 @@ function groupsOf(of) {
 function latestUpdated(slug, pages) {
   const dates = pages
     .filter((p) => p.slug === slug || p.slug.startsWith(slug + '/'))
-    .map((p) => p.frontmatter.updated)
+    .map((p) => p.frontmatter.updated || p.frontmatter.date)
     .filter(Boolean)
     .map(String);
   return dates.length ? dates.sort().pop() : null;
