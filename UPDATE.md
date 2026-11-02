@@ -1,5 +1,13 @@
 <!-- UPDATE.md -->
 [2026/11/02]
+- **醫學周報第 44 週草稿**: 依 v3 寫法產出 `temp/proposals/weekly-2026-W44.md`，8 則
+  - 頭條：北榮與陽明交大發表 PBP3 插入突變的 KPC 肺炎克雷伯氏菌（EID 論文）
+  - 臨床更新：健保 11 月給付 rADAMTS13 與 concizumab（學長姐對話）
+  - 新研究：IVF vs IUI（NEJM）、dMMR 子宮內膜癌第一線 pembrolizumab（Lancet KEYNOTE-C93）
+  - 台灣醫界：柳營奇美零底薪；國際醫界：ChatGPT 停藥猝死訴訟（含 PTT 評析）；正反觀點：老福法副署與社會救助法條文對照（新寫法：延續報導）；醫學史：天花最後一例
+  - 3 處 :::review；整合到知識頁的提案寫在草稿最後（感染科、血液腫瘤科、生殖內分泌科）
+
+[2026/11/02]
 - **逐篇筆記活動類型擴充**: 配合 phantomajor 收件匣新增工作坊（workshop）、參訪（visit）、服務學習（service），研討會併入「會議」（沿用 conference，既有筆記不用改）
   - `lib/journal.js`、`inbox/_template.md`、藍圖 `notes-system_v3.md` 的 type 對照同步更新
 [2026/11/01]
