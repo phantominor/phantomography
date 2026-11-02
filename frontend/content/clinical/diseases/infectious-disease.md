@@ -82,8 +82,10 @@ credit:
 | MRSA | mecA → PBP2a → 所有 β-lactams 無效 | Vancomycin、Linezolid、Daptomycin |
 | VRE | vanA/vanB → D-Ala-D-Lac → Vancomycin 無效 | Linezolid、Daptomycin |
 | ESBL | 質體 β-lactamase → 3rd gen ceph 無效 | Carbapenem |
-| CRE | Carbapenemase → 所有 β-lactams 無效 | Ceftazidime-avibactam、Colistin |
+| CRE | Carbapenemase → 所有 β-lactams 無效 | Ceftazidime-avibactam、Colistin（已出現 PBP3 插入突變降低 ceftazidime-avibactam、aztreonam-avibactam 敏感性的 KPC 菌株，台灣 2021） |
 | AmpC | 染色體 inducible β-lactamase → 3rd gen ceph 無效 | Carbapenem、Cefepime |
+
+- PBP3 插入突變的 KPC 肺炎克雷伯氏菌，詳見 [[2026-w44#北榮與陽明交大發表台灣首見 PBP3 插入突變的抗藥肺炎克雷伯氏菌，新一代抗生素效果下降|醫學周報 2026 第 44 週]]。
 
 ## 革蘭氏陽性菌感染
 

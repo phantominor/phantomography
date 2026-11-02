@@ -352,6 +352,7 @@ credit:
 
 - 將洗滌後精蟲注入子宮腔。
 - 適應症：輕度男性因素、unexplained infertility、cervical factor。
+    - 2026 NEJM 隨機試驗（不明原因不孕）：4 次排卵刺激加 IUI 的 7 個月累積活產率 31%，1 次完整 IVF 55%；20 個月後兩者相同（70% vs 71%）。詳見 [[2026-w44#不明原因不孕：四次 IUI 的活產率不如一次完整 IVF，但拉長到 20 個月兩者相同|醫學周報 2026 第 44 週]]。
 - **不算 ART**（未取卵）。
 
 #### IVF-ET（In Vitro Fertilization – Embryo Transfer）

@@ -649,6 +649,7 @@ credit:
     - **Plasma exchange**（最重要）。
     - Steroids、caplacizumab（anti-vWF）。
     - **禁忌輸血小板**（加重血栓）。
+    - 先天性 TTP（Upshaw–Schulman）：補充重組 ADAMTS13（apadamtase alfa），台灣健保 2026/11 起給付，詳見 [[2026-w44#健保 11 月起給付兩款罕病藥：先天性 TTP 用的 rADAMTS13 與血友病預防用的 concizumab|醫學周報 2026 第 44 週]]。
 - 預後：不治療死亡率 > 90%。
 
 #### 溶血性尿毒症症候群（Hemolytic Uremic Syndrome, HUS）
@@ -709,6 +710,7 @@ credit:
     - Hemophilia B：Factor IX concentrate。
     - **Emicizumab**：bispecific Ab mimicking Factor VIII。
     - 抑制抗體發展時：bypassing agents（FEIBA、rFVIIa）。
+    - **Concizumab**（anti-TFPI）：A、B 型帶抑制抗體者預防性使用，健保 2026/11 起給付；注意血栓栓塞。
 
 #### 凝血路徑與實驗室監測
 
