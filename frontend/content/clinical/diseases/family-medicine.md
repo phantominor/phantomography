@@ -560,6 +560,12 @@ RSV 疫苗與單株抗體在台灣的核准年齡、公費對象，以食藥署�
 - **可逆性原因須排除**（助記：DEMENTIA）：Drugs、Emotional（depression）、Metabolic（thyroid, B12）、Eyes/Ears、Normal pressure hydrocephalus、Tumors/Trauma、Infection、Alcohol。
 - 藥物治療：**AChE inhibitors**（Donepezil, Rivastigmine, Galantamine）→ 輕至中度 AD；**Memantine**（NMDA antagonist）→ 中至重度。
 
+:::source{from="20261102-dementia-daycare"}
+- **社區照顧資源**：日間照顧（白天到中心、晚上回家，需經長照評估）、失智社區服務據點（需失智診斷，提供認知促進與照顧者支持）；懷舊治療、運動處方等非藥物介入是 BPSD 的第一線處理。
+:::
+
+- 失智日照中心的懷舊環境設計、人力配置與收費，詳見 [[20261102-dementia-daycare|失智日照中心參訪]]（逐篇筆記）
+
 ### 譫妄（Delirium）vs 失智（Dementia）
 
 | 特徵 | 譫妄 | 失智 |

@@ -8,6 +8,7 @@
 //         :::news{subjects="科別,…" evidence="大型臨床試驗" source="NEJM" date="2026-10-23" url="…"}（醫學周報的一則消息）
 //         :::review（周報裡涉及具名人物、爭議、醫糾，等使用者審核的條目；審核後拿掉）
 //         :::background（周報每則開頭的背景知識：專科知識、導火線、時空背景）
+//         :::dialogue（對話框：每段寫「**角色**：台詞」，第一個出場的角色靠左、其他靠右；不是台詞的段落置中當旁白）
 // 不認得的行內語法（例如內文剛好出現「Na:K」）會還原成原本的文字。
 
 import { visit } from 'unist-util-visit';
@@ -246,6 +247,32 @@ export default function remarkDirectives({ sources = {}, cardsFor, journalEntrie
           type: 'paragraph',
           data: { hName: 'summary' },
           children: [html(ICONS.detail), ...label],
+        });
+        return;
+      }
+
+      if (name === 'dialogue') {
+        node.data = { hName: 'div', hProperties: { className: ['dialogue'] } };
+        const speakers = [];
+        node.children = node.children.map((child) => {
+          const [first, second] = child.children || [];
+          const isLine = child.type === 'paragraph' && first?.type === 'strong'
+            && second?.type === 'text' && /^[：:]/.test(second.value);
+          if (!isLine) {
+            return { ...child, data: { ...child.data, hName: 'p', hProperties: { className: ['dialogue-narration'] } } };
+          }
+          const speaker = first.children.map((c) => c.value || '').join('');
+          if (!speakers.includes(speaker)) speakers.push(speaker);
+          const side = speakers.indexOf(speaker) === 0 ? 'left' : 'right';
+          const rest = [{ ...second, value: second.value.replace(/^[：:]\s*/, '') }, ...child.children.slice(2)];
+          return {
+            type: 'paragraph',
+            data: { hName: 'div', hProperties: { className: ['dialogue-line', `dialogue-${side}`] } },
+            children: [
+              { type: 'emphasis', data: { hName: 'span', hProperties: { className: ['dialogue-name'] } }, children: first.children },
+              { type: 'emphasis', data: { hName: 'span', hProperties: { className: ['dialogue-bubble'] } }, children: rest },
+            ],
+          };
         });
         return;
       }

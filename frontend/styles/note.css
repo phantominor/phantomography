@@ -379,6 +379,58 @@
   color: var(--color-text-muted);
 }
 
+/* ── 對話框（:::dialogue）：第一個角色靠左，其他靠右 ── */
+.note .dialogue {
+  margin: 1.2em 0;
+  padding: 0.8em 1em;
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-md);
+  display: flex;
+  flex-direction: column;
+  gap: 0.7em;
+}
+
+.note .dialogue-line {
+  display: flex;
+  flex-direction: column;
+  max-width: 85%;
+  margin: 0;
+}
+
+.note .dialogue-left {
+  align-self: flex-start;
+}
+
+.note .dialogue-right {
+  align-self: flex-end;
+  align-items: flex-end;
+}
+
+.note .dialogue-name {
+  font-size: 0.8rem;
+  color: var(--color-text-muted);
+  margin-bottom: 0.15em;
+}
+
+.note .dialogue-bubble {
+  padding: 0.45em 0.8em;
+  border-radius: var(--radius-md);
+  background: var(--color-bg-alt);
+  line-height: 1.7;
+}
+
+.note .dialogue-right .dialogue-bubble {
+  border: 1px solid var(--color-border-strong);
+  background: none;
+}
+
+.note .dialogue-narration {
+  align-self: center;
+  margin: 0;
+  font-size: 0.85rem;
+  color: var(--color-text-muted);
+}
+
 /* ── 跳轉目標短暫閃一下底色 ── */
 .flash-target {
   animation: flash-target 1.6s ease-out;
