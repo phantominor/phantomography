@@ -1,7 +1,7 @@
 ---
 date:        # 必填，活動日期：2026-10-24
 time:        # 選填，開始時間："14:00"（要加引號）
-type:        # 活動類型：lecture 課程｜talk 講座｜conference 研討會｜morning 晨會｜clinical 臨床學習（查房、教學回診）｜report 報告（個案報告、journal reading）｜self 自主學習（閱讀、自學）｜discussion 討論（師生、導生會、同儕）
+type:        # 活動類型：lecture 課程｜talk 講座｜workshop 工作坊（技能、模擬訓練）｜conference 會議（研討會、科務、品管、M&M）｜morning 晨會｜clinical 臨床學習（查房、教學回診）｜report 報告（個案報告、journal reading）｜discussion 討論（師生、導生會、同儕）｜visit 參訪｜service 服務學習（衛教、義診、志工）｜self 自主學習（閱讀、自學）
 event:       # 活動名稱：心臟內科 Grand Round
 speaker:     # 講者/人物，多位用 [王醫師, 李醫師]，可留空
 place:       # 地點：可公開，例如醫院、教室

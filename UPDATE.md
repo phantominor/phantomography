@@ -1,4 +1,7 @@
 <!-- UPDATE.md -->
+[2026/11/02]
+- **逐篇筆記活動類型擴充**: 配合 phantomajor 收件匣新增工作坊（workshop）、參訪（visit）、服務學習（service），研討會併入「會議」（沿用 conference，既有筆記不用改）
+  - `lib/journal.js`、`inbox/_template.md`、藍圖 `notes-system_v3.md` 的 type 對照同步更新
 [2026/11/01]
 - **病患主訴：生化異常**: 新增 content/clinical/complaints/chemistry.md，以檢驗值為單位分五組 15 項
   - 肝膽胰：轉胺酶、ALP、澱粉酶與脂肪酶；腎與代謝：肌酸酐、尿酸、血脂；肌肉蛋白與發炎：CK、白蛋白、CRP/ESR/procalcitonin、鐵蛋白；心肺標記：troponin、BNP、D-dimer；腫瘤標記：PSA、其他腫瘤標記

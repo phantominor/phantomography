@@ -4,12 +4,15 @@
 export const JOURNAL_TYPES = {
   lecture: '課程',
   talk: '講座',
-  conference: '研討會',
+  workshop: '工作坊',
+  conference: '會議',
   morning: '晨會',
   clinical: '臨床學習',
   report: '報告',
-  self: '自主學習',
   discussion: '討論',
+  visit: '參訪',
+  service: '服務學習',
+  self: '自主學習',
 };
 
 const asList = (v) => (Array.isArray(v) ? v : v ? [v] : []);
