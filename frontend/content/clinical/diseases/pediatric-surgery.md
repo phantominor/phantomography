@@ -20,13 +20,14 @@ credit:
 - 出生第一天：D10W，不加電解質（避免高血鈉/高血鉀）。
 - 第 2–3 天後：開始加 Na⁺（2–3 mEq/kg/day）與 K⁺（1–2 mEq/kg/day）。
 - 維持輸液：使用 **4-2-1 rule**。
-- 足月兒低血糖定義：:red[血糖 < 45 mg/dL]。
+- 足月兒[[小兒科#新生兒低血糖|低血糖]]定義：:red[血糖 < 45 mg/dL]。
 
 ### 新生兒黃疸與外科相關
 
 - 生理性黃疸：第 2–3 天出現，1–2 週消退。
 - **病理性黃疸須注意**：出生 :red[24 小時內]出現、持續超過 2 週、direct bilirubin 升高（> 2 mg/dL 或 > 20% total bilirubin）。
 - Direct hyperbilirubinemia → 考慮 **膽道閉鎖（biliary atresia）**。
+- 詳見 [[小兒主訴#新生兒黃疸（Neonatal Jaundice）|新生兒黃疸]]的評估流程；內科治療詳見 [[小兒科#新生兒黃疸|小兒科的新生兒黃疸]]
 
 ## 食道閉鎖與氣管食道瘻管（Esophageal Atresia / TEF）
 
@@ -42,11 +43,12 @@ credit:
 
 ### 臨床表現與診斷
 
-- 產前：羊水過多（polyhydramnios）→ 因胎兒無法吞嚥羊水。
+- 產前：[[產科#羊水過多（Polyhydramnios）|羊水過多（polyhydramnios）]]→ 因胎兒無法吞嚥羊水。
 - 出生後：口水多、泡沫狀分泌物、第一次餵奶嗆咳/發紺。
 - 診斷：NG tube 置入受阻（約 10–12 cm 處）→ **CXR 見管子捲曲在上縱膈腔**。
     - Type C：腹部有氣體（因 distal TEF 通氣進腸）。
     - Type A：腹部無氣體（gasless abdomen）。
+- 詳見 [[小兒主訴#新生兒呼吸窘迫（Neonatal Respiratory Distress）|新生兒呼吸窘迫]]的評估流程
 
 ### 合併異常：VACTERL Association
 
@@ -133,10 +135,11 @@ credit:
 - 餵完奶後噴射嘔吐，嘔吐後仍飢餓（hungry vomiter）。
 - 理學檢查：**olive-shaped mass**（右上腹可觸及橄欖形硬塊）。
 - 可見胃蠕動波（visible peristalsis）。
+- 詳見 [[小兒主訴#嬰幼兒嘔吐（Vomiting in Infants and Children）|嬰幼兒嘔吐]]的評估流程
 
 ### 電解質變化
 
-- 持續嘔吐 → 失去 HCl → **hypochloremic, hypokalemic metabolic alkalosis**。
+- 持續嘔吐 → 失去 HCl → **[[電解質與酸鹼#代謝性鹼中毒（Metabolic Alkalosis）|hypochloremic, hypokalemic metabolic alkalosis]]**。
 - 嚴重時出現 paradoxical aciduria（身體鹼中毒但尿呈酸性）。
 
 ### 診斷
@@ -164,7 +167,7 @@ credit:
 - **Midgut volvulus = 外科急症**。
 - 新生兒表現：**bilious vomiting（膽汁性嘔吐）**。
     - 新生兒膽汁性嘔吐 = malrotation with volvulus until proven otherwise。
-- 可快速進展為腸壞死 → 短腸症候群。
+- 可快速進展為腸壞死 → [[胃小腸外科#短腸症候群（Short Bowel Syndrome）|短腸症候群]]。
 
 ### 診斷
 
@@ -185,7 +188,7 @@ credit:
 
 ### 十二指腸閉鎖（Duodenal Atresia）
 
-- 常與 **Down syndrome（Trisomy 21）** 合併（約 30%）。
+- 常與 **[[小兒科#唐氏症（Down Syndrome, Trisomy 21）|Down syndrome（Trisomy 21）]]** 合併（約 30%）。
 - 產前超音波：polyhydramnios + double bubble sign。
 - 出生後 X-ray：**double bubble sign**（胃 + 近端十二指腸擴張）。
 - 非急症 → 先穩定、放 NG tube 減壓、矯正電解質。
@@ -236,6 +239,7 @@ credit:
 - 廣效抗生素（涵蓋 Gram-negative + anaerobes）。
 - IV fluid resuscitation、矯正電解質與酸鹼。
 - Serial KUB + 密切監測臨床變化。
+- 新生兒科觀點詳見 [[小兒科#壞死性腸炎（NEC）|小兒科的壞死性腸炎]]
 
 ### 手術適應症
 
@@ -287,6 +291,7 @@ credit:
 - 典型三聯徵：**間歇性腹痛（colicky abdominal pain）+ 嘔吐 + 血便（currant jelly stool）**。
 - 理學檢查：右上腹/右側可觸及 **sausage-shaped mass**；右下腹空虛感（Dance sign）。
 - 遲診 → lethargy（可能被誤認為神經系統問題）。
+- 詳見 [[小兒主訴#兒童腹痛（Abdominal Pain in Children）|兒童腹痛]]、[[小兒主訴#嬰兒哭鬧不止（Excessive Crying / Irritable Infant）|嬰兒哭鬧不止]]的評估流程
 
 ### 診斷
 
@@ -422,6 +427,7 @@ credit:
 - Communicating hydrocele：與腹腔相通（processus vaginalis 部分開放）→ 大小隨體位/哭鬧變化 → 若 :red[> 1–2 歲]未消 → 手術。
 - Non-communicating hydrocele：與腹腔不通 → 通常 12 個月內自行吸收。
 - 鑑別：**透光試驗（transillumination）陽性**。
+- 詳見 [[腎泌尿系統主訴#陰囊腫塊（Scrotal Mass）|陰囊腫塊]]的評估流程
 
 ## 常見小兒腫瘤
 
@@ -453,7 +459,7 @@ credit:
 - **最常見的兒童肝臟惡性腫瘤**。
 - 好發：:red[< 3 歲]。
 - AFP（α-fetoprotein）顯著升高。
-- 與 Beckwith-Wiedemann syndrome、familial adenomatous polyposis（FAP）相關。
+- 與 Beckwith-Wiedemann syndrome、[[大腸直腸外科#Familial Adenomatous Polyposis（FAP）|familial adenomatous polyposis（FAP）]]相關。
 - 治療：手術切除 + 化療（cisplatin-based）。
 
 ### Sacrococcygeal Teratoma
@@ -501,6 +507,7 @@ credit:
 - **小兒頸部正中線最常見的先天性腫塊**。
 - 位於舌骨上方或下方，隨吞嚥及伸舌上下移動。
 - 手術：**Sistrunk operation** → 切除囊腫 + 舌骨中段（body of hyoid）+ 到 foramen cecum 的管道（不做 Sistrunk → 復發率高）。
+- 小兒頸部腫塊鑑別詳見 [[耳鼻喉科#小兒頸部腫塊|耳鼻喉科]]、[[五官主訴#頸部腫塊（Neck Mass）|頸部腫塊]]的評估流程
 
 ### 鰓裂囊腫（Branchial Cleft Cyst）
 
@@ -534,7 +541,7 @@ credit:
 - 常伴 **chordee**（陰莖腹側彎曲）及 **hooded foreskin**（包皮背側覆蓋、腹側缺損）。
 - **禁忌行包皮環切術（circumcision）** → 包皮將來作為尿道重建的組織來源。
 - 手術時機：6–18 個月大。
-- 近端型 → 需排除 DSD（disorders of sex development）→ 染色體檢查。
+- 近端型 → 需排除 [[生殖內分泌科#性分化異常（Disorders of Sex Development, DSD）|DSD（disorders of sex development）]]→ 染色體檢查。
 
 ### 隱睪症（Cryptorchidism）
 
@@ -549,3 +556,4 @@ credit:
     - Non-palpable → diagnostic laparoscopy。
 - 荷爾蒙治療（hCG / GnRH）成功率低，**不建議常規使用**。
 - 併發症：**惡性轉化**（最重要）、不孕、疝氣、睪丸扭轉。
+- 與睪丸癌的關係詳見 [[泌尿科#睪丸癌（Testicular Cancer）|泌尿科的睪丸癌]]
