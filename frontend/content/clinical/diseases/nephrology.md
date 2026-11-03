@@ -112,6 +112,8 @@ credit:
 | BUN/Cr ratio | > 20 | < 15 |
 | Urine specific gravity | > 1.020 | ≈ 1.010（isosthenuric） |
 
+- 詳見 [[腎泌尿系統主訴#血尿（Hematuria）|血尿]]、[[腎泌尿系統主訴#蛋白尿（Proteinuria）|蛋白尿]]的評估流程
+
 ## 急性腎損傷（AKI）
 
 ### 定義與分期（KDIGO）
@@ -127,6 +129,8 @@ credit:
 | Stage 1 | 上升 1.5–1.9 倍 或 ≥ 0.3 mg/dL | < 0.5 mL/kg/hr × 6–12 hr |
 | Stage 2 | 上升 2.0–2.9 倍 | < 0.5 mL/kg/hr × ≥ 12 hr |
 | Stage 3 | 上升 ≥ 3 倍 或 Cr ≥ 4.0 或需 RRT | < 0.3 mL/kg/hr × ≥ 24 hr 或無尿 ≥ 12 hr |
+
+- 詳見 [[腎泌尿系統主訴#少尿與急性腎損傷（Oliguria / Acute Kidney Injury）|少尿與急性腎損傷]]的評估流程
 
 ### Prerenal AKI
 
@@ -144,7 +148,7 @@ credit:
 - 缺血性 ATN：prolonged prerenal → 腎小管缺血壞死。
 - 腎毒性 ATN：
     - 外源性：**contrast（碘顯影劑）**、aminoglycosides、cisplatin、amphotericin B。
-    - 內源性：**myoglobin（rhabdomyolysis**）、hemoglobin（溶血）、uric acid（tumor lysis）、light chains（myeloma）。
+    - 內源性：**myoglobin（[[生化異常#肌酸激酶升高（Elevated Creatine Kinase）|rhabdomyolysis]]**）、hemoglobin（溶血）、uric acid（[[血液腫瘤科#Tumor Lysis Syndrome（TLS）|tumor lysis]]）、light chains（myeloma）。
 - 尿液：muddy brown granular casts、FeNa > 2%。
 - 病程：起始期 → 維持期（oliguria，1–3 週）→ 恢復期（polyuria，注意電解質流失）。
 - 治療：支持性（移除病因、維持體液電解質平衡、必要時透析）。
@@ -152,14 +156,14 @@ credit:
 **► 顯影劑腎病（CIN）**
 
 - 定義：顯影劑使用後 :red[24–72 小時內 Cr 上升 ≥ 0.5 mg/dL 或 ≥ 25%]。
-- 高風險：CKD（最重要）、DM、脫水、多發性骨髓瘤、大量顯影劑。
+- 高風險：CKD（最重要）、DM、脫水、[[血液腫瘤科#多發性骨髓瘤（Multiple Myeloma）|多發性骨髓瘤]]、大量顯影劑。
 - 預防：使用前後充分 hydration、使用低滲或等滲顯影劑、減少劑量。
 - 停用 Metformin（顯影劑使用前後 48 小時）→ 避免 lactic acidosis。
 - NAC（N-acetylcysteine）：證據不一致，目前不再常規推薦。
 
 **► Rhabdomyolysis**
 
-- 原因：創傷/擠壓傷、seizure、酒精/藥物（statins）、extreme exercise、NMS/MH。
+- 原因：創傷/擠壓傷、seizure、酒精/藥物（statins）、extreme exercise、[[精神科#惡性抗精神病藥症候群（Neuroleptic Malignant Syndrome, NMS）|NMS]]/[[麻醉科#惡性高熱（Malignant Hyperthermia, MH）|MH]]。
 - 實驗室：CK 極度升高、高血鉀、高血磷、低血鈣、高尿酸、metabolic acidosis。
 - 尿液：dipstick 血尿陽性但鏡檢無 RBC → myoglobinuria。
 - 治療：大量 N/S 輸液、± urine alkalinization、矯正電解質、必要時透析。
@@ -168,7 +172,7 @@ credit:
 #### 急性間質性腎炎（AIN）
 
 - 最常見原因：藥物過敏（NSAIDs、β-lactam、PPI、rifampin、allopurinol）。
-- 其他原因：感染、Sjögren's、sarcoidosis、TINU。
+- 其他原因：感染、[[免疫風濕科#Sjögren's Syndrome（乾燥症候群）|Sjögren's]]、[[胸腔內科#結節病（Sarcoidosis）|sarcoidosis]]、TINU。
 - 典型潛伏期：多數藥物 1–3 週（NSAIDs 可延遲數月）。
 - Classic triad：發燒、皮疹、嗜酸性球增多（三者齊備者 < 10%）。
 - 尿液：無菌性膿尿、WBC casts、eosinophiluria（敏感度/特異度均低）、輕度蛋白尿（NSAIDs 引起者可合併 MCD → nephrotic range）。
@@ -188,7 +192,7 @@ credit:
 ### Postrenal AKI
 
 - 必須雙側阻塞（或單腎者單側阻塞）才會造成 AKI。
-- 原因：BPH（最常見）、腫瘤壓迫、結石、neurogenic bladder、後腹腔纖維化。
+- 原因：[[泌尿科#良性攝護腺肥大（BPH）|BPH]]（最常見）、腫瘤壓迫、結石、[[泌尿科#神經性膀胱（Neurogenic Bladder）|neurogenic bladder]]、後腹腔纖維化。
 - 診斷：腎臟超音波見 hydronephrosis。
 - 處理：解除阻塞（Foley catheter、nephrostomy、stent）。
 - 解除阻塞後可出現 postobstructive diuresis → 注意補液與電解質。
@@ -255,13 +259,13 @@ credit:
 - 病態生理：
     1. GFR ↓ → 磷排泄 ↓ → **高血磷**。
     2. 1α-hydroxylase ↓ → calcitriol ↓ → **低血鈣**。
-    3. 高血磷 + 低血鈣 → 持續刺激副甲狀腺 → **Secondary hyperparathyroidism**。
+    3. 高血磷 + 低血鈣 → 持續刺激副甲狀腺 → **[[代謝內分泌科#繼發性副甲狀腺機能亢進（Secondary Hyperparathyroidism）|Secondary hyperparathyroidism]]**。
     4. PTH 促進骨吸收 → **高轉換骨病變**。
     5. 長期 → **Tertiary hyperparathyroidism**（副甲狀腺自主增生）。
 - 骨病變類型：
     - **Osteitis fibrosa cystica**：高轉換（high turnover）→ PTH 過高。
     - **Adynamic bone disease**：低轉換（low turnover）→ PTH 過度抑制（常見於老年、DM）。
-    - **Osteomalacia**：礦化不足（aluminum accumulation、Vit D 缺乏）。
+    - **[[骨科#骨軟化症（Osteomalacia）/ 佝僂病（Rickets）|Osteomalacia]]**：礦化不足（aluminum accumulation、Vit D 缺乏）。
 - 治療：
     - **限磷飲食 + 磷結合劑**：calcium carbonate、sevelamer、lanthanum。
     - **Active Vitamin D**：calcitriol。
@@ -279,7 +283,7 @@ credit:
 - **出血傾向**：
     - 原因：uremic platelet dysfunction。
     - 處理：DDAVP 或 conjugated estrogen。
-- 免疫功能低下、搔癢、restless legs syndrome。
+- 免疫功能低下、搔癢、[[神經內科#不寧腿症候群（Restless Leg Syndrome）|restless legs syndrome]]。
 
 ### 延緩進展策略
 
@@ -344,13 +348,13 @@ credit:
 - **高脂血症 + 脂肪尿**：oval fat bodies, Maltese cross。
 - 併發症：
     - **血栓栓塞**：AT-III、protein S/C 流失 → 易形成血栓。
-    - 感染：IgG 流失 → **spontaneous bacterial peritonitis**。
+    - 感染：IgG 流失 → **[[肝膽胰外科#自發性細菌性腹膜炎（SBP）|spontaneous bacterial peritonitis]]**。
     - 急性腎損傷：低血容。
     - 藥物結合蛋白流失：藥物劑量需調整。
 
 #### Minimal Change Disease（MCD）
 
-- **小兒 nephrotic syndrome 最常見原因**。
+- **[[小兒科#腎病症候群（Nephrotic Syndrome）|小兒 nephrotic syndrome]] 最常見原因**。
 - 光學顯微鏡：**正常**。
 - 免疫螢光：**陰性**。
 - 電子顯微鏡：足細胞 **足突融合（podocyte foot process effacement）**。
@@ -376,7 +380,7 @@ credit:
 - 免疫螢光：IgG、C3 granular 沿 GBM 沉積。
 - 電子顯微鏡：**subepithelial dense deposits**。
 - **Anti-PLA2R antibody**：70–80% 原發性 MN 陽性。
-- 次發原因：**HBV**、SLE、惡性腫瘤、NSAIDs、penicillamine。
+- 次發原因：**[[消化內科#Hepatitis B（HBV）|HBV]]**、[[免疫風濕科#全身性紅斑狼瘡（SLE）|SLE]]、惡性腫瘤、NSAIDs、penicillamine。
 - **腎靜脈血栓風險最高**。
 - 治療：觀察； **Rituximab**（首選）或 cyclophosphamide + steroid。
 - 預後：1/3 自行緩解、1/3 持續蛋白尿、1/3 進展至 ESRD。
@@ -385,7 +389,7 @@ credit:
 
 - 臨床：可表現 nephrotic 或 nephritic 或混合。
 - 病理：GBM 增厚 + mesangial 增生 → **tram-track / double contour appearance**。
-- **Immune complex-mediated**：C3 + Ig 沉積 → 次發於 HCV（mixed cryoglobulinemia）、SLE、感染性心內膜炎。
+- **Immune complex-mediated**：C3 + Ig 沉積 → 次發於 [[消化內科#Hepatitis C（HCV）|HCV]]（mixed cryoglobulinemia）、SLE、[[心臟內科#感染性心內膜炎（Infective Endocarditis, IE）|感染性心內膜炎]]。
 - **Complement-mediated**：C3 沉積為主 → 常表現為 Dense deposit disease（DDD）。
 - 治療：treat underlying cause（HCV）；immunosuppression。
 
@@ -399,7 +403,7 @@ credit:
 
 #### Amyloidosis
 
-- **AL amyloidosis（primary）**：light chain deposition。
+- **[[血液腫瘤科#Primary Amyloidosis（AL Amyloidosis）|AL amyloidosis（primary）]]**：light chain deposition。
 - **AA amyloidosis（secondary）**：chronic inflammation（RA, FMF, TB）。
 - 腎臟表現：nephrotic syndrome。
 - 病理：Congo red stain → **apple-green birefringence**。
@@ -419,12 +423,12 @@ credit:
     - 中度：加 corticosteroids。
     - 近年：考慮 **SGLT2i**。
 - 預後：大多預後良好，約 20–40% 可能進展至 ESRD（20–30 年）。
-- **Henoch-Schönlein Purpura（IgA vasculitis）**：IgA nephropathy 的全身性表現（小兒多）→ purpura + arthritis + abdominal pain + glomerulonephritis。
+- **[[小兒科#過敏性紫斑（Henoch-Schönlein Purpura / IgA Vasculitis）|Henoch-Schönlein Purpura（IgA vasculitis）]]**：IgA nephropathy 的全身性表現（小兒多）→ purpura + arthritis + abdominal pain + glomerulonephritis。
 
 #### Post-Streptococcal Glomerulonephritis（PSGN）
 
 - **小兒 nephritic syndrome 最常見原因**。
-- 表現：GAS pharyngitis 後 :red[**1–3 週**] 或 skin infection 後 :red[**3–6 週**] 出現 gross hematuria。
+- 表現：[[感染科#Group A Streptococcus（S. pyogenes）|GAS pharyngitis]] 後 :red[**1–3 週**] 或 skin infection 後 :red[**3–6 週**] 出現 gross hematuria。
 - 實驗室：C3 **↓**，C4 正常（alternate pathway）、**ASO titer ↑**（pharyngitis）、anti-DNase B ↑（skin infection）。
 - 光學顯微鏡：diffuse proliferative GN，subepithelial humps。
 - 免疫螢光：**starry sky pattern**（granular IgG, C3 沉積）。
@@ -466,14 +470,14 @@ credit:
 #### Type I：Anti-GBM Disease（Goodpasture's Disease）
 
 - Anti-GBM antibody 攻擊 **type IV collagen α3 chain**（GBM & alveolar basement membrane）。
-- 臨床：**肺出血（hemoptysis）+ RPGN** → pulmonary-renal syndrome。
+- 臨床：**肺出血（[[呼吸系統主訴#咳血（Hemoptysis）|hemoptysis]]）+ RPGN** → pulmonary-renal syndrome。
 - 免疫螢光：**linear IgG deposition along GBM**。
 - 病理：crescentic GN。
 - 治療：**Plasmapheresis** + Cyclophosphamide + Corticosteroids。
 
 #### Type III：ANCA-Associated Vasculitis
 
-- **Granulomatosis with Polyangiitis（GPA / Wegener's）**：**c-ANCA（anti-PR3）**。
+- **[[免疫風濕科#ANCA 相關血管炎（AAV）|Granulomatosis with Polyangiitis（GPA / Wegener's）]]**：**c-ANCA（anti-PR3）**。
     - 上呼吸道（鼻中隔穿孔、saddle nose）+ 肺（cavitary lesion）+ 腎（crescentic GN）。
 - **Microscopic Polyangiitis（MPA）**：**p-ANCA（anti-MPO）**。
     - 肺（capillaritis → hemorrhage）+ 腎（crescentic GN）。
@@ -487,7 +491,7 @@ credit:
 #### Alport Syndrome
 
 - 遺傳：**X-linked（約 85%，COL4A5）**，過去稱 X-linked dominant，現多稱 X-linked（男性重、女性輕重不一）；另有體染色體隱性/顯性型（COL4A3、COL4A4）。
-- 三聯徵：**腎炎**（血尿 → 進展至 ESRD）+ **感覺神經性聽力喪失** + **眼部異常**（anterior lenticonus、dot-and-fleck retinopathy）。
+- 三聯徵：**腎炎**（血尿 → 進展至 ESRD）+ **[[五官主訴#聽力喪失（Hearing Loss）|感覺神經性聽力喪失]]** + **眼部異常**（anterior lenticonus、dot-and-fleck retinopathy）。
 - 電子顯微鏡：GBM 分層、薄厚不一（lamellation, basket-weave pattern）；早期可僅見 GBM 變薄。
 - 免疫螢光：α5(IV) 染色缺失（皮膚或腎切片）有助診斷。
 - 治療：**早期使用 ACEi 可延緩進展至 ESRD**。
@@ -508,21 +512,21 @@ credit:
 | 缺陷 | 遠端 H⁺ 分泌障礙 | 近端 HCO₃⁻ 重吸收障礙 | 醛固酮缺乏或阻抗 |
 | 血清 K⁺ | **低** | **低** | **高** |
 | 尿液 pH | :red[**> 5.5**] | < 5.5 | < 5.5 |
-| 相關疾病 | Sjögren's、SLE、amphotericin B、lithium | Fanconi syndrome、多發性骨髓瘤、carbonic anhydrase inhibitors | DM 腎病變、ACEi/ARB、K⁺-sparing diuretics、adrenal insufficiency |
+| 相關疾病 | [[免疫風濕科#Sjögren's Syndrome（乾燥症候群）\|Sjögren's]]、SLE、amphotericin B、lithium | Fanconi syndrome、[[血液腫瘤科#多發性骨髓瘤（Multiple Myeloma）\|多發性骨髓瘤]]、carbonic anhydrase inhibitors | DM 腎病變、ACEi/ARB、K⁺-sparing diuretics、[[代謝內分泌科#腎上腺功能不全（Adrenal Insufficiency）\|adrenal insufficiency]] |
 | 併發症 | **腎鈣化**、腎結石 | 佝僂病/骨軟化症 | 高血鉀相關心律不整 |
 | 治療 | Oral NaHCO₃（少量即可） | Oral NaHCO₃（大量）+ thiazide | 治療高血鉀 + fludrocortisone |
 
 - **Fanconi Syndrome**：近端腎小管全面重吸收障礙。
     - 表現：glucosuria + aminoaciduria + phosphaturia + bicarbonaturia + uricosuria → type 2 RTA。
-    - 原因：多發性骨髓瘤（light chains）、Wilson's disease、cystinosis（兒童最常見）、重金屬（lead）、過期 tetracycline、tenofovir。
+    - 原因：多發性骨髓瘤（light chains）、[[消化內科#Wilson's Disease|Wilson's disease]]、cystinosis（兒童最常見）、重金屬（lead）、過期 tetracycline、tenofovir。
 
 ### 腎性尿崩症（Nephrogenic Diabetes Insipidus）
 
 - 腎臟對 ADH 無反應 → collecting duct 無法重吸收水 → 大量稀釋尿。
-- 原因：**Lithium**（最常見藥物原因）、hypercalcemia、hypokalemia、遺傳（V2 receptor 或 AQP2 突變）、tubulointerstitial disease。
+- 原因：**[[精神科#Lithium|Lithium]]**（最常見藥物原因）、hypercalcemia、hypokalemia、遺傳（V2 receptor 或 AQP2 突變）、tubulointerstitial disease。
 - 實驗室：高血鈉、高血清滲透壓、低尿滲透壓、ADH 升高。
 - Water deprivation test → 尿液仍稀釋（鑑別 primary polydipsia）。
-- 給 desmopressin（DDAVP） → **無反應**（鑑別 central DI）。
+- 給 desmopressin（DDAVP） → **無反應**（鑑別 [[代謝內分泌科#尿崩症（Diabetes Insipidus, DI）|central DI]]）。
 - 治療：去除原因、低鈉低蛋白飲食、**Thiazide diuretics**（paradoxical effect）、amiloride（lithium-induced）、NSAIDs（減少 PGE₂ 對 ADH 的拮抗）。
 
 ### Bartter vs. Gitelman vs. Liddle Syndrome
@@ -560,7 +564,7 @@ credit:
 ### 腎靜脈血栓（Renal Vein Thrombosis）
 
 - 最常見關聯：**Membranous nephropathy**。
-- 其他：腎細胞癌侵犯（尤其左側）、脫水（新生兒）。
+- 其他：[[泌尿科#腎細胞癌（Renal Cell Carcinoma, RCC）|腎細胞癌]]侵犯（尤其左側）、脫水（新生兒）。
 - 急性：腰痛、血尿、腎功能惡化。
 - 治療：抗凝血治療。
 
@@ -573,12 +577,12 @@ credit:
     - 病理：hyperplastic arteriolosclerosis（**onion-skinning**）+ fibrinoid necrosis。
     - 定義：SBP > 180 和/或 DBP > 120 合併器官損傷。
     - 腎臟表現：急性腎損傷、蛋白尿、血尿、MAHA（schistocytes）。
-    - 眼底：**papilledema**（grade IV）、flame hemorrhages、exudates。
-    - 治療：Hypertensive emergency → IV antihypertensive（nicardipine、labetalol、nitroprusside）。
+    - 眼底：**[[眼科#高血壓|papilledema]]**（grade IV）、flame hemorrhages、exudates。
+    - 治療：[[心臟內科#高血壓危象（Hypertensive Crisis）|Hypertensive emergency]] → IV antihypertensive（nicardipine、labetalol、nitroprusside）。
 
 ### Scleroderma Renal Crisis
 
-- Scleroderma 病人突發的 malignant HTN + AKI + MAHA。
+- [[免疫風濕科#全身性硬化症（Systemic Sclerosis, SSc）|Scleroderma]] 病人突發的 malignant HTN + AKI + MAHA。
 - 治療：**ACEi**（captopril）→ 唯一證實有效的治療，即使 Cr 上升仍應繼續。
 - 禁忌：不要給 corticosteroids（可能誘發 crisis）。
 
@@ -593,11 +597,11 @@ credit:
 
 ### 血栓性微血管病變（Thrombotic Microangiopathy, TMA）
 
-- **TTP（Thrombotic Thrombocytopenic Purpura）**：
+- **[[血液腫瘤科#血栓性血小板低下紫斑症（Thrombotic Thrombocytopenic Purpura, TTP）|TTP（Thrombotic Thrombocytopenic Purpura）]]**：
     - **ADAMTS13** 缺乏（< 10%）→ ultra-large vWF multimers → 微血管血栓。
     - 五聯徵（完整出現少）：血小板低下、溶血性貧血（MAHA）、腎功能異常、神經學症狀、發燒。
     - 治療：**Plasmapheresis** + Caplacizumab（anti-vWF）+ Corticosteroids + Rituximab。
-- **Typical Hemolytic Uremic Syndrome（HUS）**：
+- **[[小兒科#溶血性尿毒症候群（HUS）|Typical Hemolytic Uremic Syndrome（HUS）]]**：
     - 小兒，**EHEC**（E. coli O157:H7）產毒性大腸桿菌。
     - 血便性腹瀉後 5–10 天 → MAHA + 血小板低下 + AKI（腎為主）。
     - 治療：支持性（輸液、透析）→ 禁用抗生素（可能增加 toxin release）。
@@ -617,21 +621,22 @@ credit:
 | 體液狀態 | 常見原因 | Urine Na |
 |----------|----------|----------|
 | **Hypovolemic** | 嘔吐、腹瀉、利尿劑、burns | 腎性 > 20；腎外 < 20 |
-| **Euvolemic** | **SIADH**（最常見）、hypothyroidism、adrenal insufficiency、beer potomania、psychogenic polydipsia | > 20 |
+| **Euvolemic** | **[[代謝內分泌科#抗利尿激素不當分泌症候群（SIADH）\|SIADH]]**（最常見）、hypothyroidism、adrenal insufficiency、beer potomania、psychogenic polydipsia | > 20 |
 | **Hypervolemic** | CHF、liver cirrhosis、nephrotic syndrome | < 20 |
 
 - SIADH：
     - 機轉：ADH 不當分泌 → 水滯留 → 稀釋性低血鈉（euvolemic）。
     - 實驗室：**低血清滲透壓（:red[< 280]）+ 尿滲透壓不當升高（:red[> 100]）+ 高尿鈉（:red[> 40]）**。
-    - 常見原因：CNS 疾病（中風、出血、感染）、肺疾病（pneumonia、TB、**小細胞肺癌**）、藥物（**SSRI**、carbamazepine、cyclophosphamide、vincristine、desmopressin、opioids）、術後疼痛/噁心。
+    - 常見原因：CNS 疾病（中風、出血、感染）、肺疾病（pneumonia、TB、**[[胸腔內科#小細胞肺癌（SCLC，約 15%）|小細胞肺癌]]**）、藥物（**SSRI**、carbamazepine、cyclophosphamide、vincristine、desmopressin、opioids）、術後疼痛/噁心。
 - 治療：
     - 輕度：**限水**（首選，< 1000–1200 mL/day）。
     - 嚴重：**3% hypertonic saline**。
     - 慢性：Tolvaptan（V2 receptor antagonist）、salt tablets + loop diuretics。
 - 校正速度：≤ :red[**8 mEq/L/24hr**]。
-    - 過快 → **Osmotic Demyelination Syndrome（ODS）**。
+    - 過快 → **[[神經內科#滲透性脫髓鞘症候群（Osmotic Demyelination Syndrome, ODS）|Osmotic Demyelination Syndrome（ODS）]]**。
     - 高風險：慢性低血鈉、Na⁺ < 120、酒精使用障礙、營養不良、低血鉀、肝病。
     - 過度校正補救：DDAVP + D5W。
+- 詳見 [[電解質與酸鹼#低血鈉（Hyponatremia）|低血鈉]]的評估流程與矯正速度
 
 #### 高血鈉（Hypernatremia，Na⁺ > 145 mEq/L）
 
@@ -646,6 +651,7 @@ credit:
     - 自由水缺乏公式：Free water deficit = TBW × [(Na⁺/140) − 1]。
 - 校正速度：≤ :red[**10 mEq/L/24hr**]。
     - 過快 → **腦水腫**。
+- 詳見 [[電解質與酸鹼#高血鈉（Hypernatremia）|高血鈉]]
 
 ### 鉀異常
 
@@ -653,13 +659,14 @@ credit:
 
 - 原因：
     - 細胞內移：insulin、β-agonist、alkalosis。
-    - 腎臟流失：利尿劑（loop/thiazide）、aldosteronism、RTA type 1/2、Bartter/Gitelman、hypomagnesemia。
+    - 腎臟流失：利尿劑（loop/thiazide）、[[代謝內分泌科#原發性醛固酮過多症（Primary Aldosteronism / Conn's Syndrome）|aldosteronism]]、RTA type 1/2、Bartter/Gitelman、hypomagnesemia。
     - 腸道流失：嘔吐（metabolic alkalosis → 腎排 K⁺）、腹瀉。
 - ECG：T wave flattening → **U wave** → ST depression → arrhythmia。
 - 治療：
     - 輕度：口服 KCl 為首選。
     - 嚴重：:red[IV KCl ≤ 10–20 mEq/hr]（周邊）。
     - **必須同時矯正低血鎂**。
+- 詳見 [[電解質與酸鹼#低血鉀（Hypokalemia）|低血鉀]]
 
 #### 高血鉀（Hyperkalemia，K⁺ > 5.0 mEq/L）
 
@@ -680,6 +687,8 @@ credit:
 
 ::chart{id="hyperkalemia-management"}
 
+- 詳見 [[電解質與酸鹼#高血鉀（Hyperkalemia）|高血鉀]]
+
 ### 鈣異常
 
 #### 低血鈣（Hypocalcemia，Ca²⁺ < 8.5 mg/dL）
@@ -691,11 +700,12 @@ credit:
 - 治療：
     - 急性：IV calcium gluconate。
     - 慢性：oral calcium + vitamin D。
+- 詳見 [[電解質與酸鹼#低血鈣（Hypocalcemia）|低血鈣]]
 
 #### 高血鈣（Hypercalcemia，Ca²⁺ > 10.5 mg/dL）
 
 - 原因：
-    - 常見：Primary hyperparathyroidism（門診最常見）、Malignancy（住院最常見；PTHrP、osteolytic metastases、1,25-D production by lymphoma）。
+    - 常見：[[代謝內分泌科#原發性副甲狀腺機能亢進（Primary Hyperparathyroidism）|Primary hyperparathyroidism]]（門診最常見）、Malignancy（住院最常見；PTHrP、osteolytic metastases、1,25-D production by lymphoma）。
     - 其他：vitamin D intoxication、granulomatous disease（sarcoidosis）、thiazide diuretics、milk-alkali syndrome、hyperthyroidism、immobilization、lithium、FHH。
 - 鑑別：**測 intact PTH**。
     - PTH 升高或不當正常 → hyperparathyroidism / FHH。
@@ -710,6 +720,7 @@ credit:
     5. **Denosumab**：anti-RANKL，適合 bisphosphonate 禁忌或腎衰竭者。
     6. **Glucocorticoids**：granulomatous disease、lymphoma、vitamin D 中毒。
     7. **Dialysis**：refractory 或嚴重腎衰竭。
+- 詳見 [[電解質與酸鹼#高血鈣（Hypercalcemia）|高血鈣]]
 
 ### 磷異常
 
@@ -721,9 +732,10 @@ credit:
 
 #### 高血磷（Hyperphosphatemia）
 
-- 原因：**CKD**（排泄 ↓）、hypoparathyroidism、tumor lysis syndrome、rhabdomyolysis。
+- 原因：**CKD**（排泄 ↓）、hypoparathyroidism、[[血液腫瘤科#Tumor Lysis Syndrome（TLS）|tumor lysis syndrome]]、rhabdomyolysis。
 - 導致 metastatic calcification。
 - 治療：限磷飲食、磷結合劑（sevelamer、lanthanum、calcium-based binders）、透析。
+- 詳見 [[電解質與酸鹼#磷異常（Phosphate Disorders）|磷異常]]
 
 ### 鎂異常
 
@@ -738,6 +750,7 @@ credit:
 - 幾乎僅見於 CKD + 含鎂製劑使用。
 - 症狀：DTR 消失 → 呼吸抑制 → 心跳停止。
 - 治療：IV calcium gluconate（拮抗）+ 輸液 + 透析。
+- 詳見 [[電解質與酸鹼#鎂異常（Magnesium Disorders）|鎂異常]]
 
 ## 酸鹼平衡
 
@@ -793,6 +806,7 @@ credit:
 - Urine AG（UAG）= UNa + UK − UCl：
     - UAG 負值 → 腎外（腹瀉）→ 腎臟適當排 NH₄⁺。
     - UAG 正值 → 腎因（RTA）→ 腎臟無法排 NH₄⁺。
+- 詳見 [[電解質與酸鹼#代謝性酸中毒（Metabolic Acidosis）|代謝性酸中毒]]的評估流程
 
 ### Metabolic Alkalosis
 
@@ -803,6 +817,7 @@ credit:
     - Chloride-responsive（:red[UCl < 20]）：嘔吐、NG suction、利尿劑停用後、post-hypercapnia、囊性纖維化（汗液流失）；治療：N/S 輸液（volume + Cl⁻ 補充）、補鉀。
     - Chloride-resistant（UCl > 20）：primary aldosteronism、Cushing's、Bartter/Gitelman、利尿劑使用中、severe hypokalemia、Liddle；治療：針對原因（醛固酮過多 → spironolactone）。
 - 嚴重鹼中毒（pH > 7.55）且無法輸液者：acetazolamide 或 HCl。
+- 詳見 [[電解質與酸鹼#代謝性鹼中毒（Metabolic Alkalosis）|代謝性鹼中毒]]
 
 ## 泌尿科相關疾病
 
@@ -813,7 +828,7 @@ credit:
 | **Calcium oxalate** | **70–80%** | Envelope 或 dumbbell crystals | Radio-opaque | 任何 pH |
 | Calcium phosphate | 10–15% | 常與 oxalate 混合；與 type 1 RTA 相關 | Radio-opaque | 鹼性 |
 | **Struvite（MAP）** | 10–15% | **Staghorn calculus**；**urease-producing bacteria**（Proteus、Klebsiella；**E. coli 不會**） | Radio-opaque | **鹼性** |
-| **Uric acid** | 5–10% | Rhomboid/rosette crystals；與 gout、DM/代謝症候群、tumor lysis 相關 | **Radio-lucent** | **酸性** |
+| **Uric acid** | 5–10% | Rhomboid/rosette crystals；與 [[骨科#痛風性關節炎（Gout）\|gout]]、DM/代謝症候群、tumor lysis 相關 | **Radio-lucent** | **酸性** |
 | Cystine | 1–2% | Hexagonal crystals；Cystinuria（AR） | Faintly radio-opaque | 酸性 |
 
 - 臨床表現：
@@ -839,6 +854,7 @@ credit:
     - Calcium oxalate：限草酸食物（菠菜、堅果、巧克力）、**正常鈣攝取（限鈣反而增加吸收草酸）**、限鈉、potassium citrate、thiazide（減少尿鈣）。
     - Uric acid：鹼化尿液 + allopurinol。
     - Cystine：鹼化尿液 + tiopronin 或 D-penicillamine。
+- 詳見 [[腎泌尿系統主訴#腰痛與腎絞痛（Flank Pain / Renal Colic）|腰痛與腎絞痛]]
 
 ### 泌尿道感染（UTI）與腎盂腎炎
 
@@ -870,6 +886,7 @@ credit:
     - **Emphysematous pyelonephritis**：DM 病人常見，CT 見腎內 gas → 抗生素 + percutaneous drainage 或 nephrectomy。
     - **Perinephric abscess**：pyelonephritis 併發，CT 診斷 → 需 percutaneous drainage + 抗生素。
     - **Xanthogranulomatous pyelonephritis**：慢性感染，常伴 staghorn calculus，腎臟腫大似腫瘤 → 治療：nephrectomy。
+- 詳見 [[腎泌尿系統主訴#排尿疼痛與膿尿（Dysuria / Pyuria）|排尿疼痛與膿尿]]
 
 ### 體染色體顯性多囊腎（ADPKD）
 
@@ -884,7 +901,7 @@ credit:
     - **腎結石**、UTI。
 - 腎外表現：
     - **肝囊腫**（最常見）。
-    - **顱內動脈瘤（Berry aneurysm）** → SAH 風險。
+    - **顱內動脈瘤（Berry aneurysm）** → [[神經內科#蜘蛛膜下腔出血（SAH）|SAH]] 風險。
     - **MVP（mitral valve prolapse）**。
     - 結腸憩室、腹壁/鼠蹊疝氣。
 - 診斷：超音波。
@@ -900,6 +917,6 @@ credit:
 - 基因：**PKHD1**（chromosome 6 → fibrocystin）。
 - 新生兒/嬰幼兒期表現。
 - 雙側腎臟腫大（集尿管囊性擴張）。
-- 合併**先天性肝纖維化（congenital hepatic fibrosis）** → 門脈高壓。
+- 合併**先天性肝纖維化（congenital hepatic fibrosis）** → [[肝膽胰外科#門脈高壓（Portal Hypertension）|門脈高壓]]。
 - 嚴重者：Potter sequence（羊水過少 → 肺發育不全 + 肢體畸形 + 特殊面容）。
 - 預後差，許多於嬰兒期死於呼吸衰竭。

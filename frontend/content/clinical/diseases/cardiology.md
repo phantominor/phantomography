@@ -110,13 +110,13 @@ credit:
 
 | 狀態 | ECG 特徵 |
 |------|----------|
-| Hyperkalemia | **T 增高** → P 消失 → QRS 加寬 → sine wave → VF |
-| Hypokalemia | T 扁平、U wave、ST depression |
-| Hypercalcemia | QT 縮短 |
-| Hypocalcemia | **QT 延長** |
+| [[電解質與酸鹼#高血鉀（Hyperkalemia）\|Hyperkalemia]] | **T 增高** → P 消失 → QRS 加寬 → sine wave → VF |
+| [[電解質與酸鹼#低血鉀（Hypokalemia）\|Hypokalemia]] | T 扁平、U wave、ST depression |
+| [[電解質與酸鹼#高血鈣（Hypercalcemia）\|Hypercalcemia]] | QT 縮短 |
+| [[電解質與酸鹼#低血鈣（Hypocalcemia）\|Hypocalcemia]] | **QT 延長** |
 | Digitalis effect | Downsloping ST depression、PR 延長 |
-| Hypothermia | Osborn wave（J wave）、bradycardia、QT 延長 |
-| PE | **S1Q3T3**、sinus tachycardia、right heart strain、RBBB |
+| [[全身症狀#低體溫（Hypothermia）\|Hypothermia]] | Osborn wave（J wave）、bradycardia、QT 延長 |
+| [[胸腔內科#肺栓塞（Pulmonary Embolism）\|PE]] | **S1Q3T3**、sinus tachycardia、right heart strain、RBBB |
 | Pericarditis | Diffuse **ST elevation**（concave up）+ PR depression |
 | WPW syndrome | Short PR + **delta wave** + wide QRS |
 | Brugada syndrome | V1–V3 coved ST elevation + RBBB pattern |
@@ -128,7 +128,7 @@ credit:
 
 - 病理：內皮損傷 → LDL 滲入 → 巨噬細胞吞噬 → foam cells → fatty streak → fibrous cap → atheroma。
 - **不可改變的危險因子**：年齡、男性、家族史（一等親男性 < 55 歲或女性 < 65 歲發病）。
-- **可改變的危險因子**：高血壓、糖尿病、高血脂（LDL↑、HDL↓）、抽菸、肥胖、缺乏運動。
+- **可改變的危險因子**：高血壓、糖尿病、[[生化異常#血脂異常（Dyslipidemia）|高血脂]]（LDL↑、HDL↓）、抽菸、肥胖、缺乏運動。
 
 ### 穩定型心絞痛（Stable Angina）
 
@@ -145,7 +145,8 @@ credit:
 - 治療：
     - **生活型態改變 + 危險因子控制**。
     - 藥物：β-blocker（**首選**）、CCB、long-acting nitrate；Aspirin；Statin；ACEi/ARB。
-    - 血管重建：藥物治療無效、Left main disease、三支病變 + EF↓ → **PCI** 或 CABG。
+    - 血管重建：藥物治療無效、Left main disease、三支病變 + EF↓ → **PCI** 或 [[心血管外科#冠狀動脈繞道手術（CABG）|CABG]]。
+- 詳見 [[心血管系統主訴#穩定或反覆胸痛（Stable / Recurrent Chest Pain）|穩定或反覆胸痛]]的評估流程；[[偶發病灶#冠狀動脈鈣化（Coronary Artery Calcification）|冠狀動脈鈣化]]
 
 ### Prinzmetal（Variant）Angina
 
@@ -158,7 +159,7 @@ credit:
 
 ### 急性冠心症（ACS）
 
-| 類型 | 病理 | ECG | Troponin | 處理 |
+| 類型 | 病理 | ECG | [[生化異常#心肌旋轉蛋白升高（Elevated Troponin）\|Troponin]] | 處理 |
 |------|------|-----|----------|------|
 | STEMI | 完全阻塞 | ST elevation | ↑ | 緊急再灌注（PCI 或 fibrinolysis） |
 | NSTEMI | 不完全阻塞 | ST depression / T inversion / 正常 | ↑ | 早期侵入性策略（依風險：:red[極高風險 < 2 hr、高風險 < 24 hr]、中風險 < 72 hr） |
@@ -167,6 +168,7 @@ credit:
 - **極高風險（立即 CAG）**：血行不穩、心因性休克、頑固性胸痛、機械性併發症、惡性心律不整。
 - 風險分層工具：**TIMI score**、GRACE score。
 - **NSTEMI/UA 禁用 fibrinolysis**（無益且增加出血）。
+- 詳見 [[心血管系統主訴#急性胸痛（Acute Chest Pain）|急性胸痛]]的評估流程
 
 ### MI 心電圖變化
 
@@ -289,8 +291,9 @@ credit:
 - **Wet and Warm**（最常見）：Volume overload + 灌流尚可 → diuretics（Furosemide）+ vasodilators（NTG）。
 - **Wet and Cold**：Volume overload + 灌流不足 → Inotropes（Dobutamine）± 利尿劑。
 - **Dry and Cold**：灌流不足但無 congestion → Inotropes ± 輸液。
-- **Cardiogenic shock**：SBP < 90 + 灌流不足 → **Norepinephrine**（首選升壓劑）+ Dobutamine + 考慮 IABP / ECMO / Impella。
+- **[[心血管系統主訴#低血壓與休克（Hypotension / Shock）|Cardiogenic shock]]**：SBP < 90 + 灌流不足 → **Norepinephrine**（首選升壓劑）+ Dobutamine + 考慮 IABP / ECMO / Impella。
 - 誘發因子：不遵醫囑/停藥、感染、ACS、AF、貧血、腎功能惡化、NSAIDs。
+- 詳見 [[呼吸系統主訴#急性呼吸困難（Acute Dyspnea）|急性呼吸困難]]、[[心血管系統主訴#水腫（Edema）|水腫]]
 
 ### BNP / NT-proBNP
 
@@ -298,6 +301,7 @@ credit:
 - **診斷心衰竭**：:red[BNP > 100 pg/mL 或 NT-proBNP > 300 pg/mL]（老年人基準值較高）。
 - **追蹤治療效果**：數值下降 → 治療有效。
 - **肥胖者** BNP 可能偽低；**腎功能不全** NT-proBNP 可能偽高。
+- 詳見 [[生化異常#利鈉胜肽升高（Elevated BNP / NT-proBNP）|利鈉胜肽升高]]的判讀
 
 ## 瓣膜性心臟病
 
@@ -324,7 +328,7 @@ credit:
 
 - 原因：
     - 急性：感染性心內膜炎、主動脈剝離、創傷。
-    - 慢性：Bicuspid valve、Marfan syndrome、風濕性、梅毒性主動脈炎。
+    - 慢性：Bicuspid valve、[[小兒科#馬凡氏症候群（Marfan Syndrome）|Marfan syndrome]]、風濕性、[[感染科#Treponema pallidum（Syphilis，梅毒）|梅毒性主動脈炎]]。
 - 病理生理：容量負荷（volume overload）→ **離心性肥厚（eccentric hypertrophy）** → LV 擴大。
     - **急性 AR**：LV 來不及代償 → LVEDP 驟升 → 肺水腫、心搏過速、脈壓**不**增寬（與慢性相反）。
 - 聽診：
@@ -376,9 +380,10 @@ credit:
 ### 三尖瓣閉鎖不全（Tricuspid Regurgitation, TR）
 
 - 最常見原因：RV 擴大（pulmonary HTN、left-sided HF） → **功能性（functional TR）**。
-- 其他：感染性心內膜炎（IV drug user）、Ebstein anomaly、carcinoid syndrome。
+- 其他：感染性心內膜炎（IV drug user）、[[心血管外科#Ebstein Anomaly|Ebstein anomaly]]、[[代謝內分泌科#Carcinoid Syndrome|carcinoid syndrome]]。
 - 聽診：holosystolic murmur at LLSB，**吸氣時增強（Carvallo's sign）**。
 - 特徵：JVD、prominent v wave（頸靜脈搏動）、hepatomegaly、peripheral edema、ascites。
+- 詳見 [[心血管系統主訴#心雜音（Heart Murmurs）|心雜音]]的鑑別
 
 ### 機械瓣 vs 生物瓣
 
@@ -420,7 +425,7 @@ credit:
 
 - 易感因子（心臟疾病/IVDU）。
 - 發燒 ≥ 38°C。
-- 血管現象：septic emboli、Janeway lesions、mycotic aneurysm、ICH、conjunctival hemorrhage。
+- 血管現象：septic emboli、Janeway lesions、mycotic aneurysm、[[神經內科#腦內出血（ICH）|ICH]]、conjunctival hemorrhage。
 - 免疫現象：Osler nodes、Roth spots、GN、RF↑。
 - 微生物學：血培養陽性但不符合 major criteria。
 
@@ -447,6 +452,7 @@ credit:
     - 大 vegetation（:red[> 10 mm]，尤其 MV）+ embolic events。
     - Fungal IE（幾乎都需手術）。
     - Prosthetic valve IE + 不穩定。
+- 手術時機與術式詳見 [[心血管外科#感染性心內膜炎（Infective Endocarditis, IE）|心血管外科的感染性心內膜炎]]
 
 ### IE 預防
 
@@ -491,7 +497,7 @@ credit:
 
 - 最少見的心肌病變。
 - 特徵：心室壁僵硬 → 舒張功能障礙 → 充填受限；收縮功能相對保留。
-- 原因：**Amyloidosis**（最常見）、Sarcoidosis、Hemochromatosis、radiation、endomyocardial fibrosis、Fabry disease。
+- 原因：**[[血液腫瘤科#Primary Amyloidosis（AL Amyloidosis）|Amyloidosis]]**（最常見）、[[胸腔內科#結節病（Sarcoidosis）|Sarcoidosis]]、[[消化內科#Hemochromatosis（血色素沉著症）|Hemochromatosis]]、radiation、endomyocardial fibrosis、Fabry disease。
 
 ### Takotsubo Cardiomyopathy（Stress / Broken Heart Syndrome）
 
@@ -504,7 +510,7 @@ credit:
 
 ### Myocarditis
 
-- 原因：病毒最常見（**Coxsackievirus B**、Adenovirus、Parvovirus B19、SARS-CoV-2）；自體免疫、藥物（doxorubicin、immune checkpoint inhibitors）。
+- 原因：病毒最常見（**Coxsackievirus B**、Adenovirus、[[感染科#Parvovirus B19|Parvovirus B19]]、[[感染科#COVID-19（SARS-CoV-2）|SARS-CoV-2]]）；自體免疫、藥物（doxorubicin、[[血液腫瘤科#免疫治療|immune checkpoint inhibitors]]）。
 - 症狀：前驅病毒感染 → 胸痛、HF 症狀、心律不整。
 - 診斷：
     - Troponin↑ + ECG 變化 + Echo（wall motion abnormality）。
@@ -518,7 +524,7 @@ credit:
 ### 急性心包膜炎（Acute Pericarditis）
 
 - **最常見原因：Viral（idiopathic）**（Coxsackievirus、Echovirus）。
-- 其他：MI 後（早期或 Dressler syndrome）、uremia、SLE、TB、malignancy、radiation、post-cardiac surgery。
+- 其他：MI 後（早期或 Dressler syndrome）、uremia、[[免疫風濕科#全身性紅斑狼瘡（SLE）|SLE]]、[[胸腔內科#肺結核（Pulmonary Tuberculosis）|TB]]、malignancy、radiation、post-cardiac surgery。
 - 臨床四特徵（至少 2/4 即可診斷）：
     1. **Pleuritic chest pain**（前傾坐起減輕、躺下或深呼吸加劇）。
     2. **Pericardial friction rub**（最具特異性；三相：atrial systole、ventricular systole、early diastole）。
@@ -566,11 +572,13 @@ credit:
 
 ### 上心室心搏過速（SVT）
 
+- 詳見 [[心血管系統主訴#心悸（Palpitations）|心悸]]的評估流程
+
 #### Atrial Fibrillation（AF）
 
 - **最常見的持續性心律不整**。
 - ECG：**無 P wave**、irregularly irregular rhythm、fibrillatory baseline。
-- 原因：HTN（最常見）、MV disease、HF、hyperthyroidism、alcohol（holiday heart）、PE、post-cardiac surgery。
+- 原因：HTN（最常見）、MV disease、HF、[[代謝內分泌科#甲狀腺機能亢進（Hyperthyroidism）|hyperthyroidism]]、alcohol（holiday heart）、[[胸腔內科#肺栓塞（Pulmonary Embolism）|PE]]、post-cardiac surgery。
 - 風險：
     - **血栓栓塞（Stroke）**：LA 擴大 → LAA（左心耳）血栓形成 → 栓塞至腦部。
     - **Tachycardia-induced cardiomyopathy**：長期快速心率導致 HF。
@@ -656,11 +664,13 @@ credit:
 #### Torsades de Pointes（TdP）
 
 - Polymorphic VT + QT prolongation。
-- 原因：藥物（Class IA/III antiarrhythmics、macrolides、antipsychotics、methadone）、低血鉀、低血鎂、先天性 Long QT syndrome。
+- 原因：藥物（Class IA/III antiarrhythmics、macrolides、antipsychotics、methadone）、[[電解質與酸鹼#低血鉀（Hypokalemia）|低血鉀]]、[[電解質與酸鹼#鎂異常（Magnesium Disorders）|低血鎂]]、先天性 Long QT syndrome。
 - 治療：**IV Magnesium（首選）** → Isoproterenol 或 temporary overdrive pacing → Defibrillation（若不穩定）。
 - **禁忌**：Amiodarone 和其他延長 QT 的藥物。
 
 ### 心搏過緩（Bradyarrhythmias）
+
+- 詳見 [[心血管系統主訴#心搏過緩（Bradycardia）|心搏過緩]]、[[心血管系統主訴#暈厥（Syncope）|暈厥]]的評估流程
 
 #### Sick Sinus Syndrome（SSS）
 
@@ -698,7 +708,7 @@ credit:
 | IV | Non-DHP CCB | Verapamil、Diltiazem | SVT rate control；禁用於 HFrEF、WPW+AF |
 
 - **Amiodarone 副作用**（幾乎影響每個器官）：
-    - **肺纖維化**（最嚴重）。
+    - **[[胸腔內科#間質性肺病（Interstitial Lung Disease, ILD）|肺纖維化]]**（最嚴重）。
     - **甲狀腺功能異常**（含大量碘 → hypo-/hyperthyroidism）。
     - **肝毒性**。
     - **角膜微沉積（corneal microdeposits）**：最常見副作用，幾乎所有人都有。
@@ -723,14 +733,15 @@ credit:
 3. 找可逆原因（**5H5T**）。
 
 - **5H**：Hypovolemia、Hypoxia、H⁺（acidosis）、Hypo-/Hyperkalemia、Hypothermia。
-- **5T**：Tension pneumothorax、Tamponade、Toxins、Thrombosis（PE）、Thrombosis（MI）。
+- **5T**：[[胸腔內科#氣胸（Pneumothorax）|Tension pneumothorax]]、Tamponade、Toxins、Thrombosis（PE）、Thrombosis（MI）。
 
 ## 主動脈疾病
 
 ### 主動脈剝離（Aortic Dissection）
 
-- 最重要危險因子：**高血壓**（最常見）；Marfan syndrome、Ehlers-Danlos（vascular type）、Bicuspid aortic valve、cocaine、pregnancy（3rd trimester）、iatrogenic（cardiac surgery/catheterization）。
+- 最重要危險因子：**高血壓**（最常見）；[[小兒科#馬凡氏症候群（Marfan Syndrome）|Marfan syndrome]]、Ehlers-Danlos（vascular type）、Bicuspid aortic valve、[[精神科#興奮劑（Stimulants）|cocaine]]、pregnancy（3rd trimester）、iatrogenic（cardiac surgery/catheterization）。
 - 病理：Intimal tear → 血液進入 media → 形成 true lumen 和 false lumen。
+- 手術詳見 [[心血管外科#主動脈剝離（Aortic Dissection）|心血管外科的主動脈剝離]]
 
 #### Stanford 分類（較常用）
 
@@ -772,6 +783,7 @@ credit:
     - 有症狀。
 - 手術方式：Open repair 或 **EVAR（Endovascular Aneurysm Repair）**。
 - **AAA 破裂**：突發劇烈腹/背痛 + 低血壓 + 搏動性腹部腫塊 → **立即手術，不等影像！**。
+- 詳見 [[偶發病灶#腹主動脈瘤（Incidental Abdominal Aortic Aneurysm）|偶然發現腹主動脈瘤]]的追蹤、[[心血管外科#腹主動脈瘤（Abdominal Aortic Aneurysm, AAA）|心血管外科的腹主動脈瘤]]
 
 #### 胸主動脈瘤（Thoracic Aortic Aneurysm, TAA）
 
@@ -798,13 +810,15 @@ credit:
 
 | 原因 | 線索 | 診斷 | 治療 |
 |------|------|------|------|
-| **Renal artery stenosis** | 年輕女性（fibromuscular dysplasia）或老年（atherosclerosis）；ACEi 後 Cr↑ | Duplex US、MRA、CTA | FMD → PTA；Atherosclerotic → 藥物 ± stent |
-| **Primary aldosteronism** | 低血鉀 + resistant HTN + adrenal mass | ARR（Aldosterone/Renin ratio↑）→ 確認試驗（saline loading test）→ CT + adrenal vein sampling（AVS）定側 | Adenoma → surgery；Bilateral hyperplasia → **Spironolactone** |
-| **Pheochromocytoma** | 陣發性 HTN + 頭痛 + 心悸 + 流汗 + 蒼白；可能造成 **hypertensive crisis** | 24-hr urine metanephrines / catecholamines（或 plasma free metanephrines） | **先 α-blocker（Phenoxybenzamine）→ 再 β-blocker → 再手術**（先 β → unopposed α → HTN crisis） |
-| **Cushing syndrome** | 月亮臉、水牛肩、腹部紫紋 | 24-hr urine cortisol、overnight dexamethasone suppression test | 依原因 |
-| **Coarctation of aorta** | 上肢 BP >> 下肢 BP、rib notching（CXR） | Echo、CTA/MRA | 手術/介入 |
-| **OSA** | 肥胖、打鼾、日間嗜睡 | Polysomnography | CPAP |
+| **[[腎臟內科#腎動脈狹窄（Renal Artery Stenosis）\|Renal artery stenosis]]** | 年輕女性（fibromuscular dysplasia）或老年（atherosclerosis）；ACEi 後 Cr↑ | Duplex US、MRA、CTA | FMD → PTA；Atherosclerotic → 藥物 ± stent |
+| **[[代謝內分泌科#原發性醛固酮過多症（Primary Aldosteronism / Conn's Syndrome）\|Primary aldosteronism]]** | 低血鉀 + resistant HTN + adrenal mass | ARR（Aldosterone/Renin ratio↑）→ 確認試驗（saline loading test）→ CT + adrenal vein sampling（AVS）定側 | Adenoma → surgery；Bilateral hyperplasia → **Spironolactone** |
+| **[[代謝內分泌科#嗜鉻細胞瘤（Pheochromocytoma）\|Pheochromocytoma]]** | 陣發性 HTN + 頭痛 + 心悸 + 流汗 + 蒼白；可能造成 **hypertensive crisis** | 24-hr urine metanephrines / catecholamines（或 plasma free metanephrines） | **先 α-blocker（Phenoxybenzamine）→ 再 β-blocker → 再手術**（先 β → unopposed α → HTN crisis） |
+| **[[代謝內分泌科#庫欣氏症候群（Cushing's Syndrome）\|Cushing syndrome]]** | 月亮臉、水牛肩、腹部紫紋 | 24-hr urine cortisol、overnight dexamethasone suppression test | 依原因 |
+| **[[心血管外科#主動脈縮窄（Coarctation of Aorta, CoA）\|Coarctation of aorta]]** | 上肢 BP >> 下肢 BP、rib notching（CXR） | Echo、CTA/MRA | 手術/介入 |
+| **[[胸腔內科#阻塞性睡眠呼吸中止症（OSA）\|OSA]]** | 肥胖、打鼾、日間嗜睡 | Polysomnography | CPAP |
 | **Thyroid disease** | Hyperthyroidism：systolic HTN（wide PP）；Hypothyroidism：diastolic HTN | TSH | 治療原發病 |
+
+- 詳見 [[心血管系統主訴#血壓升高（Elevated Blood Pressure）|血壓升高]]、[[內分泌系統主訴#內分泌性高血壓（Endocrine Hypertension）|內分泌性高血壓]]的評估流程
 
 ### 高血壓藥物治療
 
@@ -828,11 +842,11 @@ credit:
 | 類型 | 定義 | 處理 |
 |------|------|------|
 | **Hypertensive Urgency** | BP > 180/120 但**無急性器官損傷** | 口服藥物逐步降壓，數小時到 24 小時 |
-| **Hypertensive Emergency** | BP > 180/120 + **急性器官損傷**（腦病變、ICH、ACS、acute HF/pulmonary edema、aortic dissection、eclampsia、AKI） | **IV 降壓藥物**（Nitroprusside、Nicardipine、Labetalol、Esmolol、Clevidipine）→ :red[第一小時降 25%] → 再逐步降到 160/100 over 2–6 hr |
+| **Hypertensive Emergency** | BP > 180/120 + **急性器官損傷**（腦病變、ICH、ACS、acute HF/pulmonary edema、aortic dissection、[[產科#子癇前症（Preeclampsia）\|eclampsia]]、AKI） | **IV 降壓藥物**（Nitroprusside、Nicardipine、Labetalol、Esmolol、Clevidipine）→ :red[第一小時降 25%] → 再逐步降到 160/100 over 2–6 hr |
 
 - **Aortic dissection**：target SBP 100–120 + HR < 60 ASAP → IV β-blocker 首選。
 - **Acute stroke**：
-    - Ischemic stroke + not receiving thrombolysis → 降壓 threshold 更寬鬆（< 220/120 通常觀察）。
+    - [[神經內科#缺血性中風急性處理|Ischemic stroke]] + not receiving thrombolysis → 降壓 threshold 更寬鬆（< 220/120 通常觀察）。
     - Ischemic stroke + 接受 tPA → 維持 :red[BP < 185/110]。
     - Hemorrhagic stroke → 目標 SBP < 140。
 
@@ -846,11 +860,11 @@ credit:
 
 | Group | 原因 | 例子 |
 |-------|------|------|
-| **1** | Pulmonary Arterial Hypertension（PAH） | Idiopathic、CTD（Scleroderma 最常見）、HIV、portopulmonary、drug-induced |
+| **1** | Pulmonary Arterial Hypertension（PAH） | Idiopathic、CTD（[[免疫風濕科#全身性硬化症（Systemic Sclerosis, SSc）\|Scleroderma]] 最常見）、[[感染科#HIV / AIDS\|HIV]]、portopulmonary、drug-induced |
 | **2** | Left heart disease（**最常見原因**） | HFrEF、HFpEF、valvular disease |
-| **3** | Lung disease / Hypoxia | COPD、ILD、OSA |
+| **3** | Lung disease / Hypoxia | [[胸腔內科#慢性阻塞性肺病（COPD）\|COPD]]、[[胸腔內科#間質性肺病（Interstitial Lung Disease, ILD）\|ILD]]、OSA |
 | **4** | Chronic thromboembolic PH（CTEPH） | 慢性 PE 未溶解 → pulmonary endarterectomy 可根治 |
-| **5** | Multifactorial / Unclear | Sarcoidosis、myeloproliferative disorder |
+| **5** | Multifactorial / Unclear | [[胸腔內科#結節病（Sarcoidosis）\|Sarcoidosis]]、myeloproliferative disorder |
 
 ### 臨床
 
@@ -899,3 +913,4 @@ credit:
 - **Viable → 立即 heparin + 考慮血管重建**。
 - **Immediately threatened → 緊急手術（embolectomy / bypass）或 catheter-directed thrombolysis**。
 - **Irreversible → amputation**。
+- 詳見 [[心血管系統主訴#肢體缺血與跛行（Limb Ischemia / Claudication）|肢體缺血與跛行]]的評估流程；手術詳見 [[心血管外科#周邊動脈疾病（Peripheral Arterial Disease, PAD）|心血管外科的周邊動脈疾病]]

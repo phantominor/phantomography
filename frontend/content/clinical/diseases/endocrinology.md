@@ -27,9 +27,10 @@ credit:
 
 ### 腦下垂體腫瘤
 
-- 最常見的鞍區腫瘤：**腦下垂體腺瘤（pituitary adenoma）**。
+- 最常見的鞍區腫瘤：**[[神經外科#腦下垂體腫瘤（Pituitary Tumors）|腦下垂體腺瘤（pituitary adenoma）]]**。
 - 分類：微腺瘤（< 10 mm）vs 巨腺瘤（≥ 10 mm）。
 - 功能性腺瘤分泌頻率：**Prolactinoma > GH adenoma > ACTH adenoma >> TSH adenoma**。
+- 詳見 [[偶發病灶#腦下垂體偶發瘤（Pituitary Incidentaloma）|腦下垂體偶發瘤]]的評估
 
 #### 腫瘤壓迫效應
 
@@ -47,8 +48,8 @@ credit:
 
 - **最常見**的功能性腦下垂體腺瘤。
 - 症狀：
-    - 女性：galactorrhea、**amenorrhea**、infertility（較早發現，故多為微腺瘤）。
-    - 男性：性慾降低、勃起障礙、gynecomastia（常較晚才發現，故多為巨腺瘤）。
+    - 女性：galactorrhea、**[[婦產主訴#無月經（Amenorrhea）|amenorrhea]]**、infertility（較早發現，故多為微腺瘤）。
+    - 男性：性慾降低、勃起障礙、[[乳房外科#男性女乳症（Gynecomastia）|gynecomastia]]（常較晚才發現，故多為巨腺瘤）。
 - 診斷：血清 prolactin 升高。
     - :red[> 200 ng/mL]：通常為腺瘤。
     - 輕度升高 20–200：考慮 stalk effect 或藥物。
@@ -59,6 +60,7 @@ credit:
     - 抗精神病藥（dopamine antagonist）：最常見。
     - Metoclopramide、domperidone。
     - Estrogen（口服避孕藥、懷孕）。
+- 詳見 [[內分泌系統主訴#泌乳與泌乳素過高（Galactorrhea / Hyperprolactinemia）|泌乳與泌乳素過高]]
 
 ### 肢端肥大症（Acromegaly）/ 巨人症（Gigantism）
 
@@ -68,7 +70,7 @@ credit:
     - 面容粗獷：frontal bossing、prognathism（下顎前突）、macroglossia、齒縫變寬。
     - 手腳增大：戒指/鞋子變大。
     - 軟組織增生：skin tags、hyperhidrosis。
-    - 器官肥大：心肌肥厚 → 心衰竭（最常見死因）、睡眠呼吸中止。
+    - 器官肥大：心肌肥厚 → 心衰竭（最常見死因）、[[胸腔內科#阻塞性睡眠呼吸中止症（OSA）|睡眠呼吸中止]]。
     - 代謝異常：insulin resistance → DM、hyperlipidemia。
     - 關節病變：骨關節炎。
     - 腫瘤壓迫：頭痛、視野缺損。
@@ -91,7 +93,7 @@ credit:
 
 ### 腦下垂體功能低下（Hypopituitarism）
 
-- 原因：腫瘤壓迫/手術/放射線、Sheehan syndrome、apoplexy、infiltrative disease（hemochromatosis、sarcoidosis、lymphocytic hypophysitis）。
+- 原因：腫瘤壓迫/手術/放射線、[[產科#Sheehan Syndrome|Sheehan syndrome]]、apoplexy、infiltrative disease（[[消化內科#Hemochromatosis（血色素沉著症）|hemochromatosis]]、[[胸腔內科#結節病（Sarcoidosis）|sarcoidosis]]、lymphocytic hypophysitis）。
 - **Sheehan syndrome**：產後大出血 → 腦下垂體缺血壞死。
     - 症狀：產後無法泌乳（prolactin↓）、amenorrhea、fatigue、cold intolerance。
 - 荷爾蒙缺乏順序：**GH → LH/FSH → TSH → ACTH → prolactin**。
@@ -105,13 +107,14 @@ credit:
 | 特徵 | 中樞性 DI | 腎源性 DI |
 |------|-----------|-----------|
 | 機制 | ADH 分泌不足 | 腎臟對 ADH 無反應 |
-| 原因 | 腦手術/外傷、腫瘤、idiopathic | Lithium、高鈣血症、低鉀血症、遺傳 |
+| 原因 | 腦手術/外傷、腫瘤、idiopathic | [[精神科#Lithium\|Lithium]]、高鈣血症、低鉀血症、遺傳 |
 | 尿液 | 大量稀尿（:red[> 3 L/day]）、尿比重 < 1.005、尿滲透壓 < 300 | 同左 |
 | Water deprivation test | 限水後尿液仍無法濃縮 | 同左  |
 | Desmopressin | 給 DDAVP 後尿液可濃縮 | 給 DDAVP 後尿液仍無法濃縮 |
 | 治療 | **Desmopressin（DDAVP）** | 限鈉 + thiazide + NSAIDs、治療根本原因 |
 
 - 鑑別：**Psychogenic polydipsia** → 血漿滲透壓偏低、water deprivation 後可正常濃縮。
+- 詳見 [[內分泌系統主訴#多尿與口渴（Polyuria / Polydipsia）|多尿與口渴]]的評估流程
 
 ### 抗利尿激素不當分泌症候群（SIADH）
 
@@ -119,14 +122,15 @@ credit:
 - 實驗室：血漿 Na↓、血漿滲透壓↓、尿液滲透壓 > 100（不恰當地濃縮）、尿鈉 > 40。
 - 常見原因：
     - CNS 疾病：中風、感染、外傷。
-    - 肺疾病：**小細胞肺癌**、肺炎、TB。
+    - 肺疾病：**[[胸腔內科#小細胞肺癌（SCLC，約 15%）|小細胞肺癌]]**、肺炎、TB。
     - 藥物：Carbamazepine、Cyclophosphamide、SSRIs、Vincristine。
     - 術後疼痛/壓力。
 - 治療：
     - 限水：首要措施（< 800–1000 mL/day）。
     - 嚴重：**3% hypertonic saline**。
     - 慢性：Tolvaptan（V2-receptor antagonist）、Demeclocycline。
-    - 校正速度 :red[≤ 8–10 mEq/L/24hr] → 避免 **osmotic demyelination syndrome**。
+    - 校正速度 :red[≤ 8–10 mEq/L/24hr] → 避免 **[[神經內科#滲透性脫髓鞘症候群（Osmotic Demyelination Syndrome, ODS）|osmotic demyelination syndrome]]**。
+- 詳見 [[電解質與酸鹼#低血鈉（Hyponatremia）|低血鈉]]的評估流程與矯正速度
 
 ## 甲狀腺疾病
 
@@ -161,18 +165,20 @@ credit:
 | Subacute thyroiditis | **↓** | 疼痛、ESR↑、viral prodrome |
 | Painless thyroiditis | **↓** | 無痛，anti-TPO(+) |
 
+- 詳見 [[內分泌系統主訴#甲狀腺毒症（Thyrotoxicosis）|甲狀腺毒症]]的評估流程
+
 #### Graves' Disease
 
 - **自體免疫**：TSI（thyroid-stimulating immunoglobulin）= TRAb 刺激 TSH receptor。
 - 臨床三聯徵：
     1. **甲狀腺瀰漫性腫大（diffuse goiter）** + 甲亢症狀。
-    2. **Graves' ophthalmopathy**：proptosis（突眼，最特異性表現）、lid lag、lid retraction、periorbital edema、diplopia、exposure keratitis。
+    2. **[[眼科#甲狀腺眼病（Thyroid Eye Disease / Graves' Ophthalmopathy）|Graves' ophthalmopathy]]**：proptosis（突眼，最特異性表現）、lid lag、lid retraction、periorbital edema、diplopia、exposure keratitis。
     3. **Pretibial myxedema**：脛前非凹陷性水腫。
-- 甲亢症狀：心悸、心房顫動（AF）、tremor、weight loss（食慾增加但體重下降）、heat intolerance、sweating、hyperdefecation、menstrual irregularity、irritability、proximal myopathy、onycholysis。
+- 甲亢症狀：心悸、[[心臟內科#Atrial Fibrillation（AF）|心房顫動（AF）]]、tremor、weight loss（食慾增加但體重下降）、heat intolerance、sweating、hyperdefecation、menstrual irregularity、irritability、proximal myopathy、onycholysis。
 - 實驗室：TSH↓、Free T4（T3）↑、TSI/TRAb(+)。
 - 治療：
     - **Antithyroid drugs（ATD）**。
-        - **Methimazole（MMI）**：**首選**，抑制 TPO → 阻斷荷爾蒙合成；副作用：agranulocytosis（嚴重但少見，需監測 WBC）、肝毒性。
+        - **Methimazole（MMI）**：**首選**，抑制 TPO → 阻斷荷爾蒙合成；副作用：[[血液異常#嗜中性球低下（Neutropenia）|agranulocytosis]]（嚴重但少見，需監測 WBC）、肝毒性。
         - **PTU**：**懷孕第一孕期**及**甲狀腺風暴** 首選，亦抑制周邊 T4→T3 轉換；副作用：肝衰竭。
     - **Radioactive iodine（RAI, ¹³¹I）**。
         - 放射線破壞甲狀腺組織 → hypothyroidism。
@@ -236,6 +242,7 @@ credit:
 - **Delayed relaxation phase of DTR**。
 - Menorrhagia、infertility。
 - CK 升高（myopathy）。
+- 詳見 [[內分泌系統主訴#甲狀腺功能低下（Hypothyroidism）|甲狀腺功能低下]]
 
 #### 甲低治療
 
@@ -256,7 +263,7 @@ credit:
 
 - 成人盛行率高，但大多良性。
 - 評估流程：
-    1. 若 TSH ↓ → thyroid scan → hot nodule（功能性，極少為癌）→ 不需 FNA。
+    1. 若 TSH ↓ → thyroid scan → hot nodule（功能性，極少為癌）→ 不需 [[內分泌外科#甲狀腺結節評估|FNA]]。
     2. 若 TSH 正常或↑ → **超音波評估** → 無可疑特徵 → 不需 FNA。
     3. 若超音波可疑（hypoechoic、microcalcification、taller-than-wide、irregular margins、extrathyroidal extension）→ **Fine needle aspiration（FNA）**。
 
@@ -271,13 +278,15 @@ credit:
 | V | Suspicious for malignancy | 60–75% | Lobectomy 或 total thyroidectomy |
 | VI | Malignant | 97–99% | 手術 |
 
+- 詳見 [[內分泌系統主訴#甲狀腺腫大與結節（Goiter / Thyroid Nodule）|甲狀腺腫大與結節]]、[[偶發病灶#甲狀腺偶發結節（Thyroid Incidentaloma）|甲狀腺偶發結節]]
+
 ### 甲狀腺癌
 
 | 類型 | 佔比 | 來源 | 特點 | 預後 |
 |------|------|------|------|------|
 | **Papillary** | **最常見（80%）** | Follicular cells | Psammoma bodies、Orphan Annie eyes、**淋巴轉移**為主、放射線暴露相關、多灶性 | **極佳** |
 | **Follicular** | 10–15% | Follicular cells | 需完整病理才能與 adenoma 區分（capsular/vascular invasion）、**血行轉移**為主（肺、骨） | 佳 |
-| **Medullary** | 3–5% | **Parafollicular C cells** | 分泌 **calcitonin**；**amyloid** 沉積；25% 與 **MEN 2A/2B** 相關（RET mutation） | 中等 |
+| **Medullary** | 3–5% | **Parafollicular C cells** | 分泌 **calcitonin**；**amyloid** 沉積；25% 與 **[[內分泌外科#多發性內分泌腫瘤（MEN Syndromes）\|MEN 2A/2B]]** 相關（RET mutation） | 中等 |
 | **Anaplastic** | 1–2% | Undifferentiated | 老年人、快速增大的頸部腫塊、極度侵犯性 | **極差** |
 
 #### Papillary & Follicular 治療
@@ -347,6 +356,7 @@ credit:
 - 實驗室：Ca↓、P↑、PTH↓、Mg 正常。
 - 臨床：tetany、Chvostek sign、Trousseau sign、seizures、QT prolongation、cataracts（慢性）、basal ganglia calcification。
 - 治療：Calcium + Active vitamin D（Calcitriol）。
+- 詳見 [[電解質與酸鹼#低血鈣（Hypocalcemia）|低血鈣]]
 
 ### 假性副甲狀腺機能低下（Pseudohypoparathyroidism）
 
@@ -368,8 +378,9 @@ credit:
 3. **Bisphosphonates（Zoledronic acid）**：抑制破骨細胞，效果需 2–4 天。
 4. **Calcitonin**：快速起效（數小時）但效果短暫。
 5. **Denosumab**：RANKL inhibitor，用於 bisphosphonate-refractory。
-6. **Glucocorticoid**：適用於 granulomatous disease（sarcoidosis）及 lymphoma 引起的高鈣。
+6. **Glucocorticoid**：適用於 granulomatous disease（[[胸腔內科#結節病（Sarcoidosis）|sarcoidosis]]）及 lymphoma 引起的高鈣。
 7. **透析**：腎衰竭或對其他治療無效。
+- 詳見 [[電解質與酸鹼#高血鈣（Hypercalcemia）|高血鈣]]的評估流程
 
 ## 腎上腺疾病
 
@@ -388,7 +399,7 @@ credit:
 
 | 分類 | ACTH | 原因 |
 |------|------|------|
-| **ACTH-dependent（80%）** | ↑ | **Cushing's disease**（pituitary adenoma，最常見）、Ectopic ACTH（small cell lung Ca、carcinoid） |
+| **ACTH-dependent（80%）** | ↑ | **Cushing's disease**（pituitary adenoma，最常見）、Ectopic ACTH（[[胸腔內科#小細胞肺癌（SCLC，約 15%）\|small cell lung Ca]]、carcinoid） |
 | **ACTH-independent（20%）** | ↓ | **Adrenal adenoma**（最常見）、Adrenal carcinoma、bilateral hyperplasia |
 | **Exogenous** | ↓ | 長期使用 glucocorticoid（**整體最常見的 Cushing's 原因**） |
 
@@ -398,7 +409,7 @@ credit:
 - 皮膚薄、easy bruising、**purple striae**。
 - Proximal myopathy、osteoporosis。
 - Hyperglycemia / DM、HTN、hypokalemia。
-- Menstrual irregularity、hirsutism、acne。
+- Menstrual irregularity、[[皮膚系統主訴#多毛（Hirsutism / Hypertrichosis）|hirsutism]]、acne。
 - Immunosuppression → 感染。
 - Psychiatric：depression、psychosis。
 - 兒童：生長遲緩。
@@ -439,6 +450,7 @@ credit:
 
 - **最常見的繼發性高血壓內分泌原因**。
 - 原因：bilateral adrenal hyperplasia（**60–70%**）>  adenoma（30–40%）。
+- 詳見 [[內分泌系統主訴#內分泌性高血壓（Endocrine Hypertension）|內分泌性高血壓]]
 
 #### 臨床表現
 
@@ -478,7 +490,7 @@ credit:
 | 標記 | **17-OHP↑↑** | 11-deoxycortisol↑ | Progesterone↑ |
 
 - **21-Hydroxylase Deficiency**：
-    - 新生兒篩檢（台灣已納入）：**17-OHP↑**。
+    - [[小兒科#新生兒篩檢（台灣）|新生兒篩檢（台灣已納入）]]：**17-OHP↑**。
     - 治療：**Glucocorticoid（Hydrocortisone）** → 降低 ACTH → 減少 androgen；salt-wasting 型需加 **Fludrocortisone + 補鈉**。
 
 ### 腎上腺功能不全（Adrenal Insufficiency）
@@ -487,7 +499,7 @@ credit:
 
 | 類型 | 原因 | ACTH | 特有表現 |
 |------|------|------|----------|
-| **Primary（Addison's disease）** | 自體免疫（**已開發國家最常見**）、TB（全球最常見）、adrenal hemorrhage（Waterhouse-Friderichsen, DIC, anticoagulant）、metastasis、fungal | ↑↑ | **色素沉著**（ACTH↑ → MSH）；低鈉、高鉀、metabolic acidosis |
+| **Primary（Addison's disease）** | 自體免疫（**已開發國家最常見**）、TB（全球最常見）、adrenal hemorrhage（[[感染科#N. meningitidis（腦膜炎雙球菌）\|Waterhouse-Friderichsen]], DIC, anticoagulant）、metastasis、fungal | ↑↑ | **色素沉著**（ACTH↑ → MSH）；低鈉、高鉀、metabolic acidosis |
 | **Secondary** | Glucocorticoid 突然停藥（**最常見原因**）、pituitary disease | ↓ | **無色素沉著、無高血鉀**（aldosterone 由 RAAS 控制，較少受影響） |
 
 #### 臨床表現
@@ -517,6 +529,7 @@ credit:
 - 誘因：感染、手術、外傷、突然停用 glucocorticoid。
 - 症狀：refractory hypotension（輸液 + vasopressor 無效）、shock、高燒、意識改變、低血糖、低血鈉、高血鉀。
 - 治療：:red[IV Hydrocortisone 100 mg bolus] → 50 mg q6–8h + 大量 N/S 輸液。
+- 詳見 [[內分泌系統主訴#腎上腺功能不全（Adrenal Insufficiency）|腎上腺功能不全]]的評估流程
 
 ### 嗜鉻細胞瘤（Pheochromocytoma）
 
@@ -561,6 +574,7 @@ credit:
 - 評估**是否為惡性**：
     - CT :red[< 10 HU]、lipid-rich → 很可能良性 adenoma。
     - \> 4 cm、irregular margins、CT > 10 HU → 懷疑惡性。
+- 詳見 [[偶發病灶#腎上腺偶發瘤（Adrenal Incidentaloma）|腎上腺偶發瘤]]的評估流程
 
 ## 糖尿病（Diabetes Mellitus）
 
@@ -581,7 +595,7 @@ credit:
 
 - **LADA（Latent Autoimmune Diabetes in Adults）**：成人發病的自體免疫 DM，初期似 Type 2 但 GAD Ab(+)，漸進需要 insulin。
 - **MODY（Maturity-Onset Diabetes of the Young）**：AD 遺傳、25 歲前發病、非肥胖、C-peptide 正常、Ab(-)。
-- **Gestational DM（GDM）**：妊娠 24–28 週 75g OGTT 篩檢。
+- **[[產科#妊娠糖尿病（Gestational Diabetes Mellitus, GDM）|Gestational DM（GDM）]]**：妊娠 24–28 週 75g OGTT 篩檢。
 
 ### 診斷標準
 
@@ -596,6 +610,7 @@ credit:
 
 - HbA1c 反映前 **2–3 個月**平均血糖（紅血球壽命 120 天）。
 - HbA1c 不準確的情況：溶血性貧血、sickle cell disease、severe CKD、大量輸血、pregnancy → FPG/OGTT 較佳。
+- 詳見 [[內分泌系統主訴#高血糖（Hyperglycemia）|高血糖]]
 
 ### 血糖控制目標
 
@@ -617,7 +632,7 @@ credit:
 | **Meglitinides**（Repaglinide） | 同 SU 但短效 | 餐前服用；低血糖風險較 SU 低 |
 | **Thiazolidinediones（TZD）**（Pioglitazone） | PPARγ agonist → ↑insulin sensitivity | 體重增加、水腫、**心衰竭惡化禁忌**、骨折風險↑；Pioglitazone ↓ TG、可能降肝脂肪 |
 | **DPP-4 inhibitors**（Sitagliptin） | 抑制 DPP-4 → ↑incretin（GLP-1）半衰期 | Weight neutral；不引起低血糖；可用於 CKD（部分需減量） |
-| **SGLT2 inhibitors**（Empagliflozin、Dapagliflozin、Canagliflozin） | 抑制腎近曲小管 SGLT2 → ↓glucose reabsorption → glycosuria | **心血管保護 + 腎臟保護 + 減重**；降低 HF hospitalization；副作用：UTI、genital mycotic infection、**euglycemic DKA**、Fournier's gangrene；volume depletion；:red[**術前 3 天停**] |
+| **SGLT2 inhibitors**（Empagliflozin、Dapagliflozin、Canagliflozin） | 抑制腎近曲小管 SGLT2 → ↓glucose reabsorption → glycosuria | **心血管保護 + 腎臟保護 + 減重**；降低 HF hospitalization；副作用：UTI、genital mycotic infection、**euglycemic DKA**、[[泌尿科#Fournier's Gangrene\|Fournier's gangrene]]；volume depletion；:red[**術前 3 天停**] |
 | **α-glucosidase inhibitors**（Acarbose） | 延緩腸道碳水化合物分解吸收 | 降餐後血糖；GI 副作用（flatulence）；低血糖需用 **glucose**（非 sucrose） |
 
 #### GLP-1 Receptor Agonists（注射為主）
@@ -696,31 +711,32 @@ credit:
 
 | 併發症 | 特點 | 篩檢 / 追蹤 |
 |--------|------|-------------|
-| **Diabetic neuropathy** | **最常見：distal symmetric polyneuropathy**（stocking-glove distribution）→ 感覺先於運動（burning、numbness、tingling）；Autonomic neuropathy：gastroparesis、orthostatic hypotension、erectile dysfunction、neurogenic bladder；Mononeuropathy：**CN III palsy（瞳孔通常保留）** | 每年足部檢查（monofilament test、tuning fork） |
-| **Diabetic retinopathy** | Non-proliferative（microaneurysm → 最早可見病變、hemorrhages、cotton-wool spots、hard exudates）→ Proliferative（neovascularization → vitreous hemorrhage → retinal detachment）；**Macular edema** 可發生在任何階段 | :red[T1DM：發病後 5 年開始]；T2DM：確診即篩檢；之後每年散瞳眼底檢查 |
-| **Diabetic nephropathy** | **最常見 ESRD 原因**；先出現 microalbuminuria（UACR 30–300 mg/g）→ macroalbuminuria → eGFR↓ → ESRD；病理：Kimmelstiel-Wilson nodules（nodular glomerulosclerosis） | 每年 UACR + eGFR；T1DM 發病後 5 年開始；T2DM 確診即篩檢 |
+| **[[神經內科#糖尿病神經病變\|Diabetic neuropathy]]** | **最常見：distal symmetric polyneuropathy**（stocking-glove distribution）→ 感覺先於運動（burning、numbness、tingling）；Autonomic neuropathy：gastroparesis、orthostatic hypotension、erectile dysfunction、neurogenic bladder；Mononeuropathy：**CN III palsy（瞳孔通常保留）** | 每年足部檢查（monofilament test、tuning fork） |
+| **[[眼科#糖尿病視網膜病變（Diabetic Retinopathy, DR）\|Diabetic retinopathy]]** | Non-proliferative（microaneurysm → 最早可見病變、hemorrhages、cotton-wool spots、hard exudates）→ Proliferative（neovascularization → vitreous hemorrhage → retinal detachment）；**Macular edema** 可發生在任何階段 | :red[T1DM：發病後 5 年開始]；T2DM：確診即篩檢；之後每年散瞳眼底檢查 |
+| **[[腎臟內科#Diabetic Kidney Disease（DKD）\|Diabetic nephropathy]]** | **最常見 ESRD 原因**；先出現 microalbuminuria（UACR 30–300 mg/g）→ macroalbuminuria → eGFR↓ → ESRD；病理：Kimmelstiel-Wilson nodules（nodular glomerulosclerosis） | 每年 UACR + eGFR；T1DM 發病後 5 年開始；T2DM 確診即篩檢 |
 
 #### 大血管併發症
 
 - **Coronary artery disease（CAD）**：DM 最主要死因。
 - Cerebrovascular disease（stroke）。
-- Peripheral artery disease（PAD）：claudication → 足部潰瘍/壞疽。
+- [[心臟內科#周邊動脈疾病（Peripheral Artery Disease, PAD）|Peripheral artery disease（PAD）]]：claudication → 足部潰瘍/壞疽。
 
 #### 糖尿病足
 
 - 機制：neuropathy（感覺喪失）+ PAD（缺血）+ 感染。
 - 最常見感染菌：**S. aureus**。
-- 評估：ABI（ankle-brachial index）、wound culture、X-ray（排除 osteomyelitis）。
+- 評估：ABI（ankle-brachial index）、wound culture、X-ray（排除 [[骨科#急性骨髓炎（Acute Osteomyelitis）|osteomyelitis]]）。
 - 治療：wound care、抗生素、血流重建（bypass/angioplasty）、截肢（severe ischemia/gangrene）。
 
 ### Hypoglycemia
 
 - 定義：**Whipple's triad** — 低血糖症狀 + plasma glucose < 70 + 補糖後症狀緩解。
 - 原因：
-    - **Insulinoma**：最常見的胰島細胞腫瘤（大多良性、solitary）。
+    - **[[內分泌外科#Insulinoma|Insulinoma]]**：最常見的胰島細胞腫瘤（大多良性、solitary）。
     - Exogenous insulin：insulin↑、C-peptide↓。
     - Sulfonylurea abuse：insulin↑、C-peptide↑、sulfonylurea screen (+)。
     - Adrenal insufficiency、liver failure、sepsis、alcohol。
+- 詳見 [[內分泌系統主訴#低血糖（Hypoglycemia）|低血糖]]的評估流程
 
 ## 脂質代謝異常（Dyslipidemia）
 
@@ -756,7 +772,7 @@ credit:
 
 | 藥物 | 機制 | 主要效果 | 重點副作用 |
 |------|------|----------|-----------|
-| **Statins**（HMG-CoA reductase inhibitor） | ↓肝臟 cholesterol 合成 → ↑LDL receptor | **LDL↓（最有效）**、TG↓、HDL↑ | Myopathy / **Rhabdomyolysis**、肝功能異常、new-onset DM |
+| **Statins**（HMG-CoA reductase inhibitor） | ↓肝臟 cholesterol 合成 → ↑LDL receptor | **LDL↓（最有效）**、TG↓、HDL↑ | Myopathy / **[[生化異常#肌酸激酶升高（Elevated Creatine Kinase）\|Rhabdomyolysis]]**、肝功能異常、new-onset DM |
 | **Ezetimibe** | ↓腸道 cholesterol 吸收（NPC1L1 inhibitor） | LDL↓ | 與 statin 併用效果好 |
 | **PCSK9 inhibitors**（Evolocumab、Alirocumab） | ↑LDL receptor recycling → LDL clearance↑↑ | LDL↓↓（可降 50–70%） | 注射、昂貴 |
 | **Fibrates**（Fenofibrate、Gemfibrozil） | PPARα agonist → ↓TG 合成、↑LPL | **TG↓（最有效）**、HDL↑ | Myopathy（**Gemfibrozil + statin 風險最高**）、gallstone、Cr 假性上升 |
@@ -775,10 +791,11 @@ credit:
 ### Severe Hypertriglyceridemia
 
 - **TG > 500 mg/dL**。
-- 最大風險：**急性胰臟炎**。
+- 最大風險：**[[消化內科#急性胰臟炎（Acute Pancreatitis）|急性胰臟炎]]**。
 - 治療優先：降 TG → **Fibrate 首選** ± Omega-3。
 - 極高（TG > 1000）→ 可能需要 insulin drip（↑LPL activity）或血漿置換。
 - 生活型態：限酒、減重、限制精製碳水化合物。
+- 詳見 [[生化異常#血脂異常（Dyslipidemia）|血脂異常]]
 
 ## 肥胖與代謝症候群
 
@@ -792,6 +809,7 @@ credit:
 | :red[≥ 27] | 肥胖 |
 
 - 腰圍（台灣標準）：:red[男 ≥ 90 cm、女 ≥ 80 cm] → 中心型肥胖。
+- 詳見 [[全身症狀#體重增加與肥胖（Weight Gain / Obesity）|體重增加與肥胖]]
 
 ### 代謝症候群（Metabolic Syndrome）
 
@@ -805,7 +823,7 @@ credit:
 | 血壓 | ≥ 130/85 mmHg 或藥物治療中 |
 | 空腹血糖 | ≥ 100 mg/dL 或藥物治療中 |
 
-- 臨床意義：增加 Type 2 DM、CVD、NAFLD、PCOS 風險。
+- 臨床意義：增加 Type 2 DM、CVD、[[消化內科#非酒精性脂肪肝病（NAFLD）|NAFLD]]、[[生殖內分泌科#多囊性卵巢症候群（PCOS）|PCOS]] 風險。
 
 ### 肥胖治療
 
@@ -820,7 +838,7 @@ credit:
         - **Orlistat**（lipase inhibitor）：↓脂肪吸收；副作用：steatorrhea、脂溶性 vitamin↓。
         - **Naltrexone/Bupropion**：中樞抑制食慾。
         - **Phentermine/Topiramate**：交感作用 + 抑制食慾。
-- **減重手術（Bariatric surgery）**（:red[BMI ≥ 37.5 或 ≥ 32.5 有共病]）：
+- **[[胃小腸外科#減重手術（Bariatric Surgery）|減重手術（Bariatric surgery）]]**（:red[BMI ≥ 37.5 或 ≥ 32.5 有共病]）：
     - **Roux-en-Y gastric bypass（RYGB）**：限制性 + 吸收不良性 → 減重效果佳。
     - **Sleeve gastrectomy**：目前最常做的術式；限制性；併發症較少。
     - 術後：需終身補充 vitamins（B12、iron、calcium、folate）。
@@ -836,19 +854,21 @@ credit:
 - 風險因子：
     - 不可改變：年齡、女性、白人/亞洲人、家族史、早發停經。
     - 可改變：低體重、抽菸、酗酒、低鈣/Vit D、缺乏運動。
-    - 續發性：**Glucocorticoid（最常見藥物原因）**、甲亢、hyperparathyroidism、hypogonadism、Cushing's、multiple myeloma、anticonvulsants。
+    - 續發性：**Glucocorticoid（最常見藥物原因）**、甲亢、hyperparathyroidism、hypogonadism、Cushing's、[[血液腫瘤科#多發性骨髓瘤（Multiple Myeloma）|multiple myeloma]]、anticonvulsants。
 - 所有患者均需補充 Calcium（1000–1200 mg/day）+ Vitamin D（800–2000 IU/day）。
 
 | 藥物 | 機制 | 重點 |
 |------|------|------|
 | **Bisphosphonates**（Alendronate、Risedronate、Zoledronic acid） | 抑制破骨細胞（anti-resorptive） | **首選第一線**；副作用：食道炎（口服需空腹直立服用）、**ONJ**、**atypical femur fracture**（長期使用） |
 | **Denosumab** | RANKL monoclonal Ab → 抑制破骨細胞 | 皮下注射 q6 mo；停用後 rebound bone loss + fracture risk↑↑ → **不可突然停藥** |
-| **Teriparatide（PTH analog）** | Intermittent PTH → **anabolic** | 適用嚴重骨鬆或 bisphosphonate 失敗；:red[最多 2 年]；禁忌：Paget's、bone malignancy、radiation to bone |
+| **Teriparatide（PTH analog）** | Intermittent PTH → **anabolic** | 適用嚴重骨鬆或 bisphosphonate 失敗；:red[最多 2 年]；禁忌：[[骨科#Paget's disease of bone\|Paget's]]、bone malignancy、radiation to bone |
 | **Romosozumab** | Anti-sclerostin → anabolic + anti-resorptive | 適用極高骨折風險；12 個月為一療程；CV risk → 禁用於近期 MI/stroke |
 | **Raloxifene** | SERM → 骨骼 estrogen agonist | 降低脊椎骨折；↑DVT 風險；↓breast cancer 風險 |
 | **Calcitonin** | 抑制破骨細胞 | 效果最弱；用於急性脊椎骨折止痛 |
 
 ::chart{id="osteoporosis-treatment"}
+
+- 詳見 [[肌肉骨骼系統主訴#骨痛與脆弱性骨折（Bone Pain / Fragility Fracture）|骨痛與脆弱性骨折]]
 
 ### 骨軟化症與佝僂病（Osteomalacia / Rickets）
 
@@ -856,7 +876,7 @@ credit:
 - Rickets = 兒童（生長板未閉合）；Osteomalacia = 成人。
 - 病因：
     - **Vitamin D 缺乏**（最常見）：日照不足、吸收不良、肝腎疾病（活化障礙）。
-    - 磷缺乏：X-linked hypophosphatemia（最常見遺傳性 rickets）、Fanconi syndrome、腫瘤性骨軟化症（FGF-23↑）。
+    - 磷缺乏：X-linked hypophosphatemia（最常見遺傳性 rickets）、[[腎臟內科#腎小管性酸中毒（Renal Tubular Acidosis, RTA）|Fanconi syndrome]]、腫瘤性骨軟化症（FGF-23↑）。
 - 實驗室：Ca↓、P↓、ALP↑、PTH↑（secondary hyperparathyroidism）、25(OH)D↓。
 - 臨床表現：
     - 成人：骨痛、近端肌無力、骨折。
@@ -874,7 +894,7 @@ credit:
 |------|------|
 | **Parathyroid hyperplasia**（>95%，最常見，通常最早出現） | Primary hyperparathyroidism |
 | **Pituitary adenoma** | 最常見 **prolactinoma**；各種前葉荷爾蒙過多 |
-| **Pancreatic islet cell tumor** | **Gastrinoma（最常見 → Zollinger-Ellison syndrome）**、Insulinoma、VIPoma、Glucagonoma |
+| **Pancreatic islet cell tumor** | **Gastrinoma（最常見 → [[胃小腸外科#Zollinger-Ellison Syndrome（ZES）\|Zollinger-Ellison syndrome]]）**、Insulinoma、VIPoma、Glucagonoma |
 
 ### MEN 2A
 
@@ -895,7 +915,7 @@ credit:
 | **Medullary thyroid carcinoma**（最侵襲性，更早發） | 常在兒童期 |
 | **Pheochromocytoma** | 常為雙側 |
 | **Mucosal neuromas**（唇、舌） | 最具特徵性的外觀 |
-| **Marfanoid habitus** | 高瘦、長肢 |
+| **[[小兒科#馬凡氏症候群（Marfan Syndrome）\|Marfanoid habitus]]** | 高瘦、長肢 |
 
 - MEN 2A/2B：RET mutation 確認 → 家族篩檢 → 預防性甲狀腺切除。
     - MEN 2B 建議出生後 6 個月內；MEN 2A 依 mutation risk level。
@@ -905,7 +925,7 @@ credit:
 
 ### Zollinger-Ellison Syndrome（ZES）
 
-- **Gastrinoma** → gastrin↑↑ → 胃酸過度分泌 → multiple / refractory peptic ulcers。
+- **Gastrinoma** → gastrin↑↑ → 胃酸過度分泌 → multiple / refractory [[消化系統主訴#內視鏡發現與後續（消化性潰瘍）|peptic ulcers]]。
 - 好發部位：**Gastrinoma triangle**（duodenum > pancreas）。
 - 約 25% 與 **MEN 1** 相關。
 - 臨床：multiple ulcers（atypical location）、diarrhea、refractory GERD。
@@ -953,5 +973,5 @@ credit:
 
 | Type | 遺傳 | 組成 |
 |------|------|------|
-| **Type I（APS-1 / APECED）** | AR — **AIRE gene** mutation | **Mucocutaneous candidiasis + Hypoparathyroidism + Addison's disease**（至少 2/3）；兒童期發病 |
+| **Type I（APS-1 / APECED）** | AR — **AIRE gene** mutation | **[[皮膚科#皮膚念珠菌症（Cutaneous Candidiasis）\|Mucocutaneous candidiasis]] + Hypoparathyroidism + Addison's disease**（至少 2/3）；兒童期發病 |
 | **Type II（Schmidt syndrome）** | HLA-associated（polygenic） | **Addison's disease + Autoimmune thyroid disease（Hashimoto's 或 Graves'）± Type 1 DM**；最常見的 APS |
