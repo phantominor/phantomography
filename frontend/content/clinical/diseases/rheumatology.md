@@ -58,7 +58,7 @@ credit:
 - **補體缺乏與疾病**：
     - **C1q / C2 / C4 缺乏** → 與 **SLE** 高度相關（免疫複合體清除障礙）。
     - **C3 缺乏** → 反覆嚴重化膿性感染（含莢膜菌）。
-    - **C5–C9（MAC）缺乏** → 反覆 **Neisseria（腦膜炎雙球菌/淋病雙球菌）感染**；CH50 極低。
+    - **C5–C9（MAC）缺乏** → 反覆 **[[感染科#Neisseria|Neisseria（腦膜炎雙球菌/淋病雙球菌）感染]]**；CH50 極低。
     - **C1-esterase inhibitor 缺乏** → **遺傳性血管性水腫（Hereditary Angioedema, HAE）**。
 
 ### 細胞激素重點整理
@@ -82,9 +82,9 @@ credit:
 | 類型 | 機制 | 時間 | 代表疾病 |
 |------|------|------|----------|
 | **Type I（即發型）** | IgE + mast cell/basophil 脫顆粒 | 數分鐘 | 過敏性鼻炎、氣喘、蕁麻疹、anaphylaxis、食物/藥物過敏 |
-| **Type II（細胞毒殺型）** | IgG/IgM 結合細胞表面抗原 → 補體/ADCC | 數小時 | 自體免疫溶血性貧血（AIHA）、Goodpasture、新生兒溶血、ABO 輸血反應、HIT type II、Graves'、重症肌無力 |
-| **Type III（免疫複合體型）** | Ag-Ab 複合物沉積 → 活化補體 | 數小時–天 | SLE 腎炎、血清病（serum sickness）、PSGN、Arthus reaction、RA |
-| **Type IV（延遲型）** | T cell 媒介 | 24–72 hr | 結核菌素反應（TST/PPD）、接觸性皮膚炎、移植排斥（急性）、肉芽腫形成、Steven-Johnson / DRESS |
+| **Type II（細胞毒殺型）** | IgG/IgM 結合細胞表面抗原 → 補體/ADCC | 數小時 | 自體免疫溶血性貧血（AIHA）、[[腎臟內科#Type I：Anti-GBM Disease（Goodpasture's Disease）\|Goodpasture]]、[[產科#Rh 同種免疫（Rh Isoimmunization）\|新生兒溶血]]、ABO 輸血反應、[[血液腫瘤科#Heparin-Induced Thrombocytopenia（HIT）\|HIT type II]]、[[代謝內分泌科#Graves' Disease\|Graves']]、[[神經內科#重症肌無力（Myasthenia Gravis, MG）\|重症肌無力]] |
+| **Type III（免疫複合體型）** | Ag-Ab 複合物沉積 → 活化補體 | 數小時–天 | SLE 腎炎、血清病（serum sickness）、[[腎臟內科#Post-Streptococcal Glomerulonephritis（PSGN）\|PSGN]]、Arthus reaction、RA |
+| **Type IV（延遲型）** | T cell 媒介 | 24–72 hr | 結核菌素反應（TST/PPD）、[[皮膚科#接觸性皮膚炎（Contact Dermatitis）\|接觸性皮膚炎]]、移植排斥（急性）、肉芽腫形成、Steven-Johnson / [[皮膚科#Drug Reaction with Eosinophilia and Systemic Symptoms（DRESS）\|DRESS]] |
 
 ### 過敏性休克（Anaphylaxis）
 
@@ -99,6 +99,8 @@ credit:
 
 ::chart{id="anaphylaxis"}
 
+- 麻醉中的過敏反應詳見 [[麻醉科#麻醉中過敏反應（Anaphylaxis）|麻醉科]]
+
 ### 血管性水腫（Angioedema）
 
 - **ACEi 引起**：最常見藥物引起之血管性水腫，bradykinin 媒介（非 histamine）→ **antihistamine 無效**。
@@ -108,6 +110,7 @@ credit:
     - 實驗室：C4↓（篩檢首選）、C1-INH 量或功能↓、C3 正常。
     - 急性治療：C1-INH concentrate、Icatibant、Ecallantide（kallikrein inhibitor）。
     - 預防：Lanadelumab（anti-kallikrein）、Danazol（有男性化副作用）。
+- 詳見 [[皮膚系統主訴#蕁麻疹與血管性水腫（Urticaria / Angioedema）|蕁麻疹與血管性水腫]]的評估流程
 
 ### 藥物過敏
 
@@ -125,6 +128,7 @@ credit:
     - 常見藥物：allopurinol、anticonvulsants、sulfonamides、dapsone、vancomycin。
     - **HHV-6 reactivation** 常伴隨；後遺症可有自體免疫甲狀腺炎、第一型糖尿病。
     - 治療：停藥 + 全身性 corticosteroid（需緩慢 taper 數週以免反彈）。
+- 詳見 [[皮膚系統主訴#藥物疹與嚴重皮膚反應（Drug Eruptions / SCAR）|藥物疹與嚴重皮膚反應]]
 
 ## 自體免疫總論
 
@@ -150,7 +154,7 @@ credit:
 | **c-ANCA（anti-PR3）** | **GPA（Wegener's）** | — |
 | **p-ANCA（anti-MPO）** | **MPA、EGPA（Churg-Strauss）** | — |
 | **Anti-GBM** | **Goodpasture syndrome** | 抗 type IV collagen α3 chain |
-| **Anti-PLA2R** | **Primary membranous nephropathy** | — |
+| **Anti-PLA2R** | **[[腎臟內科#Membranous Nephropathy（MN）\|Primary membranous nephropathy]]** | — |
 | **Anti-phospholipid Ab**（aCL, anti-β2GPI, lupus anticoagulant） | **APS（Antiphospholipid Syndrome）** | 血栓、流產 |
 
 ### HLA 與疾病關聯
@@ -162,7 +166,7 @@ credit:
 | HLA-DR3 / DR4 | **Type 1 DM** | — |
 | HLA-DR2 | SLE、Goodpasture | — |
 | HLA-DR3 | SLE、Sjögren's | — |
-| HLA-DQ2 / DQ8 | **Celiac disease** | — |
+| HLA-DQ2 / DQ8 | **[[消化內科#Celiac Disease（乳糜瀉）\|Celiac disease]]** | — |
 | HLA-B51 | **Behçet's disease** | — |
 | HLA-B*5801 | **Allopurinol 過敏（SJS/TEN）** | 台灣尤其重要 |
 | HLA-B*1502 | **Carbamazepine 過敏（SJS/TEN）** | 東南亞/漢人族群 |
@@ -183,7 +187,7 @@ credit:
     - Anti-dsDNA 或 Anti-Sm：6 分。
     - 抗磷脂抗體：2 分。
     - 補體低下（C3↓或 C4↓）：3–4 分。
-    - 關節炎、皮膚（蝶形紅斑、ACLE、SCLE、DLE）、漿膜炎、血液學異常（溶血性貧血、白血球減少、血小板減少）、神經精神等。
+    - 關節炎、皮膚（蝶形紅斑、ACLE、SCLE、DLE）、漿膜炎、血液學異常（[[血液腫瘤科#自體免疫溶血性貧血（Autoimmune Hemolytic Anemia, AIHA）|溶血性貧血]]、白血球減少、血小板減少）、神經精神等。
 
 ### 臨床表現
 
@@ -194,6 +198,7 @@ credit:
 - **光敏感（Photosensitivity）**。
 - **口腔潰瘍**：通常無痛。
 - **非疤痕性脫髮**。
+- 詳見 [[皮膚系統主訴#臉部紅疹（Facial Rash）|臉部紅疹]]的鑑別
 
 #### 腎臟（Lupus Nephritis）
 
@@ -211,6 +216,7 @@ credit:
 - Class III/IV 治療：
     - **Induction**：Mycophenolate/Cyclophosphamide + corticosteroid。
     - **Maintenance**：Mycophenolate/Azathioprine。
+- 詳見 [[腎臟內科#Lupus Nephritis|腎臟內科的 Lupus Nephritis]]
 
 #### 關節
 
@@ -226,7 +232,7 @@ credit:
 #### 漿膜炎
 
 - 肋膜炎。
-- 心包膜炎（最常見的心臟表現）。
+- [[心臟內科#急性心包膜炎（Acute Pericarditis）|心包膜炎]]（最常見的心臟表現）。
 
 #### 神經精神
 
@@ -240,7 +246,7 @@ credit:
 
 #### 肺部
 
-- 肋膜積液（最常見肺部表現）。
+- [[呼吸系統主訴#肋膜積液（Pleural Effusion）|肋膜積液]]（最常見肺部表現）。
 - Shrinking lung syndrome、肺出血（rare but serious）。
 
 ### 實驗室
@@ -276,7 +282,7 @@ credit:
 ### 新生兒狼瘡（Neonatal Lupus）
 
 - 母體 **anti-Ro（SS-A）** ± anti-La（SS-B）通過胎盤。
-- 表現：皮疹（暫時性）、血液學異常（暫時性）、**先天性心臟傳導阻滯**（永久性，可能需 pacemaker）。
+- 表現：皮疹（暫時性）、血液學異常（暫時性）、**[[心臟內科#AV Block|先天性心臟傳導阻滯]]**（永久性，可能需 pacemaker）。
 - 母親可以是 SLE 患者，也可以是無症狀的 anti-Ro 攜帶者。
 
 ### Antiphospholipid Syndrome（APS）
@@ -286,7 +292,7 @@ credit:
     - Lupus anticoagulant 使 aPTT 延長（in vitro），但 **in vivo 是 prothrombotic**。
 - **臨床表現**：
     - **動靜脈血栓**：DVT（最常見）、PE、中風、腎動脈栓塞。
-    - **妊娠併發症**：反覆流產（:red[≥3 次 <10 週，或 ≥1 次 >10 週死產]）、子癇前症、HELLP。
+    - **妊娠併發症**：反覆流產（:red[≥3 次 <10 週，或 ≥1 次 >10 週死產]）、[[產科#子癇前症（Preeclampsia）|子癇前症]]、[[產科#HELLP Syndrome|HELLP]]。
     - **Livedo reticularis**（網狀青斑）。
     - 血小板減少（消耗性）。
 - **診斷**：至少 1 項臨床標準 + 至少 1 項實驗室標準，且**抗體需間隔 :red[≥12 週]兩次陽性**。
@@ -317,13 +323,13 @@ credit:
 
 ### 關節外表現
 
-- **肺**：ILD、肋膜積液（低 glucose、高 LDH）、Caplan syndrome（RA + 矽肺 → 肺結節）。
+- **肺**：ILD、肋膜積液（低 glucose、高 LDH）、[[胸腔內科#職業性/暴露性肺病|Caplan syndrome]]（RA + 矽肺 → 肺結節）。
 - **血液**：Felty syndrome（RA + splenomegaly + neutropenia）。
 - **血管**：Rheumatoid vasculitis（嚴重 seropositive RA）。
-- **眼**：乾眼症（secondary Sjögren's）、鞏膜炎（scleritis）、鞏膜外層炎（episcleritis）。
+- **眼**：乾眼症（secondary Sjögren's）、[[眼科#上鞏膜炎與鞏膜炎|鞏膜炎（scleritis）]]、鞏膜外層炎（episcleritis）。
 - **皮膚**：Rheumatoid nodules（伸側，如前臂、肘部）。
 - **心血管**：早發性冠狀動脈疾病。
-- **神經**：carpal tunnel syndrome。
+- **神經**：[[骨科#腕隧道症候群（Carpal Tunnel Syndrome）|carpal tunnel syndrome]]。
 
 ### 實驗室與影像
 
@@ -361,13 +367,15 @@ credit:
 | **DIP 侵犯** | **不侵犯** | **典型侵犯** | 可 | 可 |
 | **晨僵** | **>1 小時** | **<30 分鐘** | 無明顯晨僵 | 無明顯晨僵 |
 | **疼痛特性** | 休息時痛，活動後改善 | 活動後加重，休息改善 | 突發劇痛，數小時達高峰 | 急性發作類似 gout |
-| **理學檢查** | Swan neck / Boutonnière / ulnar deviation | Heberden's、Bouchard's、crepitus | 紅腫熱痛、**tophi**（慢性） | — |
+| **理學檢查** | Swan neck / Boutonnière / ulnar deviation | [[骨科#退化性關節炎（Osteoarthritis, OA）\|Heberden's]]、Bouchard's、crepitus | 紅腫熱痛、**tophi**（慢性） | — |
 | **X-ray** | Juxta-articular osteopenia → **marginal erosion** | **Osteophytes**、subchondral sclerosis/cysts | Rat-bite erosion | Chondrocalcinosis |
 | **關節液 WBC** | 2,000–50,000 | **<2,000** | >50,000 | 2,000–50,000 |
 | **結晶** | 無 | 無 | **Needle, negatively birefringent** | **Rhomboid, positively birefringent** |
 | **年輕發病** | — | 外傷/職業 | Lesch-Nyhan（HGPRT 缺乏） | 合併代謝性疾病 |
 | **急性期治療** | Steroid bridge + DMARD 起始 | Acetaminophen / NSAIDs | **NSAIDs / Colchicine / Steroid** | NSAIDs / Colchicine / IA steroid |
 | **核心治療** | **MTX 首選** → bDMARD/tsDMARD | 減重 + 運動；嚴重→關節置換 | **Allopurinol**（注意 HLA-B*5801） | 無特效降結晶藥 |
+
+- 詳見 [[肌肉骨骼系統主訴#多關節痛（Polyarthritis / Polyarthralgia）|多關節痛]]、[[肌肉骨骼系統主訴#急性單關節炎（Acute Monoarthritis）|急性單關節炎]]的評估流程
 
 ## 脊椎關節病變（Spondyloarthritis, SpA）
 
@@ -378,7 +386,7 @@ credit:
 - 脊椎/薦腸關節侵犯（axial involvement）。
 - 附著點炎（enthesitis）：肌腱/韌帶附著於骨頭處發炎。
 - 指趾炎（dactylitis, sausage digit）。
-- 關節外表現：前葡萄膜炎（anterior uveitis）、乾癬、IBD。
+- 關節外表現：前葡萄膜炎（anterior uveitis）、[[皮膚科#乾癬（Psoriasis）|乾癬]]、[[消化內科#發炎性腸道疾病（Inflammatory Bowel Disease, IBD）|IBD]]。
 
 ### 僵直性脊椎炎（Ankylosing Spondylitis, AS）
 
@@ -392,8 +400,8 @@ credit:
     - 晚期：**bamboo spine**（椎體方形化 + syndesmophyte 融合）。
 - **關節外表現**：
     - **急性前葡萄膜炎（AAU）**：最常見關節外表現，單側紅、痛、畏光、視力模糊。
-    - 主動脈瓣閉鎖不全（aortic regurgitation）、傳導異常。
-    - IgA 腎病變。
+    - [[心臟內科#主動脈瓣閉鎖不全（Aortic Regurgitation, AR）|主動脈瓣閉鎖不全（aortic regurgitation）]]、傳導異常。
+    - [[腎臟內科#IgA Nephropathy（Berger's Disease）|IgA 腎病變]]。
     - 肺上葉纖維化（apical fibrosis）。
     - 骨質疏鬆 → 脊椎骨折風險。
 - **影像**：
@@ -403,6 +411,7 @@ credit:
     - 第一線：**NSAIDs**（首選，持續使用比 PRN 好）+ 規律運動/物理治療。
     - NSAIDs 反應不佳：**TNF-α inhibitors**（Adalimumab、Etanercept 等）或 **IL-17A inhibitors**（Secukinumab、Ixekizumab）。
     - 不用 MTX（對中軸型 SpA 無效）、少用 Corticosteroid（但可局部注射）。
+- 詳見 [[肌肉骨骼系統主訴#下背痛（Low Back Pain）|下背痛]]的評估流程
 
 ### 乾癬性關節炎（Psoriatic Arthritis, PsA）
 
@@ -425,7 +434,7 @@ credit:
 ### 反應性關節炎（Reactive Arthritis）
 
 - 泌尿生殖或腸道感染後 1–4 週出現。
-    - 泌尿生殖：**Chlamydia trachomatis**（最常見）。
+    - 泌尿生殖：**[[感染科#Chlamydia|Chlamydia trachomatis]]**（最常見）。
     - 腸道：Salmonella、Shigella、Campylobacter、Yersinia。
 - **典型三聯征**：**關節炎 + 尿道炎 + 結膜炎**。
 - 特徵：不對稱下肢大關節少關節炎、enthesitis、dactylitis。
@@ -458,10 +467,10 @@ credit:
 - **腺體外表現**：
     - **關節痛/關節炎**（非侵蝕性）。
     - **間質性肺炎 / ILD**。
-    - **腎小管酸中毒（Renal Tubular Acidosis, Type I）**。
+    - **[[腎臟內科#腎小管性酸中毒（Renal Tubular Acidosis, RTA）|腎小管酸中毒（Renal Tubular Acidosis, Type I）]]**。
     - 周邊神經病變。
     - 皮膚血管炎（palpable purpura）。
-    - **淋巴瘤**：**MALT lymphoma** → 腮腺腫大，需警覺。
+    - **淋巴瘤**：**[[血液腫瘤科#Non-Hodgkin Lymphoma（NHL）|MALT lymphoma]]** → 腮腺腫大，需警覺。
     - Hypergammaglobulinemia（polyclonal）。
 
 ### 診斷
@@ -486,12 +495,12 @@ credit:
 | 別名 | CREST syndrome | — |
 | 皮膚範圍 | 手肘/膝蓋以遠（指端 + 臉） | 軀幹 + 四肢近端 |
 | 抗體 | **Anti-centromere** | **Anti-Scl-70**（anti-topoisomerase I）或 **Anti-RNA polymerase III** |
-| 內臟 | **肺動脈高壓（PAH）** | **ILD**、**Scleroderma renal crisis** |
+| 內臟 | **[[心臟內科#肺動脈高壓（Pulmonary Hypertension, PH）\|肺動脈高壓（PAH）]]** | **ILD**、**[[腎臟內科#Scleroderma Renal Crisis\|Scleroderma renal crisis]]** |
 | 病程 | 較緩慢 | 較快速進展 |
 
 ### 臨床表現
 
-- **Raynaud's phenomenon**：最早出現的症狀，常比皮膚變化早數年。
+- **[[肌肉骨骼系統主訴#雷諾現象（Raynaud's Phenomenon）|Raynaud's phenomenon]]**：最早出現的症狀，常比皮膚變化早數年。
     - 三色變化：白（缺血）→ 紫/藍（缺氧）→ 紅（再灌注）。
     - SSc 的 Raynaud's 可致指端潰瘍（digital ulcers）、指尖壞疽。
 - **皮膚**：初期腫脹（puffy hands）→ 硬化（sclerosis）→ 萎縮。
@@ -499,12 +508,12 @@ credit:
     - 指硬皮（sclerodactyly）。
     - 皮下鈣化（calcinosis）。
 - **消化道**：
-    - **食道**：最常受影響的內臟器官，下食道括約肌鬆弛 → **GERD**、吞嚥困難。
+    - **食道**：最常受影響的內臟器官，下食道括約肌鬆弛 → **[[消化內科#胃食道逆流（GERD）|GERD]]**、吞嚥困難。
     - 胃排空延遲、小腸細菌過度增生 → 腹脹、腹瀉、營養不良。
     - 大腸：便秘、假性腸阻塞。
     - Watermelon stomach（gastric antral vascular ectasia, GAVE）。
 - **肺**：
-    - **間質性肺病（ILD）**：dcSSc 的主要死因；HRCT → ground-glass opacities / honeycombing；PFT → restrictive pattern + DLCO↓。
+    - **[[胸腔內科#間質性肺病（Interstitial Lung Disease, ILD）|間質性肺病（ILD）]]**：dcSSc 的主要死因；HRCT → ground-glass opacities / honeycombing；PFT → restrictive pattern + DLCO↓。
     - **肺動脈高壓（PAH）**：lcSSc 的主要死因；監測：定期心臟超音波 + DLCO。
 - **腎臟**：
     - **Scleroderma renal crisis**：突發嚴重高血壓 + 急性腎衰竭 + microangiopathic hemolytic anemia（MAHA）。
@@ -557,15 +566,16 @@ credit:
 
 ### 診斷
 
-- **CK 升高**。
+- **[[生化異常#肌酸激酶升高（Elevated Creatine Kinase）|CK 升高]]**。
 - **EMG**：myopathic pattern（small, short, polyphasic motor units + spontaneous fibrillation）。
 - **MRI**：肌肉水腫（T2/STIR signal↑）。
 - **Muscle biopsy**：gold standard。
 - **抗體**：Anti-Jo-1（ILD）、Anti-Mi-2（預後好）、Anti-MDA5（急性 ILD）、Anti-SRP（壞死性肌病）、Anti-TIF1-γ（惡性腫瘤）。
 - **惡性腫瘤篩檢**：
     - **成人 DM 與惡性腫瘤強烈相關**（尤其 anti-TIF1-γ 陽性）。
-    - 常見：卵巢癌、肺癌、胃癌、大腸癌、鼻咽癌（亞洲人）。
+    - 常見：卵巢癌、肺癌、胃癌、大腸癌、[[耳鼻喉科#鼻咽癌（Nasopharyngeal Carcinoma, NPC）|鼻咽癌]]（亞洲人）。
     - 確診後應做全面癌症篩檢，並持續追蹤 3–5 年。
+- 詳見 [[肌肉骨骼系統主訴#肌肉痛（Myalgia）|肌肉痛]]、[[生化異常#肌酸激酶升高（Elevated Creatine Kinase）|肌酸激酶升高]]的評估流程
 
 ### 治療
 
@@ -588,7 +598,7 @@ credit:
 | 年齡 | **<40 歲**，亞洲女性 | **>50 歲**，白人 |
 | 侵犯 | 主動脈弓及其分支 | **顳動脈**、主動脈及分支 |
 | 症狀 | 上肢脈搏弱/無脈 → **Pulseless disease**、肢端 claudication、血壓差異、主動脈瓣閉鎖不全 | **新發頭痛**、顳動脈壓痛/搏動減弱、下巴間歇性跛行（jaw claudication） |
-| 最嚴重 | 腎動脈狹窄 → HTN、主動脈瘤 | **失明**（anterior ischemic optic neuropathy, AION） → 眼科急症 |
+| 最嚴重 | [[腎臟內科#腎動脈狹窄（Renal Artery Stenosis）\|腎動脈狹窄]] → HTN、主動脈瘤 | **[[五官主訴#急性視力喪失（Acute Vision Loss）\|失明]]**（anterior ischemic optic neuropathy, AION） → 眼科急症 |
 | 與 PMR 關聯 | 無 | 約 40–50% 合併 **PMR** |
 | 實驗室 | ESR↑ | **ESR 非常高**（>50–100）、CRP↑ |
 | 診斷 | CTA / MRA → 血管壁增厚、狹窄 | **顳動脈活檢（gold standard）** → granulomatous inflammation with giant cells；但活檢正常不排除（skip lesion） |
@@ -601,13 +611,14 @@ credit:
 - 實驗室：ESR↑↑、CRP↑。
 - 治療：**低劑量 Prednisone** → 通常 24–72 小時內顯著改善（dramatic response）。
 - 若無快速反應 → 重新考慮診斷。
+- 詳見 [[生化異常#發炎指標升高（Elevated CRP / ESR / Procalcitonin）|發炎指標升高]]；顳動脈炎的神經眼科表現詳見 [[神經內科#顳動脈炎（Giant Cell Arteritis, GCA）|神經內科]]
 
 ### 中血管炎（Medium-vessel Vasculitis）
 
-| | **Polyarteritis Nodosa（PAN）** | **Kawasaki Disease** |
+| | **Polyarteritis Nodosa（PAN）** | **[[小兒科#川崎病（Kawasaki Disease）\|Kawasaki Disease]]** |
 |--|--------------------------------|----------------------|
 | 年齡 | 中年（40–60 歲） | **<5 歲兒童** |
-| 關聯 | **HBV**（約 30%） | — |
+| 關聯 | **[[消化內科#Hepatitis B（HBV）\|HBV]]**（約 30%） | — |
 | 侵犯 | 中型肌肉動脈（腎、腸系膜、皮膚、神經、睪丸）；**不侵犯肺、不侵犯腎絲球** | 冠狀動脈 → **冠狀動脈瘤** |
 | 特色 | 腎動脈微小動脈瘤 → HTN、腸系膜缺血、mononeuritis multiplex、livedo reticularis、睪丸痛 | 發燒 :red[≥5 天 + 以下 ≥4 項]：雙側非化膿性結膜炎、口腔黏膜變化（草莓舌、唇裂）、頸部淋巴結腫大、多型性皮疹、手足末梢變化（水腫→脫皮） |
 | 診斷 | 血管攝影 → beading（microaneurysm + stenosis）；組織切片 → fibrinoid necrosis of vessel wall | 臨床標準 |
@@ -621,7 +632,7 @@ credit:
 |--|----------------------|---------|--------------------------|
 | ANCA | **c-ANCA（anti-PR3）** | **p-ANCA（anti-MPO）** | **p-ANCA（anti-MPO）**（約 40%） |
 | 侵犯 | 上呼吸道 + 肺 + 腎 | 肺 + 腎 | 肺 + 多器官 |
-| 特色 | **鞍鼻（saddle nose）**、鼻竇炎/出血性鼻炎、**肺部空洞/結節**、RPGN | **RPGN**（腎臟主要表現）、肺出血 → **Pulmonary-renal syndrome** | **氣喘 + 嗜酸性球增多** + 血管炎；Mononeuritis multiplex |
+| 特色 | **鞍鼻（saddle nose）**、鼻竇炎/出血性鼻炎、**肺部空洞/結節**、[[腎臟內科#Rapidly Progressive Glomerulonephritis（RPGN）\|RPGN]] | **RPGN**（腎臟主要表現）、肺出血 → **Pulmonary-renal syndrome** | **氣喘 + 嗜酸性球增多** + 血管炎；Mononeuritis multiplex |
 | 腎臟 | **Pauci-immune RPGN** | **Pauci-immune RPGN** | 少見腎侵犯 |
 
 - AAV 治療：
@@ -634,18 +645,20 @@ credit:
 
 | 疾病 | 特色 |
 |------|------|
-| **IgA vasculitis（Henoch-Schönlein purpura, HSP）** | 兒童最常見血管炎；**Palpable purpura（下肢/臀部）+ 關節炎 + 腹痛/GI 出血 + IgA 腎病變**；IgA 沉積；多為自限 |
-| **Cryoglobulinemic vasculitis** | **與 HCV 強烈相關**（mixed cryoglobulinemia type II/III）；Palpable purpura + 關節痛 + 腎炎（MPGN）；低補體（C4↓↓）；RF(+)；治療：抗 HCV + Rituximab |
+| **[[小兒科#過敏性紫斑（Henoch-Schönlein Purpura / IgA Vasculitis）\|IgA vasculitis（Henoch-Schönlein purpura, HSP）]]** | 兒童最常見血管炎；**Palpable purpura（下肢/臀部）+ 關節炎 + 腹痛/GI 出血 + IgA 腎病變**；IgA 沉積；多為自限 |
+| **Cryoglobulinemic vasculitis** | **與 [[消化內科#Hepatitis C（HCV）\|HCV]] 強烈相關**（mixed cryoglobulinemia type II/III）；Palpable purpura + 關節痛 + 腎炎（MPGN）；低補體（C4↓↓）；RF(+)；治療：抗 HCV + Rituximab |
 | **Hypersensitivity vasculitis（leukocytoclastic vasculitis）** | 藥物或感染後皮膚小血管炎 → palpable purpura；通常限於皮膚 |
+
+- 詳見 [[皮膚系統主訴#紫斑與瘀點（Purpura / Petechiae）|紫斑與瘀點]]的鑑別
 
 ### Behçet's Disease
 
 - 好發：東亞/土耳其/中東、年輕男性。
 - **HLA-B51** 相關。
 - **臨床表現**：
-    - **復發性口腔潰瘍**（必要條件，≥3 次/年）。
+    - **[[五官主訴#口腔病灶（Oral Ulcers / Lesions）|復發性口腔潰瘍]]**（必要條件，≥3 次/年）。
     - **生殖器潰瘍**。
-    - **眼睛**：**後葡萄膜炎（posterior uveitis）** → 可致失明。
+    - **眼睛**：**[[眼科#葡萄膜炎（Uveitis）|後葡萄膜炎（posterior uveitis）]]** → 可致失明。
     - 皮膚：結節性紅斑（erythema nodosum）、痤瘡樣皮疹。
     - **Pathergy test（+）**：針刺部位 24–48 hr 後出現丘疹/膿疱。
     - 血管：靜脈血栓（最常見血管併發症）、動脈瘤。
@@ -661,13 +674,14 @@ credit:
     2. **鮭魚色斑丘疹（salmon-colored, evanescent rash）**：發燒時出現，退燒後消失。
     3. **關節炎**。
 - 其他：喉嚨痛、淋巴結腫大、肝脾腫大、漿膜炎。
-- 實驗室：**Ferritin 極高**（:red[>1000 ng/mL]）、:red[**Glycosylated ferritin <20%**]（較專一）、WBC↑（neutrophilia）、ESR/CRP↑、LFT↑。
+- 實驗室：**[[生化異常#鐵蛋白升高（Hyperferritinemia）|Ferritin 極高]]**（:red[>1000 ng/mL]）、:red[**Glycosylated ferritin <20%**]（較專一）、WBC↑（neutrophilia）、ESR/CRP↑、LFT↑。
 - 合併症：**Macrophage Activation Syndrome（MAS/HLH）** → 可致命。
 - 治療：NSAIDs → Corticosteroid → **IL-1 inhibitor（Anakinra）** 或 **IL-6 inhibitor（Tocilizumab）** → MTX。
+- 詳見 [[全身症狀#不明熱（Fever of Unknown Origin, FUO）|不明熱]]的評估流程
 
 ### Macrophage Activation Syndrome / Hemophagocytic Lymphohistiocytosis（MAS / HLH）
 
-- 可繼發於 AOSD、SLE 或感染（EBV 最常見）。
+- 可繼發於 AOSD、SLE 或感染（[[感染科#EBV（Infectious Mononucleosis）|EBV]] 最常見）。
 - 病理：巨噬細胞 / T cell 過度活化 → cytokine storm。
 - 臨床：高燒、肝脾腫大、出血。
 - 實驗室：**Ferritin 極高**（>10,000 ng/mL）、**Triglyceride↑**、**Fibrinogen↓**（paradoxically）、pancytopenia、LDH↑、transaminase↑、sIL-2R↑。
@@ -679,11 +693,11 @@ credit:
 - **非乾酪性肉芽腫（non-caseating granuloma）** 於多器官。
 - 好發：20–40 歲、非裔美國人、北歐人。
 - **臨床表現**：
-    - **肺**（>90%）：**bilateral hilar lymphadenopathy（BHL）**；ILD。
+    - **肺**（>90%）：**[[胸腔內科#結節病（Sarcoidosis）|bilateral hilar lymphadenopathy（BHL）]]**；ILD。
     - **皮膚**：結節性紅斑（erythema nodosum）、lupus pernio（鼻/頰的紫紅色斑塊）。
     - **眼**：前葡萄膜炎（最常見眼部表現）、乾眼。
     - **肝腫大/肉芽腫**。
-    - **高血鈣**：巨噬細胞產生 1,25-(OH)₂D → 腸道 Ca 吸收↑ → hypercalcemia + hypercalciuria → 腎結石。
+    - **[[電解質與酸鹼#高血鈣（Hypercalcemia）|高血鈣]]**：巨噬細胞產生 1,25-(OH)₂D → 腸道 Ca 吸收↑ → hypercalcemia + hypercalciuria → 腎結石。
     - 心臟：傳導阻滯、心肌病變。
     - 神經：顏面神經麻痺、尿崩症。
     - **Löfgren syndrome**：BHL + erythema nodosum + fever + polyarthralgia → 預後佳，常自癒。
@@ -698,7 +712,7 @@ credit:
 
 - 纖維發炎性疾病，器官腫大 + IgG4⁺ plasma cell 浸潤 + 層狀纖維化（storiform fibrosis）。
 - **多器官表現**：
-    - **Autoimmune pancreatitis（Type 1）**：最常見表現；無痛性黃疸。
+    - **[[消化內科#自體免疫性胰臟炎（Autoimmune Pancreatitis）|Autoimmune pancreatitis（Type 1）]]**：最常見表現；無痛性黃疸。
     - 淚腺/唾液腺腫大（Mikulicz's disease）。
     - Retroperitoneal fibrosis。
     - 主動脈周圍炎。
@@ -747,7 +761,7 @@ credit:
 |------|------|------|
 | **X-linked agammaglobulinemia（Bruton's）** | BTK 基因突變 → B cell 成熟障礙 | 男孩 6 月後（母體 IgG 消退）反覆**細菌**感染（sinopulmonary）；所有 Ig 極低、B cell 極少；T cell 正常 |
 | **Common Variable Immunodeficiency（CVID）** | B cell 功能障礙 → Ig 分泌不足 | 最常見之有症狀性原發性免疫缺陷；20–30 歲發病；低 IgG + 低 IgA ± 低 IgM；反覆肺炎、支氣管擴張；自體免疫合併（AIHA、ITP）；淋巴瘤風險↑ |
-| **Selective IgA deficiency** | IgA 極低 | **最常見原發性免疫缺陷**；多數無症狀；部分有反覆黏膜感染、celiac disease、自體免疫；輸血時 **anaphylaxis 風險**（anti-IgA Ab）→ 需 IgA-depleted 或 washed blood products |
+| **Selective IgA deficiency** | IgA 極低 | **最常見原發性免疫缺陷**；多數無症狀；部分有反覆黏膜感染、[[消化內科#Celiac Disease（乳糜瀉）\|celiac disease]]、自體免疫；輸血時 **anaphylaxis 風險**（anti-IgA Ab）→ 需 IgA-depleted 或 washed blood products |
 | **Hyper-IgM syndrome** | CD40L 缺陷（X-linked）→ class switching 障礙 | IgM 正常/↑、IgG/IgA/IgE↓；反覆化膿性感染 + Pneumocystis + Cryptosporidium |
 
 ### 細胞免疫缺陷（T cell）
@@ -761,7 +775,7 @@ credit:
 
 | 疾病 | 缺陷 | 特色 |
 |------|------|------|
-| **Severe Combined Immunodeficiency（SCID）** | IL-2Rγ 突變（X-linked）或 ADA deficiency（AR）→ T cell 嚴重缺乏 ± B/NK cell | 出生後數月嚴重感染（病毒、細菌、真菌、PJP）；**活疫苗禁忌**（BCG 致命）；治療：**骨髓/幹細胞移植**（唯一根治） |
+| **Severe Combined Immunodeficiency（SCID）** | IL-2Rγ 突變（X-linked）或 ADA deficiency（AR）→ T cell 嚴重缺乏 ± B/NK cell | 出生後數月嚴重感染（病毒、細菌、真菌、[[感染科#Pneumocystis jirovecii（PJP）\|PJP]]）；**活疫苗禁忌**（BCG 致命）；治療：**骨髓/幹細胞移植**（唯一根治） |
 | **Wiskott-Aldrich syndrome** | WAS 基因（X-linked）→ 血小板 + T cell 功能異常 | **三聯征：Thrombocytopenia（small platelets）+ Eczema + recurrent infections**；IgM↓、IgA/IgE↑ |
 | **Ataxia-Telangiectasia** | ATM 基因突變（DNA repair）→ AR | 小腦萎縮（ataxia）+ 皮膚/眼 telangiectasia + IgA↓ + 反覆 sinopulmonary 感染；**AFP↑**；淋巴瘤/白血病風險↑ |
 | **Hyper-IgE syndrome（Job syndrome）** | STAT3 突變（AD） | IgE 極高 + 反覆葡萄球菌皮膚 **cold abscess** + eczema + retained primary teeth + coarse facies + 骨折 |
