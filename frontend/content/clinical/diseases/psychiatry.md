@@ -27,10 +27,10 @@ credit:
 |-------------|---------|---------|
 | **Serotonin（5-HT）** | 情緒、睡眠、食慾、疼痛 | ↓ → 憂鬱症；SSRI 為抗鬱首選 |
 | **Norepinephrine（NE）** | 警覺、注意力、能量 | ↓ → 憂鬱症；↑ → 焦慮、躁症 |
-| **Dopamine（DA）** | 動機、愉悅、運動控制 | ↑ → 精神分裂正性症狀；↓ → 巴金森症 |
+| **Dopamine（DA）** | 動機、愉悅、運動控制 | ↑ → 精神分裂正性症狀；↓ → [[神經內科#巴金森病（Parkinson's Disease, PD）\|巴金森症]] |
 | **GABA** | 抑制性 | ↓ → 焦慮、癲癇；BZD 增強 GABA |
 | **Glutamate** | 興奮性 | 過度 → 興奮毒性；NMDA 與精神分裂假說相關 |
-| **Acetylcholine（ACh）** | 記憶、認知 | ↓ → 阿茲海默症；AChEI 治療 |
+| **Acetylcholine（ACh）** | 記憶、認知 | ↓ → [[神經內科#阿茲海默病（Alzheimer's Disease）\|阿茲海默症]]；AChEI 治療 |
 
 ### 多巴胺路徑
 
@@ -96,6 +96,8 @@ credit:
 | **Schizoaffective disorder** | — | 同時有精神分裂 + 情緒發作，且有 :red[≥ 2 週]精神病症狀在無情緒症狀時獨立出現 |
 | **Delusional disorder** | ≥ 1 個月 | 僅有妄想（DSM-5 已不再要求為 non-bizarre），功能相對保留，無其他精神分裂症狀 |
 
+- 詳見 [[精神系統主訴#幻覺與妄想（Hallucinations / Delusions）|幻覺與妄想]]的評估流程
+
 ### 預後因素
 
 | 預後較好 | 預後較差 |
@@ -142,8 +144,8 @@ credit:
 | **Akathisia** | 數天–數週 | 主觀坐不住、不斷來回踱步、內心焦躁不安 | 降劑量、**β-blocker（propranolol）**、BZD |
 | **Parkinsonism** | 數週–數月 | 靜止性震顫、齒輪狀僵直、動作遲緩、面具臉、小碎步 | 降劑量、抗膽鹼藥（benztropine, trihexyphenidyl） |
 | **Tardive dyskinesia** | 數月–數年 | 不自主的口舌面部運動（咀嚼、舔唇、舌頭伸縮）、肢體舞蹈樣動作 | 停藥/換藥（→ clozapine）；**Valbenazine / Deutetrabenazine**（VMAT2 inhibitor） |
-| **NMS** | 數天–數週 | 高燒 + 肌肉僵直 + 意識改變 + 自律神經不穩定（見下方） | 停藥 → Dantrolene ± Bromocriptine |
-| **Hyperprolactinemia** | — | 溢乳、月經異常、性功能障礙、骨質疏鬆 | 降劑量、換藥（→ aripiprazole） |
+| **NMS** | 數天–數週 | 高燒 + 肌肉僵直 + 意識改變 + 自律神經不穩定（見下方） | 停藥 → [[麻醉科#惡性高熱（Malignant Hyperthermia, MH）\|Dantrolene]] ± Bromocriptine |
+| **[[內分泌系統主訴#泌乳與泌乳素過高（Galactorrhea / Hyperprolactinemia）\|Hyperprolactinemia]]** | — | 溢乳、月經異常、性功能障礙、骨質疏鬆 | 降劑量、換藥（→ aripiprazole） |
 | **代謝症候群** | — | 體重↑、血糖↑、血脂↑ | 監測、飲食運動、換藥 |
 
 #### 惡性抗精神病藥症候群（Neuroleptic Malignant Syndrome, NMS）
@@ -151,6 +153,7 @@ credit:
 - **四大特徵：高燒 + 肌肉僵直（lead-pipe rigidity）+ 意識改變 + 自律神經不穩定**。
 - Lab：**CK↑↑↑**、WBC↑、LFT 異常、myoglobinuria。
 - 處理：**立即停藥** → 支持療法 + **Dantrolene**（肌肉鬆弛）± **Bromocriptine**（DA agonist）。
+- 詳見 [[精神系統主訴#精神科藥物急症（Psychotropic Drug Emergencies）|精神科藥物急症]]、[[全身症狀#高體溫症候群（Hyperthermia Syndromes）|高體溫症候群]]的鑑別
 
 ### Catatonia（僵直症）
 
@@ -194,6 +197,7 @@ credit:
 7. **Guilt / worthlessness**（罪惡感或無價值感）。
 8. **Concentration difficulty**（注意力下降）。
 9. **Suicidal ideation**（自殺意念）。
+- 詳見 [[精神系統主訴#憂鬱情緒（Depressed Mood）|憂鬱情緒]]的評估流程
 
 ### 特殊型態
 
@@ -239,6 +243,7 @@ credit:
 - 評估：意念 → 計畫 → 方法 → 意圖 → 保護因子。
 - 高風險者：住院（必要時強制住院）、1 對 1 觀察、移除致命工具。
 - 注意 SSRI 開始治療初期可能增加自殺風險（精力先恢復，情緒尚未改善）。
+- 詳見 [[精神系統主訴#自殺意念與自傷（Suicidal Ideation / Self-harm）|自殺意念與自傷]]的評估流程
 
 ### 鬱症治療
 
@@ -246,9 +251,9 @@ credit:
 
 | 類別 | 代表藥物 | 機制 | 特殊副作用/特點 |
 |------|---------|------|----------------|
-| **SSRI** | Fluoxetine, Sertraline, Paroxetine, Citalopram, Escitalopram, Fluvoxamine | 選擇性阻斷 5-HT 再回收 | **首選抗鬱劑**；性功能障礙（最常見困擾副作用）、GI（噁心）、SIADH/低血鈉（老年人）；Paroxetine 抗膽鹼最強且懷孕禁忌（cardiac defects）；Fluoxetine 半衰期最長（戒斷反應最少）；Citalopram QT prolongation |
+| **SSRI** | Fluoxetine, Sertraline, Paroxetine, Citalopram, Escitalopram, Fluvoxamine | 選擇性阻斷 5-HT 再回收 | **首選抗鬱劑**；性功能障礙（最常見困擾副作用）、GI（噁心）、[[電解質與酸鹼#低血鈉（Hyponatremia）\|SIADH/低血鈉]]（老年人）；Paroxetine 抗膽鹼最強且懷孕禁忌（cardiac defects）；Fluoxetine 半衰期最長（戒斷反應最少）；Citalopram QT prolongation |
 | **SNRI** | Venlafaxine, Duloxetine, Desvenlafaxine | 阻斷 5-HT + NE 再回收 | 也用於焦慮、慢性疼痛、fibromyalgia、neuropathic pain；Venlafaxine 高劑量可致高血壓；戒斷症狀明顯 |
-| **TCA** | Amitriptyline, Nortriptyline, Imipramine, Clomipramine, Desipramine | 阻斷 5-HT + NE 再回收 + 抗膽鹼/抗組織胺/抗 α₁ | **抗膽鹼**（口乾、便秘、尿滯留）、**心臟毒性**（阻斷 Na⁺ channel → **QRS 增寬**、QT 延長 → 心律不整、**過量致命**；解毒：**Sodium bicarbonate**）、鎮靜、姿態性低血壓、體重增加、降低癲癇閾值 |
+| **TCA** | Amitriptyline, Nortriptyline, Imipramine, Clomipramine, Desipramine | 阻斷 5-HT + NE 再回收 + 抗膽鹼/抗組織胺/抗 α₁ | **抗膽鹼**（口乾、便秘、尿滯留）、**心臟毒性**（阻斷 Na⁺ channel → **QRS 增寬**、QT 延長 → 心律不整、**過量致命**；解毒：**[[電解質與酸鹼#代謝性酸中毒（Metabolic Acidosis）\|Sodium bicarbonate]]**）、鎮靜、姿態性低血壓、體重增加、降低癲癇閾值 |
 | **MAOI** | Phenelzine, Tranylcypromine, Selegiline（patch） | 不可逆抑制 MAO → ↑ 5-HT, NE, DA | **Tyramine 危機**：含 tyramine 食物（起司、紅酒、醃肉）→ 高血壓危象；Serotonin syndrome 風險高（與 SSRI 間須 washout :red[2 週，fluoxetine 需 5 週]）；非典型憂鬱首選 |
 | **Bupropion** | — | NDRI（NE + DA 再回收抑制） | **無性功能障礙**；**無體重增加**；也用於戒菸；**禁忌：seizure disorder、暴食/厭食症** |
 | **Mirtazapine** | — | α₂ antagonist + 5-HT₂/₃ + H₁ antagonist（NaSSA） | **體重增加、鎮靜**（尤其低劑量）；刺激食慾；適合失眠+食慾差的鬱症患者 |
@@ -265,7 +270,7 @@ credit:
 
 #### Serotonin Syndrome（血清素症候群）
 
-- 原因：Serotonergic drugs 過量或合併使用（SSRI + MAOI 最危險；SSRI + TCA; SSRI + Tramadol; SSRI + Linezolid 等）。
+- 原因：Serotonergic drugs 過量或合併使用（SSRI + MAOI 最危險；SSRI + TCA; SSRI + Tramadol; SSRI + [[感染科#其他重要抗生素|Linezolid]] 等）。
 - 三大特徵：
     1. **認知改變**（agitation, confusion）。
     2. **自律神經不穩定**（高燒、心跳快、血壓不穩、流汗、腹瀉、散瞳）。
@@ -285,7 +290,7 @@ credit:
     - **思覺失調症**（catatonia、treatment-resistant）。
 - 執行：短暫全身麻醉（methohexital）+ 肌肉鬆弛劑（succinylcholine）→ 誘發 generalized seizure（≥ 25 秒）；通常每週 2–3 次，共 6–12 次。
 - 副作用：**記憶障礙**（以**逆行性失憶 retrograde** 為主，多數數週–數月可回復）；頭痛、肌肉痛、噁心。
-- 最重要之相對禁忌為**顱內壓升高/腦內佔位病灶**，其次為近期 MI/中風、不穩定動脈瘤、未控制之 pheochromocytoma。
+- 最重要之相對禁忌為**顱內壓升高/腦內佔位病灶**，其次為近期 MI/中風、不穩定動脈瘤、未控制之 [[代謝內分泌科#嗜鉻細胞瘤（Pheochromocytoma）|pheochromocytoma]]。
 
 #### 經顱磁刺激（Transcranial Magnetic Stimulation, TMS）
 
@@ -322,6 +327,7 @@ credit:
 - **A**ctivity increase（活動量增加或精神運動激躁）。
 - **S**leep decreased（睡眠需求減少，非失眠）。
 - **T**alkativeness / Pressured speech（話量增多、壓迫性語速）。
+- 詳見 [[精神系統主訴#情緒高昂與躁動（Elevated Mood / Mania）|情緒高昂與躁動]]
 
 ### 分型
 
@@ -371,15 +377,15 @@ credit:
 - **治療濃度狹窄**：:red[0.6–1.2 mEq/L]（急性 1.0–1.2，維持 0.6–1.0）。
 - 必須定期監測血中濃度。
 - 副作用：
-    - **甲狀腺低下**（最常見內分泌副作用）→ 須定期追蹤 TSH。
-    - **腎性尿崩症（nephrogenic DI）**→ 多尿多渴 → 處理：Amiloride。
+    - **[[代謝內分泌科#甲狀腺機能低下（Hypothyroidism）|甲狀腺低下]]**（最常見內分泌副作用）→ 須定期追蹤 TSH。
+    - **[[腎臟內科#腎性尿崩症（Nephrogenic Diabetes Insipidus）|腎性尿崩症（nephrogenic DI）]]**→ 多尿多渴 → 處理：Amiloride。
     - 心臟：T wave flattening/inversion。
     - 體重增加、痤瘡。
     - 白血球增多（benign leukocytosis）。
-    - **Ebstein anomaly**：**懷孕第一孕期禁忌**。
+    - **[[心血管外科#Ebstein Anomaly|Ebstein anomaly]]**：**懷孕第一孕期禁忌**。
     - 細微震顫（fine tremor）→ β-blocker 改善。
 - **毒性症狀**：粗大震顫、嘔吐腹瀉、ataxia、意識混亂、癲癇、腎衰竭。
-    - 治療：**輸液（生理食鹽水）+ 血液透析**（嚴重時）。
+    - 治療：**輸液（生理食鹽水）+ [[腎臟內科#血液透析（Hemodialysis, HD）|血液透析]]**（嚴重時）。
     - **透析條件（EXTRIP）**：
         - 強烈建議：**急性 > 5.0、慢性 > 4.0 mEq/L**；或**意識障礙、癲癇、致命心律不整（不論濃度）**。
         - 考慮：> 4.0（慢性 > 2.5）合併**腎功能不全**、**預估 > 36 小時才能降到 1.0 以下**、或神經症狀持續惡化。
@@ -388,7 +394,7 @@ credit:
 
 #### Valproate
 
-- 副作用：**肝毒性**（須監測 LFT）、血小板減少、胰臟炎、體重增加。
+- 副作用：**肝毒性**（須監測 LFT）、血小板減少、[[消化內科#急性胰臟炎（Acute Pancreatitis）|胰臟炎]]、體重增加。
 - **致畸胎性**：neural tube defects → **懷孕絕對禁忌**。
 - 治療濃度：:red[50–125 µg/mL]。
 - 高度蛋白結合 → drug interactions。
@@ -396,7 +402,7 @@ credit:
 #### Lamotrigine
 
 - 最有效預防雙極性鬱期復發。
-- 副作用：**Stevens-Johnson syndrome / TEN** → 必須緩慢加量。
+- 副作用：**[[皮膚科#Stevens-Johnson Syndrome（SJS）/ Toxic Epidermal Necrolysis（TEN）|Stevens-Johnson syndrome / TEN]]** → 必須緩慢加量。
 - 與 Valproate 合併使用時濃度升高（Valproate 抑制其代謝）→ 更須減慢 titration。
 
 ## 焦慮症（Anxiety Disorders）
@@ -419,6 +425,7 @@ credit:
 - 治療：
     - 首選：**SSRI/SNRI + CBT**。
     - 急性發作：**BZD**（alprazolam, lorazepam）。
+- 詳見 [[精神系統主訴#恐慌發作（Panic Attack）|恐慌發作]]、[[精神系統主訴#焦慮（Anxiety）|焦慮]]的評估流程
 
 ### 特定恐懼症（Specific Phobia）
 
@@ -555,10 +562,11 @@ credit:
 ### 人為障礙（Factitious Disorder）
 
 - **Factitious disorder imposed on self（Munchausen syndrome）**：故意製造或偽裝症狀，動機為「扮演病人角色」。
-- **Factitious disorder imposed on another（Munchausen syndrome by proxy）**：對他人（通常是小孩）製造症狀 → **屬於兒童虐待，需通報**。
+- **Factitious disorder imposed on another（Munchausen syndrome by proxy）**：對他人（通常是小孩）製造症狀 → **[[小兒主訴#疑似兒童虐待（Suspected Child Abuse）|屬於兒童虐待，需通報]]**。
 - 與 **Malingering（詐病）**區分：
     - Malingering：有明確外在動機（金錢、逃避法律責任）→ **不是精神疾患**。
     - Factitious：動機為扮演病人角色（內在心理需求）。
+- 詳見 [[精神系統主訴#無法解釋的身體症狀（Medically Unexplained Symptoms）|無法解釋的身體症狀]]的鑑別
 
 ## 飲食障礙（Eating Disorders）
 
@@ -572,14 +580,14 @@ credit:
     - **Restricting type**：純粹限制進食。
     - **Binge-eating/purging type**：有暴食或清除行為。
 - 併發症：
-    - 代謝/電解質：**低血鉀**、代謝性鹼中毒（嘔吐）或代謝性酸中毒（瀉劑）、低血鈉、低血磷、低血鎂。
+    - 代謝/電解質：**[[電解質與酸鹼#低血鉀（Hypokalemia）|低血鉀]]**、[[電解質與酸鹼#代謝性鹼中毒（Metabolic Alkalosis）|代謝性鹼中毒]]（嘔吐）或代謝性酸中毒（瀉劑）、低血鈉、低血磷、低血鎂。
     - 心血管：**心律不整**、bradycardia、hypotension、QT prolongation、MVP。
-    - 內分泌：amenorrhea、osteoporosis、↓T₃、↑cortisol、↓gonadotropins。
+    - 內分泌：[[婦產主訴#無月經（Amenorrhea）|amenorrhea]]、[[代謝內分泌科#骨質疏鬆症（Osteoporosis）|osteoporosis]]、↓T₃、↑cortisol、↓gonadotropins。
     - 腸胃：constipation、gastroparesis、SMA syndrome。
     - 血液：pancytopenia。
     - 身體：lanugo hair（胎毛）、乾燥皮膚、掉髮、低體溫、水腫。
     - 清除型特有：**Russell's sign**（手背指關節處胼胝）、parotid gland enlargement、dental enamel erosion（perimolysis）。
-    - **Refeeding syndrome**：嚴重營養不良者開始補充營養 → **低磷血症**（最危險）、低鉀、低鎂 → 心衰竭、呼吸衰竭；預防：緩慢增加熱量，先補充 thiamine 和電解質。
+    - **[[電解質與酸鹼#磷異常（Phosphate Disorders）|Refeeding syndrome]]**：嚴重營養不良者開始補充營養 → **低磷血症**（最危險）、低鉀、低鎂 → 心衰竭、呼吸衰竭；預防：緩慢增加熱量，先補充 thiamine 和電解質。
 - 治療：
     - **營養復健**為首要治療。
     - 心理治療：青少年 → **FBT（Family-Based Treatment）**；成人 → CBT-E。
@@ -595,7 +603,7 @@ credit:
     3. 至少每週 1 次持續 3 個月。
     4. 自我評價過度受體型與體重影響。
 - 體重通常正常或略高。
-- 併發症：同 AN 清除型（低血鉀、代謝性鹼中毒、Russell's sign、dental erosion、parotid enlargement、Mallory-Weiss tear、食道破裂）。
+- 併發症：同 AN 清除型（低血鉀、代謝性鹼中毒、Russell's sign、dental erosion、parotid enlargement、[[消化內科#其他食道疾病|Mallory-Weiss tear]]、食道破裂）。
 - 治療：
     - **CBT**：心理治療首選。
     - **SSRI（Fluoxetine）**：FDA approved，需高劑量。
@@ -610,9 +618,10 @@ credit:
 
 ### 其他飲食障礙
 
-- **Pica**：持續進食非食物物質 ≥ 1 個月（鐵缺乏、鉛中毒風險）。
+- **Pica**：持續進食非食物物質 ≥ 1 個月（鐵缺乏、[[小兒科#鉛中毒（Lead Poisoning）|鉛中毒]]風險）。
 - **Rumination disorder**：反覆反芻已吞嚥食物。
 - **ARFID（Avoidant/Restrictive Food Intake Disorder）**：挑食/迴避特定食物導致營養缺乏。
+- 詳見 [[精神系統主訴#飲食行為異常（Disordered Eating）|飲食行為異常]]的評估流程
 
 ## 物質使用障礙（Substance Use Disorders）
 
@@ -624,7 +633,7 @@ credit:
 
 - 症狀：言語不清、步態不穩、判斷力下降、注意力/記憶力受損、昏迷。
 - 處理：支持療法、維持呼吸道通暢、監測血糖。
-- 先給 **Thiamine（B₁）再給 glucose**（避免誘發 Wernicke encephalopathy）。
+- 先給 **Thiamine（B₁）再給 glucose**（避免誘發 [[神經內科#Wernicke-Korsakoff Syndrome|Wernicke encephalopathy]]）。
 
 #### 酒精戒斷（Alcohol Withdrawal）
 
@@ -659,6 +668,8 @@ credit:
 | **Acamprosate** | Glutamate modulator（NMDA antagonist） | 減少戒斷後的 craving；腎排泄；腎衰竭禁忌 |
 | **Disulfiram** | Aldehyde dehydrogenase inhibitor | 飲酒 → 噁心嘔吐（aversive therapy）；需良好依從性 |
 
+- 篩檢工具（AUDIT）與門診處置詳見 [[家庭醫學科#酒精使用|家庭醫學科的酒精使用]]；急診評估詳見 [[精神系統主訴#物質中毒與戒斷（Intoxication / Withdrawal）|物質中毒與戒斷]]
+
 ### 鴉片類（Opioids）
 
 #### 中毒三徵
@@ -692,7 +703,7 @@ credit:
 
 - 興奮劑：**Cocaine / Amphetamine / Methamphetamine**。
 - 機制：阻斷 DA/NE/5-HT 再回收（Cocaine）；促進 DA/NE 釋放（Amphetamine）。
-- 中毒：欣快、瞳孔散大、心搏過速、高血壓、高體溫、paranoid ideation、心律不整、MI、中風、癲癇。
+- 中毒：欣快、瞳孔散大、心搏過速、高血壓、高體溫、paranoid ideation、心律不整、[[心臟內科#急性冠心症（ACS）|MI]]、中風、癲癇。
 - 戒斷：crash → 疲憊、嗜睡、食慾增加、dysphoria（非致命）。
 - Cocaine 心血管急症：冠狀動脈血管痙攣 → MI。
     - 治療：BZD + nitroglycerin；禁用 β-blockers（unopposed α-stimulation）。
@@ -715,14 +726,15 @@ credit:
     - **Varenicline**：nicotinic receptor partial agonist，最有效戒菸藥物。
     - **Bupropion**：NDRI，也有效。
     - **NRT（Nicotine Replacement Therapy）**：貼片、口嚼錠、口腔噴劑。
+- 戒菸門診的 5A、5R 與用藥詳見 [[20261012-smoking-cessation|戒菸治療：5A、5R 與戒菸藥物]]（逐篇筆記）
 
 ### 幻覺劑（Hallucinogens）
 
 | 物質 | 特點 |
 |------|------|
 | **LSD** | 5-HT₂A agonist；視幻覺、synesthesia（感覺交錯）；瞳孔散大；flashbacks（HPPD） |
-| **PCP（Phencyclidine）** | NMDA antagonist；暴力攻擊、nystagmus（水平和垂直）、肌肉僵直、高血壓；可致 rhabdomyolysis |
-| **MDMA（Ecstasy）** | DA + 5-HT release；SIADH → 低血鈉 → 腦水腫；高體溫；serotonin syndrome 風險 |
+| **PCP（Phencyclidine）** | NMDA antagonist；暴力攻擊、nystagmus（水平和垂直）、肌肉僵直、高血壓；可致 [[生化異常#肌酸激酶升高（Elevated Creatine Kinase）\|rhabdomyolysis]] |
+| **MDMA（Ecstasy）** | DA + 5-HT release；SIADH → [[電解質與酸鹼#低血鈉（Hyponatremia）\|低血鈉]] → 腦水腫；高體溫；serotonin syndrome 風險 |
 | **Ketamine** | NMDA antagonist；解離狀態；近年用於難治型憂鬱（esketamine/Spravato nasal spray） |
 | **Psilocybin** | 5-HT₂A agonist；研究中用於治療抗性鬱症、PTSD |
 
@@ -739,12 +751,13 @@ credit:
     - 常有視幻覺。
     - 可逆（找出並處理原因後）。
 - **診斷工具：CAM（Confusion Assessment Method）**。
-- 常見原因：**感染**（UTI 在老年人最常見）、藥物（尤其抗膽鹼藥、BZD、opioids）。
+- 常見原因：**感染**（[[腎臟內科#泌尿道感染（UTI）與腎盂腎炎|UTI]] 在老年人最常見）、藥物（尤其抗膽鹼藥、BZD、opioids）。
 - 治療：
     - **找出並治療根本原因**（最重要）。
     - 非藥物：定向感提示、調整環境、避免約束。
     - 藥物（激躁時）：**Haloperidol**（低劑量，首選）。
     - **避免 BZD**（會加重譫妄）（例外：酒精戒斷）。
+- 詳見 [[神經系統主訴#譫妄與急性意識混亂（Delirium / Acute Confusion）|譫妄與急性意識混亂]]的評估流程
 
 ### 失智症（Major Neurocognitive Disorder）
 
@@ -753,7 +766,7 @@ credit:
 - **最常見的失智症**（佔 60–80%）。
 - 病理：amyloid plaques（Aβ 沉積）+ neurofibrillary tangles（hyperphosphorylated tau）。
 - 神經傳導：**ACh↓↓**（nucleus basalis of Meynert 退化）。
-- 危險因子：年齡（最大因子）、**ApoE ε4**（↑風險）、Down syndrome（21 號染色體 → APP gene）、家族史、女性、頭部外傷。
+- 危險因子：年齡（最大因子）、**ApoE ε4**（↑風險）、[[小兒科#唐氏症（Down Syndrome, Trisomy 21）|Down syndrome]]（21 號染色體 → APP gene）、家族史、女性、頭部外傷。
 - 保護因子：ApoE ε2、高教育、運動。
 - 臨床進程：記憶缺損（**最早且最顯著**，尤其短期記憶）→ 語言障礙 → 視空間 → 執行功能 → 人格行為改變 → 全面功能喪失。
 - 影像：MRI 顯示海馬迴（hippocampal）和顳頂葉萎縮；PET 顯示顳頂區代謝降低。
@@ -761,6 +774,7 @@ credit:
     - **AChE inhibitors**：Donepezil（最常用）、Rivastigmine、Galantamine → 輕–中度。
     - **Memantine**：NMDA receptor antagonist → 中–重度（或合併 AChEI）。
     - **Aducanumab / Lecanemab**：anti-amyloid monoclonal antibody（新藥，爭議性）。
+- 詳見 [[神經系統主訴#失智與記憶力減退（Dementia / Memory Loss）|失智與記憶力減退]]的評估流程；神經內科觀點詳見 [[神經內科#失智症概論|神經內科的失智症]]
 
 #### Vascular Dementia（血管性失智）
 
@@ -793,12 +807,12 @@ credit:
 
 | 類型 | 特點 |
 |------|------|
-| **Normal Pressure Hydrocephalus（NPH）** | 三徵：**步態不穩 + 尿失禁 + 認知功能下降**（Wet, Wobbly, Wacky）；**可逆！**治療：VP shunt |
-| **CJD（庫賈氏症）** | Prion disease；快速進行性失智 + myoclonus + EEG periodic sharp wave complexes；MRI DWI/FLAIR cortical ribboning；致死 |
+| **[[神經內科#正常壓力水腦症（NPH）\|Normal Pressure Hydrocephalus（NPH）]]** | 三徵：**步態不穩 + 尿失禁 + 認知功能下降**（Wet, Wobbly, Wacky）；**可逆！**治療：VP shunt |
+| **[[神經內科#Creutzfeldt-Jakob Disease（CJD）\|CJD（庫賈氏症）]]** | Prion disease；快速進行性失智 + myoclonus + EEG periodic sharp wave complexes；MRI DWI/FLAIR cortical ribboning；致死 |
 | **HIV-associated** | Subcortical dementia；以執行功能、注意力、運動速度受損為主 |
-| **Vitamin B₁₂ deficiency** | 失智 + 巨球性貧血 + subacute combined degeneration of spinal cord |
+| **Vitamin B₁₂ deficiency** | 失智 + 巨球性貧血 + [[神經內科#亞急性聯合退化（Subacute Combined Degeneration）\|subacute combined degeneration]] of spinal cord |
 | **Hypothyroidism** | 可逆性認知功能下降 |
-| **Neurosyphilis** | 人格改變、認知下降、Argyll Robertson pupils；CSF VDRL |
+| **[[神經內科#Neurosyphilis\|Neurosyphilis]]** | 人格改變、認知下降、Argyll Robertson pupils；CSF VDRL |
 
 ## 人格障礙（Personality Disorders）
 
@@ -851,6 +865,7 @@ credit:
         - **Atomoxetine**：norepinephrine reuptake inhibition。
         - **Guanfacine / Clonidine**：α₂-agonist。
     - 興奮劑副作用：食慾下降（最常見）、失眠、生長遲緩、心搏過速/高血壓。
+- 詳見 [[精神系統主訴#注意力不集中與過動（Inattention / Hyperactivity）|注意力不集中與過動]]
 
 ### 自閉症類群障礙（Autism Spectrum Disorder, ASD）
 
@@ -868,8 +883,9 @@ credit:
 
 - 智力功能缺損（IQ < 70）+ 適應功能缺損（概念、社交、實用），發病於發展期間。
 - 最常見可預防的原因：**Fetal Alcohol Syndrome（FAS）**。
-- 最常見先天原因：**Down syndrome（Trisomy 21）**。
+- 最常見先天原因：**[[小兒科#唐氏症（Down Syndrome, Trisomy 21）|Down syndrome（Trisomy 21）]]**。
 - 最常見遺傳性原因：**Fragile X syndrome**。
+- 詳見 [[小兒主訴#發展遲緩（Developmental Delay）|發展遲緩]]的評估流程
 
 ### 品行障礙（Conduct Disorder）與對立反抗障礙（ODD）
 
@@ -907,6 +923,7 @@ credit:
     - **Suvorexant / Lemborexant**：Orexin receptor antagonist。
     - **Ramelteon**：Melatonin receptor agonist（無依賴性）。
     - Low-dose **Trazodone**：常用 off-label 助眠。
+- 詳見 [[精神系統主訴#失眠（Insomnia）|失眠]]的評估流程
 
 ### 嗜睡症（Narcolepsy）
 
@@ -921,6 +938,7 @@ credit:
     - EDS：**Modafinil**（首選）或 stimulants（methylphenidate, amphetamine）。
     - Cataplexy：**Sodium oxybate**、SNRI（venlafaxine）、SSRI、TCA。
     - 新藥：Solriamfetol（DNRI）。
+- 詳見 [[神經內科#猝睡症（Narcolepsy）|神經內科的猝睡症]]、[[精神系統主訴#白天過度嗜睡（Excessive Daytime Sleepiness）|白天過度嗜睡]]
 
 ### 睡眠異常行為（Parasomnias）
 
@@ -930,4 +948,4 @@ credit:
 | **夜驚（Sleep Terror）** | NREM（N3） | 兒童多；突然尖叫/哭泣、自律神經激發；無法被安撫；隔天無記憶 |
 | **惡夢（Nightmare）** | REM | 兒童或成人；醒來後可回憶夢的內容；常見於 PTSD |
 | **REM Sleep Behavior Disorder（RBD）** | REM | 在 REM 期間表演出夢境（拳打腳踢等）；老年男性；**高度預測 α-synucleinopathy**（Parkinson、Lewy body dementia）；治療：**Melatonin**（首選）、Clonazepam |
-| **Restless Legs Syndrome（RLS）** | 入睡前 | 不適感須靠移動腿部緩解；與低鐵相關；治療：補鐵、**DA agonist（pramipexole, ropinirole）**、gabapentinoids |
+| **[[神經內科#不寧腿症候群（Restless Leg Syndrome）\|Restless Legs Syndrome（RLS）]]** | 入睡前 | 不適感須靠移動腿部緩解；與低鐵相關；治療：補鐵、**DA agonist（pramipexole, ropinirole）**、gabapentinoids |
