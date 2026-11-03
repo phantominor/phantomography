@@ -51,6 +51,7 @@ credit:
 - 超音波：well-defined、homogeneous、hypoechoic、wider than tall。
 - 處理：:red[< 2 cm 可觀察]（每 6–12 月追蹤）；增大或 > 2–3 cm → 切除。
 - Giant fibroadenoma：:red[> 5 cm] → 需切除（排除 phyllodes tumor）。
+- 詳見 [[婦產主訴#乳房腫塊與乳頭分泌物（Breast Mass / Nipple Discharge）|乳房腫塊與乳頭分泌物]]的評估流程
 
 ### 乳房囊腫（Breast Cyst）
 
@@ -78,6 +79,7 @@ credit:
 - 診斷：乳管攝影（ductography/galactography）、超音波。
 - 治療：手術切除受累乳管（microdochectomy）。
 - 多發性周邊型乳頭瘤 → 乳癌風險增加。
+- 詳見 [[婦產主訴#乳房腫塊與乳頭分泌物（Breast Mass / Nipple Discharge）|乳房腫塊與乳頭分泌物]]的評估流程
 
 ### 葉狀瘤（Phyllodes Tumor）
 
@@ -99,6 +101,7 @@ credit:
 - **非哺乳期（non-lactational/periareolar）**：常與 smoking 有關。
     - 常見菌包括 anaerobes → 抗生素需涵蓋 anaerobes。
     - 反覆發作 → 考慮 subareolar duct excision。
+- 哺乳期乳腺炎詳見 [[產科#哺乳問題|產科的哺乳問題]]
 
 ### 脂肪壞死（Fat Necrosis）
 
@@ -108,9 +111,10 @@ credit:
 
 ### 男性女乳症（Gynecomastia）
 
-- 常見原因：青春期生理性、藥物（spironolactone、cimetidine、ketoconazole、digoxin、marijuana）、肝硬化、Klinefelter syndrome、睪丸腫瘤（hCG 分泌）。
+- 常見原因：青春期生理性、藥物（spironolactone、cimetidine、ketoconazole、digoxin、marijuana）、[[消化內科#肝硬化（Liver Cirrhosis）|肝硬化]]、[[小兒科#Klinefelter Syndrome（47,XXY）|Klinefelter syndrome]]、[[泌尿科#睪丸癌（Testicular Cancer）|睪丸腫瘤]]（hCG 分泌）。
 - 需與 **男性乳癌** 鑑別（偏心位置、硬、固定、有皮膚變化 → 需切片）。
 - 生理性：通常自行消退。
+- 內分泌評估詳見 [[內分泌系統主訴#男性女乳症（Gynecomastia）|男性女乳症]]的評估流程
 
 ## 乳癌風險評估
 
@@ -123,14 +127,14 @@ credit:
     - BRCA2 → 乳癌 + 卵巢癌 + 男性乳癌 + 胰臟癌；多為 **ER+ 型**。
 - 荷爾蒙暴露增加：初經早（< 12 歲）、停經晚（> 55 歲）、晚生育（> 30 歲第一胎）、nulliparity、HRT（賀爾蒙替代療法）。
 - 前驅病灶：atypical ductal/lobular hyperplasia、LCIS、DCIS。
-- 胸部放射線照射（如 Hodgkin lymphoma 放療）。
+- 胸部放射線照射（如 [[血液腫瘤科#Hodgkin Lymphoma（HL）|Hodgkin lymphoma]] 放療）。
 - 肥胖（停經後）、酒精。
 
 ### 降低風險
 
 - **Chemoprevention**：**Tamoxifen** 或 **Aromatase inhibitor** → 高風險者（如 BRCA 帶原者、ADH/ALH）。
 - **預防性雙側乳房切除術**：BRCA 帶原者可選擇 → 降低風險約 90%。
-- **預防性雙側卵巢輸卵管切除術**：BRCA 帶原者建議（35–40 歲完成生育後）→ 降低卵巢癌 + 乳癌風險。
+- **[[婦科#卵巢癌流行病學與危險因子|預防性雙側卵巢輸卵管切除術]]**：BRCA 帶原者建議（35–40 歲完成生育後）→ 降低卵巢癌 + 乳癌風險。
 
 ## 乳房篩檢
 
@@ -143,6 +147,7 @@ credit:
 - 可偵測：microcalcification（鈣化）、mass、architectural distortion、asymmetric density。
 - **最早期的乳癌 mammographic sign：microcalcifications（微小鈣化）**。
     - Clustered、pleomorphic、linear/branching 型態 → 高度懷疑惡性（尤其 DCIS）。
+- 國健署篩檢總表詳見 [[家庭醫學科#台灣癌症篩檢（國健署）|家庭醫學科]]
 
 ### BI-RADS 分類
 
@@ -243,6 +248,7 @@ credit:
 - 需與乳頭濕疹鑑別（濕疹通常雙側、乳暈為主；Paget 單側、從乳頭開始）。
 - 病理：**Paget cells**（大型透明/淡染細胞在表皮內）。
 - 治療：依底下乳癌之範圍 → mastectomy 或 central lumpectomy + radiation。
+- 外陰 Paget's 詳見 [[婦科#外陰 Paget's Disease|婦科]]
 
 ## 乳癌分期
 
@@ -371,6 +377,7 @@ credit:
         - **DIEP flap**（deep inferior epigastric perforator）：保留 rectus muscle → 減少腹壁併發症。
         - **Latissimus dorsi flap**：常需合併 implant（組織量較少）。
         - 更自然、耐放療、持久；但手術複雜、恢復久。
+- 各種皮瓣詳見 [[整形外科#常見皮瓣與臨床應用|整形外科]]
 
 ## 乳癌輔助治療
 
@@ -378,7 +385,7 @@ credit:
 
 - 常用方案：AC（Adriamycin + Cyclophosphamide）→ T（Taxane）。
 - **Anthracycline（Doxorubicin/Adriamycin）副作用：cardiotoxicity**。
-    - Cumulative dose-related → dilated cardiomyopathy。
+    - Cumulative dose-related → [[心臟內科#擴張型心肌病變（Dilated Cardiomyopathy, DCM）|dilated cardiomyopathy]]。
 - 化療適應症：TNBC、HER2+、high-risk Luminal B、lymph node positive。
 
 ### 荷爾蒙治療（Endocrine Therapy）
@@ -387,11 +394,11 @@ credit:
 - **Tamoxifen**（SERM）：
     - Premenopausal 和 postmenopausal 皆可用。
     - 使用 :red[5–10 年]。
-    - 副作用：**子宮內膜癌風險增加**（主要見於停經後婦女）、DVT/PE、hot flashes。
+    - 副作用：**[[婦科#子宮內膜癌（Endometrial Cancer）|子宮內膜癌風險增加]]**（主要見於停經後婦女）、DVT/PE、hot flashes。
     - 對骨質為 agonist → 停經後反而**保護骨質**。
 - **Aromatase Inhibitors（AI）**：Anastrozole、Letrozole、Exemestane。
     - **僅限 postmenopausal** 使用；停經前若要用，必須合併卵巢功能抑制或卵巢切除。
-    - 副作用：骨質疏鬆/骨折、關節痛/肌肉痛（**無子宮內膜癌、血栓風險較低**）。
+    - 副作用：[[代謝內分泌科#骨質疏鬆症（Osteoporosis）|骨質疏鬆/骨折]]、關節痛/肌肉痛（**無子宮內膜癌、血栓風險較低**）。
     - 效果略優於 Tamoxifen（in postmenopausal）。
 
 ### 標靶治療
