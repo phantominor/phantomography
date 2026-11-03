@@ -55,10 +55,10 @@ credit:
 - **繼續**：
     - **β-blockers**：突然停用 → rebound tachycardia/HTN/MI。
     - **抗癲癇藥**：停用 → 術中癲癇發作風險。
-    - **甲狀腺藥**：停用 → 甲狀腺風暴（hyperthyroid）或黏液水腫昏迷（hypothyroid）。
-    - **類固醇**：長期使用致 HPA axis 抑制，術中壓力反應不足 → 給 stress dose。
+    - **甲狀腺藥**：停用 → [[代謝內分泌科#甲狀腺風暴（Thyroid Storm）|甲狀腺風暴]]（hyperthyroid）或[[代謝內分泌科#黏液水腫昏迷（Myxedema Coma）|黏液水腫昏迷]]（hypothyroid）。
+    - **類固醇**：長期使用致 HPA axis 抑制，術中壓力反應不足 → 給 [[代謝內分泌科#腎上腺危象（Adrenal Crisis）|stress dose]]。
 - **停用**：
-    - MAOi：傳統型需術前 2 週停（與 meperidine 交互作用 → serotonin syndrome / hypertensive crisis）。
+    - MAOi：傳統型需術前 2 週停（與 meperidine 交互作用 → [[精神科#Serotonin Syndrome（血清素症候群）|serotonin syndrome]] / hypertensive crisis）。
     - Metformin：術日停（lactic acidosis 風險）。
     - ACEi/ARB：術日停（術中頑固性低血壓）。
     - 抗凝血劑/抗血小板：依手術與出血風險調整。
@@ -129,7 +129,7 @@ credit:
         - 缺點：**不能完全防止誤吸**、不適合高呼吸道壓力。
         - 可作為困難插管的過渡 rescue device。
 - **Cannot Intubate, Cannot Oxygenate** → 緊急外科呼吸道：
-    - **Cricothyroidotomy**：穿過 cricothyroid membrane → 最快速的外科呼吸道。
+    - **[[耳鼻喉科#環甲膜切開術（Cricothyroidotomy）|Cricothyroidotomy]]**：穿過 cricothyroid membrane → 最快速的外科呼吸道。
     - **小兒 < 8–12 歲**：建議 needle cricothyroidotomy（環甲膜較小）。
     - Tracheostomy：非緊急時使用，需更多時間。
 
@@ -238,7 +238,7 @@ credit:
 | **Succinylcholine（SCh）** | 唯一臨床使用之去極化 NMBA；**onset 最快（30–60 sec）、duration 最短（5–10 min）**；RSI 首選；作用於 nicotinic receptor → 先引起 fasciculation 再癱瘓；由 **pseudocholinesterase（血漿膽鹼酯酶）** 代謝 |
 
 - **Succinylcholine 副作用與禁忌**：
-    - **致命性高血鉀**（正常僅升 0.5 mEq/L，以下情況禁用）：燒傷（受傷後 24 hr 至癒合數月）、脊髓損傷/上運動神經元病變/去神經化、長期臥床（>72 hr 後開始危險）、肌肉病變（muscular dystrophy）、嚴重感染。
+    - **[[電解質與酸鹼#高血鉀（Hyperkalemia）|致命性高血鉀]]**（正常僅升 0.5 mEq/L，以下情況禁用）：燒傷（受傷後 24 hr 至癒合數月）、脊髓損傷/上運動神經元病變/去神經化、長期臥床（>72 hr 後開始危險）、肌肉病變（[[神經內科#肌肉失養症（Muscular Dystrophies）|muscular dystrophy]]）、嚴重感染。
     - **惡性高熱（MH）**。
     - **心跳過緩**（尤其小兒、重複給藥 → 先給 atropine）。
     - IOP 升高（開放性眼球傷相對禁忌）、ICP 升高、IGP 升高。
@@ -262,7 +262,7 @@ credit:
 | **Neostigmine** | Anticholinesterase（增加 NMJ 的 ACh 濃度）| 所有非去極化 NMBA；**必須合併 glycopyrrolate 或 atropine**（防止 muscarinic side effects：心跳過緩、唾液增加、支氣管收縮） |
 | **Sugammadex** | 直接包裹 rocuronium/vecuronium | **Rocuronium/Vecuronium 專用**；起效快（1–3 min）；可逆轉深度阻斷；不需合併 atropine；可用於 RSI 劑量 rocuronium 的快速逆轉 |
 
-- **Myasthenia Gravis（MG）**。
+- **[[神經內科#重症肌無力（Myasthenia Gravis, MG）|Myasthenia Gravis（MG）]]**。
     - 對 **Succinylcholine 有抗性**：NMJ 的 AChR 數量減少 → 需更高劑量才能去極化。
     - 對 **非去極化 NMBA 極度敏感**：NMJ 的 AChR 數量減少 → 微小劑量即造成巨大影響。
     - 拮抗首選：**Sugammadex**（避免 neostigmine 的不可預測性）。
@@ -363,7 +363,7 @@ credit:
 - **高位脊髓麻醉（Total spinal）**：阻斷過高 → 呼吸肌癱瘓 + 嚴重低血壓 → 需緊急插管及升壓。
 - 尿滯留（S2–S4 副交感阻斷 → 最晚恢復的功能）。
 - 暫時性神經症狀（尤其使用 lidocaine spinal → 臀部/下肢放射痛）。
-- 硬膜外血腫/膿瘍（罕見但嚴重 → 脊髓壓迫 → 需緊急手術減壓）。
+- [[神經外科#脊椎硬膜外膿瘍（Spinal Epidural Abscess）|硬膜外血腫/膿瘍]]（罕見但嚴重 → 脊髓壓迫 → 需緊急手術減壓）。
 
 ### 硬膜外麻醉（Epidural Anesthesia）
 
@@ -432,6 +432,8 @@ credit:
 | 神經 | 局麻劑敏感度↑、硬膜外靜脈叢充血 → epidural space↓ | 需要較少劑量的局麻劑 |
 | 子宮 | Aortocaval compression（仰臥低血壓症候群） | **孕婦仰臥 → 子宮壓迫 IVC/aorta → CO↓ 及低血壓 → 應左側傾斜 :red[15°]** |
 
+- 各系統變化詳見 [[產科#母體生理變化|產科的母體生理變化]]
+
 ### 產科鎮痛與麻醉
 
 #### 自然產無痛分娩
@@ -449,6 +451,7 @@ credit:
 - **替代：全身麻醉**。
     - 適應症：產婦拒絕區域麻醉、凝血異常、嚴重低血容、胎兒緊急危難（無時間做 spinal）、區域麻醉失敗。
     - 風險：困難插管（呼吸道水腫 → **使用較小口徑 ETT，通常 6.0–6.5 mm**）、aspiration、子宮鬆弛（吸入麻醉劑 → 產後出血↑）、新生兒呼吸抑制。
+- 剖腹產適應症詳見 [[產科#剖腹產（Cesarean Section）|產科]]
 
 ## 特殊族群麻醉
 
@@ -468,6 +471,7 @@ credit:
 - ETT 固定深度：大約為 :red[ETT size × 3]（例如 4.0 mm → 固定於口角 12 cm）。
 - IV 輸液：4-2-1 rule。
 - 可使用 caudal block。
+- 兒童急救詳見 [[小兒科#兒童 CPR 重點（PALS）|小兒科的 PALS]]
 
 ### 老年人麻醉
 
@@ -475,7 +479,7 @@ credit:
 - MAC 隨年齡下降（每 10 歲下降約 6%）。
 - 心血管代償能力差 → 對低血壓敏感。
 - 腎/肝功能下降 → 藥物排除延長。
-- **術後譫妄（Postoperative delirium）**高風險 → 避免 benzodiazepine（長效）、anticholinergic 藥物。
+- **[[精神科#譫妄（Delirium）|術後譫妄（Postoperative delirium）]]**高風險 → 避免 benzodiazepine（長效）、anticholinergic 藥物。
 
 ### 肥胖病人麻醉
 
@@ -485,7 +489,7 @@ credit:
     - Succinylcholine：用 **total body weight（TBW）**。
     - 非去極化 NMBAs：用 **ideal body weight（IBW）**。
     - 大部分靜脈麻醉劑：用 **lean body weight** 或 IBW。
-- OSA（obstructive sleep apnea）常見 → 術後呼吸監測、減少 opioid。
+- [[胸腔內科#阻塞性睡眠呼吸中止症（OSA）|OSA（obstructive sleep apnea）]]常見 → 術後呼吸監測、減少 opioid。
 - Desflurane/TIVA → 甦醒較快（脂溶性低/不蓄積）。
 
 ## 惡性高熱（Malignant Hyperthermia, MH）
@@ -553,6 +557,7 @@ credit:
     - 強光干擾、electrical noise。
 - 注意：**SpO₂ 正常不代表通氣足夠**（尤其給高 FiO₂ 時，高碳酸血症可被掩蓋）；且偵測缺氧有延遲（探頭部位越末梢延遲越久）。
 - 嚴重貧血本身不影響 SpO₂ 準確度，但氧含量已下降。
+- 詳見 [[呼吸系統主訴#發紺（Cyanosis）|發紺]]、[[呼吸系統主訴#低血氧與呼吸衰竭（Hypoxemia / Respiratory Failure）|低血氧與呼吸衰竭]]的評估流程
 
 ### Capnography（ETCO₂ 監測）
 
@@ -626,7 +631,7 @@ credit:
 - **NSAIDs**（Ketorolac、Ibuprofen、Diclofenac）：
     - 機制：抑制 COX → 減少 prostaglandin → 抗炎/鎮痛。
     - 副作用：腎損傷、胃潰瘍/出血、血小板功能抑制、影響骨癒合（相對）。
-    - 禁忌：腎功能不全、消化性潰瘍、凝血異常、aspirin-exacerbated respiratory disease。
+    - 禁忌：腎功能不全、消化性潰瘍、凝血異常、[[耳鼻喉科#鼻息肉（Nasal Polyps）|aspirin-exacerbated respiratory disease]]。
 - **Gabapentin/Pregabalin**：α₂δ calcium channel 調節；神經病變痛、術後輔助止痛。
 - **Ketamine**（低劑量 sub-anesthetic）：NMDA antagonist；opioid tolerance 者有效、預防慢性術後痛。
 - **Dexamethasone**：單劑可減少 PONV 和術後止痛需求。
@@ -653,6 +658,7 @@ credit:
 - Apfel Simplified Risk Score（每項 1 分）：
     - ❶ 女性 ❷ 非吸菸 ❸ PONV/暈車史 ❹ 術後使用 opioids。
     - 0 分 ≈ 10%、1 分 ≈ 20%、2 分 ≈ 40%、3 分 ≈ 60%、4 分 ≈ 80%。
+- 詳見 [[消化系統主訴#噁心與嘔吐（Nausea / Vomiting）|噁心與嘔吐]]的評估流程
 
 ### PONV 預防與治療
 
@@ -685,6 +691,7 @@ credit:
     4. 支氣管痙攣：albuterol 吸入。
     5. 類固醇、抗組織胺（H₁ + H₂ blocker）：次要治療，不可取代 epinephrine。
     6. 送 **serum tryptase**（發作後 1–2 hr 及基礎值）確認 mast cell 活化；6 週後做皮膚測試。
+- 非麻醉情境詳見 [[免疫風濕科#過敏性休克（Anaphylaxis）|免疫風濕科的過敏性休克]]
 
 ### 支氣管痙攣（Bronchospasm）
 
@@ -719,7 +726,7 @@ credit:
 ### 術中心跳停止
 
 - **麻醉相關心跳停止**：藥物過量、呼吸道喪失、LAST、MH、高位脊麻、anaphylaxis。
-- 遵循 ACLS 流程。
+- 遵循 [[心臟內科#Cardiac Arrest（ACLS 重點）|ACLS]] 流程。
 - 特殊考量：排除可逆原因（6H6T）、確認管路/通氣/藥物正確。
 
 ## 疼痛與鴉片類藥物
@@ -761,6 +768,7 @@ credit:
 - 戒斷：流淚流鼻水、腹瀉、piloerection → **不致命**（cf. 酒精/BZD 戒斷可致命）。
 - **中毒三聯徵**：意識下降 + 呼吸抑制 + **針狀瞳孔**。
 - **Naloxone**：短於多數 opioids → 需重複給予。
+- 成癮與戒斷詳見 [[精神科#鴉片類（Opioids）|精神科的鴉片類]]
 
 ### 癌症疼痛管理
 
@@ -770,13 +778,16 @@ credit:
 - 各階梯皆可加 **adjuvants**（抗癲癇藥、抗憂鬱藥、類固醇）。
 - Breakthrough pain → 速效製劑（如 fentanyl lollipop）。
 - 現趨勢強調依疼痛強度直接選藥，不必逐階爬升。
+- 安寧照護中的用藥原則詳見 [[家庭醫學科#疼痛管理|家庭醫學科的疼痛管理]]
 
 ### 介入性止痛與神經阻斷
 
 | 技術 | 適應症 |
 |------|--------|
-| **Celiac plexus block** | 上腹內臟癌痛（**胰臟癌**經典適應症） |
+| **Celiac plexus block** | 上腹內臟癌痛（**[[消化內科#胰臟癌（Pancreatic Cancer）\|胰臟癌]]**經典適應症） |
 | **Stellate ganglion block** | CRPS 上肢、頭頸部交感性疼痛 |
 | **Lumbar sympathetic block** | CRPS 下肢 |
 | **Epidural / Intrathecal pump** | 難治性癌痛或慢性痛長期給藥 |
 | **Neurolytic block**（酒精/酚） | 預期壽命短的癌痛，永久性破壞神經 |
+
+- CRPS 詳見 [[復健科#複雜性區域疼痛症候群（CRPS）|復健科]]
