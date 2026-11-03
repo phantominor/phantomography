@@ -76,7 +76,7 @@ credit:
 
 - **最常見的兒童慢性皮膚病**。
 - 機轉：**Th2 為主的免疫失衡（IL-4、IL-13、IL-31）+ 表皮屏障缺損**；血清 IgE 常升高但非單純 Type I hypersensitivity 疾病。
-- 常合併氣喘、過敏性鼻炎、食物過敏（**atopic march**）。
+- 常合併[[胸腔內科#氣喘（Asthma）|氣喘]]、過敏性鼻炎、食物過敏（**atopic march**）。
 - **Filaggrin 基因突變**為重要危險因子 → 表皮屏障缺損。
 
 #### 年齡分期
@@ -118,21 +118,22 @@ credit:
 - **Patch test（貼布試驗）**：過敏性接觸性皮膚炎的診斷金標準；48 hr 後判讀。
 - 最常見過敏原：**Nickel**（耳環、皮帶扣）、poison ivy/oak（urushiol）、fragrance、preservatives。
 - 治療：避免接觸 + topical corticosteroids；嚴重 → 短期 systemic steroids。
+- 詳見 [[皮膚系統主訴#紅斑脫屑性皮疹（Eczematous / Papulosquamous Rash）|紅斑脫屑性皮疹]]的鑑別
 
 ### 脂漏性皮膚炎（Seborrheic Dermatitis）
 
 - 好發部位：頭皮、眉毛、鼻唇溝、耳後、前胸。
 - 嬰兒：**cradle cap**（頭皮乳痂）。
 - 與 **Malassezia** 相關。
-- **HIV/AIDS 患者**特別嚴重且廣泛。
-- **Parkinson disease** 亦常見。
+- **[[感染科#HIV / AIDS|HIV/AIDS 患者]]**特別嚴重且廣泛。
+- **[[神經內科#巴金森病（Parkinson's Disease, PD）|Parkinson disease]]** 亦常見。
 - 治療：抗黴菌洗劑（ketoconazole shampoo）、低效 topical steroids、calcineurin inhibitors。
 
 ### 其他濕疹
 
 - **錢幣狀濕疹（Nummular eczema）**：圓形/錢幣形斑塊，好發四肢，需與 tinea corporis 鑑別。
 - **汗疱疹（Dyshidrotic eczema / Pompholyx）**：手掌、腳掌、指側深層小水疱；極癢；與壓力、流汗相關。
-- **鬱滯性皮膚炎（Stasis dermatitis）**：下肢靜脈回流不良 → 腳踝內側紅腫脫屑、色素沉著（hemosiderin）、脂肪皮膚硬化症（lipodermatosclerosis）、可進展為靜脈性潰瘍。
+- **鬱滯性皮膚炎（Stasis dermatitis）**：下肢靜脈回流不良 → 腳踝內側紅腫脫屑、色素沉著（hemosiderin）、脂肪皮膚硬化症（lipodermatosclerosis）、可進展為[[心血管外科#慢性靜脈功能不全（Chronic Venous Insufficiency, CVI）|靜脈性潰瘍]]。
 
 ## 乾癬（Psoriasis）
 
@@ -148,7 +149,7 @@ credit:
 | 類型 | 特徵 |
 |------|------|
 | **斑塊型（Plaque）** | 最常見（80–90%）；銀白色鱗屑、界限清楚的紅色斑塊；好發頭皮、肘膝伸側、薦骨區 |
-| **點滴型（Guttate）** | 小滴狀（<1 cm）廣泛分布；常見兒童/年輕人；常在**鏈球菌咽喉感染**後誘發 |
+| **點滴型（Guttate）** | 小滴狀（<1 cm）廣泛分布；常見兒童/年輕人；常在**[[感染科#Group A Streptococcus（S. pyogenes）\|鏈球菌咽喉感染]]**後誘發 |
 | **反轉型（Inverse/Flexural）** | 皺褶處（腋下、腹股溝、乳房下）；光滑紅斑、少鱗屑 |
 | **膿疱型（Pustular）** | 全身型 → 發燒 + 廣泛無菌性膿疱 → **急症**；局限型（掌蹠膿疱症） |
 | **紅皮症型（Erythrodermic）** | 全身 >90% 體表面積發紅脫屑 → 可致命（體溫調節失常、蛋白質流失、**高心輸出量心衰竭**） |
@@ -158,7 +159,8 @@ credit:
 - **Auspitz sign**：刮除鱗屑後出現點狀出血（真皮乳頭血管暴露）。
 - **Koebner phenomenon**：外傷處出現新乾癬病灶（也見於 lichen planus、vitiligo）。
 - **Nail changes**：pitting（最常見）、oil-drop sign、onycholysis、subungual hyperkeratosis。
-- **乾癬性關節炎（Psoriatic arthritis）**：約 30% 乾癬患者；**DIP** 關節好發；dactylitis（香腸指）、enthesitis；X-ray：pencil-in-cup deformity、joint ankylosis。
+- **[[免疫風濕科#乾癬性關節炎（Psoriatic Arthritis, PsA）|乾癬性關節炎（Psoriatic arthritis）]]**：約 30% 乾癬患者；**DIP** 關節好發；dactylitis（香腸指）、enthesitis；X-ray：pencil-in-cup deformity、joint ankylosis。
+- 指甲變化的鑑別詳見 [[皮膚系統主訴#指甲變化（Nail Changes）|指甲變化]]
 
 ### 病理
 
@@ -213,14 +215,14 @@ credit:
     - Civatte bodies（colloid bodies / apoptotic keratinocytes）。
     - 楔形顆粒層增厚（hypergranulosis）。
     - 鋸齒狀表皮突起（saw-tooth rete ridges）。
-- 關聯：**HCV（C 型肝炎）** → 需檢測。
+- 關聯：**[[消化內科#Hepatitis C（HCV）|HCV（C 型肝炎）]]** → 需檢測。
 - 治療：potent topical steroids；嚴重 → systemic steroids、Acitretin、phototherapy。
 - 通常 1–2 年自行緩解，但口腔型可持續更久。
 
 ### 硬化性萎縮苔蘚（Lichen Sclerosus）
 
 - 白色萎縮性斑塊。
-- 好發：女性外陰部（最常見）→ 搔癢、性交困難。
+- 好發：[[婦科#外陰非腫瘤性上皮病變|女性外陰部]]（最常見）→ 搔癢、性交困難。
 - 外陰 LS：SCC 風險增加（4–5%）。
 - 男性：龜頭（balanitis xerotica obliterans）→ 包皮過緊。
 - 病理：表皮萎縮、真皮上層均質化（homogenization of collagen）、帶狀淋巴球浸潤。
@@ -237,7 +239,7 @@ credit:
 |------|-------------|----------|----------|
 | **Pemphigus vulgaris (PV)** | **Desmoglein 3**（±Dsg1） | 棘層上方（suprabasal） | 最常見、最嚴重；口腔黏膜糜爛常為首發；鬆弛薄壁水疱易破 |
 | **Pemphigus foliaceus (PF)** | **Desmoglein 1** | 顆粒層下方（subcorneal） | 表淺、無黏膜侵犯；鱗屑痂皮為主 |
-| Paraneoplastic pemphigus | 多種（包括 plakin family） | 混合型 | 合併惡性腫瘤（淋巴瘤最常見）；嚴重口腔糜爛 + 多形性皮疹 |
+| Paraneoplastic pemphigus | 多種（包括 plakin family） | 混合型 | 合併惡性腫瘤（[[血液腫瘤科#Non-Hodgkin Lymphoma（NHL）\|淋巴瘤最常見]]）；嚴重口腔糜爛 + 多形性皮疹 |
 
 - **Nikolsky sign（+）**：指壓正常皮膚即可使表皮剝離。
 - **病理**：棘層鬆解（acantholysis）；PV → suprabasal split → **tombstoning**（基底層細胞附著在真皮上如墓碑狀）。
@@ -260,10 +262,11 @@ credit:
 - **病理**：表皮下裂隙，嗜酸性球浸潤。
 - **DIF**：IgG 和 C3 沿基底膜帶 → **線狀（linear pattern）**。
 - 治療：potent topical steroids（輕度）；systemic steroids + Dapsone/Doxycycline（中重度）。
+- 詳見 [[皮膚系統主訴#水疱與大疱（Vesicles / Bullae）|水疱與大疱]]的評估流程
 
 ### 疱疹樣皮膚炎（Dermatitis Herpetiformis, DH）
 
-- 與 **Celiac disease** 高度相關（幾乎 100% 有小腸病變）。
+- 與 **[[消化內科#Celiac Disease（乳糜瀉）|Celiac disease]]** 高度相關（幾乎 100% 有小腸病變）。
 - 極癢的成群小水疱 → 好發肘、膝、臀、肩伸側（對稱分布）。
 - **病理**：真皮乳頭嗜中性球微膿瘍（neutrophilic microabscesses at dermal papillae）。
 - **DIF**：IgA 顆粒狀沉積在真皮乳頭（granular IgA at dermal papillae）。
@@ -283,13 +286,15 @@ credit:
 
 | 類型 | 特徵 | 常見致因藥物 |
 |------|------|-------------|
-| **斑丘疹型（Morbilliform）** | 最常見藥疹；對稱、廣泛紅色斑丘疹；用藥後 :red[7–14 天]（首次）或 1–3 天（再次） | Amoxicillin（特別是 EBV 感染時）、sulfonamides、allopurinol、anticonvulsants |
-| **蕁麻疹型（Urticarial）** | 膨疹、血管性水腫 | Penicillin、NSAIDs、ACE inhibitors（angioedema） |
+| **斑丘疹型（Morbilliform）** | 最常見藥疹；對稱、廣泛紅色斑丘疹；用藥後 :red[7–14 天]（首次）或 1–3 天（再次） | Amoxicillin（特別是 [[感染科#EBV（Infectious Mononucleosis）\|EBV 感染時]]）、sulfonamides、allopurinol、anticonvulsants |
+| **蕁麻疹型（Urticarial）** | 膨疹、血管性水腫 | Penicillin、NSAIDs、[[免疫風濕科#血管性水腫（Angioedema）\|ACE inhibitors（angioedema）]] |
 | **固定藥疹（Fixed drug eruption）** | 同一位置反覆出現紅斑/水疱 + 用藥後色素沉著 | Sulfonamides、NSAIDs、Tetracycline、Phenolphthalein |
 | **光敏感型（Photosensitivity）** | 日光暴露部位 | Tetracycline、Thiazides、Fluoroquinolones、Amiodarone、NSAIDs |
 | **藥物引發痤瘡** | 單型態膿疱（monomorphic） | Corticosteroids、Lithium、Phenytoin、Isoniazid |
 | **Lichenoid drug reaction** | 類似 lichen planus | ACEi、Thiazides、金製劑、Antimalarials |
-| **Drug-induced lupus** | ANA(+)、anti-histone Ab(+) | **Hydralazine**（最常見）、Procainamide、INH、Minocycline |
+| **[[免疫風濕科#Drug-Induced Lupus\|Drug-induced lupus]]** | ANA(+)、anti-histone Ab(+) | **Hydralazine**（最常見）、Procainamide、INH、Minocycline |
+
+- 詳見 [[皮膚系統主訴#藥物疹與嚴重皮膚反應（Drug Eruptions / SCAR）|藥物疹與嚴重皮膚反應]]的評估流程
 
 ### Stevens-Johnson Syndrome（SJS）/ Toxic Epidermal Necrolysis（TEN）
 
@@ -303,9 +308,9 @@ credit:
 
 #### 高風險藥物
 
-- **Allopurinol**（與 **HLA-B\*58:01** 強烈相關，漢人帶原率高 → **用藥前建議基因檢測**）。
+- **[[骨科#痛風性關節炎（Gout）|Allopurinol]]**（與 **HLA-B\*58:01** 強烈相關，漢人帶原率高 → **用藥前建議基因檢測**）。
 - **Carbamazepine**（與 **HLA-B\*15:02** 相關，**限漢人/東南亞族群** → 用藥前檢測）。
-- **Abacavir**（與 **HLA-B\*57:01** 相關 → 用藥前檢測）。
+- **[[感染科#ART（抗反轉錄病毒治療）|Abacavir]]**（與 **HLA-B\*57:01** 相關 → 用藥前檢測）。
 - **Phenytoin、Lamotrigine**。
 - **Sulfonamides（如 TMP-SMX）**。
 - **NSAIDs（oxicam 類）**。
@@ -334,7 +339,7 @@ credit:
     - 皮疹：廣泛斑丘疹，常累及面部（facial edema 特徵性）。
     - 血液學：**嗜酸性球增多** ± atypical lymphocytes。
     - 內臟：**肝炎**（最常見、最致命）、腎炎、肺炎、心肌炎、甲狀腺炎。
-- 與 **HHV-6 再活化**密切相關。
+- 與 **[[感染科#疱疹病毒家族（Herpesviridae）|HHV-6 再活化]]**密切相關。
 - 治療：停藥 + systemic corticosteroids（緩慢減量）。
 - 停藥後數週至數月仍有可能出現**自體免疫後遺症**（甲狀腺炎、第一型糖尿病）。
 
@@ -358,7 +363,7 @@ credit:
 - 非水疱型：**S. aureus** > GAS → 蜜黃色痂皮（honey-colored crust），好發口鼻周圍。
 - 水疱型：**S. aureus**（exfoliative toxin）→ 鬆弛薄壁水疱。
 - 治療：局部 Mupirocin；廣泛者 → 口服抗生素（Cephalexin）。
-- 併發症：GAS 引起的可致**急性腎絲球腎炎**（但不會引起風濕熱）。
+- 併發症：GAS 引起的可致**[[腎臟內科#Post-Streptococcal Glomerulonephritis（PSGN）|急性腎絲球腎炎]]**（但不會引起風濕熱）。
 
 #### 蜂窩性組織炎（Cellulitis）與丹毒（Erysipelas）
 
@@ -384,7 +389,8 @@ credit:
 - Type II：單一菌種（**GAS**），可發生於健康人。
 - 臨床：**pain out of proportion to physical findings**、crepitus、皮膚壞死、sepsis。
 - 診斷：臨床為主；CT 可見 gas in soft tissue。
-- 治療：**緊急外科清創（最重要）** + 廣效抗生素（GAS → Penicillin + Clindamycin）。
+- 治療：**[[外科概論#壞死性筋膜炎（Necrotizing Fasciitis）|緊急外科清創（最重要）]]** + 廣效抗生素（GAS → Penicillin + Clindamycin）。
+- 詳見 [[皮膚系統主訴#皮膚與軟組織感染（Skin and Soft Tissue Infection）|皮膚與軟組織感染]]的評估流程
 
 #### 紅癬（Erythrasma）
 
@@ -396,7 +402,7 @@ credit:
 
 #### 梅毒（Syphilis）
 
-- **Treponema pallidum** 感染。
+- **[[感染科#Treponema pallidum（Syphilis，梅毒）|Treponema pallidum]]** 感染。
 - **一期（Primary）**：**硬下疳（chancre）** → 無痛性、邊緣隆起、基底乾淨的潰瘍；好發生殖器；具高度傳染性；3–6 週自行消退。
 - **二期（Secondary）**：感染後 6–8 週；**全身性對稱紅棕色斑丘疹**（含手掌足底）；**扁平濕疣**（condylomata lata，肛周/會陰灰白色濕潤斑塊）；mucous patches（口腔）；全身性淋巴結腫大；moth-eaten alopecia（蟲蛀狀脫髮）。
 - **三期（Tertiary）**：**梅毒腫（gumma）** → 肉芽腫性破壞性病灶，可侵犯皮膚、骨骼、內臟。
@@ -412,14 +418,14 @@ credit:
 - Plantar wart（Verruca plantaris）：HPV 1 → 足底，向內生長，壓痛。
 - Flat wart（Verruca plana）：HPV 3, 10 → 臉/手背；扁平小丘疹。
 - Condyloma acuminatum（尖圭濕疣/菜花）：**HPV 6, 11** → 外生殖器/肛周病灶。
-- 癌症相關：HPV **16, 18** → 子宮頸癌、肛門癌、口咽癌。
+- 癌症相關：HPV **16, 18** → [[婦科#子宮頸癌（Cervial Cancer）|子宮頸癌]]、肛門癌、口咽癌。
 - 病理：acanthosis、papillomatosis、hyperkeratosis、**koilocytes**（核周空泡）。
 - 治療：液態氮冷凍、水楊酸、Imiquimod、Podophyllotoxin、電燒、手術。
 
 #### 傳染性軟疣（Molluscum Contagiosum）
 
 - **Poxvirus（Molluscipoxvirus）**感染。
-- 兒童常見；成人若廣泛分布 → 考慮 **HIV/免疫低下**。
+- 兒童常見；成人若廣泛分布 → 考慮 **[[感染科#HIV / AIDS|HIV/免疫低下]]**。
 - 皮膚色/珍珠色丘疹，**中央臍凹（umbilicated）**。
 - 病理：**Henderson-Patterson bodies**（molluscum bodies）→ 大的嗜伊紅包涵體。
 - 通常自限性；治療：cryotherapy、curettage。
@@ -429,12 +435,12 @@ credit:
 - **VZV 再活化**（潛伏於背根神經節/cranial nerve ganglia）。
 - 好發老年人、免疫低下。
 - 臨床：沿 **單一皮節（dermatome）** 分布的群聚水疱，不跨越中線；疼痛 → 出疹。
-- **Ramsay Hunt syndrome**：VZV 侵犯膝狀神經節 → 耳周水疱 + 顏面神經麻痺 + 耳痛 ± 聽力喪失/眩暈。
-- **眼帶狀疱疹**：V1（ophthalmic branch）→ Hutchinson sign（鼻尖水疱 → 鼻睫神經受侵犯 → 角膜侵犯風險高）→ 眼科急會診。
+- **[[神經系統主訴#顏面神經麻痺（Facial Palsy）|Ramsay Hunt syndrome]]**：VZV 侵犯膝狀神經節 → 耳周水疱 + 顏面神經麻痺 + 耳痛 ± 聽力喪失/眩暈。
+- **[[眼科#Herpes Zoster Ophthalmicus|眼帶狀疱疹]]**：V1（ophthalmic branch）→ Hutchinson sign（鼻尖水疱 → 鼻睫神經受侵犯 → 角膜侵犯風險高）→ 眼科急會診。
 - **帶狀疱疹後神經痛（PHN）**：最常見併發症，高齡者風險↑。
 - 免疫低下者：多皮節侵犯、播散型。
 - 治療：**Valacyclovir** 或 Acyclovir（:red[72 小時內]開始效果最佳）；止痛。
-- 預防：**Shingrix（重組帶狀疱疹疫苗）** → 50 歲以上建議接種。
+- 預防：**[[家庭醫學科#成人疫苗|Shingrix（重組帶狀疱疹疫苗）]]** → 50 歲以上建議接種。
 
 #### 單純疱疹（Herpes Simplex）
 
@@ -501,12 +507,13 @@ credit:
     - **Ivermectin**（口服）：crusted scabies 首選；可與 topical 合併。
     - 所有同住者同時治療；衣物寢具高溫洗滌。
     - **Post-scabetic itch**：治療成功後搔癢可持續數週 → 非治療失敗。
+- 詳見 [[皮膚系統主訴#搔癢（Pruritus）|搔癢]]的評估流程
 
 #### 蝨病（Pediculosis）
 
 - 頭蝨（P. capitis）：兒童，後枕部；蟲卵黏附髮幹。
 - 體蝨（P. corporis）：流浪/衛生不佳；蟲住在衣服 → 改善衛生為主。
-    - 可傳播 Rickettsia（epidemic typhus）、Borrelia（relapsing fever）。
+    - 可傳播 [[感染科#Rickettsia & related|Rickettsia（epidemic typhus）]]、Borrelia（relapsing fever）。
 - 陰蝨（P. pubis）：性傳染；眼睫毛亦可感染。
 - 治療：Permethrin lotion/shampoo、Ivermectin。
 
@@ -520,13 +527,14 @@ credit:
     - 慢性：多為 **idiopathic（慢性自發性蕁麻疹）**。
 - 可伴隨 **血管性水腫（angioedema）**：真皮深層/皮下水腫，好發眼周、嘴唇。
     - **ACE inhibitor 引起**：bradykinin 介導（非組織胺）→ 抗組織胺無效 → 停藥。
-    - **遺傳性血管性水腫（HAE）**：C1-esterase inhibitor 缺乏。
+    - **[[免疫風濕科#血管性水腫（Angioedema）|遺傳性血管性水腫（HAE）]]**：C1-esterase inhibitor 缺乏。
 - 治療：
     - 第二代 H1 antihistamines（Cetirizine、Loratadine、Fexofenadine）。
     - 加量至 4 倍標準劑量。
     - 加 H2 blocker 或 leukotriene antagonist。
     - 頑固慢性蕁麻疹：**Omalizumab（anti-IgE）**。
-    - Anaphylaxis：**Epinephrine IM**。
+    - [[免疫風濕科#過敏性休克（Anaphylaxis）|Anaphylaxis]]：**Epinephrine IM**。
+- 詳見 [[皮膚系統主訴#蕁麻疹與血管性水腫（Urticaria / Angioedema）|蕁麻疹與血管性水腫]]的評估流程
 
 ### 肥大細胞增生症（Mastocytosis）
 
@@ -540,7 +548,7 @@ credit:
 ### 多形性紅斑（Erythema Multiforme, EM）
 
 - **最常見觸發因子：HSV 感染**。
-- 其他：Mycoplasma pneumoniae、藥物（較少見）。
+- 其他：[[感染科#Mycoplasma pneumoniae|Mycoplasma pneumoniae]]、藥物（較少見）。
 - 特徵性病灶：**Target lesion** → 3 個同心環（中央暗/紫，中間蒼白水腫，外環紅斑）。
 - EM minor：限於皮膚，少或無黏膜侵犯。
 - EM major：有黏膜侵犯（但與 SJS 是不同疾病）。
@@ -555,7 +563,7 @@ credit:
 - 常見觸發因子：
     - 感染：**Streptococcal infection**（最常見）、TB、Yersinia、Coccidioidomycosis。
     - 藥物：OCP、Sulfonamides。
-    - 全身性疾病：**Sarcoidosis**、IBD（尤其 Crohn's disease）、Behçet disease。
+    - 全身性疾病：**[[胸腔內科#結節病（Sarcoidosis）|Sarcoidosis]]**、[[消化內科#發炎性腸道疾病（Inflammatory Bowel Disease, IBD）|IBD（尤其 Crohn's disease）]]、[[免疫風濕科#Behçet's Disease|Behçet disease]]。
     - 懷孕。
 - 治療：治療根本病因；NSAIDs；抬高患肢；通常 6–8 週自行緩解。
 - 比較：
@@ -571,12 +579,13 @@ credit:
 - 非感染性嗜中性球性皮膚病。
 - 快速進展的疼痛性潰瘍，邊緣呈 undermined、紫色/藍色。
 - **Pathergy phenomenon**：外傷/手術後在傷口處出現新病灶 → **避免不必要的清創**。
-- 關聯疾病：**IBD（尤其 UC）**、RA、血液惡性腫瘤、MGUS。
+- 關聯疾病：**IBD（尤其 UC）**、RA、血液惡性腫瘤、[[血液腫瘤科#MGUS（Monoclonal Gammopathy of Undetermined Significance）|MGUS]]。
 - 治療：systemic corticosteroids、Cyclosporine、Dapsone；局部：Tacrolimus。
+- 詳見 [[皮膚系統主訴#皮膚潰瘍（Skin Ulcer）|皮膚潰瘍]]的鑑別
 
 ### 血管炎
 
-- **IgA 血管炎（Henoch-Schönlein Purpura, HSP）**：
+- **[[小兒科#過敏性紫斑（Henoch-Schönlein Purpura / IgA Vasculitis）|IgA 血管炎（Henoch-Schönlein Purpura, HSP）]]**：
     - 最常見兒童血管炎；上呼吸道感染後。
     - 四聯徵：**可觸及紫斑（palpable purpura）** + 關節痛 + 腹痛 + 腎炎（IgA nephropathy）。
     - 病理：leukocytoclastic vasculitis（小血管壁嗜中性球碎裂）；DIF：IgA 沉積。
@@ -585,6 +594,7 @@ credit:
 - **Leukocytoclastic vasculitis（LCV）**：
     - 可觸及紫斑（palpable purpura）→ 下肢好發。
     - 病理：小血管壁嗜中性球浸潤 + nuclear dust（核碎片）。
+- 詳見 [[皮膚系統主訴#紫斑與瘀點（Purpura / Petechiae）|紫斑與瘀點]]的鑑別
 
 ## 色素異常與痣
 
@@ -608,7 +618,7 @@ credit:
 
 #### 真皮黑色素細胞增生
 
-- **太田母斑（Nevus of Ota）**：藍灰色斑，**單側**三叉神經 V1/V2 分布（眼周/顴骨/鞏膜）；亞洲人好發；出生或青春期出現；有**青光眼**及罕見眼/腦膜黑色素瘤之風險。
+- **太田母斑（Nevus of Ota）**：藍灰色斑，**單側**三叉神經 V1/V2 分布（眼周/顴骨/鞏膜）；亞洲人好發；出生或青春期出現；有**[[眼科#急性隅角閉鎖青光眼（Acute Angle-Closure Glaucoma）|青光眼]]**及罕見眼/腦膜黑色素瘤之風險。
 - **Hori's nevus**：雙側顴骨褐色/灰藍色斑點；後天性（20–40 歲女性）；亞洲人常見。
 - **蒙古斑（Mongolian spot）**：出生時臀部/腰薦部藍灰色斑 → 通常數年內消退。
 
@@ -625,7 +635,7 @@ credit:
 - **界限清楚的乳白色斑（depigmented macules/patches）**。
 - 好發部位：眼周、口周、手背、指端、生殖器、皺褶處。
 - **Koebner phenomenon**（+）。
-- 關聯自體免疫疾病：**甲狀腺疾病**（Hashimoto's、Graves'）、Addison disease、Pernicious anemia、DM type 1。
+- 關聯自體免疫疾病：**[[代謝內分泌科#Hashimoto's Thyroiditis|甲狀腺疾病]]**（Hashimoto's、Graves'）、[[代謝內分泌科#腎上腺功能不全（Adrenal Insufficiency）|Addison disease]]、[[血液腫瘤科#維生素 B₁₂（Cobalamin）缺乏|Pernicious anemia]]、DM type 1。
 - Wood's lamp：脫色區域更明顯（白色螢光增強）。
 - 病理：表皮黑色素細胞完全消失。
 - 治療：potent topical steroids、topical calcineurin inhibitors、NB-UVB phototherapy、excimer laser。
@@ -635,7 +645,7 @@ credit:
 
 - 皮膚增厚、天鵝絨樣、色素沉著 → 好發頸部、腋下、腹股溝。
 - **與胰島素阻抗/第二型糖尿病/肥胖高度相關**。
-- 惡性型：突然出現且快速進展 → 懷疑內臟惡性腫瘤（尤其**胃腺癌**）。
+- 惡性型：突然出現且快速進展 → 懷疑內臟惡性腫瘤（尤其**[[消化內科#胃癌（Gastric Cancer）|胃腺癌]]**）。
 - 治療：控制基礎疾病（減重、血糖控制）；外用 tretinoin/ammonium lactate。
 
 ### 黑斑（Melasma）
@@ -643,6 +653,7 @@ credit:
 - 臉部對稱棕色斑塊（頰、額、上唇、下巴）。
 - 好發：育齡女性、懷孕（chloasma）、口服避孕藥、日曬。
 - 治療：防曬（最重要）、Hydroquinone（局部美白劑）、Tretinoin、Azelaic acid。
+- 詳見 [[皮膚系統主訴#色素變化（Pigmentation Changes）|色素變化]]的鑑別
 
 ## 皮膚良性腫瘤
 
@@ -652,13 +663,15 @@ credit:
 |------|------|------|
 | **脂漏性角化症（Seborrheic keratosis, SK）** | 最常見良性皮膚腫瘤；「stuck-on」外觀；蠟樣/疣狀；horn pseudocysts | Leser-Trélat sign：突然大量出現 SK → 內臟惡性腫瘤（胃腸道腺癌） |
 | **皮膚纖維瘤（Dermatofibroma）** | 堅硬丘疹，下肢好發；**Dimple sign**（側壓凹陷） | 良性，通常觀察即可 |
-| **脂肪瘤（Lipoma）** | 皮下軟性可動結節 | 多發性 → Gardner syndrome（FAP 變體） |
+| **脂肪瘤（Lipoma）** | 皮下軟性可動結節 | 多發性 → [[消化內科#大腸癌（Colorectal Cancer, CRC）\|Gardner syndrome]]（FAP 變體） |
 | **表皮囊腫（Epidermal cyst）** | 最常見皮膚囊腫；含 keratin；中央 punctum | 若破裂 → 異物反應性發炎 |
 | **皮脂腺囊腫（Pilar/Trichilemmal cyst）** | 頭皮好發 | 與 epidermal cyst 不同：角化不含顆粒層 |
 | **櫻桃血管瘤（Cherry angioma）** | 鮮紅小丘疹；隨年齡增多 | 良性，無需治療 |
 | **化膿性肉芽腫（Pyogenic granuloma）** | 快速生長的紅色結節，易出血；與創傷/懷孕相關 | 並非化膿性也非肉芽腫；lobular capillary hemangioma |
 
 ### 癌前病變
+
+- 詳見 [[皮膚系統主訴#皮膚腫塊與痣的變化（Skin Lumps / Changing Mole）|皮膚腫塊與痣的變化]]的評估流程
 
 #### 日光性角化症（Actinic Keratosis, AK）
 
@@ -751,11 +764,12 @@ credit:
     - 轉移性治療：
         - Immunotherapy：**Nivolumab / Pembrolizumab**（anti-PD-1）、**Ipilimumab**（anti-CTLA-4）→ 一線。
         - Targeted therapy：BRAF V600E mutation → **Vemurafenib / Dabrafenib**（BRAF inhibitor）+ **Trametinib**（MEK inhibitor）。
+- 手術詳見 [[整形外科#黑色素瘤（Melanoma）|整形外科的黑色素瘤]]
 
 ### Merkel Cell Carcinoma
 
 - 罕見但高度惡性的神經內分泌腫瘤。
-- 好發老年人、免疫低下；與 **Merkel cell polyomavirus（MCPyV）** 相關。
+- 好發老年人、免疫低下；與 **[[感染科#Polyomavirus（JC virus & BK virus）|Merkel cell polyomavirus]]（MCPyV）** 相關。
 - 快速生長的無痛紅色/紫色結節；好發頭頸部。
 - 免疫組織化學：**CK20**（+）、chromogranin、synaptophysin。
 - 治療：wide excision + SLNB + adjuvant RT；晚期 → anti-PD-L1（Avelumab）。
@@ -763,7 +777,7 @@ credit:
 ### 卡波西肉瘤（Kaposi Sarcoma）
 
 - **HHV-8（Human Herpesvirus 8）** 相關的血管腫瘤。
-- 四型：Classic（老年地中海男性，下肢）、Endemic（非洲）、Iatrogenic（器官移植後）、**AIDS-associated**（最常見型；CD4 低時出現）。
+- 四型：Classic（老年地中海男性，下肢）、Endemic（非洲）、Iatrogenic（器官移植後）、**[[感染科#AIDS-defining illnesses|AIDS-associated]]**（最常見型；CD4 低時出現）。
 - 臨床：紫紅色斑塊/結節/斑片；可侵犯皮膚、口腔、內臟（肺、GI）。
 - 病理：梭形細胞增殖 + slit-like vascular spaces + 紅血球外滲。
 - 治療：AIDS 型 → ART（免疫重建）；局部放療/冷凍；廣泛型 → 化療（doxorubicin）。
@@ -771,7 +785,7 @@ credit:
 ### 血管肉瘤（Angiosarcoma）
 
 - 高度惡性的血管內皮腫瘤；預後極差。
-- 好發：老年人頭皮/臉部（瘀青樣斑塊）；慢性淋巴水腫肢體（**Stewart-Treves syndrome** → 乳癌根治術後長期上肢淋巴水腫）；放射線照射後。
+- 好發：老年人頭皮/臉部（瘀青樣斑塊）；慢性淋巴水腫肢體（**[[乳房外科#乳癌手術治療|Stewart-Treves syndrome]]** → 乳癌根治術後長期上肢淋巴水腫）；放射線照射後。
 - 病理：異型內皮細胞 + irregular anastomosing vascular channels。
 - 治療：手術 + 放療；晚期 → 化療（Paclitaxel）。
 
@@ -782,7 +796,7 @@ credit:
 - 進展緩慢：patch（斑）→ plaque（斑塊）→ tumor（腫瘤）。
 - 好發不暴光部位（bathing trunk distribution）。
 - 病理：表皮內 atypical T lymphocytes（epidermotropism）、**Pautrier microabscesses**（表皮內異常 T 細胞聚集）。
-- **Sézary syndrome**：MF 的白血病型 → erythroderma + 淋巴結腫大 + 血液中 Sézary cells（cerebriform nucleus）。
+- **[[血液腫瘤科#Non-Hodgkin Lymphoma（NHL）|Sézary syndrome]]**：MF 的白血病型 → erythroderma + 淋巴結腫大 + 血液中 Sézary cells（cerebriform nucleus）。
 - 治療：早期 → topical steroids、NB-UVB、PUVA、nitrogen mustard；晚期 → systemic chemotherapy、Bexarotene（retinoid）、Mogamulizumab（anti-CCR4）。
 
 ## 痤瘡、酒糟與皮膚附屬器疾病
@@ -831,13 +845,14 @@ credit:
     - Papulopustular：topical Metronidazole / Azelaic acid / Ivermectin。
     - Rhinophyma：手術（CO₂ laser、電燒刮除）。
     - **禁忌：Topical corticosteroids** → 會惡化酒糟。
+- 詳見 [[皮膚系統主訴#臉部紅疹（Facial Rash）|臉部紅疹]]的鑑別
 
 ### 化膿性汗腺炎（Hidradenitis Suppurativa, HS）
 
 - 慢性反覆發炎性疾病，累及含 apocrine 汗腺的毛囊。
 - 好發部位：腋下、腹股溝、臀部、乳房下。
 - 臨床：深層疼痛性結節/膿瘍 → 反覆破裂 → 竇道（sinus tracts）+ 瘢痕。
-- 危險因子：**肥胖**、吸菸、女性。
+- 危險因子：**[[全身症狀#體重增加與肥胖（Weight Gain / Obesity）|肥胖]]**、吸菸、女性。
 - Hurley staging：I（膿瘍無竇道）→ II（反覆膿瘍 + 竇道）→ III（瀰漫性竇道/瘢痕）。
 - 長期併發症：SCC（慢性竇道內）、心理社會影響。
 - 治療：
@@ -854,17 +869,19 @@ credit:
 | **休止期落髮（Telogen effluvium）** | 壓力事件/手術/生產/發燒/減重後 :red[2–3 個月]瀰漫性落髮；可自行恢復 |
 | **拔毛癖（Trichotillomania）** | 自行拔毛 → 不規則脫髮斑；斷裂不等長毛髮 |
 
+- 詳見 [[皮膚系統主訴#掉髮（Hair Loss / Alopecia）|掉髮]]的評估流程
+
 ## 結締組織疾病之皮膚表現
 
 ### 紅斑性狼瘡（Lupus Erythematosus）
 
 | 分型 | 皮膚表現 | 備註 |
 |------|----------|------|
-| **Acute cutaneous LE (ACLE)** | **蝴蝶斑（Malar/butterfly rash）**：頰部及鼻梁紅斑，**不侵犯鼻唇溝**（與酒糟/脂漏性皮膚炎鑑別）；光敏感 | 幾乎都有 SLE |
+| **Acute cutaneous LE (ACLE)** | **蝴蝶斑（Malar/butterfly rash）**：頰部及鼻梁紅斑，**不侵犯鼻唇溝**（與酒糟/脂漏性皮膚炎鑑別）；光敏感 | 幾乎都有 [[免疫風濕科#全身性紅斑狼瘡（SLE）\|SLE]] |
 | **Subacute cutaneous LE (SCLE)** | 環狀或乾癬樣（psoriasiform）紅斑，光暴露區 | 高度關聯 anti-Ro/SSA Ab；藥物誘發型常見（Hydrochlorothiazide、Terbinafine） |
 | **Chronic cutaneous LE (DLE)** | **圓盤狀紅斑（discoid）**：紅斑 → 角化 → 萎縮性疤痕 + 色素異常 + 毛囊栓塞（follicular plugging）→ **瘢痕性脫髮** | 僅 5–10% 進展為 SLE |
 
-- SLE 其他皮膚表現：光敏感、口腔潰瘍、Raynaud's phenomenon、脫髮（non-scarring）、livedo reticularis。
+- SLE 其他皮膚表現：光敏感、口腔潰瘍、[[肌肉骨骼系統主訴#雷諾現象（Raynaud's Phenomenon）|Raynaud's phenomenon]]、脫髮（non-scarring）、livedo reticularis。
 - 病理：interface dermatitis、basement membrane thickening、mucin deposition。
 - **DIF（lupus band test）**：基底膜帶 IgG、IgM、IgA、C3 顆粒狀沉積（granular pattern）；DLE 僅在病灶皮膚（+）；SLE 在非病灶皮膚亦可（+）。
 
@@ -879,9 +896,9 @@ credit:
     - **Mechanic's hands**：手指側面/掌面龜裂、角化。
     - **Nail fold changes**：甲周微血管擴張、cuticle hemorrhage。
     - **Calcinosis cutis**：尤其兒童型。
-- 肌肉：近端肌肉無力、CK↑。
+- 肌肉：近端肌肉無力、[[生化異常#肌酸激酶升高（Elevated Creatine Kinase）|CK↑]]。
 - **惡性腫瘤關聯**：卵巢、肺、胃腸道、淋巴瘤（尤其 **anti-TIF1-γ** 抗體陽性者）。
-- 自體抗體：anti-Mi-2（典型 DM、預後好）、anti-Jo-1（也見於 antisynthetase syndrome）、anti-MDA5（amyopathic DM + 快速進展 ILD）。
+- 自體抗體：anti-Mi-2（典型 DM、預後好）、anti-Jo-1（也見於 antisynthetase syndrome）、[[免疫風濕科#發炎性肌病（Inflammatory Myopathies）|anti-MDA5]]（amyopathic DM + 快速進展 ILD）。
 - 治療：systemic steroids + steroid-sparing agents（MTX、AZA、IVIG）。
 
 ### 硬皮症（Scleroderma / Systemic Sclerosis）
@@ -889,11 +906,11 @@ credit:
 - **局限型皮膚硬化（Limited cutaneous SSc / CREST syndrome）**：
     - **C**alcinosis、**R**aynaud's、**E**sophageal dysmotility、**S**clerodactyly、**T**elangiectasia。
     - Anti-centromere Ab。
-    - 預後較好，但有 pulmonary HTN 風險。
+    - 預後較好，但有 [[心臟內科#肺動脈高壓（Pulmonary Hypertension, PH）|pulmonary HTN]] 風險。
 - **瀰漫型皮膚硬化（Diffuse cutaneous SSc）**：
     - 快速進展的廣泛皮膚硬化。
     - **Anti-Scl-70（anti-topoisomerase I）Ab**。
-    - 內臟侵犯：ILD（最常見死因）、renal crisis。
+    - 內臟侵犯：[[胸腔內科#間質性肺病（Interstitial Lung Disease, ILD）|ILD（最常見死因）]]、renal crisis。
 - **Morphea（局限性硬皮症）**：局限於皮膚的硬化斑塊，不侵犯內臟；中央象牙色、周圍紫色環。
 - Raynaud's phenomenon：白（缺血）→ 藍/紫（發紺）→ 紅（再灌流）。
 
@@ -904,7 +921,7 @@ credit:
 | 類型 | 遺傳 | 蛋白缺陷 | 特徵 |
 |------|------|----------|------|
 | **Ichthyosis vulgaris** | AD | **Filaggrin** | 最常見；細小白色鱗屑；掌紋加深（hyperlinear palms）；**不侵犯皺褶處**；與 AD 高度相關 |
-| X-linked ichthyosis | XR | **Steroid sulfatase（STS）** | 男性；深色大片鱗屑；不侵犯掌跖、皺褶；關聯：**產程延遲（胎盤 sulfatase 缺乏）**、隱睪、角膜混濁 |
+| X-linked ichthyosis | XR | **Steroid sulfatase（STS）** | 男性；深色大片鱗屑；不侵犯掌跖、皺褶；關聯：**產程延遲（胎盤 sulfatase 缺乏）**、[[泌尿科#隱睪症（Cryptorchidism）\|隱睪]]、角膜混濁 |
 | Lamellar ichthyosis | AR | Transglutaminase 1 | 出生時 collodion baby → 大片板狀鱗屑；**ectropion / eclabium** |
 | Epidermolytic ichthyosis | AD | Keratin 1 / Keratin 10 | 出生時水疱 → 後期角化增厚；病理 epidermolytic hyperkeratosis |
 
@@ -928,11 +945,11 @@ credit:
 
 | 症候群 | 遺傳 | 基因 | 皮膚表現 | 重要關聯 |
 |--------|------|------|----------|----------|
-| **Neurofibromatosis type 1 (NF1)** | AD | NF1 (neurofibromin) | **≥ 6 個 café-au-lait macules**、axillary/inguinal freckling、neurofibromas | Optic glioma、Lisch nodules（虹膜）、骨骼異常、學習障礙、pheochromocytoma |
-| **Neurofibromatosis type 2 (NF2)** | AD | NF2 (merlin) | 較少皮膚表現 | **Bilateral vestibular schwannomas**（最重要）；meningiomas |
-| **Tuberous sclerosis (TSC)** | AD | TSC1 (hamartin) / TSC2 (tuberin) | **Facial angiofibromas**、**Ash-leaf spots**、Shagreen patch、periungual fibromas | 癲癇、智能障礙、cardiac rhabdomyoma、renal angiomyolipoma、LAM |
+| **Neurofibromatosis type 1 (NF1)** | AD | NF1 (neurofibromin) | **≥ 6 個 café-au-lait macules**、axillary/inguinal freckling、neurofibromas | [[神經內科#神經皮膚症候群\|Optic glioma]]、Lisch nodules（虹膜）、骨骼異常、學習障礙、pheochromocytoma |
+| **Neurofibromatosis type 2 (NF2)** | AD | NF2 (merlin) | 較少皮膚表現 | **[[耳鼻喉科#聽神經瘤（Vestibular Schwannoma / Acoustic Neuroma）\|Bilateral vestibular schwannomas]]**（最重要）；meningiomas |
+| **Tuberous sclerosis (TSC)** | AD | TSC1 (hamartin) / TSC2 (tuberin) | **Facial angiofibromas**、**Ash-leaf spots**、Shagreen patch、periungual fibromas | 癲癇、智能障礙、cardiac rhabdomyoma、renal angiomyolipoma、[[胸腔內科#Lymphangioleiomyomatosis（LAM）\|LAM]] |
 | **Sturge-Weber syndrome** | 非遺傳（散發） | GNAQ somatic mutation | V1 分布的 **port-wine stain** | Ipsilateral leptomeningeal angioma → 癲癇、青光眼 |
-| **Von Hippel-Lindau** | AD | VHL | 皮膚表現少 | Hemangioblastoma（小腦/視網膜）、RCC、pheochromocytoma |
+| **Von Hippel-Lindau** | AD | VHL | 皮膚表現少 | Hemangioblastoma（小腦/視網膜）、[[泌尿科#腎細胞癌（Renal Cell Carcinoma, RCC）\|RCC]]、pheochromocytoma |
 
 ### 其他遺傳性皮膚病
 
@@ -952,9 +969,10 @@ credit:
 | 例子 | Strawberry hemangioma | Port-wine stain（capillary malformation）、lymphatic malformation |
 
 - 嬰兒血管瘤：大多觀察；需治療時 → **Propranolol**（口服，首選）。
-    - 治療適應症：威脅視力（眼周）、呼吸道阻塞（聲門下）、潰瘍、肝臟/大面積。
+    - 治療適應症：威脅視力（眼周）、[[耳鼻喉科#聲門下血管瘤（Subglottic Hemangioma）|呼吸道阻塞（聲門下）]]、潰瘍、肝臟/大面積。
 - **Kasabach-Merritt phenomenon**：大型血管腫瘤 → 血小板捕獲 → 消耗性凝血病變。
     - 通常與 kaposiform hemangioendothelioma 或 tufted angioma 相關。
+- 治療詳見 [[整形外科#血管瘤與血管畸形|整形外科的血管瘤與血管畸形]]
 
 ### 尿布疹（Diaper Dermatitis）
 
