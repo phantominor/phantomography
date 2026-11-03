@@ -18,12 +18,13 @@ credit:
 
 ### 甲狀腺功能亢進
 
-- **Graves' disease**：最常見原因，TSI/TRAb → diffuse increased uptake on scan。
+- **[[代謝內分泌科#Graves' Disease|Graves' disease]]**：最常見原因，TSI/TRAb → diffuse increased uptake on scan。
     - 治療：antithyroid drug（ATD）、radioactive iodine（RAI, I-131）、手術。
         - ATD：**Methimazole（MMI）首選**；懷孕第一孕期用 PTU。
-        - ATD 最嚴重副作用：**agranulocytosis** → 發燒喉痛立即停藥。
+        - ATD 最嚴重副作用：**[[血液異常#嗜中性球低下（Neutropenia）|agranulocytosis]]** → 發燒喉痛立即停藥。
 - **Toxic adenoma**：single hot nodule → lobectomy 或 RAI。
 - **Toxic multinodular goiter**：多發性 hot/cold areas → 手術或 RAI。
+- 藥物與 RAI 治療詳見 [[代謝內分泌科#甲狀腺機能亢進（Hyperthyroidism）|代謝內分泌科]]
 
 ### Thyroid Storm
 
@@ -49,6 +50,8 @@ credit:
 | V | Suspicious for malignancy | 50–75% | Lobectomy 或 total thyroidectomy |
 | VI | Malignant | 97–99% | Surgery（total thyroidectomy） |
 
+- 詳見 [[內分泌系統主訴#甲狀腺腫大與結節（Goiter / Thyroid Nodule）|甲狀腺腫大與結節]]的評估流程；影像意外發現詳見 [[偶發病灶#甲狀腺偶發結節（Thyroid Incidentaloma）|甲狀腺偶發結節]]
+
 ### 甲狀腺惡性腫瘤
 
 | 類型 | 比例 | 特點 | 轉移 | 預後 |
@@ -57,7 +60,9 @@ credit:
 | **Follicular（FTC）** | 10–15% | **女 > 男**，FNA 無法確診，需看 capsular/vascular invasion；好發**缺碘**地區；Hürthle cell carcinoma 為其變異型（**較不攝碘**、預後較差） | **血行**轉移（骨、肺） | 佳 |
 | **Medullary（MTC）** | 3–5% | **C cells → calcitonin（+ CEA）**、amyloid deposit、**RET mutation**；25% 遺傳性（MEN 2） | 淋巴 + 血行 | 中等 |
 | **Anaplastic** | 1–2% | 老年，快速生長，TP53 mutation；常由分化型癌去分化而來 | 廣泛 | **最差**（中位存活 3–6 月） |
-| **Lymphoma** | 罕見 | 幾乎都在 **Hashimoto's** 背景下，DLBCL 最常見 | — | — |
+| **Lymphoma** | 罕見 | 幾乎都在 **[[代謝內分泌科#Hashimoto's Thyroiditis\|Hashimoto's]]** 背景下，DLBCL 最常見 | — | — |
+
+- 內分泌觀點詳見 [[代謝內分泌科#甲狀腺癌|代謝內分泌科的甲狀腺癌]]
 
 ### 甲狀腺癌分期
 
@@ -116,9 +121,10 @@ credit:
     - **TSH 抑制治療**：supraphysiologic levothyroxine → 抑制 TSH 促進腫瘤生長。
 - 併發症：
     - **頸部血腫**：最危險早期併發症 → 壓迫氣管 → **立即床邊打開傷口**（不要先做影像）。
-    - **低血鈣**：全切除最常見併發症 → Chvostek/Trousseau sign → 輕微 oral Ca + calcitriol；嚴重 IV calcium gluconate。
+    - **[[電解質與酸鹼#低血鈣（Hypocalcemia）|低血鈣]]**：全切除最常見併發症 → Chvostek/Trousseau sign → 輕微 oral Ca + calcitriol；嚴重 IV calcium gluconate。
         - 預防：保留副甲狀腺；血供破壞時 → **autotransplant**（植入 SCM 或前臂）。
     - **RLN injury**：單側聲音沙啞；雙側呼吸道阻塞。
+- 聲帶麻痺詳見 [[耳鼻喉科#聲帶麻痺（Vocal Cord Paralysis）|耳鼻喉科]]；術後低血鈣詳見 [[代謝內分泌科#副甲狀腺機能低下（Hypoparathyroidism）|副甲狀腺機能低下]]
 
 ## 副甲狀腺
 
@@ -132,9 +138,10 @@ credit:
     - Urine Ca/Cr clearance ratio :red[< 0.01] → 不需手術。
 - 症狀：**Bones, stones, groans, psychic moans**。
     - 骨：osteitis fibrosa cystica（brown tumor）、subperiosteal bone resorption。
-    - 石：腎結石。
-    - 腹：便秘、胰臟炎。
+    - 石：[[泌尿科#尿路結石（Urolithiasis）|腎結石]]。
+    - 腹：便秘、[[消化內科#急性胰臟炎（Acute Pancreatitis）|胰臟炎]]。
     - 精神：depression、confusion。
+- 詳見 [[電解質與酸鹼#高血鈣（Hypercalcemia）|高血鈣]]的評估流程；內科觀點詳見 [[代謝內分泌科#原發性副甲狀腺機能亢進（Primary Hyperparathyroidism）|代謝內分泌科]]
 
 ### 手術適應症
 
@@ -161,7 +168,7 @@ credit:
 
 ### 次發性與三發性
 
-- **Secondary**：CKD → 低鈣/高磷/低 Vit D → PTH 代償↑ → 四腺體增生。
+- **Secondary**：[[腎臟內科#腎性骨病變（CKD-MBD）|CKD]] → 低鈣/高磷/低 Vit D → PTH 代償↑ → 四腺體增生。
     - 治療：phosphate binder、Vit D、Cinacalcet → 無效 → subtotal parathyroidectomy。
 - **Tertiary**：長期 secondary → 自主增生 → 腎移植後 Ca²⁺ 仍高。
     - 治療：subtotal parathyroidectomy 或 total + autotransplant。
@@ -174,6 +181,7 @@ credit:
 - 髓質（medulla）：chromaffin cells → 分泌 catecholamines（epinephrine > norepinephrine）。
 - 血液供應：superior/middle/inferior suprarenal arteries（多條動脈）。
 - 靜脈引流：**右側 → 直接入 IVC；左側 → 左腎靜脈**。
+- 影像意外發現的腎上腺腫瘤詳見 [[偶發病灶#腎上腺偶發瘤（Adrenal Incidentaloma）|腎上腺偶發瘤]]
 
 ### 嗜鉻細胞瘤（Pheochromocytoma）
 
@@ -182,7 +190,7 @@ credit:
     - 10% bilateral。
     - 10% extra-adrenal（稱為 **paraganglioma**，最常見於 **organ of Zuckerkandl**）。
     - 10% malignant（**惡性由「轉移」定義，非組織學**）。
-    - 10% familial（MEN 2A/2B、VHL、NF1、SDH mutations）。
+    - 10% familial（MEN 2A/2B、[[神經內科#神經皮膚症候群|VHL]]、[[小兒科#Neurofibromatosis Type 1（NF1, von Recklinghausen Disease）|NF1]]、SDH mutations）。
     - 10% 在兒童。
 - 臨床：**陣發性（paroxysmal）** 頭痛、心悸、大量出汗、高血壓（可持續或陣發）、蒼白。
     - 5H's：Hypertension、Headache、Hyperhidrosis、Hypermetabolism、Hyperglycemia。
@@ -199,6 +207,7 @@ credit:
 - 手術：**Adrenalectomy**（laparoscopic preferred）。
     - 術中注意血壓劇烈波動；**早期結紮腎上腺靜脈**可減少 catecholamine 釋放。
     - 腫瘤切除後可能 **突發低血壓** → 需準備大量輸液 + vasopressor。
+- 內分泌診斷詳見 [[代謝內分泌科#嗜鉻細胞瘤（Pheochromocytoma）|代謝內分泌科]]；續發性高血壓詳見 [[心臟內科#續發性高血壓|心臟內科]]
 
 ### Cushing's Syndrome
 
@@ -206,7 +215,7 @@ credit:
     - **Exogenous（最常見）**：長期使用外源性類固醇。
     - **ACTH-dependent（80%）**：
         - **Cushing's disease**（垂體腺瘤分泌 ACTH → **最常見的內源性原因**）。
-        - Ectopic ACTH（小細胞肺癌、carcinoid → ACTH↑）。
+        - Ectopic ACTH（[[胸腔外科#小細胞肺癌（Small Cell Lung Cancer, SCLC）（佔 15%）|小細胞肺癌]]、carcinoid → ACTH↑）。
     - **ACTH-independent（20%）**：
         - 腎上腺腺瘤（最常見）或 carcinoma。
 - 臨床：月亮臉、水牛肩、中心型肥胖、紫色皮膚紋（striae）、高血壓、高血糖、骨質疏鬆、肌肉萎縮、易瘀青、傷口癒合差。
@@ -224,6 +233,7 @@ credit:
 - **Nelson's syndrome**：bilateral adrenalectomy 後失去 cortisol 負回饋 → 垂體 ACTH 腺瘤增大 → ACTH↑ → 皮膚色素沉著（hyperpigmentation）+ 腫瘤壓迫效應（視野缺損）。
     - 預防：術後密切追蹤垂體 MRI + ACTH level。
     - 治療：垂體手術 或 放射治療。
+- 詳見 [[內分泌系統主訴#Cushing 樣外觀（Cushingoid Features）|Cushing 樣外觀]]的評估流程；內分泌診斷詳見 [[代謝內分泌科#庫欣氏症候群（Cushing's Syndrome）|代謝內分泌科]]
 
 ### Conn's Syndrome（原發性醛固酮過多症, Primary Aldosteronism）
 
@@ -231,13 +241,14 @@ credit:
 - 原因：
     - **Aldosterone-producing adenoma（Conn's adenoma）**：60–70%。
     - **Bilateral adrenal hyperplasia（Idiopathic hyperaldosteronism）**：30–40%。
-- 實驗室：**高血壓 + 低血鉀 + 代謝性鹼中毒**。
+- 實驗室：**高血壓 + [[電解質與酸鹼#低血鉀（Hypokalemia）|低血鉀]] + 代謝性鹼中毒**。
     - Aldosterone↑、Renin↓ → **Aldosterone/Renin ratio（ARR）升高**。
 - 確認試驗：oral sodium loading test、saline infusion test、fludrocortisone suppression test → aldosterone 無法被抑制。
 - 定位：CT + **adrenal vein sampling（AVS）**（區分單側腺瘤 vs 雙側增生）。
 - 治療：
     - Unilateral adenoma：laparoscopic adrenalectomy。
     - Bilateral hyperplasia：藥物治療（Spironolactone 或 Eplerenone）。
+- 內分泌診斷詳見 [[代謝內分泌科#原發性醛固酮過多症（Primary Aldosteronism / Conn's Syndrome）|代謝內分泌科]]
 
 ### 腎上腺皮質癌（Adrenocortical Carcinoma, ACC）
 
@@ -261,6 +272,7 @@ credit:
     - 副甲狀腺：subtotal parathyroidectomy 或 total + autotransplant。
     - Gastrinoma：高劑量 PPI 控制酸分泌 + 手術切除（若可定位）。
     - Pituitary：依類型（藥物或手術）。
+- 內分泌觀點詳見 [[代謝內分泌科#多發性內分泌腫瘤（MEN Syndromes）|代謝內分泌科的 MEN]]
 
 ### MEN 2A
 
@@ -279,7 +291,7 @@ credit:
     - **MTC**：最具侵犯性，比 MEN 2A 更早、更惡性。
     - **Pheochromocytoma**：常雙側。
     - **Mucosal neuromas**：嘴唇、舌頭。
-    - **Marfanoid habitus**：瘦高、長肢。
+    - **[[小兒科#馬凡氏症候群（Marfan Syndrome）|Marfanoid habitus]]**：瘦高、長肢。
 - 預防性 thyroidectomy：**:red[出生後 1 歲內]（愈早愈好）**（MTC 非常早發且惡性度高）。
 
 ## 內分泌胰臟腫瘤（Pancreatic Neuroendocrine Tumors, pNET）
@@ -292,6 +304,7 @@ credit:
 - 特徵：**> 90% 良性、> 90% 單一、> 90% < 2 cm、> 90% 在胰臟內**。
 - 定位：CT/MRI、EUS（最敏感）；**Calcium stimulation test**（selective arterial calcium injection → hepatic vein insulin sampling）可定位腫瘤區域。
 - 治療：**手術切除（enucleation）** → curative。
+- 詳見 [[內分泌系統主訴#低血糖（Hypoglycemia）|低血糖]]的評估流程；外科切除詳見 [[肝膽胰外科#胰臟神經內分泌腫瘤（Pancreatic Neuroendocrine Tumors, pNETs）|肝膽胰外科]]
 
 ### Gastrinoma（Zollinger-Ellison Syndrome, ZES）
 
@@ -307,6 +320,7 @@ credit:
     - **PPI**（控制酸分泌）→ 所有病人都需要。
     - 非 MEN 相關 → **手術切除**。
     - MEN 1 相關 → 因常多發/十二指腸壁內，手術 curative 率低 → PPI 為主（**副甲狀腺先處理**可改善高胃泌素）。
+- 潰瘍的外科處置詳見 [[胃小腸外科#Zollinger-Ellison Syndrome（ZES）|胃小腸外科]]
 
 ### 其他 pNET
 
@@ -326,3 +340,4 @@ credit:
     - 診斷：**24hr urine 5-HIAA（5-hydroxyindoleacetic acid）↑**。
     - 治療：**Octreotide（somatostatin analog）**→ 控制症狀 + 抑制腫瘤生長。
 - **Carcinoid crisis**：麻醉/手術誘發 → 嚴重低血壓/支氣管痙攣 → 預防：術前給 octreotide。
+- 闌尾類癌詳見 [[大腸直腸外科#闌尾腫瘤|大腸直腸外科]]；肺類癌詳見 [[胸腔外科#肺類癌（Carcinoid tumor）|胸腔外科]]
