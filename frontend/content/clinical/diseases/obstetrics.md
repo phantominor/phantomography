@@ -73,7 +73,7 @@ credit:
 
 - 甲狀腺：TBG ↑ → total T4 ↑，但 **free T4 正常**。
 - 腎上腺：cortisol ↑（CBG ↑ + 胎盤 CRH）。
-- 腦下垂體增大 → 產後出血致 Sheehan syndrome 風險。
+- 腦下垂體增大 → 產後出血致 [[代謝內分泌科#腦下垂體功能低下（Hypopituitarism）|Sheehan syndrome]] 風險。
 
 ### 預產期計算與妊娠週數定義
 
@@ -94,6 +94,7 @@ credit:
 - **疫苗**：
     - **禁止接種活性減毒疫苗**（MMR、Varicella、Live attenuated influenza）→ 應於孕前完成或產後補打。
     - **建議接種**：不活化流感疫苗（任何孕期）、**Tdap（每次懷孕於 :red[27–36 週]接種）**。
+- 成人疫苗詳見 [[家庭醫學科#預防接種|家庭醫學科的預防接種]]
 
 ### 倫理與法律相關
 
@@ -102,6 +103,7 @@ credit:
     - 妊娠 24 週以內得施行。
     - 未成年需法定代理人同意。
 - **代理孕母**：台灣目前尚未立法通過。
+- 門診實務詳見 [[20261015-obgyn-clinic#外籍病人與人工流產|婦產科門診：外籍病人與人工流產]]（逐篇筆記）
 
 ## 產前篩檢與診斷
 
@@ -109,7 +111,7 @@ credit:
 
 - **聯合篩檢（Combined test）**：nuchal translucency + free β-hCG + PAPP-A。
 - **頸部透明帶（Nuchal Translucency, NT）**：超音波測量。
-    - NT 增厚（:red[≥ 3 mm]）→ 染色體異常（尤其 Trisomy 21）、先天性心臟病風險 ↑。
+    - NT 增厚（:red[≥ 3 mm]）→ 染色體異常（尤其 [[小兒科#唐氏症（Down Syndrome, Trisomy 21）|Trisomy 21]]）、先天性心臟病風險 ↑。
 - **血清標記**：free β-hCG ↑ + PAPP-A ↓ → Trisomy 21 風險 ↑。
 
 ### 第二孕期篩檢（15–20 週）
@@ -119,7 +121,7 @@ credit:
 | 異常 | AFP | hCG | uE3 | Inhibin A |
 |------|-----|-----|-----|-----------|
 | Trisomy 21（唐氏症） | ↓ | ↑ | ↓ | ↑ |
-| Trisomy 18（愛德華氏症） | ↓ | ↓ | ↓ | — |
+| [[小兒科#愛德華氏症（Edwards Syndrome, Trisomy 18）\|Trisomy 18]]（愛德華氏症） | ↓ | ↓ | ↓ | — |
 | Neural tube defect（NTD） | **↑↑** | — | — | — |
 
 - **AFP 升高**之鑑別：NTD（anencephaly、spina bifida）、腹壁缺損（omphalocele、gastroschisis）、多胎妊娠、胎兒死亡、週數低估。
@@ -128,7 +130,7 @@ credit:
 
 - 分析母血中游離胎兒 DNA（cell-free fetal DNA）。
 - 對 **Trisomy 21** 偵測率 > 99%，假陽性率極低。
-- 亦可篩檢 Trisomy 13、18、性染色體異常。
+- 亦可篩檢 [[小兒科#巴陶氏症（Patau Syndrome, Trisomy 13）|Trisomy 13]]、18、性染色體異常。
 - 為篩檢工具，**非診斷**；陽性仍需侵入性診斷確認。
 - 可在 10 週後執行。
 
@@ -171,9 +173,9 @@ credit:
 | 發現 | 相關異常 |
 |------|----------|
 | **NT 增厚（≥3 mm）** | **Trisomy 21**、先天性心臟病 |
-| **Cystic hygroma** | **Turner syndrome（45,X）**、Trisomy 21/18 |
-| **Banana sign（小腦形狀異常）+ Lemon sign（額骨凹陷）** | **Spina bifida / 開放性神經管缺損** |
-| **Double bubble sign** | **Duodenal atresia** → Trisomy 21 高度相關 |
+| **Cystic hygroma** | **[[小兒科#Turner Syndrome（45,X）\|Turner syndrome（45,X）]]**、Trisomy 21/18 |
+| **Banana sign（小腦形狀異常）+ Lemon sign（額骨凹陷）** | **[[神經外科#脊柱裂（Spina Bifida）\|Spina bifida]] / 開放性神經管缺損** |
+| **Double bubble sign** | **[[小兒外科#十二指腸閉鎖（Duodenal Atresia）\|Duodenal atresia]]** → Trisomy 21 高度相關 |
 | **Rocker-bottom feet、clenched fists、overlapping fingers** | Trisomy 18 |
 | **Holoprosencephaly** | Trisomy 13 |
 
@@ -222,6 +224,8 @@ credit:
 | **HELLP syndrome** | Hemolysis + Elevated Liver enzymes + Low Platelets |
 | **慢性高血壓合併子癇前症** | 已有慢性 HTN，又出現加重或新蛋白尿/器官損傷 |
 
+- 詳見 [[婦產主訴#懷孕期間高血壓（Hypertension in Pregnancy）|懷孕期間高血壓]]的評估流程
+
 #### 子癇前症（Preeclampsia）
 
 - **病理**：異常胎盤形成 → spiral artery remodeling 失敗 → 胎盤缺血 → 釋放 sFlt-1 等抗血管生成因子 → 全身性內皮功能障礙。
@@ -239,7 +243,7 @@ credit:
     - 有嚴重特徵 + :red[≥34 週]：終止妊娠。
     - 有嚴重特徵 + <34 週：可考慮**期待療法（expectant management）**。
         - 48 小時以完成類固醇促胎兒肺成熟，但需密切監測。
-        - 若有不可控高血壓、eclampsia、HELLP、placental abruption、DIC、肺水腫等 → **立即終止**。
+        - 若有不可控高血壓、eclampsia、HELLP、placental abruption、[[血液腫瘤科#DIC（Disseminated Intravascular Coagulation）|DIC]]、肺水腫等 → **立即終止**。
     - 降壓目標：SBP < 160、DBP < 110。
         - **Labetalol IV**（α+β blocker）、**Hydralazine IV**、**Nifedipine PO**。
     - 預防癲癇：**MgSO₄**。
@@ -248,6 +252,7 @@ credit:
         - 毒性（Mg²⁺ 過高）：DTR 消失（最早）→ 呼吸抑制；解毒：**Calcium gluconate**。
         - 產後：續用 MgSO₄ :red[至少 24–48 小時]（產後仍可發生 eclampsia）。
 - **預防**：高風險婦女（前次 preeclampsia、慢性 HTN、DM、多胎等）自 **:red[12–16 週]** 起每日服用 **低劑量 Aspirin（81–162 mg）**。
+- 高血鎂的處理詳見 [[電解質與酸鹼#鎂異常（Magnesium Disorders）|鎂異常]]
 
 #### 子癇症（Eclampsia）
 
@@ -283,13 +288,14 @@ credit:
 #### 對胎兒的影響
 
 - **巨嬰症（Macrosomia）**：>4000 g → 肩難產（shoulder dystocia）風險 ↑。
-- 新生兒低血糖（出生後胰島素仍高）。
+- [[小兒科#新生兒低血糖|新生兒低血糖]]（出生後胰島素仍高）。
 - 新生兒高膽紅素血症。
-- 新生兒呼吸窘迫症候群（RDS）。
+- [[小兒科#呼吸窘迫症候群（RDS / Hyaline Membrane Disease）|新生兒呼吸窘迫症候群（RDS）]]。
 - 新生兒低血鈣、紅血球增多症（polycythemia）。
 - 先天異常（僅 pregestational DM，GDM 因發生在器官形成後故較少）。
     - 最常見：心臟畸形。
     - 最具特異性：**caudal regression syndrome（尾端退化症候群）**。
+- 新生兒處置詳見 [[小兒科#新生兒低血糖|小兒科的新生兒低血糖]]
 
 #### 處理
 
@@ -319,7 +325,7 @@ credit:
 #### Hydrops Fetalis 成因
 
 - **免疫性**：Rh/ABO 同種免疫 → 溶血性貧血。
-- **非免疫性（較常見）**：心臟畸形/心律不整、α-thalassemia（Hb Bart's）、Parvovirus B19 感染、TTTS（recipient twin）、胎兒腫瘤、染色體異常（Turner syndrome、Trisomy 21）。
+- **非免疫性（較常見）**：心臟畸形/心律不整、[[血液腫瘤科#α-Thalassemia（第 16 號染色體）|α-thalassemia（Hb Bart's）]]、[[感染科#Parvovirus B19|Parvovirus B19]] 感染、TTTS（recipient twin）、胎兒腫瘤、染色體異常（Turner syndrome、Trisomy 21）。
 
 ### 多胞胎妊娠
 
@@ -361,7 +367,7 @@ credit:
 #### 羊水過少（Oligohydramnios）
 
 - 定義：**:red[AFI < 5 cm]** 或 **MVP < 2 cm**。
-- 原因：胎兒尿液減少（bilateral renal agenesis、posterior urethral valve、IUGR 血流重分配）、PPROM、過期妊娠、ACEi/ARB、NSAIDs。
+- 原因：胎兒尿液減少（bilateral renal agenesis、[[泌尿科#Posterior Urethral Valves（PUV，後尿道瓣膜）|posterior urethral valve]]、IUGR 血流重分配）、PPROM、過期妊娠、ACEi/ARB、NSAIDs。
 - 併發症（**Potter sequence**）：**肺發育不全**（最嚴重）、肢體攣縮、Potter facies（扁平臉、低耳位）、臍帶受壓。
 
 ### 胎兒生長異常
@@ -376,7 +382,7 @@ credit:
     - **對稱型（Symmetric / Type I）**：早期發生（感染、基因異常、染色體異常），頭圍與腹圍等比例小。
     - **不對稱型（Asymmetric / Type II）**：晚期發生（**胎盤功能不全**），腹圍先變小（肝醣儲存減少），**頭圍相對保留**（brain-sparing effect）→ **最常見類型**。
 - 原因：
-    - 母體：高血壓、preeclampsia、SLE、APS、營養不良、抽菸、cocaine。
+    - 母體：高血壓、preeclampsia、SLE、[[免疫風濕科#Antiphospholipid Syndrome（APS）|APS]]、營養不良、抽菸、cocaine。
     - 胎盤：胎盤功能不良、placental infarction。
     - 胎兒：染色體異常、先天感染（TORCH）、多胎。
 - 監測：臍動脈都卜勒（Umbilical Artery Doppler）。
@@ -389,7 +395,7 @@ credit:
 
 - 定義：出生體重 **> 4000 g**。
 - 原因：GDM/DM（最常見可預防因素）、obesity、過期妊娠、多產婦、男嬰。
-- 風險：肩難產、臂神經叢損傷（Erb's palsy）、鎖骨骨折、產後出血、裂傷。
+- 風險：肩難產、[[復健科#臂叢神經損傷（Brachial Plexus Injury）|臂神經叢損傷（Erb's palsy）]]、鎖骨骨折、產後出血、裂傷。
 
 ## 產前出血
 
@@ -407,12 +413,13 @@ credit:
 - **反覆性流產（Recurrent Pregnancy Loss）**：≥ 3 次連續自然流產。
     - 評估：核型分析（夫妻）、APS 抗體、子宮結構、甲狀腺、血糖。
     - **中隔子宮（septate uterus）**：最常見可治療的結構因素。
-    - **抗磷脂症候群（APS）**：lupus anticoagulant、anticardiolipin Ab、anti-β2 glycoprotein I Ab → 治療：低劑量 Aspirin + LMWH（heparin）。
+    - **[[免疫風濕科#Antiphospholipid Syndrome（APS）|抗磷脂症候群（APS）]]**：lupus anticoagulant、anticardiolipin Ab、anti-β2 glycoprotein I Ab → 治療：低劑量 Aspirin + LMWH（heparin）。
+- 詳見 [[婦產主訴#懷孕初期出血（First-Trimester Bleeding）|懷孕初期出血]]的評估流程；超音波估計週數詳見 [[20261015-obgyn-clinic#早期妊娠的週數估計|婦產科門診：早期妊娠的週數估計]]（逐篇筆記）
 
 ### 子宮外孕（Ectopic Pregnancy）
 
 - 最常見位置：**輸卵管壺腹部（ampulla）**（約 70%）。
-- 危險因子：前次子宮外孕（最重要）、PID/STI、輸卵管手術、IUD（子宮外孕比例↑）、吸菸、不孕治療。
+- 危險因子：前次子宮外孕（最重要）、[[婦科#骨盆腔炎（Pelvic Inflammatory Disease, PID）|PID]]/STI、輸卵管手術、IUD（子宮外孕比例↑）、吸菸、不孕治療。
 - 典型表現：amenorrhea + 陰道出血 + 下腹痛（破裂時可致命出血 + peritoneal signs）。
 - 診斷：
     - β-hCG > **discriminatory level（:red[約 1500–2000 mIU/mL]）** 但超音波看不到宮內妊娠。
@@ -474,7 +481,7 @@ credit:
 - 危險因子：**高血壓**（最重要）、外傷（如車禍）、cocaine 使用、抽菸、PPROM、前次 abruption、高齡、多產。
 - 臨床表現：**有痛性暗紅色陰道出血 + 子宮壓痛 + 子宮持續收縮（板狀硬 woody uterus / uterine tetany）**。
     - 可能隱性出血（concealed hemorrhage）→ 出血量超過外觀所見。
-    - 嚴重者：DIC、胎兒窘迫、胎兒死亡。
+    - 嚴重者：[[血液腫瘤科#DIC（Disseminated Intravascular Coagulation）|DIC]]、胎兒窘迫、胎兒死亡。
     - **Couvelaire uterus**：血液浸潤子宮肌層 → 子宮呈紫藍色外觀，收縮不良 → 可能需子宮切除。
 - 診斷：**臨床診斷**（超音波敏感度低，僅 25–50%可見）。
 - 處理：
@@ -492,6 +499,8 @@ credit:
 | DIC | 少見 | 常見 |
 | 超音波 | 可見 previa | 常看不到（靈敏度低） |
 | 危險因子 | 前次 C/S、多產 | HTN、cocaine、外傷 |
+
+- 詳見 [[婦產主訴#懷孕後期出血（Antepartum Hemorrhage）|懷孕後期出血]]的評估流程
 
 ### 異常胎盤植入（Placenta Accreta Spectrum）
 
@@ -716,7 +725,7 @@ credit:
 7. **R** — Roll the patient（Gaskin maneuver，四肢著地位）。
 
 - **禁忌**：**絕對不可向下硬拉胎頭** → Erb's palsy。
-- 胎兒併發症：臂神經叢損傷（Erb's palsy 最常見）、鎖骨骨折、肱骨骨折、缺氧。
+- 胎兒併發症：[[復健科#臂叢神經損傷（Brachial Plexus Injury）|臂神經叢損傷（Erb's palsy 最常見）]]、鎖骨骨折、肱骨骨折、缺氧。
 - 母體併發症：產道裂傷、產後出血。
 
 ### 臍帶脫垂（Umbilical Cord Prolapse）
@@ -778,7 +787,7 @@ credit:
 | **Tone** | 子宮收縮不良（Uterine atony） | **70–80%（最常見）** | 子宮無法收縮壓迫血管 |
 | **Trauma** | 產道裂傷 | 20% | 子宮頸/陰道/會陰裂傷、子宮破裂 |
 | **Tissue** | 胎盤殘留 | 10% | Retained placenta/membrane |
-| **Thrombin** | 凝血障礙 | 1% | DIC、vWD、抗凝血藥 |
+| **Thrombin** | 凝血障礙 | 1% | DIC、[[血液腫瘤科#von Willebrand Disease（vWD）\|vWD]]、抗凝血藥 |
 
 #### 子宮收縮不良的危險因子
 
@@ -808,6 +817,8 @@ credit:
 
 ::chart{id="pph-management"}
 
+- 詳見 [[婦產主訴#產後出血（Postpartum Hemorrhage）|產後出血]]的評估流程
+
 ### 產道裂傷分級
 
 | 度 | 範圍 |
@@ -826,7 +837,7 @@ credit:
 
 - 定義：**< 37 週** 的分娩。
 - **新生兒死亡及長期併發症的最主要原因**。
-- 危險因子：前次早產（**最強預測因子**）、多胎、感染（UTI、細菌性陰道炎 bacterial vaginosis、chorioamnionitis）、子宮頸閉鎖不全、polyhydramnios、子宮異常、抽菸、cocaine、低 BMI、壓力。
+- 危險因子：前次早產（**最強預測因子**）、多胎、感染（UTI、[[婦科#Bacterial Vaginosis 的 Amsel Criteria|細菌性陰道炎 bacterial vaginosis]]、chorioamnionitis）、子宮頸閉鎖不全、polyhydramnios、子宮異常、抽菸、cocaine、低 BMI、壓力。
 
 #### 預測與預防
 
@@ -850,17 +861,19 @@ credit:
 | **Terbutaline** | β₂ agonist | 副作用：tachycardia、肺水腫；FDA 限制長期使用 |
 | **Atosiban** | Oxytocin receptor antagonist | 歐洲使用，副作用少 |
 
+- 詳見 [[婦產主訴#破水與早產徵兆（Rupture of Membranes / Preterm Labor）|破水與早產徵兆]]的評估流程
+
 #### 類固醇促胎兒肺成熟（Antenatal Corticosteroids）
 
 - **:red[Betamethasone 12 mg IM × 2 doses, 24 hr apart]**（最常用）或 Dexamethasone 6 mg IM × 4 doses, 12 hr apart。
 - 適用：**24–34 週**，有早產風險者。
 - 24 小時 ~ 7 天內最有效 → 不建議重複給予（rescue course 僅限一次）。
-- 效果：降低 **RDS、IVH、NEC、新生兒死亡率**。
+- 效果：降低 **RDS、IVH、[[小兒科#壞死性腸炎（NEC）|NEC]]、新生兒死亡率**。
 
 #### MgSO₄ 神經保護（Neuroprotection）
 
 - 適用：**< 32 週**（部分指引 < 34 週），即將早產者。
-- 降低腦性麻痺（cerebral palsy）風險。
+- 降低[[復健科#腦性麻痺（Cerebral Palsy, CP）|腦性麻痺（cerebral palsy）]]風險。
 - Loading dose 4–6 g IV → Maintenance 1–2 g/hr。
 
 ### 早期破水（Premature Rupture of Membranes, PROM）
@@ -914,6 +927,7 @@ credit:
 - **首選**：**Penicillin G**（或 Ampicillin），理想上分娩前 **:red[≥ 4 小時]** 給予。
     - Penicillin 過敏低風險（非 anaphylaxis）：Cefazolin。
     - Penicillin 過敏高風險：依 **clindamycin 敏感性試驗**；敏感 → Clindamycin，抗藥或未測 → Vancomycin。
+- 菌種特性詳見 [[感染科#Group B Streptococcus（S. agalactiae）|感染科的 GBS]]
 
 ### 子宮頸閉鎖不全（Cervical Insufficiency）
 
@@ -934,7 +948,8 @@ credit:
 - 嚴重噁心嘔吐 → 脫水、電解質不平衡、酮尿、體重下降 ≥ 5%。
 - 排除其他原因（葡萄胎、多胎 → hCG 高 → 嘔吐嚴重）。
 - 處理：禁食 → IV fluid（含 thiamine 補充）→ 止吐藥（Ondansetron、Metoclopramide）。
-- **必須先補 Thiamine（B1）**再給 dextrose → 避免 **Wernicke encephalopathy**。
+- **必須先補 Thiamine（B1）**再給 dextrose → 避免 **[[神經內科#Wernicke-Korsakoff Syndrome|Wernicke encephalopathy]]**。
+- 詳見 [[婦產主訴#懷孕噁心嘔吐（Nausea and Vomiting of Pregnancy）|懷孕噁心嘔吐]]的評估流程
 
 ### 妊娠期肝內膽汁淤積（Intrahepatic Cholestasis of Pregnancy, ICP）
 
@@ -957,7 +972,7 @@ credit:
 
 ### 妊娠期甲狀腺疾病
 
-- **甲亢（Graves' disease）**：
+- **甲亢（[[代謝內分泌科#Graves' Disease|Graves' disease]]）**：
     - 治療：**PTU（Propylthiouracil）**→ 第一孕期首選（Methimazole 有致畸性）。
     - 第二/三孕期可換為 Methimazole（PTU 有肝毒性）。
     - **禁用 Radioactive iodine（RAI）**：穿過胎盤破壞胎兒甲狀腺。
@@ -980,31 +995,35 @@ credit:
 | **C**MV | **最常見**；腦鈣化（**periventricular**）、SNHL、microcephaly、hepatosplenomegaly | 初次感染垂直傳播率 30–40%；無疫苗；預防靠勤洗手 |
 | **H**erpes（HSV） | 皮膚水泡、腦炎、散播性感染；**產時感染為主**（經產道） | 產時 active lesions → **剖腹產**；36 週起 Acyclovir 抑制療法 |
 
+- 新生兒表現詳見 [[小兒科#先天性感染（TORCH）|小兒科的先天性感染]]
+
 #### 其他重要感染
 
-- **Varicella（水痘）**：20 週前 → 先天性水痘症候群；產前 5 天~產後 2 天發病 → 新生兒高死亡率（VZIG + Acyclovir）；孕婦暴露後若無免疫力 → VZIG within 96 hr。
+- **[[兒童發燒合併紅疹的鑑別診斷#周產期與先天性水痘|Varicella（水痘）]]**：20 週前 → 先天性水痘症候群；產前 5 天~產後 2 天發病 → 新生兒高死亡率（VZIG + Acyclovir）；孕婦暴露後若無免疫力 → VZIG within 96 hr。
 - **Parvovirus B19**：攻擊紅血球前驅細胞 → **胎兒嚴重貧血 → hydrops fetalis**；監測 MCA-PSV；嚴重 → 宮內輸血。
-- **Zika virus**：胎兒 **小頭症（microcephaly）**。
+- **[[感染科#Zika virus|Zika virus]]**：胎兒 **小頭症（microcephaly）**。
 
 #### 妊娠期 UTI
 
 - 無症狀菌尿（asymptomatic bacteriuria）：妊娠期 **必須治療**。
-- 未治療 → 20–40% 發展為 pyelonephritis → 可致早產、sepsis。
+- 未治療 → 20–40% 發展為 [[腎臟內科#泌尿道感染（UTI）與腎盂腎炎|pyelonephritis]] → 可致早產、sepsis。
 - 最常見菌：E. coli。
 
 #### B 型肝炎陽性母親
 
 - 新生兒出生後 **24 小時內** 給予 **HBIG（B 型肝炎免疫球蛋白）+ 第一劑 HBV 疫苗** → 可有效預防垂直感染。
+- 詳見 [[消化內科#Hepatitis B（HBV）|消化內科的 B 型肝炎]]
 
 ### 妊娠期 VTE
 
 - 妊娠期 VTE 風險增加 5–10 倍（Virchow's triad 全滿足）。
-- DVT 好發**左側**（左髂靜脈被右髂動脈壓迫 = May-Thurner）。
+- DVT 好發**左側**（左髂靜脈被右髂動脈壓迫 = [[心血管外科#深部靜脈栓塞（DVT）|May-Thurner]]）。
 - 診斷：下肢超音波（DVT → cannot compression）、CT pulmonary angiography（PE → fillig defect）。
 - 治療：
     - **LMWH（Enoxaparin）**→ 妊娠期首選（不過胎盤）。
     - **UFH**：用於接近分娩時（半衰期短、可逆）。
     - 禁忌：**Warfarin**、**DOACs**。
+- 詳見 [[胸腔內科#肺栓塞（Pulmonary Embolism）|胸腔內科的肺栓塞]]
 
 ### 妊娠期心臟病
 
@@ -1014,13 +1033,14 @@ credit:
         — 妊娠期用 Hydralazine + Nitrate。
     - 後續妊娠有復發風險（尤其 EF 未恢復者 → 不建議再次懷孕）。
 - **Eisenmenger syndrome**：妊娠禁忌（死亡率 30–50%）。
-- **Marfan syndrome**：:red[aortic root > 4 cm] → 妊娠高風險（aortic dissection）。
+- **[[小兒科#馬凡氏症候群（Marfan Syndrome）|Marfan syndrome]]**：:red[aortic root > 4 cm] → 妊娠高風險（aortic dissection）。
+- Eisenmenger 詳見 [[心血管外科#心房中隔缺損（ASD）|心血管外科的心房中隔缺損]]
 
 ### 妊娠期外科急症
 
-- **急性闌尾炎**：妊娠期最常見需手術的非婦科急症；隨週數增加闌尾位置上移；診斷首選超音波，不確定則 MRI；**不因妊娠延遲手術**（穿孔 → 腹膜炎 → 早產/流產）。
-- **膽囊疾病**：膽結石風險增加（progesterone ↓ 排空 + estrogen ↑ cholesterol）；急性膽囊炎若需手術，**第二孕期最安全**。
-- **卵巢扭轉**：妊娠早期常見（corpus luteum cyst）；突發單側下腹痛 → 手術 detorsion（盡量保留卵巢）。
+- **[[大腸直腸外科#闌尾炎（Appendicitis）|急性闌尾炎]]**：妊娠期最常見需手術的非婦科急症；隨週數增加闌尾位置上移；診斷首選超音波，不確定則 MRI；**不因妊娠延遲手術**（穿孔 → 腹膜炎 → 早產/流產）。
+- **膽囊疾病**：膽結石風險增加（progesterone ↓ 排空 + estrogen ↑ cholesterol）；[[肝膽胰外科#急性膽囊炎（Acute Cholecystitis）|急性膽囊炎]]若需手術，**第二孕期最安全**。
+- **[[婦科#卵巢扭轉（Ovarian Torsion）|卵巢扭轉]]**：妊娠早期常見（corpus luteum cyst）；突發單側下腹痛 → 手術 detorsion（盡量保留卵巢）。
 
 ### 妊娠期用藥安全
 
@@ -1036,7 +1056,7 @@ credit:
     - **Methimazole（第一孕期）**：aplasia cutis。
     - **RAI**：破壞胎兒甲狀腺。
     - **Misoprostol（非醫療用途）**：Möbius syndrome。
-    - **Lithium**：Ebstein anomaly（三尖瓣下移）。
+    - **Lithium**：[[心血管外科#Ebstein Anomaly|Ebstein anomaly]]（三尖瓣下移）。
     - **Carbamazepine / Phenytoin**：neural tube defect、fetal hydantoin syndrome。
     - **NSAIDs（第三孕期）**：premature closure of ductus arteriosus、oligohydramnios。
 
@@ -1068,6 +1088,7 @@ credit:
     - 病原：polymicrobial（GAS、GBS、E. coli、anaerobes）。
     - 治療：**Clindamycin + Gentamicin** IV；C/S 後可加 Ampicillin。
         - Clindamycin 覆蓋 anaerobes、Gentamicin 覆蓋 gram-negative。
+- 詳見 [[婦產主訴#產後發燒（Postpartum Fever）|產後發燒]]的評估流程
 
 ### 產後憂鬱
 
@@ -1079,6 +1100,7 @@ credit:
 
 - **Edinburgh Postnatal Depression Scale（EPDS）**：篩檢工具。
 - 哺乳期 SSRI 相對安全（Sertraline 首選）。
+- 詳見 [[精神科#鬱症（Depressive Disorders）|精神科的鬱症]]
 
 ### 哺乳問題
 
