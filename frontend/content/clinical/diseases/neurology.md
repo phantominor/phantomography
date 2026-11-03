@@ -52,11 +52,11 @@ credit:
 |--------|----------|----------|
 | **Complete transection** | 整個脊髓橫斷 | 損傷平面以下所有功能喪失；急性期為 spinal shock（flaccid → 後轉 spastic） |
 | **Brown-Séquard** | 一側脊髓 | 同側：UMN 癱瘓 + 深層感覺喪失；對側：痛溫覺喪失 |
-| **Central cord** | 脊髓中央 | **上肢 > 下肢**的無力；常見於老年人頸椎過度伸展傷害 |
+| **[[神經外科#不完全性脊髓損傷症候群\|Central cord]]** | 脊髓中央 | **上肢 > 下肢**的無力；常見於老年人頸椎過度伸展傷害 |
 | **Anterior cord** | 脊髓前 2/3 | 雙側運動喪失 + 痛溫覺喪失；**後柱功能保留**（本體覺、振動覺） |
-| **Posterior cord** | 後柱 | 雙側本體覺、振動覺喪失；Romberg sign (+)；見於 tabes dorsalis（梅毒）、B12 缺乏 |
+| **Posterior cord** | 後柱 | 雙側本體覺、振動覺喪失；Romberg sign (+)；見於 tabes dorsalis（梅毒）、[[血液腫瘤科#維生素 B₁₂（Cobalamin）缺乏\|B12 缺乏]] |
 | **Conus medullaris** | 脊髓圓錐（S3-S5） | 早期大小便失禁、鞍部感覺喪失、陽痿；疼痛少 |
-| **Cauda equina** | 馬尾（L2 以下） | **LMN** pattern：flaccid、反射↓、鞍部感覺麻木、大小便失禁；需緊急手術 |
+| **[[骨科#脊髓損傷\|Cauda equina]]** | 馬尾（L2 以下） | **LMN** pattern：flaccid、反射↓、鞍部感覺麻木、大小便失禁；需緊急手術 |
 
 ### 腦幹
 
@@ -86,7 +86,7 @@ credit:
     - 脊髓丘腦束 → **對側**軀幹/肢體痛溫覺喪失。
     - 三叉神經脊髓核/束 → **同側**臉部痛溫覺喪失。
     - 疑核 → 同側軟顎麻痺、吞嚥困難、聲音沙啞。
-    - 交感神經下行纖維 → 同側 **Horner syndrome**（瞳孔縮小、眼瞼下垂、無汗）。
+    - 交感神經下行纖維 → 同側 **[[五官主訴#瞳孔不等大（Anisocoria）|Horner syndrome]]**（瞳孔縮小、眼瞼下垂、無汗）。
 
 ## 腦血管疾病
 
@@ -94,11 +94,12 @@ credit:
 
 - **缺血性中風（Ischemic stroke）**：約佔 80–85%。
     - 大血管粥狀硬化（large artery atherosclerosis）。
-    - 心源性栓塞（cardioembolism）：心房顫動最常見。
+    - 心源性栓塞（cardioembolism）：[[心臟內科#Atrial Fibrillation（AF）|心房顫動]]最常見。
     - 小血管疾病（small vessel / lacunar）。
 - **出血性中風（Hemorrhagic stroke）**：約佔 15–20%。
     - 腦內出血（ICH）。
     - 蜘蛛膜下腔出血（SAH）。
+- 詳見 [[神經系統主訴#急性局部神經缺損（Acute Focal Neurologic Deficit）|急性局部神經缺損]]的評估流程
 
 ### 腦血管供應
 
@@ -167,13 +168,13 @@ credit:
 |------|----------|
 | 心房顫動 | **抗凝血劑**（NOAC）：Dabigatran、Rivaroxaban、Apixaban、Edoxaban |
 | 大血管粥狀硬化 | **抗血小板**（Aspirin、Clopidogrel）+ Statin + 控制危險因子 |
-| 頸動脈狹窄 :red[≥ 70%]（有症狀） | CEA（carotid endarterectomy）或 CAS（carotid stenting） |
+| 頸動脈狹窄 :red[≥ 70%]（有症狀） | [[神經外科#頸動脈狹窄（Carotid Artery Stenosis）\|CEA（carotid endarterectomy）]]或 CAS（carotid stenting） |
 | 小血管（lacunar） | 抗血小板 + **控制高血壓** |
 
 ### 暫時性腦缺血發作（TIA）
 
 - 定義：局灶性缺血造成的短暫神經功能缺損，**影像上無急性梗塞證據**；症狀多在 1 小時內完全緩解（時間長短非診斷依據）。
-- **Transient monocular blindness（amaurosis fugax）**：單眼暫時性視力喪失，因 ophthalmic artery（ICA 分支）暫時性缺血；為 ICA 狹窄/栓塞的重要警訊。
+- **Transient monocular blindness（[[五官主訴#急性視力喪失（Acute Vision Loss）|amaurosis fugax]]）**：單眼暫時性視力喪失，因 ophthalmic artery（ICA 分支）暫時性缺血；為 ICA 狹窄/栓塞的重要警訊。
 - ABCD² score（預測 TIA 後中風風險）：
     - Age ≥ 60（1）；BP ≥ 140/90（1）；Clinical — 單側無力（2）、言語障礙（1）；Duration — ≥ 60 min（2）、10–59 min（1）；Diabetes（1）。
     - 總分 0–7；≥ 4 分為高風險。
@@ -190,24 +191,25 @@ credit:
     - 小腦出血：突發頭暈、嘔吐、嚴重共濟失調、意識惡化。
 - 腦葉出血特殊原因：
     - **腦類澱粉血管病變（CAA）**：老年人反覆腦葉出血，MRI 見多發皮質/皮質下微出血。
-    - **動靜脈畸形（AVM）**：年輕人腦葉出血 → 須考慮。
+    - **[[神經外科#腦血管畸形（Cerebrovascular Malformations）|動靜脈畸形（AVM）]]**：年輕人腦葉出血 → 須考慮。
 - 處理：
     - 血壓目標：收縮壓降至 **140 mmHg**。
     - 凝血異常須積極矯正：Warfarin → Vitamin K + PCC 或 FFP；NOAC → 特異性逆轉劑（Idarucizumab for dabigatran；Andexanet alfa for Xa inhibitors）。
     - 手術適應症：小腦出血 :red[> 3 cm]、腦葉出血惡化、年輕患者淺層出血。
-    - IVH + hydrocephalus → EVD（external ventricular drain）。
+    - IVH + hydrocephalus → [[神經外科#水腦症的治療|EVD（external ventricular drain）]]。
+- 手術詳見 [[神經外科#自發性顱內出血|神經外科的自發性顱內出血]]
 
 ### 蜘蛛膜下腔出血（SAH）
 
 - 病因：
     - 最常見：**腦動脈瘤破裂（berry aneurysm）**（約 80%）。
     - 最常見位置：**前交通動脈（ACoA）**；其次：後交通動脈（PCoA）、MCA bifurcation。
-    - 風險因子：高血壓、吸菸、酗酒、家族史、ADPKD、結締組織疾病（Ehlers-Danlos、Marfan）。
+    - 風險因子：高血壓、吸菸、酗酒、家族史、[[腎臟內科#體染色體顯性多囊腎（ADPKD）|ADPKD]]、結締組織疾病（Ehlers-Danlos、Marfan）。
 - 臨床表現：
     - **Thunderclap headache**：突發劇烈頭痛。
     - 頸部僵硬（meningismus）。
     - 意識改變、嘔吐。
-    - CN III 麻痺（PCoA aneurysm 壓迫）→ 瞳孔散大 + 眼瞼下垂。
+    - [[眼科#CN III（動眼神經）麻痺|CN III 麻痺]]（PCoA aneurysm 壓迫）→ 瞳孔散大 + 眼瞼下垂。
     - 可有 sentinel headache（前驅性警告頭痛）。
 - 診斷：
     - 第一步：Non-contrast CT（12 小時內敏感度 > 95%）。
@@ -227,11 +229,13 @@ credit:
 
 | 併發症 | 時間 | 處理 |
 |--------|------|------|
-| 再出血 | 前 24 小時風險最高 | 早期處理動脈瘤（clipping 或 coiling），72 小時內 |
+| 再出血 | 前 24 小時風險最高 | 早期處理動脈瘤（[[神經外科#SAH 治療\|clipping 或 coiling]]），72 小時內 |
 | 血管痙攣 | :red[第 4–14 天（高峰第 7 天）] | **Nimodipine**（口服 21 天）；Triple-H therapy 或血管內治療 |
 | 水腦症 | 急性或慢性 | 急性 → EVD；慢性 → VP shunt |
-| 低血鈉 | 數天後 | CSWS（cerebral salt wasting）：低血容 → 給 N/S |
+| 低血鈉 | 數天後 | [[電解質與酸鹼#低血鈉（Hyponatremia）\|CSWS（cerebral salt wasting）]]：低血容 → 給 N/S |
 | 癲癇 | 任何時間 | 預防性抗癲癇藥使用具爭議 |
+
+- 詳見 [[神經系統主訴#急性頭痛（Acute Headache）|急性頭痛]]的評估流程；未破裂動脈瘤詳見 [[偶發病灶#無症狀顱內病灶（Incidental Brain Findings）|無症狀顱內病灶]]
 
 ### 腦靜脈竇血栓（CVST）
 
@@ -288,7 +292,7 @@ credit:
     - 首選：**Valproic acid**（男性）或 Lamotrigine/Levetiracetam（女性）。
     - 需長期服藥，停藥復發率高。
 
-- **West Syndrome（嬰兒痙攣）**：
+- **[[小兒科#嬰兒痙攣（Infantile Spasms / West Syndrome）|West Syndrome]]（嬰兒痙攣）**：
     - 好發 3-12 個月；Infantile spasms + **hypsarrhythmia**（EEG）+ 發展遲緩；治療：**ACTH** 或 Vigabatrin。
 - **Lennox-Gastaut Syndrome**：
     - 好發 2-6 歲；多種發作型態（tonic、atonic、absence）+ slow spike-and-wave < 2.5 Hz（EEG）+ 智能障礙；難治型癲癇，預後差。
@@ -297,7 +301,7 @@ credit:
 
 | 藥物 | 主要適應症 | 重要副作用 |
 |------|-----------|------------|
-| **Carbamazepine** | Focal seizure 首選 | **SJS/TEN（HLA-B\*1502 台灣人須檢測）**、低血鈉（SIADH）、再生不良性貧血 |
+| **Carbamazepine** | Focal seizure 首選 | **[[皮膚科#Stevens-Johnson Syndrome（SJS）/ Toxic Epidermal Necrolysis（TEN）\|SJS/TEN]]（HLA-B\*1502 台灣人須檢測）**、低血鈉（[[代謝內分泌科#抗利尿激素不當分泌症候群（SIADH）\|SIADH]]）、再生不良性貧血 |
 | **Phenytoin** | Focal、GTC | 齒齦增生、多毛、小腦萎縮、SJS |
 | **Valproic acid** | **廣效**（GTC、absence、myoclonic 皆可） | **致畸性（neural tube defects）**、肝毒性、血小板↓、體重↑、tremor |
 | **Lamotrigine** | 廣效 | **SJS/TEN**；與 VPA 併用時半衰期延長 |
@@ -320,12 +324,15 @@ credit:
 
 ::chart{id="status-epilepticus"}
 
+- 詳見 [[神經系統主訴#抽搐與癲癇發作（Seizure）|抽搐與癲癇發作]]的評估流程
+
 ### Febrile Seizure（熱性痙攣）
 
 - 好發：6 個月–5 歲。
 - **Simple**：全面性、< 15 分鐘、24 小時內不復發、無局灶特徵 → 不需抗癲癇藥。
 - **Complex**：局灶性、> 15 分鐘、24 小時內復發 → 需進一步檢查。
 - Simple febrile seizure 不會增加癲癇風險。
+- 詳見 [[小兒科#熱性痙攣（Febrile Seizure）|小兒科的熱性痙攣]]
 
 ## 頭痛
 
@@ -367,12 +374,13 @@ credit:
 - **O**nset sudden（thunderclap headache → SAH、CVST、dissection）。
 - **O**lder age（> 50 歲新發 → GCA、腫瘤）。
 - **P**rogressive / postural / precipitated by Valsalva。
+- 詳見 [[神經系統主訴#急性頭痛（Acute Headache）|急性頭痛]]、[[神經系統主訴#慢性與反覆頭痛（Chronic / Recurrent Headache）|慢性與反覆頭痛]]的評估流程
 
 #### 顳動脈炎（Giant Cell Arteritis, GCA）
 
 - 好發 > 50 歲。
 - 新發頭痛、顳動脈壓痛、下顎跛行（jaw claudication）、**視力喪失**（最嚴重的併發症，anterior ischemic optic neuropathy）。
-- 常合併 polymyalgia rheumatica（PMR）。
+- 常合併 [[免疫風濕科#風濕性多肌痛（Polymyalgia Rheumatica, PMR）|polymyalgia rheumatica]]（PMR）。
 - Lab：ESR↑、CRP↑。
 - 診斷：**顳動脈切片（gold standard）** → granulomatous inflammation。
 - 治療：**懷疑即立即給 corticosteroid**（不等切片）→ Prednisone 40–60 mg/day。
@@ -381,7 +389,7 @@ credit:
 #### 特發性顱內壓升高（Idiopathic Intracranial Hypertension, IIH）
 
 - 好發：年輕肥胖女性。
-- 頭痛、暫時性視力模糊、脈搏性耳鳴、**雙側乳突水腫（papilledema）**。
+- 頭痛、暫時性視力模糊、脈搏性耳鳴、**雙側[[眼科#視乳頭水腫（Papilledema）|乳突水腫（papilledema）]]**。
 - 診斷：影像正常 + LP 開放壓 :red[> 250 mmH₂O]。
 - 治療：體重控制、**Acetazolamide**；嚴重 → optic nerve sheath fenestration 或 VP shunt。
 - 誘發藥物：Vitamin A（retinoids）、Tetracycline、類固醇。
@@ -394,8 +402,8 @@ credit:
 
 | 年齡層 | 常見病原 | 經驗性抗生素 |
 |--------|----------|-------------|
-| 新生兒（< 1 月） | **GBS**、E. coli、Listeria | Ampicillin + Cefotaxime（或 Gentamicin） |
-| 嬰幼兒（1-23 月） | S. pneumoniae、N. meningitidis、H. influenzae | Vancomycin + Ceftriaxone |
+| 新生兒（< 1 月） | **[[感染科#Group B Streptococcus（S. agalactiae）\|GBS]]**、E. coli、[[感染科#Listeria monocytogenes\|Listeria]] | Ampicillin + Cefotaxime（或 Gentamicin） |
+| 嬰幼兒（1-23 月） | S. pneumoniae、[[感染科#N. meningitidis（腦膜炎雙球菌）\|N. meningitidis]]、H. influenzae | Vancomycin + Ceftriaxone |
 | 兒童/青少年/成人 | **S. pneumoniae**（最常見）、**N. meningitidis** | Vancomycin + Ceftriaxone |
 | 老人/免疫低下 | S. pneumoniae、Listeria、GN bacilli | Vancomycin + Ceftriaxone + **Ampicillin**（cover Listeria） |
 
@@ -408,6 +416,8 @@ credit:
 | 細胞型態 | **PMN 為主** | **Lymphocyte 為主** | Lymphocyte 為主 |
 | 蛋白質 | ↑↑ | 正常或↑ | ↑↑ |
 | 葡萄糖 | ↓↓（< 40 或 CSF/serum < 0.4） | 正常 | ↓ |
+
+- 詳見 [[神經系統主訴#意識障礙與昏迷（Altered Consciousness / Coma）|意識障礙與昏迷]]的評估流程
 
 #### 處理要點
 
@@ -446,19 +456,19 @@ credit:
 - 來源：鄰近感染（中耳炎、鼻竇炎）、血行播散、外傷/手術後。
 - 最常見病原：Streptococcus spp.。
 - 影像：**環形增強（ring-enhancing lesion）**；**DWI 高訊號**（膿瘍 restricted diffusion）。
-- 鑑別：腫瘤（GBM）、toxoplasmosis（HIV）。
+- 鑑別：腫瘤（GBM）、[[感染科#Toxoplasma gondii|toxoplasmosis]]（HIV）。
 - 治療：手術引流/切除 + 長期抗生素（4-8 週）。
 
 ### NMDA Receptor Encephalitis
 
-- 好發：年輕女性；常伴**卵巢畸胎瘤（ovarian teratoma）**。
+- 好發：年輕女性；常伴**[[婦科#生殖細胞腫瘤（Germ Cell Tumors）|卵巢畸胎瘤]]（ovarian teratoma）**。
 - 臨床：精神症狀 → 癲癇 → 運動障礙（orofacial dyskinesia）→ 意識障礙 → 自律神經不穩。
 - 抗體：**Anti-NMDA receptor Ab**。
 - 治療：免疫治療（steroids、IVIG、plasmapheresis）+ 腫瘤切除；二線：Rituximab、Cyclophosphamide。
 
 ### Neurosyphilis
 
-- 梅毒螺旋體（Treponema pallidum）侵犯 CNS。
+- 梅毒螺旋體（[[感染科#Treponema pallidum（Syphilis，梅毒）|Treponema pallidum]]）侵犯 CNS。
 - **Tabes dorsalis**：感覺性共濟失調、lancinating pain、Romberg sign (+)、Charcot joints。
 - **Argyll Robertson pupil**：光反射消失但 accommodation 保留。
 - 診斷：CSF VDRL、CSF FTA-ABS。
@@ -476,7 +486,7 @@ credit:
 
 #### 臨床表現
 
-- **視神經炎（Optic neuritis）**：單眼視力喪失 + 眼球轉動痛 → RAPD（Marcus Gunn pupil）。
+- **[[眼科#視神經炎（Optic Neuritis）|視神經炎（Optic neuritis）]]**：單眼視力喪失 + 眼球轉動痛 → RAPD（Marcus Gunn pupil）。
 - **核間眼肌麻痺（INO）**：MLF 受損 → 患側內轉障礙 + 對側外轉眼震。
 - Lhermitte's sign：頸部前彎時電擊感沿脊椎傳至四肢。
 - 痙攣性無力、小腦症狀、膀胱功能障礙。
@@ -503,7 +513,7 @@ credit:
 |------|------|
 | **急性發作** | **IV Methylprednisolone** → 加速恢復但不改變最終結局；嚴重 → plasmapheresis |
 | **疾病修飾治療** | 一線：IFN-β、Glatiramer acetate、Dimethyl fumarate、Teriflunomide |
-| | 二線：Natalizumab（anti-α4 integrin，注意 **PML 風險**）、Fingolimod、Ocrelizumab（anti-CD20，也用於 PPMS）、Alemtuzumab |
+| | 二線：Natalizumab（anti-α4 integrin，注意 **[[感染科#Polyomavirus（JC virus & BK virus）\|PML]] 風險**）、Fingolimod、Ocrelizumab（anti-CD20，也用於 PPMS）、Alemtuzumab |
 | **症狀治療** | 痙攣：Baclofen；疲倦：Amantadine；神經病變痛：Gabapentin；膀胱：anticholinergics |
 
 ### 視神經脊髓炎（NMOSD）
@@ -543,7 +553,7 @@ credit:
 |------|------|------|------|
 | Levodopa + Carbidopa | Sinemet | L-DOPA → DA；Carbidopa 阻止周邊轉化 | **最有效**；長期 → wearing-off、dyskinesia |
 | DA agonists | Pramipexole、Ropinirole | 直接活化 DA receptors | 年輕患者可先用；副作用：衝動控制障礙、嗜睡 |
-| MAO-B inhibitors | Selegiline、Rasagiline | 抑制 MAO-B → ↓ DA 分解 | 避免與 meperidine/SSRI 併用（serotonin syndrome） |
+| MAO-B inhibitors | Selegiline、Rasagiline | 抑制 MAO-B → ↓ DA 分解 | 避免與 meperidine/SSRI 併用（[[精神科#Serotonin Syndrome（血清素症候群）\|serotonin syndrome]]） |
 | COMT inhibitors | Entacapone、Tolcapone | 延長 L-DOPA 效果 | Tolcapone 有肝毒性 |
 | Anticholinergics | Trihexyphenidyl、Benztropine | 阻斷 ACh | 主要改善 **tremor**；老人避免 |
 | Amantadine | — | ↑ DA release + NMDA antagonist | 可改善 levodopa-induced dyskinesia |
@@ -573,6 +583,8 @@ credit:
 | 飲酒 | **改善** | 無效 |
 | 伴隨症狀 | 無 | Rigidity、bradykinesia |
 
+- 詳見 [[神經系統主訴#不自主運動與顫抖（Tremor / Involuntary Movements）|不自主運動與顫抖]]的鑑別
+
 ### 亨丁頓舞蹈症（Huntington's Disease）
 
 - 遺傳：**AD**、**HTT 基因 CAG repeat**（:red[≥ 36 repeats]）。
@@ -592,6 +604,7 @@ credit:
 - 遺傳：多為 **AD**，CAG trinucleotide repeat expansion、**Anticipation**。
 - 臨床：進行性小腦共濟失調 ± 眼球運動異常、錐體/錐體外路徵、周邊神經病變。
 - 多種亞型（SCA1、SCA2、SCA3/Machado-Joseph disease 等）。
+- 詳見 [[神經系統主訴#步態不穩與運動失調（Gait Disturbance / Ataxia）|步態不穩與運動失調]]的評估流程
 
 ### 肌萎縮側索硬化症（ALS）
 
@@ -602,7 +615,7 @@ credit:
     - **不影響感覺、自律神經系統**。
     - **不影響眼外肌、括約肌功能**。
     - Bulbar onset：吞嚥/構音困難，預後較差。
-    - 可合併 **FTD**（尤其 C9orf72）。
+    - 可合併 **[[神經內科#額顳葉失智（Frontotemporal Dementia, FTD）|FTD]]**（尤其 C9orf72）。
 - 基因：**C9orf72** repeat expansion（家族型最常見）、**SOD1** mutation。
 - 診斷：NCS/EMG → 廣泛性 denervation（≥ 3 區域 UMN + LMN signs）；**感覺神經傳導正常**。
 - 治療：**Riluzole**（延長存活約 2–3 月）、Edaravone（部分病人）；呼吸（NIV）/營養（PEG）支持。
@@ -622,7 +635,7 @@ credit:
 - 臨床：
     - 肝臟：肝炎 → 肝硬化 → 急性肝衰竭。
     - 神經：dysarthria、dystonia、wing-beating tremor、parkinsonism。
-    - 眼：**Kayser-Fleischer ring**。
+    - 眼：**[[消化內科#Wilson's Disease|Kayser-Fleischer ring]]**。
     - 精神症狀。
 - Lab：ceruloplasmin↓、free copper↑、24hr 尿銅↑。
 - MRI：基底核 T2 高訊號；中腦 **face of the giant panda sign**。
@@ -635,6 +648,7 @@ credit:
 - **阿茲海默病**：最常見（60-70%）。
 - **血管性失智**：第二常見。
 - 其他：路易體失智（DLB）、額顳葉失智（FTD）、正常壓力水腦（NPH）。
+- 詳見 [[神經系統主訴#失智與記憶力減退（Dementia / Memory Loss）|失智與記憶力減退]]的評估流程；精神科觀點詳見 [[精神科#失智症（Major Neurocognitive Disorder）|精神科的失智症]]；社區照顧詳見 [[20261102-dementia-daycare|失智日照中心參訪]]（逐篇筆記）
 
 ### 阿茲海默病（Alzheimer's Disease）
 
@@ -647,7 +661,7 @@ credit:
     - 最大風險因子：**年齡**。
     - **ApoE ε4**：最重要的遺傳風險因子（late-onset AD）。
     - **APP**、**Presenilin 1**、**Presenilin 2** → 早發型家族性 AD。
-    - Down syndrome（trisomy 21 → extra APP）。
+    - [[小兒科#唐氏症（Down Syndrome, Trisomy 21）|Down syndrome]]（trisomy 21 → extra APP）。
 - **臨床**：**近期記憶喪失** → 語言、視空間、執行功能障礙 → 晚期完全依賴。
 - **診斷**：
     - MRI：**海馬體/內側顳葉萎縮**。
@@ -685,7 +699,7 @@ credit:
     3. **尿失禁**。
 - 影像：腦室擴大但 sulci 不成比例地窄。
 - 診斷性測試：**大量 CSF 引流（tap test）**→ 步態改善。
-- 治療：**VP shunt**。
+- 治療：**[[神經外科#正常壓力水腦症（Normal Pressure Hydrocephalus, NPH）|VP shunt]]**。
 
 ### Creutzfeldt-Jakob Disease（CJD）
 
@@ -710,10 +724,12 @@ credit:
 | 肌肉萎縮 | 輕度/晚期 | 顯著/早期 |
 | Fasciculation | 無 | **有** |
 
+- 詳見 [[神經系統主訴#肌肉無力（Weakness）|肌肉無力]]的評估流程
+
 ### Guillain-Barré Syndrome（GBS）
 
 - **最常見的急性 flaccid paralysis**。
-- 前驅感染後 1–4 週：**Campylobacter jejuni**（最常見）、CMV、EBV、Mycoplasma。
+- 前驅感染後 1–4 週：**[[感染科#腸道感染|Campylobacter jejuni]]**（最常見）、CMV、EBV、Mycoplasma。
 - 機制：分子模擬（molecular mimicry）→ 自體免疫攻擊周邊神經。
 - 臨床表現：
     - **上行性對稱性無力（ascending）**：下肢 → 上肢 → 呼吸肌 → 顱神經。
@@ -769,11 +785,13 @@ credit:
 
 | 神經 | 常見卡壓部位 | 臨床表現 |
 |------|-------------|----------|
-| **正中神經** | 腕隧道（carpal tunnel） | **腕隧道症候群**（最常見卡壓性神經病變）：前三指半麻木、夜間加重、thenar atrophy；Tinel's / Phalen's sign |
+| **正中神經** | 腕隧道（carpal tunnel） | **[[骨科#腕隧道症候群（Carpal Tunnel Syndrome）\|腕隧道症候群]]**（最常見卡壓性神經病變）：前三指半麻木、夜間加重、thenar atrophy；Tinel's / Phalen's sign |
 | **尺神經** | 肘隧道（cubital tunnel） | 小指/無名指尺側麻木、interossei / hypothenar 萎縮、claw hand |
-| **橈神經** | 肱骨中段（Saturday night palsy） | **Wrist drop**（垂腕）、手背感覺減退；**鉛中毒** 也可導致橈神經麻痺（wrist drop） |
+| **橈神經** | 肱骨中段（Saturday night palsy） | **Wrist drop**（垂腕）、手背感覺減退；**[[小兒科#鉛中毒（Lead Poisoning）\|鉛中毒]]** 也可導致橈神經麻痺（wrist drop） |
 | **腓總神經** | 腓骨頭 | **Foot drop**（垂足）、踝背屈/足外翻無力、小腿外側/足背感覺減退 |
 | **股外側皮神經** | 腹股溝韌帶 | **Meralgia paresthetica**：大腿前外側麻木灼痛；純感覺 |
+
+- 詳見 [[神經系統主訴#麻木與感覺異常（Numbness / Paresthesia）|麻木與感覺異常]]的評估流程
 
 ## 神經肌肉接合處與肌肉疾病
 
@@ -788,7 +806,7 @@ credit:
     - **全身型**：眼肌 → 顏面/咀嚼 → 四肢近端 → 呼吸肌。
     - 肌無力危象：呼吸肌衰竭 → ICU。
 - 與胸腺的關係：
-    - **胸腺增生**（65%，年輕女性）、**胸腺瘤**（10–15%，較年長）。
+    - **胸腺增生**（65%，年輕女性）、**[[胸腔外科#縱膈腔腫瘤|胸腺瘤]]**（10–15%，較年長）。
     - 所有 MG 患者需做胸部 CT。
 - 診斷：
     - Anti-AChR Ab（高特異性）。
@@ -804,7 +822,7 @@ credit:
 ### Lambert-Eaton 肌無力症候群（LEMS）
 
 - **Anti-VGCC** 抗體攻擊 NMJ pre-synaptic → ACh 釋放減少。
-- 相關腫瘤：**Small cell lung cancer**。
+- 相關腫瘤：**[[胸腔內科#小細胞肺癌（SCLC，約 15%）|Small cell lung cancer]]**。
 - 臨床表現：
     - **近端下肢無力為主**。
     - **初始活動可短暫改善**（post-exercise facilitation）→ 與 MG 相反。
@@ -825,7 +843,7 @@ credit:
 ### 發炎性肌病變
 
 - **Dermatomyositis（DM）**：
-    - 近端肌無力 + 皮膚表現：**Heliotrope rash**（上眼瞼紫紅色）、**Gottron's papules**（指間關節背）、V-sign、Shawl sign。
+    - 近端肌無力 + 皮膚表現：**[[皮膚科#皮肌炎（Dermatomyositis）|Heliotrope rash]]**（上眼瞼紫紅色）、**Gottron's papules**（指間關節背）、V-sign、Shawl sign。
     - 病理：Perifascicular atrophy；CD4+ T cell & complement。
     - 治療：Corticosteroids（首選）、MTX、AZA、IVIG。
     - **成人 DM 須篩檢惡性腫瘤**。
@@ -843,7 +861,7 @@ credit:
 
 ### 肌肉失養症（Muscular Dystrophies）
 
-- **Duchenne muscular dystrophy（DMD）**：
+- **[[小兒科#Duchenne Muscular Dystrophy（DMD）|Duchenne muscular dystrophy（DMD）]]**：
     - X-linked recessive；Dystrophin 完全缺乏。
     - 2–5 歲發病、Gowers' sign、calf pseudohypertrophy、**CK 極度 ↑**、心肌病變。
     - 13 歲前輪椅、20 多歲死亡。
@@ -855,7 +873,7 @@ credit:
     - **AD**；DMPK 基因 CTG repeat。
     - 最常見成人型肌失養症。
     - **Myotonia**（握拳後無法放鬆）、遠端肌無力。
-    - **Frontal balding**、**cataracts**、心臟傳導異常、DM、睪丸萎縮。
+    - **Frontal balding**、**[[眼科#白內障（Cataract）|cataracts]]**、心臟傳導異常、DM、睪丸萎縮。
 
 ### 其他肌病變
 
@@ -865,7 +883,7 @@ credit:
     - Muscle biopsy → **ragged red fibers**（Gomori trichrome stain）。
     - 常見症候群：MELAS、MERRF。
 - **週期性麻痺（Periodic paralysis）**：
-    - **低血鉀型（Hypokalemic）**：最常見；發作時 K⁺ ↓ → 肌肉無力/麻痺；誘因：高碳水飲食、運動後休息、壓力；與甲狀腺亢進相關。
+    - **低血鉀型（Hypokalemic）**：最常見；發作時 K⁺ ↓ → 肌肉無力/麻痺；誘因：高碳水飲食、運動後休息、壓力；與[[代謝內分泌科#甲狀腺機能亢進（Hyperthyroidism）|甲狀腺亢進]]相關。
     - 高血鉀型：發作時 K⁺ ↑；較短暫。
     - 治療：矯正 K⁺；預防：Acetazolamide。
 
@@ -891,9 +909,9 @@ credit:
 | **Diffuse Astrocytoma** | II-III | IDH-mutant、p53 mutation；可進展為 anaplastic astrocytoma（III）→ secondary GBM |
 | **Oligodendroglioma** | II-III | IDH-mutant、**1p/19q co-deletion**（預後好、化療敏感）；鈣化常見 |
 | **CNS Lymphoma** | - | 好發免疫低下（HIV）；periventricular ring-enhancing lesion；**使用 corticosteroids 後腫瘤可暫時縮小**→ 組織確認前勿先給 steroid |
-| **Meningioma** | I | **最常見的原發性顱內腫瘤**；硬腦膜附著、**dural tail sign**；女性多；多良性，手術可治癒 |
-| **Schwannoma** | I | CN VIII；CPA tumor 最常見；單側聽力喪失 + 耳鳴；雙側 → **NF2** |
-| **Pituitary adenoma** | I | 視交叉壓迫 → **雙顳側偏盲**；激素異常 |
+| **[[神經外科#腦膜瘤（Meningioma）\|Meningioma]]** | I | **最常見的原發性顱內腫瘤**；硬腦膜附著、**dural tail sign**；女性多；多良性，手術可治癒 |
+| **[[耳鼻喉科#聽神經瘤（Vestibular Schwannoma / Acoustic Neuroma）\|Schwannoma]]** | I | CN VIII；CPA tumor 最常見；單側聽力喪失 + 耳鳴；雙側 → **NF2** |
+| **[[代謝內分泌科#腦下垂體腫瘤\|Pituitary adenoma]]** | I | 視交叉壓迫 → **雙顳側偏盲**；激素異常 |
 | **Craniopharyngioma** | I | 鞍上；鈣化 + 囊腫；視野缺損 + 內分泌異常；兒童亦常見 |
 | **Hemangioblastoma** | I | 後顱窩；可合併 **VHL syndrome**；紅血球增多症 |
 
@@ -913,6 +931,7 @@ credit:
 - 原發：**肺癌**（最常見）> 乳癌 > 黑色素瘤 > 腎癌 > 大腸癌。
 - 多發、位於灰白質交界處；ring-enhancing。
 - 治療：手術（單發）、stereotactic radiosurgery（SRS）、whole-brain radiotherapy（WBRT）、化療。
+- 手術詳見 [[神經外科#腦腫瘤（Brain Tumors）|神經外科的腦腫瘤]]
 
 ### 神經皮膚症候群
 
@@ -920,8 +939,8 @@ credit:
 |------|------|------|------|
 | **NF1** | AD | Chr 17, NF1 | ≥ 6 café-au-lait spots、axillary freckling、neurofibroma、optic glioma、Lisch nodules |
 | **NF2** | AD | Chr 22, Merlin | **雙側 vestibular schwannomas**、meningiomas |
-| **Tuberous sclerosis** | AD | TSC1/TSC2 | Cortical tubers、SEGA、cardiac rhabdomyoma、renal angiomyolipoma、facial angiofibromas、ash-leaf spots、infantile spasms |
-| **VHL** | AD | Chr 3p, VHL | CNS hemangioblastomas、retinal angiomas、**clear cell RCC**、pheochromocytoma |
+| **Tuberous sclerosis** | AD | TSC1/TSC2 | Cortical tubers、SEGA、cardiac rhabdomyoma、[[偶發病灶#腎臟偶發腫塊（Incidental Renal Mass）\|renal angiomyolipoma]]、facial angiofibromas、ash-leaf spots、infantile spasms |
+| **VHL** | AD | Chr 3p, VHL | CNS hemangioblastomas、retinal angiomas、**[[泌尿科#腎細胞癌（Renal Cell Carcinoma, RCC）\|clear cell RCC]]**、[[代謝內分泌科#嗜鉻細胞瘤（Pheochromocytoma）\|pheochromocytoma]] |
 | **Sturge-Weber** | Sporadic | GNAQ | Port-wine stain（V1）、leptomeningeal angioma、tram-track calcification、contralateral seizures、glaucoma |
 
 ## 其他神經系統疾病
@@ -930,13 +949,13 @@ credit:
 
 - 原因：**Vitamin B12 缺乏**。
 - 病變：脊髓**後柱 + 側柱（corticospinal tract）**。
-- 臨床：後柱（本體覺/振動覺↓、Romberg sign）+ 側柱（UMN signs）+ 周邊神經（LMN）+ 認知障礙 + megaloblastic anemia。
+- 臨床：後柱（本體覺/振動覺↓、Romberg sign）+ 側柱（UMN signs）+ 周邊神經（LMN）+ 認知障礙 + [[血液腫瘤科#巨球性貧血（Megaloblastic Anemia）|megaloblastic anemia]]。
 - **給葉酸前必須先排除/補充 B12** → 葉酸改善貧血但掩蓋/加重神經損傷。
 
 ### 滲透性脫髓鞘症候群（Osmotic Demyelination Syndrome, ODS）
 
 - 舊稱 central pontine myelinolysis（CPM）。
-- 原因：**低血鈉校正過快**（> 8-10 mEq/L/24hr）。
+- 原因：**[[電解質與酸鹼#低血鈉（Hyponatremia）|低血鈉校正過快]]**（> 8-10 mEq/L/24hr）。
 - 好發：alcoholism、malnutrition、liver transplant。
 - 臨床：校正後 2-6 天出現 → dysarthria、dysphagia、quadriparesis、locked-in syndrome。
 - MRI：**橋腦中央 T2 高訊號**；也可有 extrapontine involvement（基底核）。
@@ -944,7 +963,7 @@ credit:
 
 ### Wernicke-Korsakoff Syndrome
 
-- 原因：**Thiamine（Vitamin B1）缺乏**；最常見於酒精中毒、長期營養不良。
+- 原因：**Thiamine（Vitamin B1）缺乏**；最常見於[[精神科#酒精相關營養缺乏|酒精中毒]]、長期營養不良。
 - **Wernicke encephalopathy**（急性，可逆）：
     - **眼肌麻痺（ophthalmoplegia）+ 共濟失調（ataxia）+ 意識混亂（confusion）**。
     - MRI：mammillary bodies、periaqueductal gray、medial thalamus T2/FLAIR 高訊號。
@@ -954,7 +973,7 @@ credit:
 
 ### 脊髓空洞症（Syringomyelia）
 
-- 最常見相關：**Chiari I malformation**、好發頸髓。
+- 最常見相關：**[[偶發病灶#無症狀顱內病灶（Incidental Brain Findings）|Chiari I malformation]]**、好發頸髓。
 - 最早：**披肩樣痛溫覺喪失**（cape-like）→ 交叉脊髓丘腦束受損（後柱保留）。
 - 進展：前角細胞（手部 LMN 萎縮）→ 側柱（UMN signs in legs）。
 - MRI：脊髓內 T2 高訊號空洞。
@@ -963,7 +982,7 @@ credit:
 ### 脊髓壓迫症（Spinal Cord Compression）
 
 - **神經急症**。
-- 最常見原因：**轉移性脊椎腫瘤**。
+- 最常見原因：**[[血液腫瘤科#Spinal Cord Compression|轉移性脊椎腫瘤]]**。
 - 臨床：背痛（最早）→ 雙下肢無力 → 感覺平面 → 大小便失禁。
 - 診斷：**緊急 MRI（whole spine）**。
 - 治療：**立即 Dexamethasone** → 放射治療或手術減壓。
@@ -978,6 +997,7 @@ credit:
 - 檢查：CSF **Hypocretin/Orexin↓**、HLA-DQB1\*0602 相關。
 - 診斷：PSG + MSLT → 平均睡眠潛伏期 :red[≤ 8 min + ≥ 2 入睡後急速動眼期]。
 - 治療：嗜睡 → **Modafinil**（興奮劑）；猝倒 → **Sodium oxybate**、Venlafaxine。
+- 詳見 [[精神系統主訴#白天過度嗜睡（Excessive Daytime Sleepiness）|白天過度嗜睡]]的鑑別
 
 ### REM Sleep Behavior Disorder
 
@@ -989,7 +1009,7 @@ credit:
 ### 不寧腿症候群（Restless Leg Syndrome）
 
 - 休息/夜間時雙下肢不適感 + 強烈移動慾望 → 移動後暫時改善。
-- 相關：**缺鐵性貧血（IDA）**、尿毒症、懷孕、神經病變。
+- 相關：**[[血液腫瘤科#缺鐵性貧血（Iron Deficiency Anemia, IDA）|缺鐵性貧血（IDA）]]**、尿毒症、懷孕、神經病變。
 - 治療：先矯正鐵缺乏；**Dopamine agonists**（Pramipexole、Ropinirole）、Gabapentin/Pregabalin。
 
 ### 睡眠呼吸中止症（Sleep Apnea）
@@ -998,7 +1018,7 @@ credit:
     - 上呼吸道反覆塌陷 → 打鼾、呼吸中止、日間嗜睡。
     - 肥胖為主要風險。
     - 診斷：PSG（AHI ≥ 5）。
-    - 治療：**CPAP**（第一線）、減重、必要時手術（UPPP）。
+    - 治療：**[[胸腔內科#阻塞性睡眠呼吸中止症（OSA）|CPAP]]**（第一線）、減重、必要時手術（UPPP）。
 - **中樞型（CSA）**：呼吸驅動缺失。
     - 常見於心衰竭（Cheyne-Stokes breathing）、opioid 使用、高海拔。
     - 治療：治療原發疾病、adaptive servo-ventilation。
