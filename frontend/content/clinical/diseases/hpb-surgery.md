@@ -55,6 +55,8 @@ credit:
 | **Focal Nodular Hyperplasia（FNH）** | 第二常見；年輕女性；CT：**中央星狀疤痕（central stellate scar）**，動脈期強化 | 幾乎不需治療；不會惡變；與 OCP 關聯弱；觀察即可 |
 | **Hepatic Adenoma** | 與 **OCP（口服避孕藥）**、anabolic steroids 高度相關；有出血風險與 **惡性轉化風險** | 停 OCP；:red[>5 cm → 手術切除]；β-catenin 突變型惡變風險最高 |
 
+- 影像意外發現的肝臟病灶詳見 [[偶發病灶#肝臟偶發病灶（Incidental Liver Lesion）|肝臟偶發病灶]]
+
 ### 肝膿瘍（Liver Abscess）
 
 #### 細菌性肝膿瘍（Pyogenic Liver Abscess）
@@ -65,6 +67,7 @@ credit:
 - 好發：右葉。
 - 診斷：CT/US → rim-enhancing lesion。
 - 治療：**經皮穿刺引流（percutaneous drainage）+ 抗生素**（4–6 週）。
+- 內科處置詳見 [[消化內科#肝膿瘍|消化內科的肝膿瘍]]
 
 #### 阿米巴性肝膿瘍（Amoebic Liver Abscess）
 
@@ -86,7 +89,7 @@ credit:
 
 - **Simple cyst**：薄壁、無分隔 → 觀察即可；有症狀 → fenestration。
 - **Cystadenoma**：厚壁、分隔、壁結節 → 須完整切除（有惡變風險）。
-- **Polycystic liver disease**：常合併 ADPKD。
+- **Polycystic liver disease**：常合併 [[腎臟內科#體染色體顯性多囊腎（ADPKD）|ADPKD]]。
 
 ## 肝臟惡性腫瘤
 
@@ -95,7 +98,7 @@ credit:
 #### 流行病學與危險因子
 
 - 台灣最常見的原發性肝癌（佔 >80%）。
-- 危險因子：**HBV（台灣最主要）**、HCV、肝硬化（任何原因）、酒精性肝病、黃麴毒素（aflatoxin B1）、NAFLD/NASH。
+- 危險因子：**[[消化內科#Hepatitis B（HBV）|HBV（台灣最主要）]]**、[[消化內科#Hepatitis C（HCV）|HCV]]、肝硬化（任何原因）、酒精性肝病、黃麴毒素（aflatoxin B1）、[[消化內科#非酒精性脂肪肝病（NAFLD）|NAFLD/NASH]]。
 - HBV：可在 **無肝硬化** 下直接產生 HCC。
 - HCV：幾乎一定經由肝硬化才產生 HCC。
 - 黃麴毒素：**TP53 基因突變**（R249S）。
@@ -105,6 +108,7 @@ credit:
 - 高危族群（肝硬化、HBV/HCV 帶原者）：每 **6 個月** 腹部超音波 + **AFP（α-fetoprotein）**。
 - AFP :red[> 200 ng/mL] + 典型影像 → 高度懷疑 HCC。
 - AFP 也可升高於：懷孕、生殖細胞腫瘤、急性肝炎。
+- AFP 與其他腫瘤標記詳見 [[生化異常#其他腫瘤標記升高（Elevated Tumor Markers）|其他腫瘤標記升高]]
 
 #### 診斷
 
@@ -122,6 +126,8 @@ credit:
 | **B（中期）** | 多發、大腫瘤 | Child A–B, PS 0 | TACE |
 | **C（晚期）** | 門脈侵犯/肝外轉移 | Child A–B, PS 1–2 | 全身治療（免疫 + 標靶） |
 | **D（末期）** | 任何 | Child C, PS 3–4 | 支持療法（BSC） |
+
+- 內科觀點詳見 [[消化內科#肝細胞癌（Hepatocellular Carcinoma, HCC）|消化內科的 HCC]]
 
 #### 治療細節
 
@@ -151,7 +157,7 @@ credit:
 ### 肝內膽管癌（Intrahepatic Cholangiocarcinoma, ICC）
 
 - 第二常見的原發性肝癌。
-- 危險因子：原發性硬化性膽管炎（PSC）、肝內結石（hepatolithiasis）、肝吸蟲（Clonorchis sinensis / Opisthorchis）、膽道囊腫（choledochal cyst）。
+- 危險因子：[[消化內科#原發性硬化性膽管炎（Primary Sclerosing Cholangitis, PSC）|原發性硬化性膽管炎（PSC）]]、肝內結石（hepatolithiasis）、肝吸蟲（Clonorchis sinensis / Opisthorchis）、[[小兒外科#總膽管囊腫（Choledochal Cyst）|膽道囊腫（choledochal cyst）]]。
 - 腫瘤標記：**CA 19-9**（非專一）。
 - 影像：肝內腫塊 + delayed enhancement（與 HCC 不同）。
 - 治療：手術切除為唯一根治機會；切除率低、預後差。
@@ -177,7 +183,7 @@ credit:
 |------|------|
 | **Pre-hepatic** | Portal vein thrombosis、splenic vein thrombosis |
 | **Intrahepatic（最常見）** | **肝硬化**（最常見總病因）、schistosomiasis |
-| **Post-hepatic** | Budd-Chiari syndrome（hepatic vein thrombosis）、右心衰竭、constrictive pericarditis |
+| **Post-hepatic** | [[消化內科#Budd-Chiari Syndrome\|Budd-Chiari syndrome]]（hepatic vein thrombosis）、右心衰竭、[[心臟內科#縮窄性心包膜炎（Constrictive Pericarditis）\|constrictive pericarditis]] |
 
 ### 食道靜脈曲張出血（Esophageal Variceal Bleeding）
 
@@ -190,6 +196,7 @@ credit:
 3. **緊急上消化道內視鏡**：**EVL（endoscopic variceal ligation / banding）**為首選。
 4. **預防性抗生素**：Ceftriaxone（肝硬化出血合併 SBP 風險高）。
 5. 若內視鏡失敗 → **Balloon tamponade（Sengstaken-Blakemore tube）**（暫時止血，≤24hr）→ **TIPS**。
+- 詳見 [[消化系統主訴#上消化道出血（Upper GI Bleeding）|上消化道出血]]的評估流程；藥物預防詳見 [[消化內科#食道靜脈曲張（Esophageal Varices）|消化內科的食道靜脈曲張]]
 
 #### 預防出血（Primary & Secondary prophylaxis）
 
@@ -207,8 +214,9 @@ credit:
 - 最常見原因：**肝硬化**（佔 ~80%）。
 - **SAAG（Serum-Ascites Albumin Gradient）**：
     - :red[≥ 1.1 g/dL] → 門脈高壓相關（肝硬化、心衰竭、Budd-Chiari）。
-    - < 1.1 g/dL → 非門脈高壓（腹膜癌轉移、TB peritonitis、nephrotic syndrome）。
+    - < 1.1 g/dL → 非門脈高壓（腹膜癌轉移、TB peritonitis、[[腎臟內科#Nephrotic Syndrome|nephrotic syndrome]]）。
 - 治療階梯：限鈉（< 2 g/day）→ 利尿劑（Spironolactone + Furosemide，比例 :red[100:40]）→ 大量放腹水（large volume paracentesis, LVP）+ albumin 補充（:red[每放 1L 補 6–8 g albumin]）→ TIPS → 肝移植。
+- 詳見 [[消化系統主訴#腹水（Ascites）|腹水]]的評估流程
 
 #### 自發性細菌性腹膜炎（SBP）
 
@@ -230,6 +238,7 @@ credit:
     - **Lactulose**（首選）：酸化腸道環境 → 減少 NH₃ 吸收 + 促進排便。
     - **Rifaximin**：不吸收型抗生素，減少產氨菌。
     - 矯正誘因。
+- 詳見 [[消化內科#肝性腦病變（Hepatic Encephalopathy）|消化內科的肝性腦病變]]
 
 ### Child-Pugh Score & MELD Score
 
@@ -288,7 +297,7 @@ credit:
 | 類型 | 比例 | 成分 | 危險因子 |
 |------|------|------|----------|
 | Cholesterol stones | ~80% | 膽固醇為主 | 4F：Female, Fat, Forty, Fertile；OCP、rapid weight loss、TPN、fibrate |
-| Pigment stones（黑色） | ~15% | Calcium bilirubinate | 慢性溶血（sickle cell、thalassemia、spherocytosis）、肝硬化 |
+| Pigment stones（黑色） | ~15% | Calcium bilirubinate | 慢性溶血（[[血液腫瘤科#鐮刀型紅血球症（Sickle Cell Disease）\|sickle cell]]、thalassemia、[[血液腫瘤科#遺傳性球形紅血球症（Hereditary Spherocytosis, HS）\|spherocytosis]]）、肝硬化 |
 | Pigment stones（棕色） | ~5% | Calcium bilirubinate + bacteria | 膽道感染、膽道寄生蟲（Clonorchis）、膽道手術後；好發於膽管內 |
 
 - 大多數膽結石（>80%）為無症狀 → 不需治療。
@@ -299,6 +308,7 @@ credit:
     - 進食（尤其油膩食物）後發作、持續 30 分鐘–數小時、可放射至右肩/背部。
     - 無發燒、無白血球升高、**Murphy's sign 陰性**（無持續發炎）。
     - 治療：症狀性膽結石 → **選擇性膽囊切除術（elective cholecystectomy）**。
+- 內科觀點詳見 [[消化內科#膽結石（Cholelithiasis）|消化內科的膽結石]]
 
 ### 急性膽囊炎（Acute Cholecystitis）
 
@@ -367,6 +377,7 @@ credit:
     - **EUS**：敏感度最高。
     - **ERCP**：診斷兼治療的 gold standard。
 - 治療：**ERCP + sphincterotomy + stone extraction**（首選）。
+- 詳見 [[消化系統主訴#黃疸（Jaundice）|黃疸]]的評估流程
 
 ### 急性膽管炎（Acute Cholangitis）
 
@@ -402,6 +413,7 @@ credit:
 - 6–10 mm：追蹤 + 考慮切除。
 - :red[**> 10 mm**] 或快速長大 → **膽囊切除**（惡性風險高）。
 - 風險：Sessile（廣基）> pedunculated（有蒂）。
+- 詳見 [[偶發病灶#膽囊息肉（Gallbladder Polyp）|膽囊息肉]]的評估流程
 
 #### 意外發現膽囊癌的處理
 
@@ -470,6 +482,7 @@ credit:
 - **完整切除囊腫 + Roux-en-Y hepaticojejunostomy**（首選）。
 - 單純內引流（cyst-enterostomy）→ 癌變風險持續存在 → 不建議。
 - Caroli's disease：若局限 → 肝葉切除；瀰漫性 → 肝移植。
+- 兒童詳見 [[小兒外科#總膽管囊腫（Choledochal Cyst）|小兒外科的總膽管囊腫]]
 
 ## 胰臟解剖與生理
 
@@ -488,7 +501,7 @@ credit:
 - **主胰管（Main pancreatic duct）**：與 CBD 匯合於 Ampulla of Vater。
 - **副胰管（Accessory duct）**：開口於 minor papilla。
 - **Pancreas divisum**：最常見的胰臟先天變異（背腹側胰未融合）→ 大部分胰液經副胰管（minor papilla）排出 → 可能引起復發性胰臟炎。
-- **Annular pancreas**：胰臟組織環繞十二指腸 → 可致十二指腸阻塞（新生兒 double bubble sign）。
+- **[[小兒外科#十二指腸閉鎖（Duodenal Atresia）|Annular pancreas]]**：胰臟組織環繞十二指腸 → 可致十二指腸阻塞（新生兒 double bubble sign）。
 
 ### 胰臟生理
 
@@ -508,13 +521,13 @@ credit:
 
 - **最常見**：**膽結石（~40%）** 和 **酒精（~30%）** 合佔 70–80%。
 - 其他：
-    - 高三酸甘油脂（:red[TG > 1000 mg/dL]）。
+    - [[生化異常#血脂異常（Dyslipidemia）|高三酸甘油脂]]（:red[TG > 1000 mg/dL]）。
     - ERCP 後。
     - 藥物（Azathioprine、Valproic acid、Didanosine、Thiazide）。
     - 外傷。
-    - 高血鈣。
-    - 感染（Mumps）。
-    - Autoimmune。
+    - [[電解質與酸鹼#高血鈣（Hypercalcemia）|高血鈣]]。
+    - 感染（[[感染科#腮腺炎（Mumps）|Mumps]]）。
+    - [[消化內科#自體免疫性胰臟炎（Autoimmune Pancreatitis）|Autoimmune]]。
     - Pancreas divisum。
     - Idiopathic。
 
@@ -527,6 +540,7 @@ credit:
 - 理學檢查特殊徵象（重症/出血性）：
     - **Cullen's sign**：臍周瘀斑（periumbilical ecchymosis）。
     - **Grey Turner's sign**：側腹瘀斑（flank ecchymosis）。
+- 詳見 [[生化異常#澱粉酶與脂肪酶升高（Elevated Amylase / Lipase）|澱粉酶與脂肪酶升高]]的評估流程
 
 ### 嚴重度評估
 
@@ -552,6 +566,7 @@ credit:
     - **重度**：先穩定 → :red[6–8 週後]再行膽囊切除。
     - 若合併膽管阻塞/膽管炎 → **早期 ERCP**。
 - 營養：腸道營養（enteral nutrition）優於 TPN → NJ tube 或甚至 NG 餵食。
+- 內科處置詳見 [[消化內科#急性胰臟炎（Acute Pancreatitis）|消化內科的急性胰臟炎]]
 
 ### 併發症
 
@@ -589,7 +604,7 @@ credit:
 ### 病因
 
 - **最常見：酒精（占 70–80%）**。
-- 其他：遺傳（PRSS1、SPINK1、CFTR）、autoimmune（IgG4-related）、tropical（熱帶性）、obstructive、idiopathic。
+- 其他：遺傳（PRSS1、SPINK1、CFTR）、autoimmune（[[消化內科#自體免疫性胰臟炎（Autoimmune Pancreatitis）|IgG4-related]]）、tropical（熱帶性）、obstructive、idiopathic。
 
 ### 臨床表現
 
@@ -612,6 +627,7 @@ credit:
     - 胰管擴張（:red[>7 mm]）→ **Puestow procedure（lateral pancreaticojejunostomy）**。
     - 胰頭腫塊（inflammatory mass）→ **Whipple** 或 **Frey procedure**（local pancreatic head resection + lateral pancreaticojejunostomy）。
     - 全胰切除 + 自體胰島細胞移植（Total pancreatectomy with islet autotransplantation, TPIAT）：頑固疼痛的最終手段。
+- 內科處置詳見 [[消化內科#慢性胰臟炎（Chronic Pancreatitis）|消化內科的慢性胰臟炎]]
 
 ### 併發症
 
@@ -628,7 +644,7 @@ credit:
 
 - 胰臟最常見惡性腫瘤（>85%）；預後極差（5 年存活率 ~10%）。
 - **好發位置：胰頭（60–70%）** > 體部 > 尾部。
-- 危險因子：吸菸（最重要可改變因子）、慢性胰臟炎、DM、家族史（BRCA2、PALB2、CDKN2A、Lynch syndrome）、肥胖。
+- 危險因子：吸菸（最重要可改變因子）、慢性胰臟炎、DM、家族史（BRCA2、PALB2、CDKN2A、[[大腸直腸外科#Lynch Syndrome（HNPCC）|Lynch syndrome]]）、肥胖。
 
 #### 臨床表現
 
@@ -643,6 +659,7 @@ credit:
 - **EUS + FNA**：用於組織診斷或 CT 看不清的小腫瘤。
 - **ERCP**：**double duct sign**（CBD + 主胰管同時擴張）→ 提示壺腹周圍腫瘤。
 - **CA 19-9**：用於追蹤治療反應，非篩檢工具。
+- 內科觀點詳見 [[消化內科#胰臟癌（Pancreatic Cancer）|消化內科的胰臟癌]]
 
 #### 可切除性評估與治療
 
@@ -699,16 +716,19 @@ credit:
         - CA 19-9 升高。
         - 囊腫增長速率 ≥ 5 mm/2 年。
     - **無上述特徵**：追蹤（依大小決定頻率）。
+- 影像意外發現的胰臟囊腫詳見 [[偶發病灶#胰臟囊性病灶（Pancreatic Cystic Lesion）|胰臟囊性病灶]]
 
 ### 胰臟神經內分泌腫瘤（Pancreatic Neuroendocrine Tumors, pNETs）
 
 | 腫瘤 | 分泌激素 | 典型表現 | 好發位置 | 惡性比例 | 特殊重點 |
 |------|----------|----------|----------|----------|----------|
 | **Insulinoma** | Insulin | **Whipple's triad**：低血糖症狀 + 血糖 <50 + 給糖緩解 | 胰臟任意處（均勻分布） | **<10%** | 最常見功能性 pNET；確診：72-hr fasting test（↑insulin、↑C-peptide、↑proinsulin + 低血糖，且 **sulfonylurea screen 陰性**） |
-| **Gastrinoma** | Gastrin | **Zollinger-Ellison syndrome（ZES）**：頑固性/多發性（含遠端十二指腸、空腸）潰瘍、腹瀉 | **Gastrinoma triangle**（① 膽囊管與 CBD 交界 ② D2–D3 交界 ③ 胰頸/體交界 三點所圍） | **60–90%** | 25–30% 與 **MEN 1** 相關；診斷：停 PPI 後 fasting gastrin >1000 pg/mL + 胃酸 pH <2，或 secretin stimulation test 陽性 |
+| **Gastrinoma** | Gastrin | **Zollinger-Ellison syndrome（ZES）**：頑固性/多發性（含遠端十二指腸、空腸）潰瘍、腹瀉 | **Gastrinoma triangle**（① 膽囊管與 CBD 交界 ② D2–D3 交界 ③ 胰頸/體交界 三點所圍） | **60–90%** | 25–30% 與 **[[內分泌外科#MEN 1\|MEN 1]]** 相關；診斷：停 PPI 後 fasting gastrin >1000 pg/mL + 胃酸 pH <2，或 secretin stimulation test 陽性 |
 | **VIPoma** | VIP | **WDHA syndrome**：Watery Diarrhea, Hypokalemia, Achlorhydria（大量水瀉 >3L/day） | 胰體/尾 | 多數惡性 | — |
 | **Glucagonoma** | Glucagon | **Necrolytic migratory erythema（壞死遊走性紅斑）**、DM、DVT、depression、weight loss | 胰體/尾 | 多數惡性 | **4D**：Dermatitis, DM, DVT, Depression |
 | **Somatostatinoma** | Somatostatin | 膽結石、DM、脂肪便（**抑制三重奏**） | 胰頭/壺腹周圍 | 多數惡性 | — |
+
+- 各腫瘤的內分泌診斷詳見 [[內分泌外科#內分泌胰臟腫瘤（Pancreatic Neuroendocrine Tumors, pNET）|內分泌外科]]
 
 #### 非功能性 pNETs
 
@@ -740,15 +760,15 @@ credit:
 
 | 類別 | 例子 |
 |------|------|
-| 血液疾病 | **Hereditary spherocytosis（最佳手術適應症）**、ITP（藥物無效時）、TTP（refractory）、Autoimmune hemolytic anemia |
+| 血液疾病 | **[[血液腫瘤科#遺傳性球形紅血球症（Hereditary Spherocytosis, HS）\|Hereditary spherocytosis]]（最佳手術適應症）**、ITP（藥物無效時）、[[血液腫瘤科#血栓性血小板低下紫斑症（Thrombotic Thrombocytopenic Purpura, TTP）\|TTP]]（refractory）、[[血液腫瘤科#自體免疫溶血性貧血（Autoimmune Hemolytic Anemia, AIHA）\|Autoimmune hemolytic anemia]] |
 | 外傷 | **血行動力學不穩定**之脾臟損傷（與分級無關）；穩定者不論高低分級皆優先非手術治療（NOM）± 血管栓塞 |
-| 惡性腫瘤 | Lymphoma 分期、Hairy cell leukemia |
+| 惡性腫瘤 | Lymphoma 分期、[[血液腫瘤科#Hairy Cell Leukemia\|Hairy cell leukemia]] |
 | 其他 | Hypersplenism、脾臟膿瘍、Splenic vein thrombosis with variceal bleeding |
 
 ### 脾切除後注意事項
 
 - **OPSI（Overwhelming Post-Splenectomy Infection）**：
-    - 最危險病原：**Streptococcus pneumoniae**（最常見）、Neisseria meningitidis、Haemophilus influenzae。
+    - 最危險病原：**[[感染科#Streptococcus pneumoniae（肺炎鏈球菌）|Streptococcus pneumoniae]]**（最常見）、[[感染科#N. meningitidis（腦膜炎雙球菌）|Neisseria meningitidis]]、Haemophilus influenzae。
     - 所有 **encapsulated bacteria** 感染風險大增。
     - 終生風險，但以術後 **前 2 年最高**；死亡率可達 50%。
     - 疫苗：擇期手術 → :red[術前 ≥14 天]；緊急/外傷 → :red[術後 14 天]或出院前。
@@ -763,3 +783,4 @@ credit:
 - 脾切除適應症：類固醇治療失敗 / 需高劑量類固醇維持 / 症狀性出血。
 - 脾切除有效率 ~70–80%。
 - 術前注意：需確認有無 **accessory spleen（副脾）** 並一併移除。
+- 內科治療詳見 [[血液腫瘤科#免疫性血小板低下紫斑症（Immune Thrombocytopenia, ITP）|血液腫瘤科的 ITP]]
