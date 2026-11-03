@@ -40,11 +40,13 @@ credit:
 
 ### 電解質異常重點
 
+- 各電解質異常的評估流程詳見 [[電解質與酸鹼#鈉與水（Sodium and Water）|電解質與酸鹼]]
+
 #### 鈉（Na⁺）正常 135–145 mEq/L
 
 - **低血鈉**：最常見住院病人電解質異常。
-    - SIADH：euvolemic hyponatremia，尿液高滲透壓、高尿鈉。
-    - 校正速度 ≤ 8 mEq/L/24hr（慢性者更嚴格）→ 過快致 **中央橋腦髓鞘溶解症（ODS/CPM）**。
+    - [[代謝內分泌科#抗利尿激素不當分泌症候群（SIADH）|SIADH]]：euvolemic hyponatremia，尿液高滲透壓、高尿鈉。
+    - 校正速度 ≤ 8 mEq/L/24hr（慢性者更嚴格）→ 過快致 **[[電解質與酸鹼#低血鈉（Hyponatremia）|中央橋腦髓鞘溶解症（ODS/CPM）]]**。
     - 有嚴重症狀（癲癇、昏迷）→ 3% hypertonic saline，先快速提升 :red[4–6 mEq/L]。
 - **高血鈉**：自由水缺乏。
     - 原因：意識不清無法喝水、燒傷、發燒、尿崩症。
@@ -85,6 +87,8 @@ credit:
 | Respiratory acidosis | ↓ | ↑ | ↑代償 | 通氣不足 |
 | Respiratory alkalosis | ↑ | ↓ | ↓代償 | 過度換氣、疼痛、早期 sepsis |
 
+- 判讀步驟詳見 [[電解質與酸鹼#酸鹼（Acid-Base）|電解質與酸鹼的酸鹼]]
+
 ## 止血與輸血
 
 ### 正常止血機制
@@ -103,10 +107,10 @@ credit:
 
 | 疾病 | 機轉/缺乏 | PT | aPTT | 出血型態 |
 |------|------|-----|------|----------|
-| Hemophilia A | Factor VIII | N | ↑ | 深層（關節/肌肉） |
+| [[血液腫瘤科#血友病（Hemophilia）\|Hemophilia A]] | Factor VIII | N | ↑ | 深層（關節/肌肉） |
 | Hemophilia B | Factor IX | N | ↑ | 同上 |
-| vWD | vWF（並使 VIII 不穩定） | N | N 或↑ | 黏膜出血（BT/PFA-100 延長） |
-| DIC | 消耗性（fibrinogen↓、D-dimer↑、Plt↓） | ↑ | ↑ | 廣泛 |
+| [[血液腫瘤科#von Willebrand Disease（vWD）\|vWD]] | vWF（並使 VIII 不穩定） | N | N 或↑ | 黏膜出血（BT/PFA-100 延長） |
+| [[血液腫瘤科#DIC（Disseminated Intravascular Coagulation）\|DIC]] | 消耗性（fibrinogen↓、D-dimer↑、Plt↓） | ↑ | ↑ | 廣泛 |
 | Liver disease | 多因子（Factor VIII 不降） | ↑ | ↑ | 廣泛 |
 | Warfarin | II,VII,IX,X（先影響半衰期最短的 VII） | ↑↑ | N 或輕度↑ | — |
 | Heparin | 增強 antithrombin III 活性 | N | ↑ | — |
@@ -131,8 +135,9 @@ credit:
     - 急性溶血（ABO 不合）：最嚴重，DIC + 腎衰竭 → 立即停血。
     - 發燒性非溶血反應：最常見，leukocyte cytokines。
     - 過敏反應：IgA 缺乏者最易（需 washed RBC）。
-    - TRALI：輸血後 6 小時內急性肺損傷，非心因性肺水腫。
+    - [[血液腫瘤科#輸血反應|TRALI]]：輸血後 6 小時內急性肺損傷，非心因性肺水腫。
     - TACO：循環過載，與 TRALI 鑑別在於 BNP↑、對利尿劑有反應。
+- 血品與輸血反應詳見 [[血液腫瘤科#輸血及骨髓移植|血液腫瘤科]]
 
 ## 傷口癒合
 
@@ -168,7 +173,7 @@ credit:
 ### 異常癒合
 
 - **Hypertrophic scar**：局限於原傷口範圍內，數月後可能改善。
-- **Keloid**：超出原傷口範圍，持續增生，好發深膚色人種、耳垂/胸骨前。
+- **[[整形外科#Hypertrophic Scar vs Keloid|Keloid]]**：超出原傷口範圍，持續增生，好發深膚色人種、耳垂/胸骨前。
     - 治療：類固醇注射、壓力治療、矽膠片、放射線。
 - **Wound dehiscence**：傷口裂開，常見術後 :red[5–8 天]。
     - 高風險：obesity、malnutrition、感染、咳嗽/用力。
@@ -215,14 +220,16 @@ credit:
 
 #### 破傷風（Tetanus）
 
-- Clostridium tetani → tetanospasmin → 抑制 inhibitory neurotransmitter（glycine, GABA）。
+- [[感染科#C. tetani（Tetanus，破傷風）|Clostridium tetani]] → tetanospasmin → 抑制 inhibitory neurotransmitter（glycine, GABA）。
 - 先打 Td 或 Tdap；若傷口 dirty 且疫苗不完整 → 加打 TIG。
+- 傷口的破傷風預防詳見 [[家庭醫學科#預防接種|家庭醫學科的預防接種]]
 
 #### Clostridium difficile
 
-- 抗生素使用後腹瀉（尤其 clindamycin、fluoroquinolone、cephalosporin）。
+- [[感染科#C. difficile（Pseudomembranous colitis，偽膜性大腸炎）|抗生素使用後腹瀉]]（尤其 clindamycin、fluoroquinolone、cephalosporin）。
 - 診斷：stool toxin assay / PCR。
 - 治療：oral **Vancomycin**（首選）或 Fidaxomicin；嚴重/fulminant → 加 IV metronidazole；toxic megacolon → 手術。
+- 詳見 [[消化內科#C. difficile 感染（CDI）|消化內科的 CDI]]
 
 ## 術前評估與術後照護
 
@@ -239,6 +246,7 @@ credit:
     6. 術前 Cr > 2 mg/dL。
 - **METs（代謝當量）**：:red[≥ 4 METs] → 功能狀態佳（爬一層樓、做家事）→ 可進行手術。
 - **Active cardiac conditions** → 延後手術：不穩定心絞痛、急性 MI、失代償心衰竭、嚴重瓣膜疾病、嚴重心律不整。
+- 麻醉風險分級詳見 [[麻醉科#ASA 身體狀態分類|麻醉科的 ASA 分級]]
 
 #### 肺功能評估
 
@@ -264,14 +272,15 @@ credit:
 | 術後 0–3 天 | **Wind** | Atelectasis（最常見早期發燒原因） |
 | 術後 3–5 天 | **Water** | UTI |
 | 術後 5–7 天 | **Wound** | SSI |
-| 術後 7–10 天 | **Walking** | DVT/PE |
+| 術後 7–10 天 | **Walking** | DVT/[[胸腔內科#肺栓塞（Pulmonary Embolism）\|PE]] |
 | 任何時間 | **Wonder drugs** | Drug fever |
 
 - 術後 24 小時內的發燒多為 atelectasis 或 inflammatory response → 不一定需要抗生素。
-- **Malignant hyperthermia**：吸入性麻醉劑（halothane 等）+ succinylcholine 觸發。
+- **[[麻醉科#惡性高熱（Malignant Hyperthermia, MH）|Malignant hyperthermia]]**：吸入性麻醉劑（halothane 等）+ succinylcholine 觸發。
     - 症狀：高燒、肌肉僵硬、rhabdomyolysis、hyperkalemia、metabolic acidosis。
     - 治療：**Dantrolene**（唯一特效藥）+ 降溫 + 支持療法。
     - 遺傳：AD，RYR1 基因突變。
+- 詳見 [[全身症狀#急性發燒（Acute Fever）|急性發燒]]的評估流程
 
 ### 術後併發症
 
@@ -292,11 +301,12 @@ credit:
 - **Postoperative ileus**：正常現象。
     - :red[小腸：24 hr 恢復、胃：24–48 hr、大腸：3–5 天]。
     - 治療：NPO、NG tube（若有嚴重脹氣/嘔吐）、矯正電解質（尤其 K⁺）、減少 opioid。
-- **Small bowel obstruction（SBO）**：
+- **[[胃小腸外科#小腸阻塞（SBO）|Small bowel obstruction（SBO）]]**：
     - 最常見原因：**術後沾黏（adhesion）**。
     - 症狀：腹脹、嘔吐、停止排氣排便、cramping pain。
     - XR：小腸擴張 >3 cm、air-fluid levels、大腸無氣體。
     - 治療：NPO + NG decompression + IV fluid → 若 48–72 hr 無改善或有 strangulation → 手術。
+- 詳見 [[消化系統主訴#腹脹與腸阻塞（Abdominal Distension / Bowel Obstruction）|腹脹與腸阻塞]]的評估流程
 
 ### ERAS（Enhanced Recovery After Surgery）
 
@@ -321,6 +331,8 @@ credit:
 | Distributive（Septic） | ↑/↓ | ↓ | ↓ | Sepsis、anaphylaxis |
 | Obstructive | ↓ | ↑ | ↑ | 張力性氣胸、PE、tamponade |
 | Neurogenic | ↓ | ↓ | ↓ | 脊髓損傷 |
+
+- 詳見 [[心血管系統主訴#低血壓與休克（Hypotension / Shock）|低血壓與休克]]的評估流程
 
 ### 出血性休克
 
@@ -374,12 +386,13 @@ credit:
 3. 給予廣效抗生素。
 4. 30 mL/kg 晶體液 bolus。
 5. 若低血壓持續 → **Norepinephrine**（首選 vasopressor）。
+- 抗生素選擇詳見 [[感染科#菌血症與敗血症|感染科的菌血症與敗血症]]
 
 ### 特殊休克
 
-- **Neurogenic shock**：低血壓 + **心跳過慢**（與其他休克不同），因交感去支配。
+- **[[神經外科#神經性休克（Neurogenic Shock）|Neurogenic shock]]**：低血壓 + **心跳過慢**（與其他休克不同），因交感去支配。
     - 治療：輸液 + phenylephrine/norepinephrine ± atropine。
-- **Adrenal crisis**：長期使用類固醇突然停藥 → refractory hypotension。
+- **[[代謝內分泌科#腎上腺危象（Adrenal Crisis）|Adrenal crisis]]**：長期使用類固醇突然停藥 → refractory hypotension。
     - 治療：**Stress dose hydrocortisone** 100 mg IV。
 
 ## 創傷（Trauma / ATLS）
@@ -408,7 +421,7 @@ credit:
 
 ### 胸部外傷
 
-1. **張力性氣胸（Tension pneumothorax）**。
+1. **[[胸腔外科#氣胸（Pneumothorax）|張力性氣胸（Tension pneumothorax）]]**。
     - 機制：單向閥 → 患側壓力↑ → 縱膈腔偏移 → 壓迫對側肺 + 大血管。
     - 症狀：低血壓、頸靜脈怒張（JVD）、患側呼吸音消失、氣管偏移對側。
     - **臨床診斷，不等 CXR**。
@@ -422,7 +435,7 @@ credit:
     - 定義：:red[>1500 mL 或持續 >200 mL/hr]。
     - 處理：chest tube 引流 + 可能需 thoracotomy。
 
-4. **心包填塞（Cardiac tamponade）**。
+4. **[[心臟內科#心包填塞（Cardiac Tamponade）|心包填塞（Cardiac tamponade）]]**。
     - **Beck's triad**：低血壓 + JVD + 心音減弱（muffled heart sounds）。
     - 奇脈（pulsus paradoxus）：吸氣時 SBP 下降 >10 mmHg。
     - 處理：**pericardiocentesis**（暫時）→ 手術。
@@ -441,7 +454,7 @@ credit:
 - **脾臟**：鈍傷最常受傷的腹腔器官。
     - 血行穩定 → 非手術治療（observation + bed rest）。
     - 血行不穩/grade V → splenectomy。
-    - 脾切除後 → **OPSI（overwhelming post-splenectomy infection）**風險。
+    - 脾切除後 → **[[肝膽胰外科#脾切除後注意事項|OPSI（overwhelming post-splenectomy infection）]]**風險。
         - 疫苗：Pneumococcal + Meningococcal + H. influenzae（:red[術後 14 天]或出院前）。
 
 - **肝臟**：鈍傷第二常見。
@@ -464,19 +477,21 @@ credit:
 - **尿道**：
     - 線索：blood at urethral meatus、high-riding prostate、perineal hematoma。
     - **禁放 Foley** → 先做 retrograde urethrography。
+- 泌尿道創傷詳見 [[泌尿科#泌尿道創傷|泌尿科]]
 
 ### 頭部外傷
 
 | 類型 | 出血來源 | CT 表現 | 特點 |
 |------|----------|---------|------|
-| Epidural hematoma | Middle meningeal artery | 雙凸透鏡形（biconvex/lenticular）、不跨 suture | Lucid interval → 快速惡化 |
-| Subdural hematoma | Bridging veins | 新月形（crescent）、跨 suture | 老人/酗酒/抗凝血，慢性可有 mixed density |
+| [[神經外科#Epidural Hematoma（EDH）\|Epidural hematoma]] | Middle meningeal artery | 雙凸透鏡形（biconvex/lenticular）、不跨 suture | Lucid interval → 快速惡化 |
+| [[神經外科#Subdural Hematoma（SDH）\|Subdural hematoma]] | Bridging veins | 新月形（crescent）、跨 suture | 老人/酗酒/抗凝血，慢性可有 mixed density |
 | Subarachnoid hemorrhage | — | 腦溝/裂隙 hyperdensity | 外傷性最常見 |
 | Intracerebral hemorrhage | — | 腦實質內 | 可能需手術減壓 |
 
 - **GCS ≤ 8 → 插管保護呼吸道**。
 - **Cushing's reflex（腦壓升高三徵）**：HTN + bradycardia + irregular respiration。
 - **腦壓升高處理**：抬高頭部 30°、Mannitol（0.5–1 g/kg）或 hypertonic saline、過度換氣（暫時，:red[PaCO₂ 30–35]）、必要時手術減壓。
+- 詳見 [[神經外科#頭部外傷（Head Injury）|神經外科的頭部外傷]]
 
 ### 頸部外傷
 
@@ -543,7 +558,7 @@ credit:
 ### 電燒傷
 
 - 損傷程度取決於電阻（骨骼 > 肌肉 > 皮膚）。
-- 常見：rhabdomyolysis → myoglobinuria → 腎衰竭。
+- 常見：[[生化異常#肌酸激酶升高（Elevated Creatine Kinase）|rhabdomyolysis]] → myoglobinuria → 腎衰竭。
 - 處理：大量輸液（目標尿量 1–2 mL/kg/hr）+ urine alkalinization + Mannitol（利尿）。
 - 心電圖監測（心律不整風險）。
 
@@ -589,7 +604,7 @@ credit:
     - 高血糖（最常見代謝併發症）。
     - 脂肪肝。
 - Refeeding syndrome：嚴重營養不良者快速補充。
-    - **低磷血症**為最危險特徵（+ 低 K、低 Mg）。
+    - **[[腎臟內科#低血磷（Hypophosphatemia）|低磷血症]]**為最危險特徵（+ 低 K、低 Mg）。
     - 預防：緩慢增加熱量、先補充 thiamine 和電解質。
 
 ### 特殊營養素
@@ -625,6 +640,7 @@ credit:
 - DVT 診斷：**duplex ultrasound**（首選）→ 靜脈不可壓縮。
 - PE 診斷：CT pulmonary angiography（gold standard）。
 - 大面積 PE（massive PE）+ 血行不穩 → **thrombolysis（tPA）** 或手術。
+- 詳見 [[心血管外科#深部靜脈栓塞（DVT）|心血管外科的 DVT]]、[[胸腔內科#肺栓塞（Pulmonary Embolism）|胸腔內科的肺栓塞]]
 
 ### 外科常見管路
 
@@ -678,7 +694,7 @@ credit:
 ### 移植免疫學基礎
 
 - **HLA matching**：MHC class I（A, B, C）和 class II（DR, DQ, DP）。
-    - 腎移植最重要配對：**HLA-DR**。
+    - [[腎臟內科#腎移植|腎移植]]最重要配對：**HLA-DR**。
 
 ### 排斥反應
 
@@ -703,8 +719,8 @@ credit:
 
 - **1 個月內**：院內感染為主（SSI、pneumonia、UTI、line infection）→ 與手術本身及住院相關。
 - **1–6 個月**：免疫抑制最強期，伺機性感染為主。
-    - **CMV**（最常見的伺機性感染）。
-    - **EBV → Post-transplant lymphoproliferative disorder（PTLD）**。
+    - **[[感染科#CMV|CMV]]**（最常見的伺機性感染）。
+    - **EBV → [[感染科#EBV（Infectious Mononucleosis）|Post-transplant lymphoproliferative disorder（PTLD）]]**。
     - PJP（Pneumocystis jirovecii）、Aspergillus、TB 再活化。
 - **6 個月後**：免疫抑制穩定，以社區感染為主；免疫抑制較強者仍需注意伺機性感染。
 
