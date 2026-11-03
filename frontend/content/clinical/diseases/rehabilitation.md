@@ -67,10 +67,11 @@ credit:
 ### 中風概論
 
 - **缺血性中風（Ischemic stroke）**：佔 80–85%。
-    - 大血管粥狀硬化、心源性栓塞（AF 最常見）、小血管疾病（lacunar infarct）。
+    - 大血管粥狀硬化、[[心臟內科#Atrial Fibrillation（AF）|心源性栓塞（AF 最常見）]]、小血管疾病（lacunar infarct）。
 - **出血性中風（Hemorrhagic stroke）**：佔 15–20%。
-    - ICH：高血壓最常見原因，好發基底核（putamen 最常見）。
-    - SAH：動脈瘤破裂。
+    - [[神經內科#腦內出血（ICH）|ICH]]：高血壓最常見原因，好發基底核（putamen 最常見）。
+    - [[神經內科#蜘蛛膜下腔出血（SAH）|SAH]]：動脈瘤破裂。
+- 急性期處置詳見 [[神經內科#缺血性中風急性處理|神經內科的缺血性中風急性處理]]、[[神經內科#中風次級預防|中風次級預防]]
 
 ### 中風後動作恢復
 
@@ -143,6 +144,7 @@ credit:
 
 - 發生率約 30–50%；與病灶位置相關（左側前腦損傷較常見）。
 - 治療：SSRI 為首選。
+- 抗憂鬱藥詳見 [[精神科#鬱症治療|精神科的鬱症治療]]
 
 #### 中風後步態
 
@@ -151,6 +153,7 @@ credit:
     - **環繞步態（Circumduction gait）**：患側下肢畫弧向前擺動。
 - 輔具選擇：四腳拐或單拐 → 持於**健側**。
 - AFO（踝足裝具）：矯正垂足（foot drop）。
+- 詳見 [[神經系統主訴#步態不穩與運動失調（Gait Disturbance / Ataxia）|步態不穩與運動失調]]的評估流程
 
 ### 復健時機
 
@@ -175,6 +178,7 @@ credit:
     - 損傷後暫時性 areflexia + 弛緩性癱瘓。
     - 結束標誌：**球海綿體反射（bulbocavernosus reflex）恢復**（通常 :red[24–72 小時]）。
     - 脊髓休克結束後 → 出現 UMN 徵象（痙攣、反射亢進）。
+- 急性期處置詳見 [[神經外科#脊髓損傷（Spinal Cord Injury）|神經外科的脊髓損傷]]
 
 ### 神經學定位——Key Muscles & Dermatomes
 
@@ -251,18 +255,19 @@ credit:
 | Stage 4 | 全層組織缺損，暴露骨骼/肌腱/肌肉 |
 
 - 預防：**:red[每 2 小時翻身]**、減壓床墊、營養充足、輪椅每 15–30 分鐘 pressure relief。
+- 清創與皮瓣重建詳見 [[整形外科#壓瘡（Pressure Injury）|整形外科的壓瘡]]
 
 #### 其他併發症
 
-- **DVT**：急性期風險極高 → LMWH + IPC + 彈性襪。
+- **[[外科概論#深部靜脈栓塞（DVT）/ 肺栓塞（PE）|DVT]]**：急性期風險極高 → LMWH + IPC + 彈性襪。
 - **異位性骨化（Heterotopic Ossification）**：損傷平面以下關節周圍（髖關節最常見）→ Triple-phase bone scan 早期最敏感、ALP↑ → Indomethacin 預防。
-- **脊髓空洞症（Post-traumatic Syringomyelia）**：損傷後數月至數年，原有功能進行性惡化 → MRI 確診。
+- **[[神經內科#脊髓空洞症（Syringomyelia）|脊髓空洞症（Post-traumatic Syringomyelia）]]**：損傷後數月至數年，原有功能進行性惡化 → MRI 確診。
 
 ### 外傷性腦損傷（Traumatic Brain Injury, TBI）
 
 #### 嚴重度分級
 
-| 嚴重度 | GCS | 意識喪失 | PTA（外傷後失憶） |
+| 嚴重度 | [[神經外科#GCS 評分\|GCS]] | 意識喪失 | PTA（外傷後失憶） |
 |--------|-----|----------|-----|
 | 輕度 | :red[13–15] | <30 分鐘 | <24 小時 |
 | 中度 | 9–12 | 30 分鐘–24 小時 | 1–7 天 |
@@ -274,13 +279,14 @@ credit:
     - **Level IV：Confused-agitated（躁動混亂期）**，為復健管理重點。
     - Level V–VI：混亂但漸改善。
     - Level VII–VIII：自動/適當反應。
+- 急性期處置詳見 [[神經外科#頭部外傷（Head Injury）|神經外科的頭部外傷]]
 
 #### TBI 常見後遺症
 
 - **認知障礙**：注意力、記憶力、執行功能最常受損。
 - **行為/情緒**：躁動、去抑制（disinhibition）、淡漠。
 - **腦外傷後症候群**：頭痛、頭暈、注意力不集中 → 輕度 TBI 後常見，通常數週至數月緩解。
-- **水腦症**：步態不穩 + 尿失禁 + 認知下降（Hakim's triad）。
+- **[[神經外科#正常壓力水腦症（Normal Pressure Hydrocephalus, NPH）|水腦症]]**：步態不穩 + 尿失禁 + 認知下降（Hakim's triad）。
 - **癲癇**：穿透性損傷風險最高。
 
 #### TBI 復健藥物
@@ -315,6 +321,7 @@ credit:
 - Supraspinatus 負責肩外展起始 0–15°。
 - 測試：Empty can test（Jobe's test）→ 肩前伸 90° + 內轉 + 拇指朝下 → 抗阻力。
 - 治療：NSAID、肌力訓練為主；嚴重撕裂 → 手術。
+- 詳見 [[肌肉骨骼系統主訴#肩膀痛（Shoulder Pain）|肩膀痛]]的評估流程；分級與手術詳見 [[骨科#旋轉肌袖撕裂（Rotator Cuff Tear）|骨科]]
 
 #### 五十肩（Frozen Shoulder / Adhesive Capsulitis）
 
@@ -345,6 +352,7 @@ credit:
 - 嚴重者：魚際肌（thenar）萎縮 → 拇指對掌無力。
 - 診斷：**NCV** → 正中神經在腕部的遠端潛伏期延長、傳導速度下降。
 - 治療：腕副木（中立位）、NSAID、類固醇注射 → 嚴重/保守治療無效 → 手術減壓。
+- 詳見 [[肌肉骨骼系統主訴#手腕與手部疼痛（Wrist and Hand Pain）|手腕與手部疼痛]]的評估流程；手術詳見 [[骨科#腕隧道症候群（Carpal Tunnel Syndrome）|骨科]]
 
 #### De Quervain's Tenosynovitis
 
@@ -362,12 +370,13 @@ credit:
 ### 脊椎與下背痛
 
 - 大多數為非特異性，自限性。
-- **Red-flag**：發燒/體重減輕（感染/腫瘤）、夜痛、大小便功能障礙（cauda equina syndrome）、進行性神經學缺損。
+- **Red-flag**：發燒/體重減輕（感染/腫瘤）、夜痛、大小便功能障礙（[[神經外科#不完全性脊髓損傷症候群|cauda equina syndrome]]）、進行性神經學缺損。
 - 椎間盤突出好發：**L4–L5**（壓迫 L5）、**L5–S1**（壓迫 S1）。
     - L5 根：足背屈弱（foot drop）、大趾背伸弱、足背感覺異常。
     - S1 根：踝蹠屈弱、踝反射消失、足底外側感覺異常。
 - SLR（Straight Leg Raising test）：:red[30–70°] 引發坐骨神經痛 → L4–S1。
 - 治療：大多保守 → 6–8 週無改善/cauda equina → 手術。
+- 詳見 [[肌肉骨骼系統主訴#下背痛（Low Back Pain）|下背痛]]的評估流程；手術適應症詳見 [[神經外科#椎間盤突出（Herniated Disc / HIVD）|神經外科的椎間盤突出]]
 
 ### 髖部與膝部
 
@@ -380,6 +389,7 @@ credit:
     - 股骨頭 AVN 風險高。
 - 轉子間骨折（extracapsular）→ 內固定（ORIF）；AVN 風險低。
 - 術後復健：早期下床活動、漸進 weight bearing、預防深部靜脈血栓。
+- 骨折分類與術式詳見 [[骨科#股骨頸骨折（Femoral Neck Fracture）|骨科的股骨頸骨折]]
 
 #### ACL 損傷
 
@@ -427,6 +437,7 @@ credit:
 - 超音波：可見足底筋膜增厚（> 4 mm），伴低回音變化。
 - X-ray：可見 heel spur（但 spur 非疼痛直接原因）。
 - 治療：伸展（跟腱+足底筋膜）、足弓支撐鞋墊、NSAID、體外震波（ESWT）。
+- 詳見 [[肌肉骨骼系統主訴#足踝痛（Foot and Ankle Pain）|足踝痛]]的評估流程
 
 ### 截肢與義肢
 
@@ -461,6 +472,8 @@ credit:
 | **Ulnar nerve（C8-T1）** | 肘部撞擊/骨折 | **Claw hand**、Froment's sign、手掌尺側 1.5 指感覺喪失 |
 | **Long thoracic nerve（C5-7）** | 手術/外傷 | **Winging of scapula** |
 | **Common peroneal nerve（L4-S1）** | 腓骨頭壓迫（盤腿/石膏） | **Foot drop**（垂足）、踝背屈+外翻無力 |
+
+- 詳見 [[神經系統主訴#肌肉無力（Weakness）|肌肉無力]]的評估流程
 
 #### 臂叢神經損傷（Brachial Plexus Injury）
 
@@ -506,17 +519,20 @@ credit:
     - 平衡訓練（預防跌倒）。
     - **LSVT LOUD**：大聲說話訓練 → 改善音量過低。
     - **LSVT BIG**：大動作訓練 → 改善動作幅度過小。
+- 診斷與藥物詳見 [[神經內科#巴金森病（Parkinson's Disease, PD）|神經內科的巴金森病]]
 
 ### 多發性硬化症（Multiple Sclerosis, MS）
 
 - **Uhthoff's phenomenon**：**熱會惡化症狀** → 避免過熱環境。
 - 疲倦是最常見主訴 → 能量保存策略。
 - 運動：中等強度有氧 + 肌力訓練，避免過度疲勞。
+- 診斷與疾病調節治療詳見 [[神經內科#多發性硬化症（Multiple Sclerosis, MS）|神經內科的多發性硬化症]]
 
 ### Guillain-Barré Syndrome（GBS）
 
 - 上升性弛緩性癱瘓（LMN pattern）。
 - 復健：急性期防併發症 → 恢復期漸進運動 → **避免過度疲勞（overwork weakness）**。
+- 診斷與 IVIG/血漿置換詳見 [[神經內科#Guillain-Barré Syndrome（GBS）|神經內科的 GBS]]
 
 ### 肌萎縮側索硬化症（ALS）
 
@@ -524,6 +540,7 @@ credit:
 - 復健：維持功能為目標、適度運動（不超量）、避免 overwork weakness、輔具。
 - 吞嚥困難 → **PEG（percutaneous endoscopic gastrostomy）**。
 - 呼吸衰竭 → NIV（non-invasive ventilation）。
+- 診斷與 Riluzole 詳見 [[神經內科#肌萎縮側索硬化症（ALS）|神經內科的 ALS]]
 
 ## 小兒復健
 
@@ -540,6 +557,8 @@ credit:
 | 18 個月 | 跑步（不穩）、上樓梯（扶） | 疊 3–4 塊積木 | 10–25 字彙、指認身體部位 |
 | 2 歲 | 上下樓（一步一階）、踢球 | 疊 6 塊積木、翻書頁 | 50+ 字彙、2–3 字片語 |
 | 3 歲 | 騎三輪車、跳 | 疊 9 塊積木、畫圓形 | 完整句子、知道名字和年齡 |
+
+- 詳見 [[小兒主訴#發展遲緩（Developmental Delay）|發展遲緩]]的評估流程；各領域里程碑詳見 [[小兒科#粗動作發展|小兒科的發展里程碑]]
 
 ### 原始反射（Primitive Reflexes）
 
@@ -560,6 +579,7 @@ credit:
 
 - 定義：**非進行性**的發育中腦損傷 → 永久性動作與姿勢障礙。
 - 最常見原因：**早產**（periventricular leukomalacia, PVL）。
+- 病因與診斷詳見 [[小兒科#腦性麻痺（Cerebral Palsy, CP）|小兒科的腦性麻痺]]
 
 #### 分類
 
@@ -595,6 +615,7 @@ credit:
 ### 心臟復健（Cardiac Rehabilitation）
 
 - 適應症：MI 後、CABG、心衰竭、PCI 後、穩定型心絞痛。
+- 心肌梗塞處置詳見 [[心臟內科#STEMI 處理|心臟內科的 STEMI 處理]]
 
 #### 心臟復健四期
 
@@ -633,6 +654,7 @@ credit:
 - **:red[4 METs] = 爬一層樓、做家事** → 手術前功能評估門檻。
 - 6–7 METs = 慢跑、性行為。
 - 8+ METs = 激烈運動。
+- 術前功能評估詳見 [[麻醉科#麻醉前評估與準備|麻醉科的麻醉前評估]]
 
 #### 運動中止指標
 
@@ -644,7 +666,7 @@ credit:
 
 ### 肺部復健（Pulmonary Rehabilitation）
 
-- 適應症：COPD（最常見）、間質性肺病、肺手術前後。
+- 適應症：[[胸腔內科#慢性阻塞性肺病（COPD）|COPD（最常見）]]、間質性肺病、肺手術前後。
 - 內容：
     - 運動訓練（有氧+肌力）。
     - **噘嘴呼吸（pursed-lip breathing）**：延長呼氣、防小氣道塌陷（COPD）。
@@ -653,6 +675,7 @@ credit:
     - 姿位引流：**病變肺葉放在上方**。
     - 能量保存策略。
 - 不改善 FEV1，但改善運動耐受力、生活品質、減少住院。
+- COPD 藥物治療詳見 [[胸腔內科#慢性阻塞性肺病（COPD）|胸腔內科的 COPD]]
 
 ## 疼痛復健
 
@@ -711,7 +734,7 @@ credit:
 | **食道期（Esophageal）** | 蠕動波送至胃 | 食道狹窄、逆流 |
 
 - **Penetration**：食物進入喉部但在**聲帶以上**。
-- **Aspiration**：食物通過聲帶進入**氣管以下** → aspiration pneumonia。
+- **Aspiration**：食物通過聲帶進入**氣管以下** → [[胸腔內科#肺炎（Pneumonia）|aspiration pneumonia]]。
 - **Silent aspiration**：無咳嗽反射的吸入 → 最危險，臨床不易察覺。
 
 ### 評估
@@ -719,6 +742,7 @@ credit:
 - Bedside swallowing assessment（篩檢）。
 - **VFSS（Videofluoroscopic Swallowing Study）**：**gold standard**，可動態觀察食團通過各分期，確認有無吸入。
 - **FEES（Fiberoptic Endoscopic Evaluation of Swallowing）**：纖維內視鏡直視咽喉，可於床邊執行。
+- 詳見 [[消化系統主訴#吞嚥困難（Dysphagia）|吞嚥困難]]的評估流程
 
 ### 治療策略
 
@@ -805,6 +829,7 @@ credit:
     - **DXA**（Dual-energy X-ray Absorptiometry）。
     - **BIA**（Bioelectrical Impedance Analysis）。
 - 治療：**阻力訓練**（最重要且最有效的介入）+ 充足蛋白質攝取（1.2–1.5 g/kg/day）+ Vitamin D。
+- 老年評估詳見 [[家庭醫學科#肌少症（Sarcopenia）|家庭醫學科的肌少症]]
 
 ### 運動傷害處理與運動禁忌症
 
