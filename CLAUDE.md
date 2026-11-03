@@ -21,7 +21,7 @@ npm run lint     # next lint
 ```
 
 - 沒有測試指令/測試框架。
-- `predev`/`prebuild` 會先跑 `scripts/build-search-index.mjs` 產生搜尋索引 `public/search-index.json`（不進版控）；dev 中改了內容要重開 dev server 索引才會更新。`prebuild` 另外跑 `scripts/build-sitemap.mjs` 產生 `public/sitemap.xml` 與 `robots.txt`（同樣不進版控，`noindex`/`draft` 頁不列入）。
+- `predev`/`prebuild` 會先跑 `scripts/build-search-index.mjs` 產生搜尋索引 `public/search/index.<內容雜湊>.json`，檔名寫進 `lib/searchIndexFile.json` 給 SearchBox 匯入（兩者都不進版控；索引檔在 `next.config.js` 設長期快取）；dev 中改了內容要重開 dev server 索引才會更新。`prebuild` 另外跑 `scripts/build-sitemap.mjs` 產生 `public/sitemap.xml` 與 `robots.txt`（同樣不進版控，`noindex`/`draft` 頁不列入）。
 - 環境變數在 `frontend/.env.local`（不進版控）：`NEXT_PUBLIC_SUPABASE_URL`、`NEXT_PUBLIC_SUPABASE_ANON_KEY`——跟 phantominor 是**同一個 Supabase 專案**，數值直接沿用。
 - 部署在 Vercel（預期網址 `https://phantomography.vercel.app`，phantominor 首頁 M 按鈕連的就是這個網址；若實際網域不同，記得回頭改 phantominor 的 `frontend/pages/index.js`）。之後若加入 Google OAuth 登入，要到 Supabase Dashboard → Authentication → URL Configuration → Redirect URLs 加上本站網域。
 - SQL 遷移檔（`backend/supabase/**/*.sql`）**沒有自動執行機制**，是純粹的變更歷史記錄，要套用必須手動貼到 Supabase SQL Editor 執行。命名慣例：`backend/supabase/<子系統>/<子系統>_<序號>_<說明>.sql`。新表建議用 `m_` 前綴，延續 phantominor「M = Medicine」的字母對應，避免跟同一個 Supabase 專案裡其他站的表撞名。

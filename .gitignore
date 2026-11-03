@@ -23,7 +23,8 @@ inbox/*
 !inbox/_template.md
 
 # 建置時產生的搜尋索引
-frontend/public/search-index.json
+frontend/public/search/
+frontend/lib/searchIndexFile.json
 
 # 建置時產生的 sitemap 與 robots.txt
 frontend/public/sitemap.xml

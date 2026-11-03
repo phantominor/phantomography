@@ -1,9 +1,12 @@
 // scripts/build-search-index.mjs
-// 從 content/ 的 Markdown 產生全站搜尋索引 public/search-index.json（以 h2/h3 段落為單位）。
+// 從 content/ 的 Markdown 產生全站搜尋索引 public/search/index.<內容雜湊>.json（以 h2/h3 段落為單位）。
+// 檔名帶雜湊，內容變了網址就變，所以可以設長期快取（next.config.js 的 headers）；
+// 目前的檔名寫進 lib/searchIndexFile.json 給 SearchBox 匯入，舊的索引檔順便刪掉。
 // 欄位：p 頁名、u 網址、s 段落標題、i 錨點、t 內文、k 連結目標關鍵字（只比對不顯示）、g 大分頁標籤、c 臨床分類。
 // 由 npm 的 predev / prebuild 自動執行；開發中改了內容要重開 dev server 才會更新索引。
 // 標題錨點規則必須與 lib/content.js 的 collectHeadings、lib/markdown/rehypeHeadings.js 相同。
 
+import crypto from 'crypto';
 import fs from 'fs';
 import path from 'path';
 import matter from 'gray-matter';
@@ -17,7 +20,8 @@ import GithubSlugger from 'github-slugger';
 
 const ROOT = path.resolve(path.dirname(new URL(import.meta.url).pathname), '..');
 const CONTENT_DIR = path.join(ROOT, 'content');
-const OUT = path.join(ROOT, 'public', 'search-index.json');
+const OUT_DIR = path.join(ROOT, 'public', 'search');
+const MANIFEST = path.join(ROOT, 'lib', 'searchIndexFile.json');
 const CHARTS_DIR = path.join(CONTENT_DIR, '_charts');
 
 // 共用流程圖（格式同 lib/charts.js）
@@ -136,5 +140,10 @@ for (const file of walk(CONTENT_DIR)) {
   flush();
 }
 
-fs.writeFileSync(OUT, JSON.stringify(entries));
-console.log(`[search] ${entries.length} 個段落 → public/search-index.json（${(fs.statSync(OUT).size / 1024).toFixed(0)} KB）`);
+const json = JSON.stringify(entries);
+const name = `index.${crypto.createHash('sha256').update(json).digest('hex').slice(0, 10)}.json`;
+fs.mkdirSync(OUT_DIR, { recursive: true });
+for (const old of fs.readdirSync(OUT_DIR)) if (old !== name) fs.rmSync(path.join(OUT_DIR, old));
+fs.writeFileSync(path.join(OUT_DIR, name), json);
+fs.writeFileSync(MANIFEST, JSON.stringify({ file: `/search/${name}` }) + '\n');
+console.log(`[search] ${entries.length} 個段落 → public/search/${name}（${(Buffer.byteLength(json) / 1024).toFixed(0)} KB）`);

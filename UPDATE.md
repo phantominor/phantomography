@@ -1,5 +1,11 @@
 <!-- UPDATE.md -->
 [2026/11/03]
+- **搜尋索引優化第一步**: 索引已長到 3.1 MB（2589 段），先做三項不改架構的優化
+  - 索引檔名加內容雜湊：scripts/build-search-index.mjs 改輸出 public/search/index.<雜湊>.json，檔名寫進 lib/searchIndexFile.json 給 SearchBox 匯入，舊檔自動刪除；兩者加入 .gitignore，原本的 public/search-index.json 不再產生
+  - next.config.js 對 /search/ 設 Cache-Control: public, max-age=31536000, immutable
+  - SearchBox：比對與反白改用 useDeferredValue 的查詢字串；桌面版（≥ 960 px、非省流量模式）在瀏覽器閒置時預載索引
+  - 驗證：桌面閒置後自動載入且帶長期快取標頭、手機寬度不預載、搜尋「高血鉀 ECG」結果正確
+  - CLAUDE.md 的索引路徑說明同步更新；TODO 刪除過期的第 44 週草稿條目
 - **主頁卡片都顯示最近更新日期**: 卡片日期原本只取 frontmatter 的 updated，逐篇筆記、周報（只有 date）與基礎醫學（沒有 updated）都不顯示；`frontend/lib/cards.js` 改為沒有 updated 時用 date，`content/basic/index.md` 補上 updated: 2026-10-23
 - **主訴補圖（消化到肌肉骨骼 8 頁）**: 從 Wikimedia Commons 補 47 張，每張先看過，放在各項的「問診與理學檢查」之前
   - 消化 9（游離氣體、Cullen sign、鳥嘴狀食道、靜脈曲張結紮、鞏膜黃疸、海蛇頭、蜘蛛痣、手掌紅斑、小腸阻塞）、心血管 9（下壁 STEMI、主動脈剝離、AF、WPW、三度房室阻滯、裂片狀出血、Janeway、凹陷性水腫、急性肢體缺血）、全身症狀 3、呼吸 4、腎泌尿 4（含尿液圓柱四格圖）、神經 8（SAH、視乳突水腫、硬腦膜上與硬腦膜下血腫、常壓性水腦、腦內出血、Babinski、顏面神經麻痺示意圖）、精神 1、肌肉骨骼 9

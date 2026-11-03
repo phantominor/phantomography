@@ -1,14 +1,16 @@
 // components/layout/SearchBox.js
 // 全站搜尋：桌面版是標題列右側的搜尋框 + 下拉結果；手機版是圖示按鈕，點了開全螢幕搜尋。
-// 索引（public/search-index.json，以 h2/h3 段落為單位）第一次使用時才載入。
+// 索引（public/search/index.<雜湊>.json，以 h2/h3 段落為單位）第一次使用時載入；桌面版在瀏覽器閒置時先預載。
+// 輸入時用 useDeferredValue 延後比對，打字不會被大索引卡住。
 // 比對方式：查詢字串以空白分成多個詞，每個詞都要出現在段落裡（不分大小寫），標題命中加權較高。
 // 快捷鍵：「/」聚焦搜尋框，↑↓ 選擇、Enter 開啟、Esc 關閉。反白選單的「站內查詢」也從這裡打開。
 
-import { useCallback, useEffect, useMemo, useRef, useState } from 'react';
+import { useCallback, useDeferredValue, useEffect, useMemo, useRef, useState } from 'react';
 import { useRouter } from 'next/router';
 import { LuSearch, LuX, LuArrowLeft } from 'react-icons/lu';
 import { SITE_SEARCH_EVENT } from './SelectionMenu';
 import SearchPreview from './SearchPreview';
+import searchIndexFile from '@/lib/searchIndexFile.json';
 import styles from './SearchBox.module.css';
 
 const MAX_RESULTS = 30;
@@ -20,7 +22,7 @@ export const PEEK_EVENT = 'phantom:peek';
 let indexPromise = null;
 function loadIndex() {
   if (!indexPromise) {
-    indexPromise = fetch('/search-index.json')
+    indexPromise = fetch(searchIndexFile.file)
       .then((r) => r.json())
       .then((entries) => entries.map((e) => ({ ...e, hay: `${e.s} ${e.t} ${e.k || ''}`.toLowerCase(), title: e.s.toLowerCase(), page: e.p.toLowerCase() })))
       .catch(() => { indexPromise = null; return []; });
@@ -124,10 +126,21 @@ export default function SearchBox() {
     if (!index) loadIndex().then(setIndex);
   }, [index]);
 
-  const terms = useMemo(() => query.toLowerCase().split(/\s+/).filter(Boolean), [query]);
-  const results = useMemo(() => (index ? search(index, query) : []), [index, query]);
+  // 結果與反白跟著延後的查詢字串，輸入框本身照常即時更新
+  const deferredQuery = useDeferredValue(query);
+  const terms = useMemo(() => deferredQuery.toLowerCase().split(/\s+/).filter(Boolean), [deferredQuery]);
+  const results = useMemo(() => (index ? search(index, deferredQuery) : []), [index, deferredQuery]);
 
-  useEffect(() => { setActiveIndex(0); }, [query]);
+  useEffect(() => { setActiveIndex(0); }, [deferredQuery]);
+
+  // 桌面版：瀏覽器閒置時先載入索引（手機與省流量模式不預載）
+  useEffect(() => {
+    if (!window.matchMedia('(min-width: 960px)').matches || navigator.connection?.saveData) return undefined;
+    const idle = window.requestIdleCallback || ((cb) => setTimeout(cb, 3000));
+    const cancel = window.cancelIdleCallback || clearTimeout;
+    const handle = idle(() => loadIndex().then(setIndex), { timeout: 10000 });
+    return () => cancel(handle);
+  }, []);
 
   // 「/」聚焦搜尋
   useEffect(() => {
@@ -211,7 +224,7 @@ export default function SearchBox() {
   };
 
   const resultProps = {
-    results, terms, activeIndex, query, onPick: pick, onHover: setActiveIndex, loading: !index && query.trim() !== '',
+    results, terms, activeIndex, query: deferredQuery, onPick: pick, onHover: setActiveIndex, loading: !index && query.trim() !== '',
   };
 
   return (
