@@ -49,7 +49,7 @@ credit:
 
 ### 病因
 
-- **Helicobacter pylori**：最常見原因。
+- **[[消化內科#H. pylori|Helicobacter pylori]]**：最常見原因。
 - **NSAIDs**：第二常見。
 - 其他：ZES、stress ulcer、吸菸。
 
@@ -62,6 +62,8 @@ credit:
 | 胃酸 | ↑ | 正常/↓（黏膜防禦↓） |
 | 癌變風險 | 極低 | **有 → 需切片** |
 | H. pylori | >90% | 70% |
+
+- 詳見 [[消化系統主訴#胸口灼熱與消化不良（Heartburn / Dyspepsia）|胸口灼熱與消化不良]]的評估流程；內科觀點詳見 [[消化內科#消化性潰瘍（Peptic Ulcer Disease, PUD）|消化內科的 PUD]]
 
 ### H. pylori 檢測
 
@@ -123,6 +125,7 @@ credit:
     - 慢性潰瘍瘢痕狹窄 → 非膽汁性嘔吐。
     - 代謝異常：**hypochloremic hypokalemic metabolic alkalosis**。
     - 處理：NG 減壓、矯正電解質、PPI → 無效 → 內視鏡擴張或手術。
+- 詳見 [[消化系統主訴#上消化道出血（Upper GI Bleeding）|上消化道出血]]的評估流程
 
 ### 應激性潰瘍（Stress Ulcer）
 
@@ -137,8 +140,9 @@ credit:
 - **Gastrinoma triangle**：由三個結構圍成的區域 — ①cystic duct 與 CBD 匯合處、②十二指腸第二與第三部分、③胰臟頸部與體部交界 → 大部分 gastrinoma 位於此三角內。
 - 60–90% 為惡性。
 - 診斷：**空腹 gastrin > 1000 pg/mL + pH < 2**；不確定則 **Secretin stimulation test**（正常人 secretin 抑制 gastrin；ZES 則 paradoxical ↑）。
-- **25–30% 與 MEN1 相關**（Parathyroid + Pituitary + Pancreas）。
+- **25–30% 與 [[內分泌外科#MEN 1|MEN1]] 相關**（Parathyroid + Pituitary + Pancreas）。
 - 治療：高劑量 PPI + 手術切除（散發性）。
+- 內分泌診斷詳見 [[內分泌外科#Gastrinoma（Zollinger-Ellison Syndrome, ZES）|內分泌外科的 Gastrinoma]]
 
 ## 胃癌（Gastric Cancer）
 
@@ -146,7 +150,7 @@ credit:
 
 - **H. pylori 感染**（WHO 第一類致癌物）、高鹽/醃漬/煙燻飲食、吸菸。
 - 癌變序列：慢性胃炎 → 萎縮性胃炎 → **intestinal metaplasia** → dysplasia → cancer。
-- 其他：pernicious anemia、Ménétrier disease、prior gastrectomy、家族史。
+- 其他：[[血液腫瘤科#維生素 B₁₂（Cobalamin）缺乏|pernicious anemia]]、Ménétrier disease、prior gastrectomy、家族史。
 
 ### 分類
 
@@ -178,8 +182,9 @@ credit:
     - 上腹痛（類似消化性潰瘍但對治療反應差）。
     - 噁心嘔吐（幽門阻塞時加劇）。
     - 吞嚥困難（賁門/GEJ 腫瘤）。
-    - **上消化道出血**：hematemesis、melena → 慢性失血致 **缺鐵性貧血**。
+    - **上消化道出血**：hematemesis、melena → 慢性失血致 **[[血液腫瘤科#缺鐵性貧血（Iron Deficiency Anemia, IDA）|缺鐵性貧血]]**。
 - 晚期：腹水、可觸及上腹腫塊、cachexia。
+- 內科觀點詳見 [[消化內科#胃癌（Gastric Cancer）|消化內科的胃癌]]
 
 #### 遠端轉移特徵
 
@@ -187,7 +192,7 @@ credit:
 |------|------|
 | **Virchow's node** | 左鎖骨上淋巴結 |
 | **Sister Mary Joseph node** | 臍周結節 |
-| **Krukenberg tumor** | 卵巢轉移（signet ring cells） |
+| **[[婦科#總論與分類\|Krukenberg tumor]]** | 卵巢轉移（signet ring cells） |
 | **Blumer's shelf** | 直腸前 Douglas 窩硬塊 |
 | **Irish node** | 左腋窩淋巴結 |
 
@@ -301,10 +306,11 @@ credit:
 - **Imatinib（TKI）**：高風險術後 adjuvant :red[≥ 3 年]、或轉移/無法切除的一線治療。
 - 抗藥性 → Sunitinib（二線）→ Regorafenib（三線）。
 - **PDGFRA D842V** → imatinib 無效 → **Avapritinib**。
+- 詳見 [[消化內科#胃腸道基質瘤（GIST）|消化內科的 GIST]]
 
 ### 胃淋巴瘤
 
-- **MALT lymphoma**：與 **H. pylori** 強烈相關。
+- **[[消化內科#胃淋巴瘤（MALToma）|MALT lymphoma]]**：與 **H. pylori** 強烈相關。
     - 低惡性度 → **H. pylori 根除**（60–80% 完全緩解）。
     - 高惡性度/DLBCL → R-CHOP 化療。
 
@@ -320,11 +326,12 @@ credit:
 
 ### 手術適應症
 
-- 傳統標準：**BMI ≥ 40**，或 **BMI ≥ 35 + 至少一項肥胖相關共病**（T2DM、高血壓、睡眠呼吸中止、NAFLD 等）。
+- 傳統標準：**BMI ≥ 40**，或 **BMI ≥ 35 + 至少一項肥胖相關共病**（T2DM、高血壓、[[胸腔內科#阻塞性睡眠呼吸中止症（OSA）|睡眠呼吸中止]]、[[消化內科#非酒精性脂肪肝病（NAFLD）|NAFLD]] 等）。
 - 新標準：BMI ≥ 35 即可（不論有無共病）；BMI 30–34.9 合併代謝疾病亦可考慮。
 - 亞洲族群下修：BMI ≥ 37.5，或 ≥ 32.5 + 共病。
 - 需先經保守治療（飲食/運動/藥物）無效。
 - 術前必須完成精神科/營養評估。
+- 肥胖的評估與藥物治療詳見 [[代謝內分泌科#肥胖治療|代謝內分泌科]]、[[全身症狀#體重增加與肥胖（Weight Gain / Obesity）|體重增加與肥胖]]的評估流程
 
 ### 常見手術方式
 
@@ -359,7 +366,7 @@ credit:
 | 空腸 | 碳水化合物、蛋白質、脂肪（大部分營養） |
 | 迴腸 | **膽鹽**、**維生素 B₁₂**（terminal ileum 專屬） |
 
-- Terminal ileum 切除 → steatorrhea + B₁₂ 缺乏。
+- Terminal ileum 切除 → steatorrhea + [[血液腫瘤科#維生素 B₁₂（Cobalamin）缺乏|B₁₂ 缺乏]]。
 - **迴腸功能難以被空腸代償**（膽鹽/B₁₂ 吸收為 ileum 專屬）→ 迴腸喪失比空腸喪失更嚴重。
 
 ### 小腸激素
@@ -379,13 +386,14 @@ credit:
 
 - 比大腸阻塞常見。
 - 原因：**術後沾黏**（最常見）、**疝氣**（第二常見）。
-- 其他：腫瘤、Crohn、intussusception、gallstone ileus。
+- 其他：腫瘤、[[大腸直腸外科#Crohn's Disease|Crohn]]、[[小兒外科#腸套疊（Intussusception）|intussusception]]、[[肝膽胰外科#其他膽囊相關疾病|gallstone ileus]]。
 - 近端 SBO：嘔吐早、腹脹少；遠端 SBO：腹脹多、嘔吐晚。
 - X 光：小腸 > 3 cm、air-fluid levels, keyboard sign；
 - CT：transition point + strangulation 徵象。
 - Strangulation 徵象（需緊急手術）：持續性非間歇痛、發燒、tachycardia、腹膜炎；CT 腸壁無增強、pneumatosis intestinalis、portal venous gas。
 - 保守治療：NPO + NG + IV fluid → 觀察 48–72 hr。
 - 手術適應症：complete obstruction、strangulation、closed loop、保守無效、疝氣所致。
+- 詳見 [[消化系統主訴#腹脹與腸阻塞（Abdominal Distension / Bowel Obstruction）|腹脹與腸阻塞]]的評估流程
 
 #### Gallstone Ileus
 
@@ -399,7 +407,7 @@ credit:
 
 | 類型 | 佔比 | 原因 |
 |------|------|------|
-| **SMA embolism** | ~50%（最常見） | Afib、瓣膜病 |
+| **SMA embolism** | ~50%（最常見） | [[心臟內科#Atrial Fibrillation（AF）\|Afib]]、瓣膜病 |
 | SMA thrombosis | ~25% | 動脈硬化 |
 | NOMI | ~20% | 低心輸出、shock |
 | Venous thrombosis | ~5% | 高凝狀態 |
@@ -410,6 +418,7 @@ credit:
     - Embolism/thrombosis → 手術/介入取栓。
     - NOMI → 改善血行 + **papaverine**。
     - Venous → **heparin**。
+- 內科觀點詳見 [[消化內科#急性腸繫膜缺血（AMI）|消化內科]]
 
 #### 慢性腸繫膜缺血
 
@@ -424,6 +433,7 @@ credit:
 - 其他：小腸腫瘤、Meckel's、Crohn's、Dieulafoy lesion。
 - 診斷工具：**Capsule endoscopy（膠囊內視鏡）**、CTA、Tc-99m RBC scan、push enteroscopy / balloon-assisted enteroscopy。
 - 治療：內視鏡止血（enteroscopy）、angioembolization、手術切除。
+- 詳見 [[消化系統主訴#潛血與不明原因消化道出血（Occult / Obscure GI Bleeding）|潛血與不明原因消化道出血]]的評估流程
 
 ### Meckel's Diverticulum
 
@@ -433,6 +443,7 @@ credit:
 - 成人最常見併發症：**腸阻塞**。
 - 診斷：**Tc-99m pertechnetate scan**（偵測異位胃黏膜）。
 - 有症狀 → 手術切除。
+- 小兒詳見 [[小兒外科#梅克爾憩室（Meckel's Diverticulum）|小兒外科的梅克爾憩室]]
 
 ### 小腸腫瘤與類癌
 
@@ -441,10 +452,11 @@ credit:
 - **Carcinoid tumor**：來源嗜鉻細胞（enterochromaffin / Kulchitsky cells）。
     - GI 最常見位置：**appendix** > **ileum** > rectum。
     - Appendix carcinoid：:red[< 2 cm → appendectomy；≥ 2 cm → right hemicolectomy]。
-    - **Carcinoid syndrome**：flushing、腹瀉、支氣管痙攣、右側心瓣膜病變。
+    - **[[代謝內分泌科#Carcinoid Syndrome|Carcinoid syndrome]]**：flushing、腹瀉、支氣管痙攣、右側心瓣膜病變。
         - 需**肝轉移**才出現，因腸道分泌的 serotonin 會被肝臟代謝。
     - 診斷：尿 **5-HIAA** ↑。
     - 治療：**Octreotide** + 手術。
+- 神經內分泌腫瘤詳見 [[內分泌外科#Carcinoid Tumor / NET（非胰臟）|內分泌外科]]
 
 ### 短腸症候群（Short Bowel Syndrome）
 
@@ -465,7 +477,7 @@ credit:
 
 ### 十二指腸特殊病變
 
-- **十二指腸閉鎖**：好發 **Down syndrome**（30%）、X 光 **Double bubble sign** → duodenoduodenostomy。
+- **十二指腸閉鎖**：好發 **[[小兒科#唐氏症（Down Syndrome, Trisomy 21）|Down syndrome]]**（30%）、X 光 **Double bubble sign** → duodenoduodenostomy。
 - **環狀胰臟（Annular Pancreas）**：胰臟環繞 D2 → 阻塞 → bypass（不切胰臟）。
 - **SMA Syndrome**：SMA-Aorta 夾角變小 → 壓迫 D3 → 好發嚴重消瘦者 → 營養支持 → 無效 → duodenojejunostomy。
 
@@ -487,7 +499,7 @@ credit:
 - 手術：
     - **Lichtenstein repair（tension-free mesh）**：標準術式。
     - 雙側/復發 → 腹腔鏡（TEP 或 TAPP）。
-    - 小兒 indirect → **herniotomy**（高位結紮），不需 mesh。
+    - 小兒 indirect → **[[小兒外科#小兒腹股溝疝氣|herniotomy]]**（高位結紮），不需 mesh。
 - 嵌頓 → 先嘗試手法復位；失敗或懷疑**絞扼**（劇痛、發燒、腸阻塞徵象）→ 緊急手術。
 
 ### 股疝（Femoral Hernia）
