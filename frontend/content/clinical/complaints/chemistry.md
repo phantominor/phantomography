@@ -584,6 +584,8 @@ LDL 220 的 35 歲男性被告知「少吃油就好」，沒有問家族史 → 
 - TG > 400 Friedewald 不準，看 non-HDL 或直接測 LDL。
 :::
 
+- 2026/9/1 起健保依 ASCVD 風險分級的給付門檻詳見 [[20261007-lipid-reimbursement-2026#降血脂藥物給付新制（2026/9/1 起）|2026 健保降血脂藥物給付新制]]（逐篇筆記）
+
 ## 肌肉、蛋白與發炎（Muscle, Protein and Inflammation）
 
 ### 肌酸激酶升高（Elevated Creatine Kinase）

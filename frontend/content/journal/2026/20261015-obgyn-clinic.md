@@ -55,6 +55,8 @@ integrated: true
 Polinin、Mycomb 的成分與適應症，引用前查藥品仿單。
 :::
 
+- 評估流程詳見 [[婦產主訴#陰道分泌物與外陰搔癢（Vaginal Discharge / Vulvar Itching）|陰道分泌物與外陰搔癢]]
+
 ## 輸卵管攝影（HSG）
 
 - 流程：用子宮頸鉗夾住子宮頸固定，放入注射頭，打入顯影劑後攝影。
@@ -103,6 +105,8 @@ Polinin、Mycomb 的成分與適應症，引用前查藥品仿單。
 :::supplement
 - 週數從最後一次月經第一天算起。妊娠囊看不到但 β-hCG 已超過區辨值（約 1,500–3,500 mIU/mL）時，要考慮子宮外孕。
 :::
+
+- 評估流程詳見 [[婦產主訴#懷孕初期出血（First-Trimester Bleeding）|懷孕初期出血]]
 
 ## 外籍病人與人工流產
 

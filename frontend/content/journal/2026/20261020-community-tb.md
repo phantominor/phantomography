@@ -34,6 +34,8 @@ integrated: true
 - 診斷與藥物細節見[[胸腔內科#診斷|肺結核診斷]]、[[感染科#Mycobacterium tuberculosis（結核病）|結核病]]。
 :::
 
+- 咳嗽的評估流程詳見 [[呼吸系統主訴#慢性咳嗽（Chronic Cough）|慢性咳嗽]]
+
 ## 衛生所的個案管理
 
 :::supplement

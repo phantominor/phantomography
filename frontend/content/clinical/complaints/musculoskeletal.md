@@ -681,6 +681,8 @@ flowchart TD
 - Osgood-Schlatter：青少年脛骨粗隆痛。
 :::
 
+- 膝關節護具的選擇與證據詳見 [[20261102-ortho-clinic#討論三：膝關節護具的選擇|骨科診所跟診：膝關節護具]]（逐篇筆記）
+
 ### 足踝痛（Foot and Ankle Pain）
 
 #### 定義與分類
@@ -1243,6 +1245,8 @@ flowchart TD
 - 多發性骨髓瘤：CRAB、骨掃描冷、ALP 正常。
 - Bisphosphonate：空腹站立服用、顎骨壞死、非典型股骨骨折；denosumab 不可突然停藥；teriparatide 最多 2 年。
 :::
+
+- Romosozumab 與骨折癒合的試驗詳見 [[20261102-ortho-clinic#討論一：Romosozumab 能促進骨折癒合嗎？|骨科診所跟診]]（逐篇筆記）
 
 ### 肢體外傷與骨折（Limb Injury / Fracture）
 

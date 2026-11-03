@@ -14,6 +14,8 @@ integrated: true
 
 張一凡醫師以「發燒＋紅疹」為主題，從腸病毒、疱疹病毒（HSV、VZV）、麻疹德國麻疹等出疹性病毒，一路講到細菌性皮疹（GAS、SSSS、紫斑性猛爆症、壞疽性臁瘡）與川崎病、HSP。實用的重點是幾組易混淆鑑別：疱疹性齦口炎 vs 腸病毒、水痘 vs Coxsackie A6、川崎病的結膜炎 vs 其他病毒性結膜炎。
 
+- 評估流程詳見 [[皮膚系統主訴#發燒合併皮疹（Fever and Rash）|發燒合併皮疹]]、[[小兒主訴#幼兒發燒（Fever in Young Children）|幼兒發燒]]
+
 ## 腸病毒
 
 - 常見表現：玫瑰疹（roseola infantum）以外，最常見的是手足口病（hand-foot-mouth disease）與疱疹性咽峽炎（herpangina）。

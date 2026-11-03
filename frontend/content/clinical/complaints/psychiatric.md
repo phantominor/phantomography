@@ -1138,6 +1138,8 @@ Naloxone 讓昏迷的鴉片類中毒者醒來後就讓他離院 → naloxone 作
 - PCP → 垂直眼振與暴力；愷他命 → 膀胱炎；古柯鹼胸痛避免單用 β-blocker。
 :::
 
+- 尼古丁戒斷與戒菸藥物詳見 [[20261012-smoking-cessation#戒菸藥物|戒菸治療：戒菸藥物]]；毒品分級與刑責詳見 [[20261022-community-hiv#毒品：分級、罪名與刑責|社區醫學：毒品分級、罪名與刑責]]（逐篇筆記）
+
 ## 睡眠、飲食與注意力（Sleep, Eating and Attention）
 
 ### 失眠（Insomnia）

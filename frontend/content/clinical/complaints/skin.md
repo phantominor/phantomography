@@ -46,6 +46,8 @@ status: initial
 | **藥物** | **[[皮膚科#藥物疹類型\|麻疹樣藥物疹]]**、**[[皮膚科#Stevens-Johnson Syndrome（SJS）/ Toxic Epidermal Necrolysis（TEN）\|SJS/TEN]]**、**[[皮膚科#Drug Reaction with Eosinophilia and Systemic Symptoms（DRESS）\|DRESS]]**、[[皮膚科#Acute Generalized Exanthematous Pustulosis（AGEP）\|AGEP]] | **新藥時間軸**、黏膜、嗜酸性球 |
 | **發炎與免疫** | **[[小兒科#川崎病（Kawasaki Disease）\|川崎病]]**、[[免疫風濕科#成人 Still's Disease（Adult-Onset Still's Disease, AOSD）\|成人 Still's disease]]、[[免疫風濕科#全身性紅斑狼瘡（SLE）\|SLE]]、[[小兒科#過敏性紫斑（Henoch-Schönlein Purpura / IgA Vasculitis）\|IgA 血管炎]]、[[皮膚科#多形性紅斑（Erythema Multiforme, EM）\|多形性紅斑]] | 鮭魚色暫時性皮疹、可觸摸紫斑 |
 
+- 兒童出疹性疾病的門診重點詳見 [[20261006-pediatric-fever-rash|兒童發燒合併紅疹的鑑別診斷]]（逐篇筆記）
+
 #### 易混淆鑑別
 
 :::compare[兒童出疹性疾病]

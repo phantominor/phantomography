@@ -446,6 +446,8 @@ flowchart TD
 - 停酒 48–96 小時意識混亂、幻覺、發燒、心搏過速、冒汗 → 戒斷譫妄 → benzodiazepine + thiamine。
 :::
 
+- 老年病症候群的概念詳見 [[20261005-family-preventive-geriatric#老年醫學|家庭導向照顧、預防醫學模式與老年病症候群]]（逐篇筆記）
+
 ### 失智與記憶力減退（Dementia / Memory Loss）
 
 #### 定義與分類
@@ -549,6 +551,8 @@ flowchart TD
 - 步態障礙 + 尿失禁 + 失智、腦室擴大 → NPH，放腦脊髓液試驗後步態改善 → VP shunt。
 - 快速進展失智 + 肌躍症 + EEG 週期性尖波 → CJD。
 :::
+
+- 社區失智照顧資源詳見 [[20261102-dementia-daycare|失智日照中心參訪]]（逐篇筆記）
 
 ### 抽搐與癲癇發作（Seizure）
 
@@ -673,6 +677,8 @@ flowchart TD
 - 側邊咬舌、發作後混亂、乳酸與泌乳素上升 → 癲癇發作；迅速恢復、蒼白、久站誘發 → 暈厥。
 - 失神發作用 ethosuximide；carbamazepine 會惡化失神發作；valproate 育齡女性避免（神經管缺陷）。
 :::
+
+- 職業駕駛的駕駛適能評估詳見 [[20261030-occupational-case-discussion#駕駛適能的評估架構（Austroads）|職醫個案討論：駕駛適能]]（逐篇筆記）
 
 ## 動作、感覺與平衡（Motor, Sensory and Balance）
 
