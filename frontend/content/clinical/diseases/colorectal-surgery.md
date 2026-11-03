@@ -86,6 +86,7 @@ credit:
     - 一等親 CRC → :red[40 歲或比最年輕診斷者早 10 年]開始，每 5 年大腸鏡。
     - FAP → :red[10–12 歲起] sigmoidoscopy；Lynch → :red[20–25 歲起]每 1–2 年大腸鏡。
     - IBD（廣泛性大腸炎）→ 發病 8–10 年後起，每 1–2 年大腸鏡 + 隨機切片。
+- 國健署篩檢總表詳見 [[家庭醫學科#台灣癌症篩檢（國健署）|家庭醫學科]]
 
 ### 息肉（Polyps）
 
@@ -110,7 +111,7 @@ credit:
 - 治療：**Prophylactic total proctocolectomy + IPAA（ileal pouch-anal anastomosis）**。
 - 相關變體：
     - **Gardner syndrome**：FAP + 骨瘤（osteoma, 尤其下顎）+ desmoid tumor + 表皮囊腫。
-    - **Turcot syndrome**：FAP + **CNS 腫瘤（medulloblastoma）**。
+    - **Turcot syndrome**：FAP + **CNS 腫瘤（[[神經外科#小兒常見腦腫瘤|medulloblastoma]]）**。
 - **Attenuated FAP（AFAP）**：息肉 < 100 個，癌變年齡較晚。
 
 #### Lynch Syndrome（HNPCC）
@@ -118,16 +119,16 @@ credit:
 - **Mismatch repair gene 突變**（MLH1, MSH2, MSH6, PMS2），**體染色體顯性**。
 - **Amsterdam II criteria**：:red[≥ 3 親屬 CRC 或相關癌 + ≥ 2 代 + ≥ 1 人 < 50 歲] + 排除 FAP。
 - 特點：右側結腸為主、同時或異時性多發癌、高 MSI。
-- 相關癌症：**子宮內膜癌（最常見腸外癌）**、卵巢、胃、泌尿道。
+- 相關癌症：**[[婦科#子宮內膜癌（Endometrial Cancer）|子宮內膜癌（最常見腸外癌）]]**、卵巢、胃、泌尿道。
 - 篩檢：20–25 歲起每 1–2 年大腸鏡。
-- Turcot syndrome 在 Lynch：CNS 為 **glioblastoma**（vs FAP 為 medulloblastoma）。
+- Turcot syndrome 在 Lynch：CNS 為 **[[神經外科#Glioblastoma（GBM）|glioblastoma]]**（vs FAP 為 medulloblastoma）。
 
 #### Peutz-Jeghers Syndrome
 
 - **STK11/LKB1 基因突變**，AD。
 - 口唇/口腔黏膜/手指 **色素斑** + GI tract hamartomatous polyps。
 - 癌變風險增加（尤其乳癌、胰臟癌、大腸癌、卵巢）。
-- 小腸息肉可致 **intussusception**。
+- 小腸息肉可致 **[[小兒外科#腸套疊（Intussusception）|intussusception]]**。
 
 #### Juvenile Polyposis Syndrome
 
@@ -138,14 +139,16 @@ credit:
 
 | 位置 | 表現 |
 |------|------|
-| **右側結腸** | 隱性出血 → **缺鐵性貧血**、腹部腫塊、體重減輕（腸腔大、液態糞便 → 不易阻塞） |
+| **右側結腸** | 隱性出血 → **[[血液腫瘤科#缺鐵性貧血（Iron Deficiency Anemia, IDA）\|缺鐵性貧血]]**、腹部腫塊、體重減輕（腸腔大、液態糞便 → 不易阻塞） |
 | **左側結腸** | 排便習慣改變、血便、**阻塞症狀**（腸腔小、固態糞便）、pencil-thin stool |
 | **直腸** | 血便（鮮紅）、裡急後重（tenesmus）、排便不盡感 |
+
+- 內科觀點詳見 [[消化內科#大腸癌（Colorectal Cancer, CRC）|消化內科的大腸癌]]
 
 ### 診斷與分期
 
 - **大腸鏡 + 切片**：確診。
-- **CEA**：非篩檢用，用於 **術後追蹤**（監測復發）。
+- **[[生化異常#其他腫瘤標記升高（Elevated Tumor Markers）|CEA]]**：非篩檢用，用於 **術後追蹤**（監測復發）。
 - 分期檢查：CT chest/abdomen/pelvis；直腸癌加 **MRI pelvis**（評估 mesorectal involvement）+ **ERUS（endorectal ultrasound）**。
 
 #### TNM 分期
@@ -240,6 +243,7 @@ credit:
     - **Rovsing's sign**：壓左下腹 → 右下腹痛。
     - **Psoas sign**：後腹腔位闌尾，右髖伸展痛。
     - **Obturator sign**：骨盆位闌尾，右髖內旋痛。
+- 詳見 [[消化系統主訴#急性腹痛（Acute Abdominal Pain）|急性腹痛]]的評估流程；兒童詳見 [[小兒科#闌尾炎（Appendicitis）|小兒科的闌尾炎]]
 
 ### 診斷
 
@@ -254,7 +258,7 @@ credit:
 
 - **Appendectomy**（腹腔鏡或開放）→ 確診後儘早手術。
 - 穿孔合併 **abscess/phlegmon**（延遲就醫）→ 先 **抗生素 + 經皮引流** → :red[6–8 週後] **interval appendectomy**。
-- 特殊：孕婦闌尾炎 → 仍建議手術（任何孕期），延遲治療風險更大。
+- 特殊：[[產科#妊娠期外科急症|孕婦闌尾炎]] → 仍建議手術（任何孕期），延遲治療風險更大。
 
 ### 闌尾腫瘤
 
@@ -279,17 +283,19 @@ credit:
 | 肛周病變 | **常見**（fistula、abscess、fissure） | 少見 |
 | 吸菸 | **風險因子** | **保護因子** |
 | 癌變風險 | 較低 | **較高**（與病程和範圍正相關） |
-| 特殊合併症 | 腸瘻管、狹窄、短腸症 | **PSC（primary sclerosing cholangitis）** → ↑膽管癌風險 |
+| 特殊合併症 | 腸瘻管、狹窄、短腸症 | **[[消化內科#原發性硬化性膽管炎（Primary Sclerosing Cholangitis, PSC）\|PSC（primary sclerosing cholangitis）]]** → ↑膽管癌風險 |
 | 手術治癒 | 不能治癒 | **Total proctocolectomy 可治癒** |
+
+- 藥物治療詳見 [[消化內科#發炎性腸道疾病（Inflammatory Bowel Disease, IBD）|消化內科的 IBD]]
 
 ### 腸外表現
 
 | 與疾病活動度相關（治療 IBD 會改善） | 與疾病活動度無關 |
 |--------------------------------------|------------------|
-| Erythema nodosum | **Pyoderma gangrenosum** |
-| Peripheral arthritis | Axial arthropathy / Ankylosing spondylitis |
-| Episcleritis | **Primary sclerosing cholangitis（PSC）** |
-| Oral aphthous ulcers | Uveitis / Iritis |
+| [[皮膚科#結節性紅斑（Erythema Nodosum）\|Erythema nodosum]] | **[[皮膚科#壞疽性膿皮症（Pyoderma Gangrenosum, PG）\|Pyoderma gangrenosum]]** |
+| Peripheral arthritis | Axial arthropathy / [[免疫風濕科#僵直性脊椎炎（Ankylosing Spondylitis, AS）\|Ankylosing spondylitis]] |
+| [[眼科#上鞏膜炎與鞏膜炎\|Episcleritis]] | **Primary sclerosing cholangitis（PSC）** |
+| Oral aphthous ulcers | [[眼科#前葡萄膜炎\|Uveitis / Iritis]] |
 
 ### Ulcerative Colitis
 
@@ -347,6 +353,7 @@ credit:
 - 診斷：**CT（首選）**→ 腸壁增厚、pericolic fat stranding ± abscess ± free air。
 - 禁忌：**急性期禁做大腸鏡**，有穿孔風險。
     - 待急性期緩解後（通常 6-8 週）再安排大腸鏡，以排除惡性腫瘤。
+- 內科觀點詳見 [[消化內科#急性憩室炎（Diverticulitis）|消化內科的急性憩室炎]]
 
 #### Hinchey Classification（穿孔/併發症分級）
 
@@ -410,6 +417,7 @@ credit:
 - CT 特徵：腸壁增厚、thumbprinting（黏膜下水腫）。
 - 大腸鏡：黏膜水腫、出血、潰瘍（cyanotic mucosa）。
 - 治療：多數保守（bowel rest + IV fluid + 抗生素）→ 壞疽/穿孔/腹膜炎 → 手術切除。
+- 與腸繫膜缺血的鑑別詳見 [[消化內科#腸繫膜缺血（Mesenteric Ischemia）|消化內科的腸繫膜缺血]]
 
 ## 肛門疾病
 
@@ -419,6 +427,7 @@ credit:
 
 - **內痔**：齒狀線以上，internal hemorrhoidal plexus，**無痛覺**。
 - **外痔**：齒狀線以下，external hemorrhoidal plexus，**有痛覺**。
+- 詳見 [[消化系統主訴#肛門直腸症狀（Anorectal Symptoms）|肛門直腸症狀]]的評估流程
 
 #### 內痔分級與治療
 
@@ -477,7 +486,7 @@ credit:
 #### 肛管癌（Anal Canal Cancer）
 
 - 最常見組織學：**鱗狀細胞癌（SCC）**。
-- 危險因子：**HPV 感染**（16, 18 型）、HIV、免疫低下、receptive anal intercourse、吸菸。
+- 危險因子：**[[感染科#HPV（Human Papillomavirus）|HPV 感染]]**（16, 18 型）、HIV、免疫低下、receptive anal intercourse、吸菸。
 - 治療：**concurrent chemoradiotherapy**（5-FU + Mitomycin C + radiation）。
     - **初始治療非手術**：:red[CCRT] 治癒率 80-90%。
     - APR 僅用於失敗後的 salvage therapy。
@@ -528,7 +537,7 @@ credit:
 
 #### 常見原因
 
-- **消化性潰瘍**（最常見，佔 40–50%）。
+- **[[消化內科#消化性潰瘍（Peptic Ulcer Disease, PUD）|消化性潰瘍]]**（最常見，佔 40–50%）。
     - 十二指腸後壁潰瘍侵蝕 **GDA** → 大量出血。
 - **Mallory-Weiss tear**：GEJ 黏膜撕裂（劇烈嘔吐後），多自行止血。
 - **Dieulafoy lesion**：黏膜下異常粗大動脈，好發胃底/體。
@@ -540,6 +549,7 @@ credit:
 - ABC 穩定 → **EGD（:red[24 hr 內]）**（診斷 + 治療首選）。
 - 高劑量 IV PPI（bolus + continuous drip）→ 降低再出血率。
 - 內視鏡止血失敗 → angioembolization 或手術。
+- 詳見 [[消化系統主訴#上消化道出血（Upper GI Bleeding）|上消化道出血]]的評估流程；內視鏡與藥物詳見 [[消化內科#上消化道出血（Upper GI Bleeding）|消化內科]]
 
 ### 下消化道出血（Lower GI Bleeding）
 
@@ -553,7 +563,7 @@ credit:
 | 成人 / 老年 | **憩室出血（diverticulosis）** → 最常見 |
 | 成人 | Angiodysplasia（右結腸） |
 | 年輕成人 | IBD、Meckel's |
-| 小兒 | **Meckel's diverticulum** |
+| 小兒 | **[[小兒外科#梅克爾憩室（Meckel's Diverticulum）\|Meckel's diverticulum]]** |
 
 #### 處理流程
 
@@ -561,3 +571,4 @@ credit:
 - **大腸鏡**：穩定後首選（診斷 + 治療）。
 - 持續出血無法定位 → **Tc-99m RBC scan**（敏感度高，出血 :red[> 0.1 mL/min] 可偵測）→ **Angiography**（出血 :red[> 0.5 mL/min]，可同時栓塞止血）。
 - 大量出血定位不明 → **手術（subtotal colectomy）**。
+- 詳見 [[消化系統主訴#下消化道出血（Lower GI Bleeding）|下消化道出血]]的評估流程
