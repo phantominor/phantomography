@@ -102,6 +102,7 @@ credit:
 - 傳導性聽損（CHL）：病變在外耳或中耳，骨傳導正常。
 - 感音性聽損（SNHL）：病變在耳蝸或聽神經以上。
 - 混合性聽損：同時存在 CHL + SNHL 成分。
+- 詳見 [[五官主訴#聽力喪失（Hearing Loss）|聽力喪失]]的評估流程
 
 ### 外耳疾病
 
@@ -110,7 +111,7 @@ credit:
     - 處理：沖洗、器械移除、軟化劑。
 - **耳廓軟骨膜炎（Auricular Perichondritis）**：
     - 原因：外傷、耳廓穿刺（尤其高位軟骨穿刺）、術後感染。
-    - 最常見病原菌：**Pseudomonas aeruginosa**。
+    - 最常見病原菌：**[[感染科#Pseudomonas aeruginosa|Pseudomonas aeruginosa]]**。
     - 症狀：耳廓紅腫熱痛（耳垂不受侵犯，因無軟骨）。
     - 若未及時治療 → 軟骨壞死 → **菜花耳（cauliflower ear）**。
     - 治療：抗生素（anti-pseudomonal）± 膿瘍引流。
@@ -125,6 +126,7 @@ credit:
     - 可侵犯顳骨（skull base osteomyelitis）→ 顏面神經麻痺（最常見）。
     - 診斷：CT/MRI + Tc-99m 骨掃描（偵測骨侵犯）；Ga-67 追蹤治療效果。
     - 治療：**長期抗生素**（IV anti-pseudomonal）6–8 週 + 血糖控制。
+- 詳見 [[五官主訴#耳痛與耳漏（Otalgia / Otorrhea）|耳痛與耳漏]]的評估流程
 
 ### 急性中耳炎（Acute Otitis Media, AOM）
 
@@ -142,6 +144,7 @@ credit:
     - 腦膜炎、硬腦膜下/外膿瘍、腦膿瘍。
     - 顏面神經麻痺。
     - 迷路炎（labyrinthitis）。
+- 兒童治療詳見 [[小兒科#急性中耳炎（Acute Otitis Media, AOM）|小兒科的急性中耳炎]]
 
 ### 積液性中耳炎（Otitis Media with Effusion, OME）
 
@@ -247,7 +250,7 @@ credit:
     - 平衡障礙（非典型眩暈）。
     - 大型腫瘤：顏面神經麻痺（CN VII）、三叉神經症狀（CN V）、腦幹壓迫。
 - **Bruns nystagmus**：大型 CPA 腫瘤特徵 → 注視患側時出現低頻大幅度眼振，注視健側時出現高頻小幅度眼振。
-- **雙側**聽神經瘤 → **Neurofibromatosis Type 2（NF2）**。
+- **雙側**聽神經瘤 → **[[神經內科#神經皮膚症候群|Neurofibromatosis Type 2（NF2）]]**。
 - 診斷：**MRI with gadolinium**（gold standard）→ IAC/CPA 增強腫塊。
 - ABR：I-V interpeak latency 延長。
 - 治療：觀察、stereotactic radiosurgery（Gamma Knife）、手術切除。
@@ -290,6 +293,7 @@ credit:
     - 搏動性 → 需影像檢查（CTA/MRA/MRI）排除血管性病變或 glomus tumor。
     - 單側 → 排除聽神經瘤（MRI）。
 - 處理：找出並治療潛在原因；無法根治者 → 助聽器（amplification）、聲音治療（sound therapy）、TRT（tinnitus retraining therapy）、認知行為治療（CBT）。
+- 詳見 [[五官主訴#耳鳴（Tinnitus）|耳鳴]]的評估流程
 
 ## 眩暈
 
@@ -305,7 +309,9 @@ credit:
 | 聽力受損 | 可能合併 | 通常無 |
 | 嚴重度 | 較嚴重但自限 | 可能較輕但持續 |
 | 其他神經症狀 | 無 | 可能有（複視、吞嚥困難、共濟失調） |
-| 常見原因 | BPPV、Ménière、前庭神經炎 | 腦幹/小腦中風、MS、腫瘤 |
+| 常見原因 | BPPV、Ménière、前庭神經炎 | [[神經內科#後循環（Vertebrobasilar system）\|腦幹/小腦中風]]、MS、腫瘤 |
+
+- 詳見 [[神經系統主訴#頭暈與眩暈（Dizziness / Vertigo）|頭暈與眩暈]]的評估流程
 
 ### 良性陣發性姿勢性眩暈（BPPV）
 
@@ -409,6 +415,7 @@ credit:
     4. 後鼻填塞（posterior packing）：Foley catheter 或 posterior pack；需住院監測。
     5. 手術：動脈結紮（sphenopalatine artery ligation）或經血管栓塞（angioembolization）。
 - **HHT（Osler-Weber-Rendu syndrome）**：反覆鼻出血、皮膚/黏膜毛細血管擴張、內臟 AVM → 體染色體顯性遺傳。
+- 詳見 [[五官主訴#流鼻血（Epistaxis）|流鼻血]]的評估流程
 
 ### 鼻中隔疾病
 
@@ -439,6 +446,7 @@ credit:
     - 鼻用減充血劑（oxymetazoline）：短期鼻塞緩解，**:red[≤ 3–5 天]**。
     - 免疫療法（SCIT 或 SLIT）：嚴重且藥物控制不佳。
 - **Rhinitis medicamentosa**：長期使用局部血管收縮鼻噴劑 → 反彈性鼻塞。
+- 詳見 [[五官主訴#鼻塞與流鼻水（Nasal Obstruction / Rhinorrhea）|鼻塞與流鼻水]]的評估流程
 
 ### 鼻竇炎（Rhinosinusitis）
 
@@ -468,7 +476,7 @@ credit:
 ### 黴菌性鼻竇炎（Fungal Rhinosinusitis）
 
 - 急性侵犯性：
-    - 免疫低下（DKA、neutropenia）；**Mucor / Aspergillus**。
+    - 免疫低下（DKA、neutropenia）；**[[感染科#Mucormycosis|Mucor]] / Aspergillus**。
     - 黑色壞死（黑鼻甲、palate necrosis）；可侵犯眼眶/腦；高死亡率。
     - 治療：**緊急手術清創 + IV Amphotericin B** + 控制血糖/免疫。
 - 慢性侵犯性：
@@ -489,6 +497,7 @@ credit:
 - 小兒鼻息肉 → 需排除 **cystic fibrosis**。
 - **Samter's triad（AERD）**：鼻息肉 + 氣喘 + Aspirin/NSAIDs 過敏。
 - 治療：鼻用類固醇（一線）→ 口服類固醇短期 → FESS → 生物製劑（dupilumab 等）。
+- AERD 的氣喘處置詳見 [[胸腔內科#氣喘（Asthma）|胸腔內科的氣喘]]
 
 ### 鼻外傷與嗅覺障礙
 
@@ -552,7 +561,7 @@ credit:
 
 ### 急性咽扁桃腺炎（Acute Pharyngotonsillitis）
 
-- **病毒性**（最常見）：adenovirus、rhinovirus、EBV 等。
+- **病毒性**（最常見）：adenovirus、rhinovirus、[[感染科#EBV（Infectious Mononucleosis）|EBV]] 等。
 - **細菌性**：**Group A Streptococcus（GAS）** 最重要。
     - 症狀：劇烈喉嚨痛、吞嚥困難、高燒、扁桃腺化膿性滲出物、前頸淋巴結腫大、無咳嗽。
     - **Centor criteria**（modified）：扁桃腺滲出物、前頸淋巴結壓痛、發燒 >38°C、無咳嗽（+年齡調整）→ 評估是否需做 rapid strep test/throat culture。
@@ -560,7 +569,8 @@ credit:
         - PCN 過敏 → Azithromycin。
     - 未治療的 GAS 併發症：
         - 化膿性：扁桃腺周圍膿瘍（peritonsillar abscess）、頸部深層感染。
-        - 非化膿性：**急性風濕熱**（抗生素可預防）、**鏈球菌感染後腎絲球腎炎**（抗生素不能預防）。
+        - 非化膿性：**急性風濕熱**（抗生素可預防）、**[[腎臟內科#Post-Streptococcal Glomerulonephritis（PSGN）|鏈球菌感染後腎絲球腎炎]]**（抗生素不能預防）。
+- 詳見 [[五官主訴#喉嚨痛（Sore Throat）|喉嚨痛]]的評估流程
 
 #### EBV 傳染性單核球症（Infectious Mononucleosis）
 
@@ -588,7 +598,7 @@ credit:
 - 側面 X-ray：椎前軟組織增厚（prevertebral soft tissue widening :red[>7 mm at C2 或 >14 mm at C6]）。
 - CT with contrast 確認。
 - 治療：IV 抗生素 ± 手術引流。
-- 可能向下蔓延至縱膈腔 → **descending necrotizing mediastinitis**（致命）。
+- 可能向下蔓延至縱膈腔 → **[[胸腔外科#縱膈腔炎（Mediastinitis）|descending necrotizing mediastinitis]]**（致命）。
 
 #### 路德維希氏咽峽炎（Ludwig's Angina）
 
@@ -613,6 +623,7 @@ credit:
 - 診斷金標準：**多頻道睡眠生理檢查（polysomnography, PSG）**。
     - AHI（Apnea-Hypopnea Index）：:red[輕度 5–15、中度 15–30、重度 ≥ 30]。
 - 併發症：白天嗜睡、高血壓、心律不整、肺動脈高壓、cor pulmonale、認知功能下降。
+- 診斷與 CPAP 治療詳見 [[胸腔內科#阻塞性睡眠呼吸中止症（OSA）|胸腔內科的 OSA]]
 
 ### 扁桃腺切除術（Tonsillectomy）
 
@@ -641,6 +652,7 @@ credit:
 - 側面頸部 X-ray：**thumbprint sign**（會厭腫大如拇指印）。
 - **不要直接壓舌檢查**（可能誘發喉痙攣 → 完全氣道阻塞）。
 - 治療：**氣道管理最優先**（controlled intubation in OR）+ IV 抗生素（3rd gen cephalosporin）。
+- 兒童詳見 [[小兒科#急性會厭炎（Epiglottitis）|小兒科的急性會厭炎]]、[[小兒主訴#兒童喘鳴與呼吸困難（Stridor / Wheezing in Children）|兒童喘鳴與呼吸困難]]的評估流程
 
 #### 急性喉炎（Acute Laryngitis）
 
@@ -673,6 +685,8 @@ credit:
 | 發燒 | 低到中度 | 高燒 |
 | 病原 | Parainfluenza | Hib（以前）、Strep/Staph |
 
+- 詳見 [[小兒科#哮吼（Croup / Laryngotracheobronchitis）|小兒科的哮吼]]
+
 ### 聲帶病變
 
 #### 聲帶結節（Vocal Nodules）
@@ -696,7 +710,7 @@ credit:
 #### 喉乳突瘤（Laryngeal Papillomatosis）
 
 - **最常見喉部良性腫瘤**。
-- 病原：**HPV 6、11 型**。
+- 病原：**[[感染科#HPV（Human Papillomavirus）|HPV]] 6、11 型**。
 - Juvenile onset：出生時經產道感染 → 多發、容易復發。
 - Adult onset：通常單一病灶。
 - 症狀：漸進性聲音沙啞、stridor。
@@ -716,6 +730,7 @@ credit:
 - 常因 RLN 損傷。
 - 單側 → 聲音沙啞 → 語言治療 / 注射填充 / 甲狀軟骨成形術（thyroplasty）。
 - 雙側 → 呼吸困難 → 可能需氣管切開 → 後續可考慮 arytenoidectomy 或 cordotomy。
+- 詳見 [[五官主訴#聲音沙啞（Hoarseness）|聲音沙啞]]的評估流程；甲狀腺術後併發症詳見 [[內分泌外科#術後追蹤與併發症|內分泌外科]]
 
 #### 喉部白斑（Leukoplakia）
 
@@ -744,7 +759,7 @@ credit:
 ### 鼻咽癌（Nasopharyngeal Carcinoma, NPC）
 
 - 流行病學：好發**華南/東南亞華人**、男性居多。
-- 危險因子：**EBV**（密切相關）、醃漬食物（nitrosamine）、遺傳（HLA 相關）。
+- 危險因子：**[[感染科#EBV（Infectious Mononucleosis）|EBV]]**（密切相關）、醃漬食物（nitrosamine）、遺傳（HLA 相關）。
 - 好發位置：**pharyngeal recess（fossa of Rosenmüller）**。
 - WHO 病理分類：
     - Type I：角化鳞狀上皮癌（keratinizing SCC）→ 與 EBV 關聯較少。
@@ -765,7 +780,7 @@ credit:
 
 ### 口腔癌（Oral Cavity Cancer）
 
-- 台灣：與**檳榔、菸、酒**密切相關。
+- 台灣：與**[[家庭醫學科#檳榔|檳榔]]、菸、酒**密切相關。
 - 病理：> 90% 為**鳞狀上皮細胞癌（SCC）**。
 - 好發位置：**舌（最常見，尤其舌側緣）**、頰黏膜（檳榔相關）、口底、齒齦。
 - 癌前病變：
@@ -775,6 +790,7 @@ credit:
 - 治療：**手術為主** → 視期別加上術後放療 ± 化療。
     - Clinical N(+) → 頸部廓清術（neck dissection）。
     - T3-4 或 N(+) → 術後 adjuvant CCRT。
+- 詳見 [[五官主訴#口腔病灶（Oral Ulcers / Lesions）|口腔病灶]]的評估流程
 
 ### 口咽癌（Oropharyngeal Cancer）
 
@@ -891,8 +907,11 @@ credit:
     - 顏面神經損傷。
     - **Frey's syndrome（味覺性出汗/gustatory sweating）**：術後副交感神經纖維（本來支配唾液腺）再生後接上汗腺 → 進食時患側面部出汗潮紅。
     - 涎液囊腫（sialocele）。
+- 詳見 [[神經系統主訴#顏面神經麻痺（Facial Palsy）|顏面神經麻痺]]的評估流程
 
 ### 頸部腫塊（Neck Mass）
+
+- 詳見 [[五官主訴#頸部腫塊（Neck Mass）|頸部腫塊]]的評估流程；影像意外發現的甲狀腺結節詳見 [[偶發病灶#甲狀腺偶發結節（Thyroid Incidentaloma）|甲狀腺偶發結節]]
 
 #### 成人頸部腫塊
 
@@ -969,6 +988,7 @@ credit:
 - 完全氣道阻塞（choking）急救：
     - ≥ 1 歲：**Heimlich maneuver（腹部推擠）**。
     - :red[< 1 歲嬰兒]：**5 次背部拍擊 + 5 次胸部推擠**交替。
+- 詳見 [[小兒科#異物吸入（Foreign Body Aspiration）|小兒科的異物吸入]]
 
 ### 先天性喉軟化症（Laryngomalacia）
 
@@ -978,6 +998,7 @@ credit:
 - 診斷：軟式喉鏡（flexible laryngoscopy）→ 吸氣時 omega-shaped epiglottis 內陷。
 - 預後：多數 12–18 個月自行緩解。
 - 嚴重者（呼吸窘迫、餵食困難、生長遲滯）→ **supraglottoplasty**。
+- 詳見 [[小兒主訴#兒童喘鳴與呼吸困難（Stridor / Wheezing in Children）|兒童喘鳴與呼吸困難]]的評估流程
 
 ### 聲門下血管瘤（Subglottic Hemangioma）
 
@@ -985,6 +1006,7 @@ credit:
 - 特徵：出生後數週出現漸進性 biphasic stridor → 4–6 月大時最嚴重。
 - 50% 合併皮膚血管瘤（尤其鬍鬚分布區/beard distribution → 須想到）。
 - 治療：**口服 Propranolol**（一線治療）→ 大幅改善；嚴重者可雷射/手術。
+- 嬰兒血管瘤詳見 [[整形外科#Infantile Hemangioma|整形外科]]
 
 ### 唾液腺非腫瘤性疾病
 
@@ -1000,7 +1022,7 @@ credit:
 
 - 急性化膿性：常見於脫水、術後老年人 → **S. aureus** 最常見 → 抗生素 + 水分補充 + 按摩。
 - 慢性：反覆感染/結石。
-- **流行性腮腺炎（Mumps）**：Paramyxovirus → 雙側腮腺腫大。
+- **[[感染科#腮腺炎（Mumps）|流行性腮腺炎（Mumps）]]**：Paramyxovirus → 雙側腮腺腫大。
     - 併發症：睪丸炎（orchitis，青春期後男性 → 可致不孕）、腦膜炎、胰臟炎。
     - 預防：**MMR 疫苗**。
 
@@ -1010,6 +1032,7 @@ credit:
 - 症狀：乾眼（keratoconjunctivitis sicca）+ 口乾（xerostomia）+ 腮腺腫大。
 - 抗體：anti-SSA（Ro）、anti-SSB（La）。
 - 增加 **MALT lymphoma** 風險。
+- 詳見 [[免疫風濕科#Sjögren's Syndrome（乾燥症候群）|免疫風濕科的乾燥症候群]]
 
 ### 蛤蟆腫（Ranula）
 
