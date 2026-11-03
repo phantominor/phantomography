@@ -18,9 +18,9 @@ credit:
 
 ### 胃食道逆流（GERD）
 
-- 機制：LES 壓力下降、transient LES relaxation、食道廓清能力差、hiatal hernia。
+- 機制：LES 壓力下降、transient LES relaxation、食道廓清能力差、[[胸腔外科#食道裂孔疝氣（Hiatal Hernia）|hiatal hernia]]。
 - 典型症狀：heartburn（火燒心）、regurgitation（溢酸）。
-- 食道外症狀：慢性咳嗽、氣喘惡化、喉炎、牙齒侵蝕。
+- 食道外症狀：[[呼吸系統主訴#慢性咳嗽（Chronic Cough）|慢性咳嗽]]、[[胸腔內科#氣喘（Asthma）|氣喘惡化]]、喉炎、牙齒侵蝕。
 - Alarm features（需先做 EGD）：吞嚥困難、體重減輕、貧血、出血、嘔吐。
 - 診斷：
     - 典型症狀：經驗性 PPI 試驗。
@@ -29,13 +29,14 @@ credit:
 - 治療：
     - 生活型態：抬高床頭、減重、避免睡前進食、避免菸酒咖啡。
     - 藥物：**PPI 為首選**（飯前 30–60 分鐘服用），H2RA 為二線。
-    - 手術：Nissen fundoplication（360° wrap），用於藥物無效者。
+    - 手術：[[胸腔外科#胃食道逆流（GERD）手術治療|Nissen fundoplication]]（360° wrap），用於藥物無效者。
 - **Barrett's Esophagus**。
     - 定義：食道下段鱗狀上皮被 **腸化生柱狀上皮** 取代。
     - 為 GERD 的併發症，是 **食道腺癌** 的癌前病變。
     - 診斷：EGD + 切片確認有 goblet cells（specialized intestinal metaplasia）。
     - 癌變風險：每年約 :red[0.5%]。
     - 治療：長期 PPI + 定期追蹤；High-grade dysplasia 或 early cancer → endoscopic mucosal resection（EMR）或 radiofrequency ablation（RFA）。
+- 詳見 [[消化系統主訴#胸口灼熱與消化不良（Heartburn / Dyspepsia）|胸口灼熱與消化不良]]
 
 ### 食道運動障礙
 
@@ -52,12 +53,13 @@ credit:
     - 手術：**Heller myotomy + partial fundoplication（Dor 或 Toupet）**。
     - 藥物：Botulinum toxin 注射、calcium channel blockers、nitrates。
 - 併發症：aspiration pneumonia、長期有 **食道鱗狀細胞癌** 風險。
+- 詳見 [[消化系統主訴#吞嚥困難（Dysphagia）|吞嚥困難]]的鑑別
 
 #### 其他運動障礙
 
 - **Diffuse esophageal spasm**：間歇性胸痛 + 吞嚥困難；鋇劑呈 **corkscrew（開瓶器狀）**。
 - **Nutcracker esophagus**：高振幅蠕動收縮。
-- **Scleroderma esophagus**：食道下 2/3 平滑肌萎縮纖維化。
+- **[[免疫風濕科#全身性硬化症（Systemic Sclerosis, SSc）|Scleroderma esophagus]]**：食道下 2/3 平滑肌萎縮纖維化。
 
 ### 食道癌
 
@@ -77,9 +79,9 @@ credit:
 ### 其他食道疾病
 
 - **Mallory-Weiss tear**：劇烈嘔吐後 → GEJ 黏膜撕裂 → 上消化道出血；多自行止血。
-- **Boerhaave syndrome**：劇烈嘔吐後 → 食道全層破裂 → 縱膈腔氣腫/氣胸/sepsis → 確診用 CT with oral contrast → 急診手術。
+- **[[胸腔外科#食道穿孔（Esophageal Perforation）|Boerhaave syndrome]]**：劇烈嘔吐後 → 食道全層破裂 → 縱膈腔氣腫/氣胸/sepsis → 確診用 CT with oral contrast → 急診手術。
 - **Eosinophilic esophagitis**：年輕男性 + 過敏體質 + 吞嚥困難；EGD 見 rings/furrows/exudates；切片 :red[≥15 eosinophils/HPF]。
-- **Zenker's diverticulum**：Killian's triangle（咽下縮肌與環咽肌之間）後方脫出；老人 + halitosis + regurgitation of undigested food + 吞嚥困難。
+- **[[胸腔外科#食道憩室（Esophageal Diverticulum）|Zenker's diverticulum]]**：Killian's triangle（咽下縮肌與環咽肌之間）後方脫出；老人 + halitosis + regurgitation of undigested food + 吞嚥困難。
 
 ## 胃與十二指腸疾病
 
@@ -166,7 +168,7 @@ credit:
 |------|-------------------|------------------|
 | 位置 | Body/fundus | **Antrum**（最常見） |
 | 病因 | Anti-parietal cell Ab、anti-IF Ab | **H. pylori** |
-| 併發症 | **惡性貧血**（Vit B12 缺乏）、carcinoid、胃癌 | PUD、MALToma、胃癌 |
+| 併發症 | **[[血液腫瘤科#巨球性貧血（Megaloblastic Anemia）\|惡性貧血]]**（Vit B12 缺乏）、[[內分泌外科#Carcinoid Tumor / NET（非胰臟）\|carcinoid]]、胃癌 | PUD、MALToma、胃癌 |
 | 胃酸 | 減少（achlorhydria） | 正常或增加 |
 
 ### 胃癌（Gastric Cancer）
@@ -186,17 +188,18 @@ credit:
 | 基因 | — | **CDH1（E-cadherin）** 突變 |
 
 - 轉移：
-    - **Virchow's node**：左鎖骨上淋巴結。
+    - **[[全身症狀#淋巴結腫大（Lymphadenopathy）|Virchow's node]]**：左鎖骨上淋巴結。
     - **Sister Mary Joseph nodule**：臍部結節。
-    - **Krukenberg tumor**：卵巢轉移（signet ring cells）。
+    - **[[婦科#卵巢腫瘤（Ovarian Tumor）|Krukenberg tumor]]**：卵巢轉移（signet ring cells）。
     - **Blumer's shelf**：直腸指診可觸及 cul-de-sac 腫瘤。
     - **Irish node**：左腋下淋巴結。
 - 診斷：EGD + biopsy；EUS 評估 T 分期；CT 評估轉移。
-- 腫瘤標記：CEA、CA 72-4（非特異性）、HER2 表現（可用 trastuzumab）。
+- 腫瘤標記：[[生化異常#其他腫瘤標記升高（Elevated Tumor Markers）|CEA]]、CA 72-4（非特異性）、HER2 表現（可用 trastuzumab）。
 - 治療：
     - Early gastric cancer：ESD（內視鏡黏膜下剝離術）。
     - 手術切除：R0 切除 + D2 lymph node dissection。
     - 化學治療：Perioperative、adjuvant、palliative。
+- 手術詳見 [[胃小腸外科#胃癌（Gastric Cancer）|胃小腸外科的胃癌]]
 
 ### 胃淋巴瘤（MALToma）
 
@@ -217,12 +220,13 @@ credit:
     - 手術切除：不需 lymph node dissection，因 GIST 極少淋巴轉移。
     - **Imatinib**：tyrosine kinase inhibitor → 用於無法切除/轉移性/高風險輔助治療。
     - PDGFRA D842V 突變 → imatinib 無效 → **avapritinib**。
+- 手術詳見 [[胃小腸外科#GIST（胃腸道基質瘤）|胃小腸外科的 GIST]]
 
 ### 其他胃部疾病
 
 - **Gastroparesis**：常見於 DM 患者；症狀為早飽、噁心嘔吐；診斷用 gastric emptying scintigraphy；治療首選 metoclopramide。
 - **Ménétrier's disease**：胃體巨大皺褶；protein-losing gastropathy → 低白蛋白 + 水腫；胃酸減少；有胃癌風險。
-- **Zollinger-Ellison syndrome**：Gastrinoma 分泌 gastrin → 難治性胃潰瘍。
+- **[[代謝內分泌科#Zollinger-Ellison Syndrome（ZES）|Zollinger-Ellison syndrome]]**：Gastrinoma 分泌 gastrin → 難治性胃潰瘍。
 
 ### 上消化道出血（Upper GI Bleeding）
 
@@ -250,6 +254,8 @@ credit:
 
 ::chart{id="upper-gi-bleeding"}
 
+- 詳見 [[消化系統主訴#上消化道出血（Upper GI Bleeding）|上消化道出血]]的評估流程
+
 ## 小腸疾病
 
 ### 吸收不良（Malabsorption）
@@ -263,9 +269,11 @@ credit:
 | Tropical sprue | 熱帶旅行、抗生素可治療 |
 | Whipple's disease | Tropheryma whipplei；關節痛 + 腹瀉 + neurological symptoms |
 | Lactose intolerance | Hydrogen breath test |
-| 短腸症候群 | 大範圍小腸切除後 |
+| [[胃小腸外科#短腸症候群（Short Bowel Syndrome）\|短腸症候群]] | 大範圍小腸切除後 |
 | 慢性胰臟炎 | 脂肪瀉（外分泌不足） |
 | Bacterial overgrowth | Glucose/lactulose hydrogen breath test |
+
+- 詳見 [[消化系統主訴#慢性腹瀉（Chronic Diarrhea）|慢性腹瀉]]的評估流程
 
 ### Celiac Disease（乳糜瀉）
 
@@ -274,7 +282,7 @@ credit:
 - 抗體：**Anti-tissue transglutaminase IgA（anti-tTG IgA）**、anti-endomysial Ab（EMA）。
 - 確診：十二指腸切片 → **villous atrophy + crypt hyperplasia + intraepithelial lymphocytosis**。
 - 治療：**終生無麩質飲食（gluten-free diet）**。
-- 合併症：缺鐵性貧血、骨質疏鬆、dermatitis herpetiformis、小腸 T-cell lymphoma。
+- 合併症：缺鐵性貧血、骨質疏鬆、[[皮膚科#疱疹樣皮膚炎（Dermatitis Herpetiformis, DH）|dermatitis herpetiformis]]、小腸 T-cell lymphoma。
 
 ### 小腸腫瘤
 
@@ -289,26 +297,27 @@ credit:
 #### 小腸阻塞（SBO）
 
 - 最常見原因：**術後沾黏**（~75%）。
-- 其他：疝氣、腫瘤、Crohn's、intussusception。
+- 其他：[[胃小腸外科#疝氣（Hernia）|疝氣]]、腫瘤、Crohn's、[[小兒科#腸套疊（Intussusception）|intussusception]]。
 - 症狀：colicky 腹痛、嘔吐、腹脹、停止排氣排便。
 - XR：小腸擴張 :red[>3 cm]、air-fluid levels、colon 無氣。
 - CT：transition point、small bowel feces sign。
 - **Strangulation**：持續性疼痛、腹膜刺激徵象、WBC↑、acidosis、CT 見腸壁增厚 + enhancement 不良。
 - 治療：NPO + NG decompression + IV fluid → 觀察 48–72 hr → 無改善/strangulation：**手術**。
+- 詳見 [[消化系統主訴#腹脹與腸阻塞（Abdominal Distension / Bowel Obstruction）|腹脹與腸阻塞]]的評估流程；手術詳見 [[胃小腸外科#小腸阻塞（SBO）|胃小腸外科的小腸阻塞]]
 
 #### 大腸阻塞（LBO）
 
 - 最常見原因：**大腸癌**（~60%）。
-- 其他：volvulus、diverticular stricture、hernia。
+- 其他：[[大腸直腸外科#大腸扭轉（Volvulus）|volvulus]]、diverticular stricture、hernia。
 - 症狀：腹脹明顯、嘔吐較晚出現。
-- 需排除 **pseudo-obstruction**：急性結腸偽阻塞，常見於住院重症/術後； 治療：Neostigmine。
+- 需排除 **[[大腸直腸外科#Ogilvie's Syndrome（急性結腸假性阻塞）|pseudo-obstruction]]**：急性結腸偽阻塞，常見於住院重症/術後； 治療：Neostigmine。
 
 ### 腸繫膜缺血（Mesenteric Ischemia）
 
 #### 急性腸繫膜缺血（AMI）
 
 - 原因：
-    - **SMA embolism**（最常見）：心房顫動/valvular disease。
+    - **SMA embolism**（最常見）：[[心臟內科#Atrial Fibrillation（AF）|心房顫動]]/valvular disease。
     - SMA thrombosis：動脈硬化。
     - Non-occlusive mesenteric ischemia（NOMI）：低心輸出量。
     - Mesenteric venous thrombosis（MVT）：hypercoagulable states。
@@ -342,7 +351,7 @@ credit:
 | 分布 | **Skip lesions** | **Continuous** |
 | 病理 | **Non-caseating granuloma** | Crypt abscess、mucosal ulceration |
 | 內視鏡 | Cobblestone、aphthous ulcers、linear ulcers | 黏膜瀰漫性發紅、糜爛、pseudopolyps |
-| 併發症 | Fistula、abscess、stricture/obstruction、perianal disease | **Toxic megacolon**、massive hemorrhage、常伴隨 PSC |
+| 併發症 | Fistula、abscess、stricture/obstruction、perianal disease | **[[大腸直腸外科#Toxic Megacolon\|Toxic megacolon]]**、massive hemorrhage、常伴隨 PSC |
 | 手術 | 非治癒性（復發率高） | 治癒性（**Total proctocolectomy**） |
 | 癌症風險 | 略增 | **大腸癌風險顯著增加** |
 | 吸菸 | 惡化 CD | 保護 UC |
@@ -351,13 +360,13 @@ credit:
     - **CD**：慢性腹痛、腹瀉、體重減輕、發燒、肛周病變。
     - **UC**：左下腹絞痛、腹瀉（bloody）、黏液便、tenesmus。
 - 腸道外表現：
-    - 與疾病活動相關：erythema nodosum、peripheral arthritis、episcleritis、oral aphthous ulcers。
-    - 與疾病活動無關：pyoderma gangrenosum、ankylosing spondylitis、sacroiliitis、PSC、uveitis。
+    - 與疾病活動相關：[[皮膚科#結節性紅斑（Erythema Nodosum）|erythema nodosum]]、peripheral arthritis、[[眼科#上鞏膜炎與鞏膜炎|episcleritis]]、oral aphthous ulcers。
+    - 與疾病活動無關：[[皮膚科#壞疽性膿皮症（Pyoderma Gangrenosum, PG）|pyoderma gangrenosum]]、[[免疫風濕科#僵直性脊椎炎（Ankylosing Spondylitis, AS）|ankylosing spondylitis]]、sacroiliitis、PSC、[[眼科#葡萄膜炎（Uveitis）|uveitis]]。
 - 治療：
     - **輕度**：5-ASA（mesalamine），UC 首選但 CD 效果有限。
     - **中度**：Corticosteroids（budesonide），誘導緩解但不可用於維持。
     - **中重度**：Thiopurines（azathioprine/6-MP）、Methotrexate。
-    - **重度**：Anti-TNF-α（infliximab, adalimumab），使用前須排除 latent TB。
+    - **重度**：Anti-TNF-α（infliximab, adalimumab），使用前須排除 [[胸腔內科#潛伏結核感染治療|latent TB]]。
     - **其他**：vedolizumab（anti-integrin）、ustekinumab（anti-IL-12/23）、tofacitinib（JAK inhibitor）。
 
 ### 大腸憩室疾病（Diverticular Disease）
@@ -391,11 +400,12 @@ credit:
 
 - 單純憩室炎：抗生素（口服或 IV）。
 - 選擇性手術：復發性憩室炎、狹窄、fistula。
+- 手術詳見 [[大腸直腸外科#憩室炎（Diverticulitis）|大腸直腸外科的憩室炎]]
 
 ### 大腸癌（Colorectal Cancer, CRC）
 
 - 台灣癌症發生率前三；好發 >50 歲。
-- 危險因子：年齡、家族史、IBD、FAP、Lynch syndrome、紅肉、吸菸、酒精、肥胖。
+- 危險因子：年齡、家族史、IBD、FAP、[[大腸直腸外科#Lynch Syndrome（HNPCC）|Lynch syndrome]]、紅肉、吸菸、酒精、肥胖。
 - **Adenoma-Carcinoma Sequence**：正常黏膜 → polyp → dysplasia → carcinoma（APC → KRAS → TP53 → invasive cancer）。
 - 息肉類型：
 
@@ -415,12 +425,12 @@ credit:
 | **Familial Adenomatous Polyposis（FAP）** | **APC**（AD） | :red[>100] 腺瘤性息肉；不治療 → 100% 癌化；治療：prophylactic total proctocolectomy |
 | **Gardner syndrome** | APC | FAP + osteoma + desmoid tumor + 表皮囊腫 |
 | **Turcot syndrome** | APC 或 MMR | FAP + CNS tumor（APC → medulloblastoma；MMR → glioblastoma） |
-| **Lynch syndrome（HNPCC）** | **MMR genes**（AD） | 最常見遺傳性 CRC；**右側大腸多**；**microsatellite instability（MSI-H）**；合併子宮內膜癌/卵巢癌/泌尿道癌 |
-| **Peutz-Jeghers syndrome** | **STK11/LKB1**（AD） | Hamartomatous polyps + 口唇/手足黑斑；GI 癌及乳癌/胰臟癌風險增加 |
+| **Lynch syndrome（HNPCC）** | **MMR genes**（AD） | 最常見遺傳性 CRC；**右側大腸多**；**microsatellite instability（MSI-H）**；合併[[婦科#子宮內膜癌（Endometrial Cancer）\|子宮內膜癌]]/卵巢癌/泌尿道癌 |
+| **[[大腸直腸外科#Peutz-Jeghers Syndrome\|Peutz-Jeghers syndrome]]** | **STK11/LKB1**（AD） | Hamartomatous polyps + 口唇/手足黑斑；GI 癌及乳癌/胰臟癌風險增加 |
 
 - 篩檢：
     - Gold standard：**Colonoscopy** 每 10 年一次。
-    - 台灣國健署（2025 年起）：:red[45–74 歲]、以及 40–44 歲具一等親家族史者，每 2 年一次 **糞便免疫化學法（FIT）**。
+    - [[家庭醫學科#台灣癌症篩檢（國健署）|台灣國健署]]（2025 年起）：:red[45–74 歲]、以及 40–44 歲具一等親家族史者，每 2 年一次 **糞便免疫化學法（FIT）**。
     - CEA：非篩檢用；用於術後追蹤。
 - 診斷：Colonoscopy + biopsy → CT 分期。
 - 治療：
@@ -433,6 +443,7 @@ credit:
         - **MSI-H / dMMR tumor** → anti-PD-1（pembrolizumab）。
     - 可切除轉移病灶（如 liver mets）→ surgical resection。
     - 直腸癌 locally advanced → **neoadjuvant CCRT** → TME 手術。
+- 詳見 [[生化異常#其他腫瘤標記升高（Elevated Tumor Markers）|腫瘤標記]]的使用原則
 
 ### 其他大腸疾病
 
@@ -477,7 +488,7 @@ credit:
 - 經典進程：periumbilical pain → McBurney's point（臍與右前上腸骨棘連線的外 1/3）。
 - 特殊徵象：Rovsing's sign、psoas sign、obturator sign。
 - 診斷：臨床 + CT；US 或 MRI（小兒/孕婦）。
-- 治療：**Laparoscopic appendectomy**；uncomplicated 可考慮 antibiotics-first。
+- 治療：**[[大腸直腸外科#闌尾炎（Appendicitis）|Laparoscopic appendectomy]]**；uncomplicated 可考慮 antibiotics-first。
 - 併發症：穿孔 → abscess/phlegmon → percutaneous drainage + 抗生素 → interval appendectomy（6–8 週後）。
 
 #### 肛門直腸疾病
@@ -485,14 +496,15 @@ credit:
 - **痔瘡**：
     - 內痔（齒狀線以上，visceral innervation → 不痛）、外痔（齒狀線以下，somatic innervation → 痛）。
     - 分級：I 度（不脫出）、II 度（脫出可自行復位）、III 度（需手動復位）、IV 度（不可復位/嵌頓）。
-    - 治療：I–II 度 → 保守 + rubber band ligation；III–IV 度 → 手術（hemorrhoidectomy）。
+    - 治療：I–II 度 → 保守 + [[大腸直腸外科#痔瘡（Hemorrhoids）|rubber band ligation]]；III–IV 度 → 手術（hemorrhoidectomy）。
 - **肛裂**：
     - 最常見位置 **posterior midline**；非典型位置 → 考慮 Crohn's、cancer、STI。
-    - 治療：保守（sitz bath、高纖飲食）；慢性 → lateral internal sphincterotomy。
+    - 治療：保守（sitz bath、高纖飲食）；慢性 → [[大腸直腸外科#肛裂（Anal Fissure）|lateral internal sphincterotomy]]。
 - **肛門廔管**：
     - 多源於肛腺感染 → 肛周膿瘍 → fistula。
     - **Goodsall's rule**：前方 fistula → 直線通向肛管；後方 → 彎曲通向 posterior midline。
-    - 治療：fistulotomy 或 seton placement；複雜型/Crohn's → 先 seton + anti-TNF。
+    - 治療：[[大腸直腸外科#肛門瘻管（Anal Fistula）|fistulotomy]] 或 seton placement；複雜型/Crohn's → 先 seton + anti-TNF。
+- 詳見 [[消化系統主訴#肛門直腸症狀（Anorectal Symptoms）|肛門直腸症狀]]
 
 ### 下消化道出血（Lower GI Bleeding）
 
@@ -501,13 +513,13 @@ credit:
 
 | 年齡 | 最常見原因 |
 |------|----------|
-| 青壯年 | Meckel's diverticulum、IBD |
+| 青壯年 | [[小兒外科#梅克爾憩室（Meckel's Diverticulum）\|Meckel's diverticulum]]、IBD |
 | 成人 | Diverticulosis |
 | 中老年 | Diverticulosis、angiodysplasia、大腸癌 |
 
 - **Angiodysplasia（AVM）**：
     - 好發 **右側結腸（cecum/ascending colon）**。
-    - 常見於 aortic stenosis 患者（**Heyde syndrome**）。
+    - 常見於 [[心臟內科#主動脈瓣狹窄（Aortic Stenosis, AS）|aortic stenosis]] 患者（**Heyde syndrome**）。
 - **Meckel's diverticulum**：
     - Rule of 2's（距回盲瓣 2 feet、長 2 inches、2% 人口有、2 歲前出血）。
     - 含 ectopic **gastric mucosa** → 潰瘍出血。
@@ -519,6 +531,7 @@ credit:
     4. CT angiography：活動性大量出血（:red[>0.3–0.5 mL/min]）。
     5. Nuclear medicine RBC scan：較慢速出血（:red[>0.1 mL/min]）。
     6. 最後手段：Angiography → 手術。
+- 詳見 [[消化系統主訴#下消化道出血（Lower GI Bleeding）|下消化道出血]]、[[消化系統主訴#潛血與不明原因消化道出血（Occult / Obscure GI Bleeding）|潛血與不明原因消化道出血]]的評估流程
 
 ## 肝臟疾病
 
@@ -542,6 +555,7 @@ credit:
     - :red[**R ≥ 5**] → Hepatocellular type。
     - **2 < R < 5** → Mixed type。
     - :red[**R ≤ 2**] → Cholestatic type。
+- 詳見 [[生化異常#轉胺酶升高（Elevated Aminotransferases）|轉胺酶升高]]、[[生化異常#鹼性磷酸酶升高（Elevated Alkaline Phosphatase）|鹼性磷酸酶升高]]、[[消化系統主訴#黃疸（Jaundice）|黃疸]]的評估流程
 
 ### 病毒性肝炎 (Viral Hepatitis)
 
@@ -584,7 +598,7 @@ credit:
     - **Entecavir** 或 **Tenofovir**：首選口服抗病毒藥。
     - Pegylated interferon-α：有限療程，但副作用多。
 - 預防：
-    - 台灣自 1984 年全面新生兒 B 肝疫苗接種。
+    - [[家庭醫學科#台灣常規兒童疫苗時程重點|台灣自 1984 年全面新生兒 B 肝疫苗接種]]。
     - HBsAg(+) 母親：:red[出生 24 小時內]打 **HBIG + B 肝疫苗第一劑**。
     - 高病毒量母親：懷孕後期口服抗病毒藥。
 - 新藥：反義寡核苷酸 bepirovirsen，詳見 [[2026-w43#FDA 核准 bepirovirsen：第一個以「停藥後仍受控」為目標的 B 肝新藥|醫學周報 2026 第 43 週]]。
@@ -598,7 +612,7 @@ credit:
     - **DAA（Direct-Acting Antivirals）**：Sofosbuvir/Velpatasvir、Glecaprevir/Pibrentasvir。
     - 療程：通常 8–12 週，**治癒率 >95%**。
     - 治療目標：治療結束後 12 週 HCV RNA undetectable。
-- HCV 相關肝外表現：mixed cryoglobulinemia、porphyria cutanea tarda、Non-Hodgkin lymphoma、insulin resistance。
+- HCV 相關肝外表現：[[免疫風濕科#小血管炎（Small-vessel Vasculitis）|mixed cryoglobulinemia]]、porphyria cutanea tarda、[[血液腫瘤科#Non-Hodgkin Lymphoma（NHL）|Non-Hodgkin lymphoma]]、insulin resistance。
 
 #### Hepatitis D（HDV）
 
@@ -671,7 +685,7 @@ credit:
 - 抗體：**Anti-mitochondrial Ab（AMA）** 陽性；AMA 陰性時驗 **sp100、gp210**。
 - 病理：自體免疫破壞肝內小膽管 → 膽汁淤積。
 - 症狀：搔癢、疲倦、黃疸。
-- 常合併：Sjögren's syndrome、甲狀腺疾病。
+- 常合併：[[免疫風濕科#Sjögren's Syndrome（乾燥症候群）|Sjögren's syndrome]]、甲狀腺疾病。
 - 治療：
     - 第一線：**Ursodeoxycholic acid（UDCA）**。
     - UDCA 反應不佳：加 **PPAR 致效劑**（elafibranor、seladelpar）；UDCA 不耐受可單用。
@@ -690,7 +704,7 @@ credit:
 ### 急性肝衰竭（Acute Liver Failure, ALF）
 
 - 定義：**無先存慢性肝病** + **coagulopathy（:red[INR ≥1.5]）** + **hepatic encephalopathy** + 病程 :red[**<26 週**]。
-- 病因：**Acetaminophen 過量**（西方最常見）、**HBV 急性發作**（台灣最常見）、毒物（Amanita phalloides 蕈類）、急性 HAV/HEV、Wilson's disease、autoimmune hepatitis、AFLP、缺血性肝炎。
+- 病因：**Acetaminophen 過量**（西方最常見）、**HBV 急性發作**（台灣最常見）、毒物（Amanita phalloides 蕈類）、急性 HAV/HEV、Wilson's disease、autoimmune hepatitis、[[產科#妊娠期急性脂肪肝（Acute Fatty Liver of Pregnancy, AFLP）|AFLP]]、缺血性肝炎。
 - 臨床表現與併發症：
     - **Coagulopathy**：合成能下降、無法合成凝血因子。
     - **腦水腫/顱內高壓**：代謝能下降、無法代謝 ammonia。
@@ -709,8 +723,8 @@ credit:
 - 症狀：
     - 代謝合成↓：黃疸、凝血異常、水腫。
     - 門脈高壓：腹水、靜脈曲張、脾腫大（導致 thrombocytopenia）。
-    - 雌激素堆積：spider angioma、gynecomastia、palmar erythema。
-- Child-Pugh Score（評估肝硬化嚴重度）：
+    - 雌激素堆積：spider angioma、[[乳房外科#男性女乳症（Gynecomastia）|gynecomastia]]、palmar erythema。
+- [[肝膽胰外科#Child-Pugh Score & MELD Score|Child-Pugh Score]]（評估肝硬化嚴重度）：
 
 | 參數 | 1 分 | 2 分 | 3 分 |
 |------|------|------|------|
@@ -722,6 +736,7 @@ credit:
 
 - **Child A**（5–6）：代償良好；**Child B**（7–9）：中度；**Child C**（10–15）：失代償。
 - **MELD-Na Score**：用於肝移植排序（Bilirubin、INR、Creatinine、**Na**）。
+- 詳見 [[消化系統主訴#肝脾腫大（Hepatosplenomegaly）|肝脾腫大]]
 
 ### 門脈高壓（Portal Hypertension）
 
@@ -744,7 +759,7 @@ credit:
     2. IV **Octreotide**（somatostatin analogue）或 terlipressin（vasopressin analogue）→ 減少內臟血流。
     3. **預防性抗生素**（:red[ceftriaxone 1 g/day × 7 天]）→ 降低感染/再出血/死亡率。
     4. :red[**EGD within 12 hours**] → **EVL** 為首選止血方式。
-    5. 失敗 → **Balloon tamponade**（SB tube，暫時）→ **TIPS**（transjugular intrahepatic portosystemic shunt）。
+    5. 失敗 → **Balloon tamponade**（SB tube，暫時）→ **[[肝膽胰外科#食道靜脈曲張出血（Esophageal Variceal Bleeding）|TIPS]]**（transjugular intrahepatic portosystemic shunt）。
 
 #### 胃靜脈曲張
 
@@ -760,7 +775,7 @@ credit:
 
 | SAAG | :red[≥ 1.1 g/dL]（門脈高壓相關） | < 1.1 g/dL（非門脈高壓） |
 |------|----------------------------|--------------------------|
-| 原因 | 肝硬化、心衰竭、Budd-Chiari | 腹膜癌轉移、TB peritonitis、nephrotic syndrome|
+| 原因 | 肝硬化、心衰竭、Budd-Chiari | 腹膜癌轉移、TB peritonitis、[[腎臟內科#Nephrotic Syndrome\|nephrotic syndrome]]|
 
 - 治療階梯：
     1. 限鈉（<2 g/day）。
@@ -772,6 +787,7 @@ credit:
     - 最常見病原菌：**E. coli**、Klebsiella。
     - 診斷：腹水 :red[**PMN（多形核白血球）≥ 250/mm³**]。
     - 治療：**Ceftriaxone** 或 cefotaxime、補充 albumin。
+- 詳見 [[消化系統主訴#腹水（Ascites）|腹水]]的評估流程
 
 ### 肝性腦病變（Hepatic Encephalopathy）
 
@@ -817,7 +833,7 @@ credit:
 |------|------|------|
 | 0（Very early） | 單顆 ≤2 cm，Child A | 手術切除、RFA |
 | A（Early） | 單顆、≤3 顆各 ≤3 cm、Child A–B | 手術切除、RFA、肝移植 |
-| B（Intermediate） | 多發、大腫瘤、Child A–B | **TACE**（經動脈化學栓塞） |
+| B（Intermediate） | 多發、大腫瘤、Child A–B | **[[肝膽胰外科#肝細胞癌（Hepatocellular Carcinoma, HCC）\|TACE]]**（經動脈化學栓塞） |
 | C（Advanced） | 門脈侵犯/遠端轉移 | **Systemic therapy** |
 | D（Terminal） | Child C，PS >2 | Best supportive care/肝移植評估 |
 
@@ -836,11 +852,12 @@ credit:
 - **Hemangioma**：最常見良性肝腫瘤、不需治療。
 - **Focal Nodular Hyperplasia（FNH）**：影像特徵為 central scar、不需治療。
 - **Hepatic Adenoma**：與 OCP 相關、有出血和惡性轉變風險、:red[>5 cm] 建議切除。
+- 詳見 [[偶發病灶#肝臟偶發病灶（Incidental Liver Lesion）|肝臟偶發病灶]]的評估
 
 #### Wilson's Disease
 
 - AR 遺傳，**ATP7B** 基因突變 → 銅代謝異常 → 銅沉積於肝/腦/角膜。
-- 表現：肝炎/肝硬化（兒童）、神經精神症狀（成人）、**Kayser-Fleischer rings**（角膜銅沉積環）、溶血性貧血（Coombs-negative）。
+- 表現：肝炎/肝硬化（兒童）、[[神經內科#威爾森氏病（Wilson Disease）|神經精神症狀]]（成人）、**Kayser-Fleischer rings**（角膜銅沉積環）、溶血性貧血（Coombs-negative）。
 - 診斷：**Ceruloplasmin 降低**、24 小時尿銅升高、肝銅含量升高。
 - 治療：**D-penicillamine**（首選螯合劑）、Trientine（替代螯合劑）、Zinc（阻斷腸道銅吸收）、肝移植。
 
@@ -856,14 +873,14 @@ credit:
 
 - AR 遺傳，**PiZZ** 表型最嚴重。
 - 肝臟：新生兒膽汁淤積、肝硬化、HCC。
-- 肺臟：早發性肺氣腫（panacinar，下肺葉為主）。
+- 肺臟：[[胸腔內科#慢性阻塞性肺病（COPD）|早發性肺氣腫]]（panacinar，下肺葉為主）。
 - 診斷：血清 α1-AT 降低 + Pi typing、肝切片。
 - 治療：肝移植。
 
 #### Budd-Chiari Syndrome
 
 - 肝靜脈流出道阻塞 → 肝充血、壞死。
-- 原因：骨髓增殖性腫瘤（MPD）、hypercoagulable states。
+- 原因：[[血液腫瘤科#骨髓增生性腫瘤（Myeloproliferative Neoplasms, MPN）|骨髓增殖性腫瘤（MPD）]]、hypercoagulable states。
 - 表現：急性腹痛、肝腫大。
 - 診斷：Doppler US → CT/MRI → venography。
 - 治療：抗凝血 → angioplasty/stent → TIPS → 肝移植。
@@ -872,7 +889,7 @@ credit:
 
 | 特徵 | 細菌性（Pyogenic） | 阿米巴性（Amoebic） |
 |------|-------------------|---------------------|
-| 最常見菌 | **Klebsiella pneumoniae**、E. coli | Entamoeba histolytica |
+| 最常見菌 | **Klebsiella pneumoniae**、E. coli | [[肝膽胰外科#阿米巴性肝膿瘍（Amoebic Liver Abscess）\|Entamoeba histolytica]] |
 | 來源 | 膽道感染、經門脈感染 | 經門脈感染 |
 | 位置 | 右葉多見，可多發 | 右葉，通常單發 |
 | 膿液 | 多菌種、臭味 | **Anchovy paste**（巧克力醬樣）|
@@ -891,7 +908,7 @@ credit:
 | 類型 | 成分 | 危險因子 | X 光 |
 |------|------|----------|------|
 | 膽固醇結石（最常見） | 膽固醇 | 4F（Female, Forty, Fertile, Fat）、OCP、rapid weight loss、fibrate | 多數 radiolucent |
-| 黑色素結石 | Calcium bilirubinate | 溶血性疾病、肝硬化 | Radiopaque |
+| 黑色素結石 | Calcium bilirubinate | [[血液異常#溶血（Hemolysis）\|溶血性疾病]]、肝硬化 | Radiopaque |
 | 棕色素結石 | Calcium bilirubinate + bacteria | 膽道感染、寄生蟲（Clonorchis sinensis）、膽道支架 | Radiopaque |
 
 #### 膽囊結石（Gallbladder Stone）
@@ -902,6 +919,7 @@ credit:
     - 有症狀（膽絞痛）者 → 擇期腹腔鏡膽囊切除（最主要適應症）。
     - 已發生併發症（膽囊炎、膽石性胰臟炎、膽管結石）。
     - 無症狀但具癌化/併發風險：porcelain gallbladder、膽囊息肉 >1 cm、結石 >3 cm、anomalous pancreaticobiliary junction。
+- 膽囊息肉的處置詳見 [[偶發病灶#膽囊息肉（Gallbladder Polyp）|膽囊息肉]]
 
 #### 膽管結石（Choledocholithiasis）
 
@@ -928,7 +946,7 @@ credit:
 - 併發症：壞疽 → 穿孔 → 膽汁性腹膜炎、膽囊周圍膿瘍。
 - 治療：
     - NPO + IV fluid + 抗生素。
-    - **Laparoscopic cholecystectomy**：首選治療，建議 :red[72 小時內]。
+    - **[[肝膽胰外科#急性膽囊炎（Acute Cholecystitis）|Laparoscopic cholecystectomy]]**：首選治療，建議 :red[72 小時內]。
     - **Percutaneous drainage (PTGBD)**：手術風險太高者。
 
 #### 急性膽管炎（Cholangitis）
@@ -941,6 +959,7 @@ credit:
     - Grade II（moderate）：24 小時內膽道引流。
     - Grade III（severe）：**緊急膽道引流**（ERCP 首選；PTCD）+ ICU。
 - 經驗性抗生素：**piperacillin-tazobactam** 或 3rd-gen cephalosporin + metronidazole。
+- 引流與手術詳見 [[肝膽胰外科#急性膽管炎（Acute Cholangitis）|肝膽胰外科的急性膽管炎]]
 
 ### 膽道腫瘤
 
@@ -954,10 +973,10 @@ credit:
 
 #### 膽管癌（Cholangiocarcinoma, CCA）
 
-- 分類：肝內（intrahepatic）、肝門部（perihilar/Klatskin tumor，**最常見**）、遠端（distal）。
-- 危險因子：**PSC**（最重要）、肝吸蟲（Clonorchis sinensis）、膽管囊腫（choledochal cyst）、HBV/HCV、hepatolithiasis。
+- 分類：肝內（intrahepatic）、肝門部（perihilar/[[肝膽胰外科#Klatskin Tumor（Perihilar Cholangiocarcinoma）|Klatskin tumor]]，**最常見**）、遠端（distal）。
+- 危險因子：**PSC**（最重要）、肝吸蟲（Clonorchis sinensis）、膽管囊腫（[[肝膽胰外科#膽道囊腫（Choledochal Cyst）|choledochal cyst]]）、HBV/HCV、hepatolithiasis。
 - **Courvoisier's sign**：painless jaundice + 膽囊可觸及腫大 → 提示 **惡性遠端膽道阻塞**。
-- 腫瘤標記：**CA 19-9**。
+- 腫瘤標記：**[[生化異常#其他腫瘤標記升高（Elevated Tumor Markers）|CA 19-9]]**。
 - 診斷：MRCP/CT → ERCP（brushing cytology）。
 - 治療：
     - 手術切除：唯一根治。
@@ -968,7 +987,7 @@ credit:
 ### 急性胰臟炎（Acute Pancreatitis）
 
 - 兩大最常見原因：**膽結石**（40%）、**酒精**（30%）。
-- 其他原因：高三酸甘油酯（:red[TG >1000 mg/dL]）、ERCP 後、藥物、自體免疫、外傷、pancreas divisum、高血鈣。
+- 其他原因：[[代謝內分泌科#Severe Hypertriglyceridemia|高三酸甘油酯]]（:red[TG >1000 mg/dL]）、ERCP 後、藥物、自體免疫、外傷、pancreas divisum、[[電解質與酸鹼#高血鈣（Hypercalcemia）|高血鈣]]。
 - 診斷（符合 ≥2/3）：
     1. 腹痛：上腹痛放射至背部、前傾坐姿可緩解。
     2. 實驗室：**Lipase 或 Amylase** :red[≥ 3 倍正常上限]（lipase 較敏感、持續較久；**數值高低與嚴重度無關**）。
@@ -1001,7 +1020,8 @@ credit:
 - **Infected necrosis（感染性壞死）**：
     - 懷疑時機：胰臟炎 2–4 週後持續發燒/白血球升高、CT 見壞死內 gas bubbles。
     - 治療：抗生素 → **延遲引流/清創**（待 WON 形成） → step-up approach（percutaneous/endoscopic drainage → necrosectomy）。
-- 全身併發症：ARDS、AKI、低血鈣（脂肪皂化）、高血糖、DIC。
+- 全身併發症：[[胸腔內科#急性呼吸窘迫症候群（ARDS）|ARDS]]、AKI、[[電解質與酸鹼#低血鈣（Hypocalcemia）|低血鈣]]（脂肪皂化）、高血糖、[[血液腫瘤科#DIC（Disseminated Intravascular Coagulation）|DIC]]。
+- 詳見 [[生化異常#澱粉酶與脂肪酶升高（Elevated Amylase / Lipase）|澱粉酶與脂肪酶升高]]、[[消化系統主訴#急性腹痛（Acute Abdominal Pain）|急性腹痛]]的評估流程
 
 ### 慢性胰臟炎（Chronic Pancreatitis）
 
@@ -1022,7 +1042,7 @@ credit:
 
 ### 自體免疫性胰臟炎（Autoimmune Pancreatitis）
 
-- **Type 1**：IgG4-related，最常見；可合併硬化性膽管炎、淚腺/唾液腺腫大等。
+- **Type 1**：[[免疫風濕科#IgG4-Related Disease（IgG4-RD）|IgG4-related]]，最常見；可合併硬化性膽管炎、淚腺/唾液腺腫大等。
     - 影像：胰臟瀰漫性腫大呈 **sausage-shaped**（需與胰臟癌鑑別）。
     - 治療：**Corticosteroids**（反應極佳，為診斷性治療）。
 - Type 2：與 IBD（尤其 UC）相關；IgG4 通常正常。
@@ -1040,7 +1060,7 @@ credit:
     - CT：動脈期低顯影、double duct sign。
     - EUS + FNA：組織學確認。
 - 手術：
-    - 胰頭：**Whipple procedure（pancreaticoduodenectomy）**。
+    - 胰頭：**[[肝膽胰外科#Whipple Procedure（胰十二指腸切除術）|Whipple procedure（pancreaticoduodenectomy）]]**。
     - 胰體/尾：distal pancreatectomy + splenectomy。
 - 化療：Gemcitabine + nab-paclitaxel 或 **FOLFIRINOX**（leucovorin + 5-FU + irinotecan + oxaliplatin）。
 - 預後：極差，5 年存活率 <10%。
@@ -1053,3 +1073,5 @@ credit:
 | Mucinous cystic neoplasm（MCN） | 中年女性 | 胰體/尾 | **中高** | **手術切除** |
 | Intraductal papillary mucinous neoplasm（IPMN） | 老年 | 胰頭多 | Main duct type：高；Branch duct type：低–中 | Main duct → 手術；Branch duct → 依風險決定 |
 | Solid pseudopapillary neoplasm（SPN） | **年輕女性** | 任何位置 | 低惡性度 | 手術切除（預後佳） |
+
+- 偶然發現時的追蹤詳見 [[偶發病灶#胰臟囊性病灶（Pancreatic Cystic Lesion）|胰臟囊性病灶]]
