@@ -84,13 +84,14 @@ credit:
     - 血管損傷（Vascular injury）：股骨幹骨折 → 股動脈；膝關節脫位 → 膕動脈。
     - 神經損傷（Nerve injury）：肱骨中段骨折 → 橈神經；肱骨髁上骨折 → 前骨間神經。
     - 脂肪栓塞症候群（Fat embolism syndrome）：長骨骨折後 :red[24–72 小時]。
-    - 肺栓塞（PE）。
-    - Compartment syndrome。
+    - [[胸腔內科#肺栓塞（Pulmonary Embolism）|肺栓塞（PE）]]。
+    - [[外科概論#Compartment Syndrome（四肢）|Compartment syndrome]]。
 - **晚期（Late）**：
     - 缺血性骨壞死（AVN）：股骨頸骨折、距骨骨折、舟狀骨骨折。
     - 關節炎（Post-traumatic arthritis）。
     - 骨化性肌炎（Myositis ossificans）：肌肉內異位骨化，常見於肘關節。
     - 骨折病（Fracture disease）：長期制動 → 骨質疏鬆、關節僵硬、肌肉萎縮。
+- 詳見 [[肌肉骨骼系統主訴#肢體外傷與骨折（Limb Injury / Fracture）|肢體外傷與骨折]]的評估流程
 
 ## 上肢骨折
 
@@ -227,7 +228,8 @@ credit:
     - 骨盆外固定器（pelvi binder / external fixator）：暫時穩定 APC/VS。
     - 腹膜外填塞（Preperitoneal packing）：術中填塞骨盆。
     - **血管攝影栓塞（Angioembolization）**：動脈出血首選。
-- 合併傷：膀胱、尿道、直腸、骨盆神經損傷。
+- 合併傷：[[泌尿科#泌尿道創傷|膀胱、尿道]]、直腸、骨盆神經損傷。
+- 泌尿道合併傷詳見 [[泌尿科#尿道創傷|泌尿科的尿道創傷]]
 
 ### 髖關節脫臼（Hip Dislocation）
 
@@ -248,7 +250,7 @@ credit:
 
 #### 股骨頸骨折（Femoral Neck Fracture）
 
-- 多見於**骨質疏鬆老年女性**。
+- 多見於**[[代謝內分泌科#骨質疏鬆症（Osteoporosis）|骨質疏鬆老年女性]]**。
 - **Garden 分類**：
     - I：不完全骨折（外翻嵌入）。
     - II：完全骨折無位移。
@@ -394,10 +396,11 @@ credit:
 #### 脊髓損傷急性期處理
 
 - 固定頸椎（C-collar）、ABC 與生命徵象穩定；維持 :red[MAP 85–90 mmHg] 以確保脊髓灌流。
-- 注意**神經性休克（Neurogenic shock）**：低血壓 + 心搏過緩（與出血性休克鑑別）。
+- 注意**[[神經外科#神經性休克（Neurogenic Shock）|神經性休克（Neurogenic shock）]]**：低血壓 + 心搏過緩（與出血性休克鑑別）。
 - **類固醇（Methylprednisolone）**：曾建議 8 小時內給予，但因感染、消化道出血等併發症且療效證據不足，**目前多數指引不建議常規使用**。
 - 手術適應症：骨折不穩定、神經壓迫持續惡化、開放性損傷。
 - **脊髓休克（Spinal shock）**：急性期反射消失，以 bulbocavernosus reflex 恢復為結束指標，之後方能判定完全性損傷。
+- 復健與長期併發症詳見 [[復健科#脊髓損傷常見併發症|復健科的脊髓損傷]]
 
 ## 關節炎
 
@@ -415,6 +418,8 @@ credit:
 - 護具：軟式護膝便宜、接受度高，作為運動與減重的輔助；單側（多為內側）腔室的膝關節炎可用**減壓型護具（unloader）**減少該側負重，疼痛小幅改善，但穿戴不舒服、順從性差。
 :::
 
+- 詳見 [[肌肉骨骼系統主訴#膝痛（Knee Pain）|膝痛]]的評估流程；雷射與低劑量放射治療詳見 [[20261102-ortho-clinic#討論二：雷射與低劑量放射治療退化性關節炎|骨科診所跟診]]（逐篇筆記）
+
 ### 類風濕性關節炎（Rheumatoid Arthritis, RA）
 
 - 自體免疫疾病，滑膜炎為主，**對稱性多關節炎**。
@@ -428,6 +433,7 @@ credit:
 - X-ray：關節間隙變窄、**骨侵蝕（erosion）**、骨質疏鬆（periarticular）。
 - 治療：NSAIDs → **DMARDs（Methotrexate 首選）** → Biologics（Anti-TNF 等）。
 - 骨科處置：滑膜切除術、關節置換。
+- 內科治療詳見 [[免疫風濕科#類風濕性關節炎（Rheumatoid Arthritis, RA）|免疫風濕科的 RA]]
 
 ### 痛風性關節炎（Gout）
 
@@ -444,6 +450,8 @@ credit:
 
 ::chart{id="gout-management"}
 
+- 詳見 [[肌肉骨骼系統主訴#急性單關節炎（Acute Monoarthritis）|急性單關節炎]]的評估流程
+
 ### 假痛風（Pseudogout / CPPD）
 
 - **焦磷酸鈣（Calcium pyrophosphate dihydrate, CPPD）**結晶。
@@ -459,7 +467,7 @@ credit:
     - **後側入路（Posterior approach）**：最常見，脫位率較高（易後脫位），可能傷及坐骨神經。
     - 前側入路（Anterior approach）：脫位率低、復原快，技術要求高；易傷股外側皮神經。
     - 外側入路（Lateral approach）：外展肌無力 → Trendelenburg 步態。
-- 合併症：**脫位**、DVT/PE、感染、腿長不等、神經損傷、無菌性鬆脫。
+- 合併症：**脫位**、[[外科概論#深部靜脈栓塞（DVT）/ 肺栓塞（PE）|DVT/PE]]、感染、腿長不等、神經損傷、無菌性鬆脫。
 - 脫位高峰：**:red[術後 3 個月內]**。
 - 術後預防脫位（後側入路）：避免屈髖 :red[>90°]、避免內收內旋、不交叉雙腿、坐高椅、不彎腰撿物。
 
@@ -482,9 +490,9 @@ credit:
 
 - 好發：**兒童長骨幹骺端（Metaphysis）**（血流慢，缺少吞噬細胞）。
 - 最常見病原菌：
-    - 一般：**S. aureus（最常見）**。
+    - 一般：**[[感染科#Staphylococcus aureus|S. aureus（最常見）]]**。
     - 新生兒：S. aureus、GBS（Group B Strep）、Gram(-)。
-    - 鐮刀型紅血球病（Sickle cell disease）：**Salmonella**。
+    - 鐮刀型紅血球病（[[血液腫瘤科#鐮刀型紅血球症（Sickle Cell Disease）|Sickle cell disease]]）：**Salmonella**。
     - 靜脈藥癮者（IVDU）：Pseudomonas。
 - 症狀：發燒、局部紅腫熱痛、不願使用患肢。
 - 診斷：
@@ -508,13 +516,14 @@ credit:
 ### 化膿性關節炎（Septic Arthritis）
 
 - **骨科急症**（延遲處理 → 軟骨破壞）。
-- 常見病原菌：**S. aureus**（最常見）、**Neisseria gonorrhoeae**（性活躍年輕人）。
+- 常見病原菌：**S. aureus**（最常見）、**[[感染科#N. gonorrhoeae（淋病雙球菌）|Neisseria gonorrhoeae]]**（性活躍年輕人）。
 - 症狀：單關節急性紅腫熱痛、發燒、關節活動受限。
 - 最好發關節：膝（成人最常見）、髖（兒童最常見）。
 - 診斷：關節液 :red[WBC >50,000/mm³]、Gram stain + culture。
 - 治療：
     1. **關節引流**（Surgical drainage 或反覆關節穿刺）。
     2. 抗生素（依培養結果，至少 2–4 週）。
+- 詳見 [[肌肉骨骼系統主訴#急性單關節炎（Acute Monoarthritis）|急性單關節炎]]的評估流程
 
 ## 骨骼腫瘤
 
@@ -539,7 +548,7 @@ credit:
 | **骨肉瘤（Osteosarcoma）** | 股骨遠端、脛骨近端、肱骨近端 | **10–20 歲** | 溶骨+成骨混合，**Codman's triangle**（periosteal reaction），**sunburst pattern** | **最常見原發惡性骨腫瘤（兒童/青少年）**；肺轉移常見 |
 | **軟骨肉瘤（Chondrosarcoma）** | 骨盆、肱骨、股骨近端（近軀幹） | **40–70 歲** | 溶骨，鈣化（stippled/rings-and-arcs pattern），皮質破壞 | 化療/放療不敏感 → **外科手術切除為主** |
 | **Ewing's sarcoma** | 股骨幹、骨盆、肋骨（扁平骨、長骨骨幹） | **5–15 歲** | 溶骨，**Onion skin periosteal reaction**，髓腔侵犯 | t(11;22)，EWS-FLI1 融合基因；高熱、ESR↑（似骨髓炎） |
-| **多發性骨髓瘤（Multiple Myeloma）** | 脊椎、顱骨、肋骨、骨盆 | **>50 歲** | 多發性打孔狀（punched-out）溶骨病灶，無骨膜反應 | 骨髓腫瘤（非原發骨腫瘤）；M spike、BJP（尿液 Bence Jones protein）；治療：化療 ± 幹細胞移植 |
+| **[[血液腫瘤科#多發性骨髓瘤（Multiple Myeloma）\|多發性骨髓瘤（Multiple Myeloma）]]** | 脊椎、顱骨、肋骨、骨盆 | **>50 歲** | 多發性打孔狀（punched-out）溶骨病灶，無骨膜反應 | 骨髓腫瘤（非原發骨腫瘤）；M spike、BJP（尿液 Bence Jones protein）；治療：化療 ± 幹細胞移植 |
 
 ### 骨轉移癌（Bone Metastasis）
 
@@ -547,8 +556,9 @@ credit:
 - 常見原發：乳癌（最常見）、攝護腺癌、肺癌、腎臟癌、甲狀腺癌。
 - 好發位置：脊椎 > 肋骨 > 骨盆 > 股骨近端。
 - **攝護腺癌**轉移：**成骨性（Blastic）**；腎癌轉移：溶骨性（Lytic）；乳癌：混合型。
-- 脊椎骨轉移 → 病理性骨折 → 脊髓壓迫（Cord compression）：**緊急類固醇 + 放療/手術**。
+- 脊椎骨轉移 → 病理性骨折 → [[血液腫瘤科#Spinal Cord Compression|脊髓壓迫（Cord compression）]]：**緊急類固醇 + 放療/手術**。
 - **Mirel's score**：評估病理性骨折風險，決定是否預防性固定。
+- 影像意外發現的骨病灶詳見 [[偶發病灶#骨骼偶發病灶（Incidental Bone Lesion）|骨骼偶發病灶]]
 
 ### 軟組織腫瘤（Soft Tissue Sarcoma）
 
@@ -568,7 +578,7 @@ credit:
 - **好發骨折部位**：椎體 > 前臂（Colles）> 股骨頸。
 - 危險因子：停經後女性（雌激素↓）、高齡、類固醇、低 BMI、吸菸、飲酒、COPD、RA。
 - FRAX score：10 年骨折機率評估工具。
-- 診斷：DXA（雙能 X 光骨密度測定）；排除繼發性（甲狀腺、副甲狀腺、多發性骨髓瘤）。
+- 診斷：DXA（雙能 X 光骨密度測定）；排除繼發性（甲狀腺、副甲狀腺、[[血液腫瘤科#多發性骨髓瘤（Multiple Myeloma）|多發性骨髓瘤]]）。
 - 治療：
     - 非藥物：運動（負重、平衡訓練）、戒菸戒酒、跌倒預防。
     - **Calcium + Vitamin D**：所有患者基礎補充。
@@ -589,16 +599,19 @@ credit:
 
 ::chart{id="osteoporosis-treatment"}
 
+- 詳見 [[肌肉骨骼系統主訴#骨痛與脆弱性骨折（Bone Pain / Fragility Fracture）|骨痛與脆弱性骨折]]的評估流程；內分泌評估詳見 [[代謝內分泌科#骨質疏鬆症（Osteoporosis）|代謝內分泌科]]
+
 ### 骨軟化症（Osteomalacia）/ 佝僂病（Rickets）
 
 - 骨骼有機基質（Osteoid）無法正常礦化（鈣化）。
 - 兒童 → 佝僂病（Rickets）：生長板受影響。
 - 成人 → 骨軟化症（Osteomalacia）。
 - 最常見原因：**Vitamin D 缺乏（日照不足、飲食不足、吸收障礙）**。
-- 其他原因：腎衰竭（腎臟無法活化 Vit D）、低磷血症（X-linked hypophosphatemia）。
+- 其他原因：腎衰竭（腎臟無法活化 Vit D）、[[腎臟內科#低血磷（Hypophosphatemia）|低磷血症]]（X-linked hypophosphatemia）。
 - 實驗室：25-OH Vit D ↓、Ca²⁺ ↓、PO₄ ↓、**ALP↑**、PTH↑（繼發性）。
 - X-ray：**假性骨折（Looser zones / Milkman fractures）**：骨皮質橫向透亮線，常見於股骨、肋骨。
 - 治療：補充 Vitamin D + Calcium。
+- 詳見 [[代謝內分泌科#骨軟化症與佝僂病（Osteomalacia / Rickets）|代謝內分泌科的骨軟化症]]
 
 ### 副甲狀腺機能亢進（Hyperparathyroidism）
 
@@ -606,6 +619,7 @@ credit:
 - PTH↑ → 破骨活性↑ → 骨質吸收。
 - X-ray：骨膜下骨吸收（Subperiosteal resorption，**橈骨橈側緣最特徵**）、骨囊腫、Brown tumor（局部骨質吸收 + 纖維修復 → 褐色腫瘤）。
 - 顱骨：Salt-and-pepper skull。
+- 診斷與手術詳見 [[內分泌外科#原發性副甲狀腺機能亢進（Primary Hyperparathyroidism）|內分泌外科]]
 
 ### Paget's disease of bone
 
@@ -624,7 +638,7 @@ credit:
 - 其他部位：距骨、舟狀骨（腕）、肱骨頭、股骨內側髁。
 - 危險因子：
     - 創傷性：**股骨頸骨折（Garden III/IV）**、距骨頸骨折、舟狀骨近端骨折、髖關節脫臼（延遲復位）。
-    - 非創傷性：**長期類固醇使用（最常見非創傷原因）**、酗酒、鐮刀型紅血球病、潛水夫病（Caisson disease）、SLE、放射線治療。
+    - 非創傷性：**長期類固醇使用（最常見非創傷原因）**、酗酒、[[血液腫瘤科#鐮刀型紅血球症（Sickle Cell Disease）|鐮刀型紅血球病]]、潛水夫病（Caisson disease）、[[免疫風濕科#全身性紅斑狼瘡（SLE）|SLE]]、放射線治療。
 - 病理：缺血 → 骨小梁壞死 → 修復失敗 → 軟骨下骨折 → 關節面塌陷 → 退化性關節炎。
 - 分類：
     - Stage 0–I：X-ray 正常；MRI 可偵測早期變化。
@@ -689,6 +703,7 @@ credit:
     4. 癒合期（Healed）：股骨頭重塑（可能遺留扁平）。
 - 預後：發病年齡越小、累及越少 → 預後越好。
 - 治療：包容治療 → 保持股骨頭在髖臼內（外展石膏、截骨術）；觀察為主。
+- 詳見 [[肌肉骨骼系統主訴#髖部痛與跛行（Hip Pain / Limp）|髖部痛與跛行]]的評估流程
 
 ### 股骨頭骨骺滑脫（Slipped Capital Femoral Epiphysis, SCFE）
 
@@ -709,7 +724,7 @@ credit:
     - :red[<25°]：觀察。
     - :red[25–40°]：**背架（Brace）**。
     - \>40°：**手術矯正融合**。
-- 神經肌肉性（Neuromuscular）：腦性麻痺、肌肉萎縮症 → 較多手術。
+- 神經肌肉性（Neuromuscular）：[[復健科#腦性麻痺（Cerebral Palsy, CP）|腦性麻痺]]、肌肉萎縮症 → 較多手術。
 - 先天性（Congenital）：椎體異常（半椎體、椎體融合）。
 
 ### 多指畸形與併指畸形（Polydactyly & Syndactyly）
@@ -746,6 +761,7 @@ credit:
 - 治療：
     - 保守：復健（物理治療）、類固醇注射（短期緩解）。
     - 手術：完全撕裂、年輕患者、保守無效 → 關節鏡修補。
+- 詳見 [[肌肉骨骼系統主訴#肩膀痛（Shoulder Pain）|肩膀痛]]的評估流程
 
 #### 肩峰下夾擊症候群（Subacromial Impingement Syndrome）
 
@@ -775,6 +791,7 @@ credit:
 - 症狀：橈骨莖突部位疼痛。
 - **Finkelstein test**：拇指握入手掌後尺側偏腕 → 劇痛。
 - 治療：固定、類固醇注射；無效 → 手術鬆解腱鞘。
+- 詳見 [[肌肉骨骼系統主訴#手腕與手部疼痛（Wrist and Hand Pain）|手腕與手部疼痛]]的評估流程
 
 #### Trigger Finger（扳機指）
 
@@ -830,6 +847,7 @@ credit:
 - 治療：
     - 外緣小撕裂：保守。
     - 關節鏡：修補（年輕、外緣、急性）或切除（老年、內緣、退化性）。
+- 詳見 [[肌肉骨骼系統主訴#膝痛（Knee Pain）|膝痛]]的評估流程
 
 #### 髕腱斷裂（Patellar Tendon Rupture）
 
@@ -849,6 +867,7 @@ credit:
 - 治療：
     - 保守：長型石膏 / 功能性支具，蹠屈位（再斷率較高）。
     - 手術修補：年輕、運動員、競技需求（再斷率較低）。
+- 詳見 [[肌肉骨骼系統主訴#足踝痛（Foot and Ankle Pain）|足踝痛]]的評估流程
 
 ## 神經壓迫症候群
 
@@ -856,7 +875,7 @@ credit:
 
 - **最常見的周邊神經壓迫症候群**。
 - 正中神經（Median nerve）在腕隧道受壓。
-- 危險因子：懷孕、甲狀腺功能低下、糖尿病、RA、反覆動作。
+- 危險因子：懷孕、[[代謝內分泌科#甲狀腺機能低下（Hypothyroidism）|甲狀腺功能低下]]、糖尿病、RA、反覆動作。
 - 症狀：橈側三指半（拇、食、中、無名橈半）感覺異常、夜間疼痛、拇指對掌無力（魚際肌萎縮）。
 - 特殊測試：
     - **Phalen test**：腕屈曲 60 秒 → 症狀誘發。
@@ -865,6 +884,7 @@ credit:
 - 治療：
     - 保守：夾板（中立位）、類固醇注射。
     - **手術（腕橫韌帶鬆解術）**：保守無效、魚際肌萎縮。
+- 電生理與復健詳見 [[復健科#腕隧道症候群（Carpal Tunnel Syndrome, CTS）|復健科]]
 
 ### 肘隧道症候群（Cubital Tunnel Syndrome）
 
@@ -893,3 +913,4 @@ credit:
 - 血管型：靜脈 → 水腫；動脈 → 缺血。
 - **Adson test**：轉頭、仰頭、深呼吸後橈脈搏消失。
 - 治療：物理治療；手術（切除頸肋或第一肋）。
+- 手術詳見 [[胸腔外科#胸廓出口症候群（Thoracic Outlet Syndrome, TOS）|胸腔外科]]
