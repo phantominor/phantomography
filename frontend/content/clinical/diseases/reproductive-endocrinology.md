@@ -20,8 +20,9 @@ credit:
 4. **Estrogen + Progesterone challenge**（E2 × 21 天 + P × 後 7 天）：
     - **出血(+)** → estrogen 不足 → 查 FSH。
         - FSH↑ → **卵巢衰竭（POI/POF）**。
-        - FSH↓/正常 → **下視丘/垂體問題**（anorexia nervosa、Kallmann syndrome、Sheehan's syndrome）。
+        - FSH↓/正常 → **下視丘/垂體問題**（[[精神科#神經性厭食症（Anorexia Nervosa, AN）|anorexia nervosa]]、Kallmann syndrome、[[代謝內分泌科#腦下垂體功能低下（Hypopituitarism）|Sheehan's syndrome]]）。
     - **出血(−)** → **子宮/流出道問題**（**Asherman's syndrome** 最常見）。
+- 詳見 [[婦產主訴#無月經（Amenorrhea）|無月經]]的評估流程
 
 #### Asherman's Syndrome（子宮腔沾黏）
 
@@ -45,7 +46,7 @@ credit:
 
 | 疾病 | 核型 | FSH | 特徵 |
 |------|------|-----|------|
-| **Turner syndrome** | **45,X** | **↑** | **最常見原發性無月經原因**；矮小、蹼狀頸、盾狀胸、coarctation of aorta、horseshoe kidney、streak gonads |
+| **[[小兒科#Turner Syndrome（45,X）\|Turner syndrome]]** | **45,X** | **↑** | **最常見原發性無月經原因**；矮小、蹼狀頸、盾狀胸、[[心血管外科#主動脈縮窄（Coarctation of Aorta, CoA）\|coarctation of aorta]]、horseshoe kidney、streak gonads |
 | Kallmann syndrome | 46,XX | ↓ | GnRH 缺乏 + **嗅覺喪失（anosmia）** |
 | Hypothalamic/pituitary failure | 46,XX | ↓ | 各種原因：anorexia、excessive exercise、tumor |
 
@@ -57,9 +58,10 @@ credit:
     1. **慢性無排卵（Oligo- or anovulation）**：月經稀少 / 無月經。
     2. **臨床或生化高雄性素（Hyperandrogenism）**：痤瘡、多毛症、雄性禿；或血清 testosterone / DHEA-S 升高。
     3. **超音波呈多囊卵巢型態**：單側卵巢 :red[≥ 20 個（2–9 mm）]竇卵泡（舊標準 ≥ 12 個）或 卵巢體積 > 10 mL。
-- 須排除其他原因：CAH（late-onset 21-OHD）、Cushing's、androgen-secreting tumor、thyroid disease、hyperprolactinemia。
+- 須排除其他原因：[[代謝內分泌科#先天性腎上腺增生（Congenital Adrenal Hyperplasia, CAH）|CAH]]（late-onset 21-OHD）、[[代謝內分泌科#庫欣氏症候群（Cushing's Syndrome）|Cushing's]]、androgen-secreting tumor、thyroid disease、hyperprolactinemia。
 - 注意：**青少女不以超音波作為診斷依據**（生理性多濾泡常見）。
 - Testosterone :red[> 200 ng/dL] 或症狀急速進展 → 懷疑 **androgen-secreting tumor**。
+- 多毛的評估詳見 [[皮膚系統主訴#多毛（Hirsutism / Hypertrichosis）|多毛]]
 
 ### 病理生理
 
@@ -69,10 +71,10 @@ credit:
 
 ### 相關合併症
 
-- **代謝症候群**：肥胖、DM type 2、dyslipidemia、CVD 風險↑。
+- **[[代謝內分泌科#代謝症候群（Metabolic Syndrome）|代謝症候群]]**：肥胖、DM type 2、dyslipidemia、CVD 風險↑。
 - **子宮內膜增生/癌**：慢性 unopposed estrogen。
 - 不孕（排卵障礙為主因）。
-- Obstructive sleep apnea、NAFLD、情緒障礙。
+- [[胸腔內科#阻塞性睡眠呼吸中止症（OSA）|Obstructive sleep apnea]]、[[消化內科#非酒精性脂肪肝病（NAFLD）|NAFLD]]、情緒障礙。
 
 ### 治療
 
@@ -90,8 +92,8 @@ credit:
 - **生理性**：懷孕、哺乳、壓力。
 - **藥物性（最常見）**：Antipsychotics（dopamine antagonists）、Metoclopramide、Methyldopa。
 - **病理性**：
-    - **Prolactinoma**：最常見的功能性腦垂體腫瘤。
-    - **Hypothyroidism**：T4↓ → TRH↑ → PRL↑。
+    - **[[代謝內分泌科#Prolactinoma|Prolactinoma]]**：最常見的功能性腦垂體腫瘤。
+    - **[[代謝內分泌科#甲狀腺機能低下（Hypothyroidism）|Hypothyroidism]]**：T4↓ → TRH↑ → PRL↑。
     - Pituitary stalk effect：壓迫性病灶阻斷 dopamine 傳遞。
 
 ### 臨床表現
@@ -109,6 +111,7 @@ credit:
     - 巨大腫瘤但 PRL 僅輕度上升 → 考慮 **hook effect**（需稀釋檢體）或 stalk effect。
 - MRI brain（sella turcica）。
 - 排除甲狀腺低下（TSH）、腎衰竭、懷孕、藥物。
+- 詳見 [[內分泌系統主訴#泌乳與泌乳素過高（Galactorrhea / Hyperprolactinemia）|泌乳與泌乳素過高]]的評估流程
 
 ### 治療
 
@@ -126,16 +129,16 @@ credit:
 ### 原因
 
 - **Idiopathic**（最常見）。
-- Autoimmune（合併 Addison's、thyroid disease）。
+- Autoimmune（合併 [[代謝內分泌科#腎上腺功能不全（Adrenal Insufficiency）|Addison's]]、thyroid disease）。
 - Turner mosaic（45,X/46,XX）。
-- **Fragile X premutation（FMR1）**。
+- **[[小兒科#Fragile X Syndrome|Fragile X premutation（FMR1）]]**。
 - Chemotherapy / Radiation。
-- Galactosemia。
+- [[小兒科#半乳糖血症（Galactosemia）|Galactosemia]]。
 
 ### 臨床表現
 
 - 閉經、潮熱、陰道乾燥、不孕。
-- 合併：骨質疏鬆（estrogen↓）、心血管風險↑。
+- 合併：[[代謝內分泌科#骨質疏鬆症（Osteoporosis）|骨質疏鬆]]（estrogen↓）、心血管風險↑。
 
 ### 治療
 
@@ -168,8 +171,9 @@ credit:
     - 機制：停經後 estrogen↓ → 陰道上皮萎縮、乾燥、pH 升高。
     - 治療：**局部 vaginal estrogen**（cream / ring / tablet）→ 最有效且安全。
 - 情緒：焦慮、憂鬱、失眠。
-- 骨質疏鬆（estrogen↓ → 破骨細胞活性↑）。
+- [[代謝內分泌科#骨質疏鬆症（Osteoporosis）|骨質疏鬆]]（estrogen↓ → 破骨細胞活性↑）。
 - 心血管：LDL↑、HDL↓ → CVD 風險↑（停經後 CVD 為女性首要死因）。
+- 詳見 [[婦產主訴#更年期症狀（Menopausal Symptoms）|更年期症狀]]的評估流程；門診實務詳見 [[20261015-obgyn-clinic#更年期|婦產科門診：更年期]]（逐篇筆記）
 
 ### 更年期治療
 
@@ -228,13 +232,14 @@ credit:
 
 - **先天性腎上腺增生（CAH）**：
     - 46,XX DSD 最常見原因。
-    - 最常見：**21-hydroxylase deficiency**（> 90%）。
+    - 最常見：**[[代謝內分泌科#先天性腎上腺增生（Congenital Adrenal Hyperplasia, CAH）|21-hydroxylase deficiency]]**（> 90%）。
     - 機制：cortisol 合成障礙 → ACTH↑ → adrenal hyperplasia → **androgen↑**。
     - 女嬰：出生時外生殖器男性化（ambiguous genitalia），但內生殖器正常（有卵巢、子宮）。
     - 鹽流失型（salt-wasting）：aldosterone↓ → hyponatremia、hyperkalemia、代謝性酸中毒 → 出生後 1–2 週 adrenal crisis。
     - 非典型（Late-onset）：青春期/成年後 → 多毛、痤瘡、月經不規則 → 需與 PCOS 鑑別。
     - 診斷：**17-OH progesterone↑**（新生兒篩檢項目）；ACTH stimulation test 確認。
     - 治療：**Hydrocortisone**（兒童首選，dexamethasone 抑制生長故避免）→ 抑制 ACTH → 降低 androgen；鹽流失型加 **fludrocortisone**（± 補鹽）。
+- 新生兒篩檢與鹽流失型處置詳見 [[小兒科#先天性腎上腺增生（Congenital Adrenal Hyperplasia, CAH）|小兒科的 CAH]]
 
 ### 46,XY DSD
 
@@ -256,7 +261,7 @@ credit:
     - 矮小、蹼狀頸、盾狀胸、coarctation of aorta、horseshoe kidney。
     - Streak gonads、primary amenorrhea；FSH↑↑。
     - 若合併 Y mosaicism → gonadoblastoma 風險 → 需切除性腺。
-- **Klinefelter syndrome（47,XXY）**：
+- **[[小兒科#Klinefelter Syndrome（47,XXY）|Klinefelter syndrome（47,XXY）]]**：
     - 男性；高身材、小睾丸、gynecomastia、azoospermia。
     - FSH↑、T↓。
 
@@ -268,6 +273,7 @@ credit:
     - Swyer syndrome：確診後儘早（風險最高）。
     - CAIS：青春期後（先完成乳房發育）。
     - Turner with Y mosaicism：需切除。
+- 睪丸生殖細胞腫瘤詳見 [[泌尿科#睪丸癌（Testicular Cancer）|泌尿科的睪丸癌]]
 
 ## 不孕症與輔助生殖技術
 
@@ -275,6 +281,7 @@ credit:
 
 - **不孕症**：規律無避孕性生活 **:red[≥ 12 個月]** 未懷孕（≥ 35 歲 → **6 個月**即可開始評估）。
 - **ART（Assisted Reproductive Technology）**：涉及 **體外處理卵子** 的技術（如 IVF、ICSI），IUI 不算 ART。
+- 詳見 [[婦產主訴#不孕（Infertility）|不孕]]的評估流程
 
 ### 常見不孕原因
 
@@ -285,17 +292,17 @@ credit:
 | 排卵因素（~25–30%） | PCOS（最常見）、hypothalamic amenorrhea、hyperprolactinemia、POI |
 | 輸卵管/腹膜因素（~25–35%） | PID 後沾黏、endometriosis、prior ectopic/surgery |
 | 子宮因素（~5–10%） | Submucosal myoma、**子宮中膈（septate uterus）**、Asherman's syndrome、endometrial polyp |
-| 免疫/血栓因素 | **Antiphospholipid syndrome（APS）**→ 反覆流產 |
+| 免疫/血栓因素 | **[[免疫風濕科#Antiphospholipid Syndrome（APS）\|Antiphospholipid syndrome（APS）]]**→ 反覆流產 |
 | 遺傳因素 | **平衡轉位（balanced translocation）** → 反覆流產/不孕 |
 
 #### 男性因素（~25–35%）
 
 | 原因 | 說明 |
 |------|------|
-| **Varicocele** | 最常見的 **可矯正** 男性不孕原因；左側好發；精索靜脈曲張 → 睪丸溫度↑ → 精蟲品質↓ |
-| Obstructive azoospermia | **CFTR 突變**（先天性雙側輸精管缺損）；手術後阻塞 |
+| **[[泌尿科#男性不孕症\|Varicocele]]** | 最常見的 **可矯正** 男性不孕原因；左側好發；精索靜脈曲張 → 睪丸溫度↑ → 精蟲品質↓ |
+| Obstructive azoospermia | **[[小兒科#囊腫性纖維化（Cystic Fibrosis, CF）\|CFTR 突變]]**（先天性雙側輸精管缺損）；手術後阻塞 |
 | Non-obstructive azoospermia | Klinefelter's（47,XXY）、Y 染色體微缺失、idiopathic |
-| 其他 | 隱睪、感染（mumps orchitis）、藥物、生活型態 |
+| 其他 | [[泌尿科#隱睪症（Cryptorchidism）\|隱睪]]、感染（[[感染科#腮腺炎（Mumps）\|mumps orchitis]]）、藥物、生活型態 |
 
 ### 不孕評估
 
@@ -373,7 +380,7 @@ credit:
 #### 胚胎植入前基因檢測（Preimplantation Genetic Testing, PGT）
 
 - **PGT-A**（aneuploidy）：篩檢染色體數目異常 → 提高著床率、降低流產率。
-- **PGT-M**（monogenic）：單基因疾病帶因者篩檢特定突變（如 SMA、thalassemia）。
+- **PGT-M**（monogenic）：單基因疾病帶因者篩檢特定突變（如 [[小兒科#脊髓性肌肉萎縮症（Spinal Muscular Atrophy, SMA）|SMA]]、thalassemia）。
 - **PGT-SR**（structural rearrangement）：平衡轉位帶因者 → 篩選正常/平衡胚胎。
 
 ### OHSS（卵巢過度刺激症候群）
@@ -421,7 +428,7 @@ credit:
 - 缺血性心臟病 / 中風。
 - **乳癌**。
 - 嚴重肝病 / 肝腫瘤。
-- **Migraine with aura**（任何年齡皆禁忌，中風風險↑）。
+- **[[神經內科#偏頭痛（Migraine）|Migraine with aura]]**（任何年齡皆禁忌，中風風險↑）。
 - :red[產後 < 21 天]（不論是否哺乳）；哺乳者 < 6 週。
 - 未控制 HTN ≥ 160/100。
 - 有血管併發症之 DM（腎病變、視網膜病變、神經病變）。
