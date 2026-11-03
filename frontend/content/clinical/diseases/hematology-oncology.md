@@ -25,7 +25,7 @@ credit:
 - 調控：腎臟分泌 **EPO**（缺氧刺激）→ 促紅血球前驅細胞增殖分化。
 - 氧氣攜帶：Hb 與 O₂ 結合呈 S 型曲線。
     - **右移（P50↑，O₂ 釋放增加）**：↑CO₂、↑H⁺、↑2,3-DPG、↑體溫。
-    - **左移（P50↓，O₂ 親和力增加）**：↓CO₂、↓H⁺、↓2,3-DPG、↓體溫、CO 中毒、methemoglobin、HbF。
+    - **左移（P50↓，O₂ 親和力增加）**：↓CO₂、↓H⁺、↓2,3-DPG、↓體溫、[[呼吸系統主訴#發紺（Cyanosis）|CO 中毒]]、methemoglobin、HbF。
 - 正常 Hb 組成：HbA（α₂β₂）97%、HbA₂（α₂δ₂）2–3%、HbF（α₂γ₂）<1%。
 
 ### 白血球生理
@@ -39,7 +39,7 @@ credit:
 | 嗜酸性球（Eosinophil） | 寄生蟲、過敏 | NAACP：Neoplasm, Allergy, Asthma, Collagen vascular disease, Parasites |
 | 嗜鹼性球（Basophil） | 過敏反應、IgE 媒介 | CML 時可↑ |
 | 單核球（Monocyte） | 吞噬、抗原呈遞 | 慢性感染↑ |
-| 淋巴球（Lymphocyte） | 適應性免疫（T/B/NK） | 病毒感染↑；HIV → CD4↓ |
+| 淋巴球（Lymphocyte） | 適應性免疫（T/B/NK） | 病毒感染↑；[[感染科#HIV / AIDS\|HIV]] → CD4↓ |
 
 ### 血小板生理
 
@@ -56,9 +56,9 @@ credit:
 
 | MCV | 分類 | 常見原因 |
 |-----|------|----------|
-| < 80 fL | 小球性（Microcytic） | 缺鐵、慢性病貧血、地中海型貧血、鉛中毒、Sideroblastic anemia |
+| < 80 fL | 小球性（Microcytic） | 缺鐵、慢性病貧血、地中海型貧血、[[小兒科#鉛中毒（Lead Poisoning）\|鉛中毒]]、Sideroblastic anemia |
 | 80–100 fL | 正球性（Normocytic） | 急性出血、溶血性貧血、骨髓衰竭、腎衰竭 |
-| > 100 fL | 大球性（Macrocytic） | B₁₂/葉酸缺乏、肝臟疾病、甲狀腺低下、MDS、酒精/藥物 |
+| > 100 fL | 大球性（Macrocytic） | B₁₂/葉酸缺乏、肝臟疾病、[[代謝內分泌科#甲狀腺機能低下（Hypothyroidism）\|甲狀腺低下]]、[[血液腫瘤科#骨髓分化不良症候群（Myelodysplastic Syndromes, MDS）\|MDS]]、酒精/藥物 |
 
 - **依網狀紅血球（reticulocyte）分類**：
     - Reticulocyte↑：出血、溶血 → 骨髓代償增加。
@@ -107,7 +107,7 @@ credit:
 - **Hb Bart's (hydrops fetalis)**：
     - Hb Bart's（γ₄）O₂ 親和力極高 → 組織嚴重缺氧。
     - 胎兒期即死亡或出生後迅速死亡。
-    - 母體併發症：子癇前症、產後出血。
+    - 母體併發症：[[產科#子癇前症（Preeclampsia）|子癇前症]]、產後出血。
     - 東南亞族群高風險（--/αα cis deletion 常見）→ 遺傳諮詢重要。
 
 #### β-Thalassemia（第 11 號染色體）
@@ -122,7 +122,7 @@ credit:
     - 嚴重貧血 → 需長期輸血 → **鐵質沉積**→ 心臟衰竭、肝硬化、內分泌病變、皮膚色素沉著。
     - 髓外造血 → 肝脾腫大。
     - 骨髓擴張 → 顱骨 X-ray **hair-on-end appearance**、facial bone overgrowth。
-    - 治療：規律輸血 + 鐵螯合劑 + 脾切除 + **骨髓移植**（唯一根治）。
+    - 治療：規律輸血 + 鐵螯合劑 + [[肝膽胰外科#脾切除後注意事項|脾切除]] + **骨髓移植**（唯一根治）。
 
 #### IDA vs Thalassemia 鑑別
 
@@ -133,6 +133,8 @@ credit:
 | HbA₂ | 正常/↓ | **↑**（β-thal） |
 | RBC count | ↓ | **↑ 或正常** |
 | Mentzer index（MCV/RBC） | > 13 | :red[**< 13**] |
+
+- 詳見 [[血液異常#小球性貧血（Microcytic Anemia）|小球性貧血]]的評估流程
 
 ### Sideroblastic Anemia
 
@@ -152,7 +154,7 @@ credit:
 - 原因：**惡性貧血（pernicious anemia）**（anti-IF Ab / anti-parietal cell Ab）、胃切除、迴腸疾病/切除、素食者、Diphyllobothrium latum。
 - 表現：
     - 血液：巨球性貧血、**hypersegmented neutrophils**（≥5 葉 ≥ 5%）、pancytopenia。
-    - 神經症狀：subacute combined degeneration（後索 + 側索病變）→ 深層感覺↓、vibration/position sense↓、ataxia。
+    - 神經症狀：[[神經內科#亞急性聯合退化（Subacute Combined Degeneration）|subacute combined degeneration]]（後索 + 側索病變）→ 深層感覺↓、vibration/position sense↓、ataxia。
     - 精神症狀：dementia、personality change。
 - 實驗室：B₁₂↓、homocysteine↑、**methylmalonic acid（MMA）↑**。
 - 治療：**IM B₁₂ 注射**（口服吸收不良）。
@@ -166,6 +168,7 @@ credit:
 - 表現：與 B₁₂ 類似的血液表現，但**無神經症狀**。
 - 實驗室：folate↓、homocysteine↑、**MMA 正常**。
 - 治療：口服葉酸補充。
+- 詳見 [[血液異常#巨球性貧血（Macrocytic Anemia）|巨球性貧血]]的評估流程
 
 ### 再生不良性貧血（Aplastic Anemia）
 
@@ -174,7 +177,7 @@ credit:
 - 原因：
     - 特發性：最常見，多為自體免疫 T cell 攻擊造血幹細胞。
     - 藥物：**Chloramphenicol**（dose-independent）、benzene、化療。
-    - 感染：**Parvovirus B19**（pure red cell aplasia，引發 aplastic crisis）、hepatitis、EBV、HIV。
+    - 感染：**Parvovirus B19**（pure red cell aplasia，引發 aplastic crisis）、hepatitis、[[感染科#EBV（Infectious Mononucleosis）|EBV]]、HIV。
     - 先天：**Fanconi anemia**（DNA 修復缺陷，短小、拇指/橈骨異常、↑AML/MDS 風險）。
 - 治療：
     - 輕度：支持療法、觀察。
@@ -182,6 +185,7 @@ credit:
         - < 40 歲 + HLA 配對 → **異體骨髓移植**。
         - 不適合移植 → **ATG + Cyclosporine**。
     - 支持：輸血、感染預防、Eltrombopag（TPO agonist）。
+- 詳見 [[血液異常#全血球低下（Pancytopenia）|全血球低下]]的評估流程
 
 ### 溶血性貧血（Hemolytic Anemia）
 
@@ -190,6 +194,7 @@ credit:
 - 紅血球壽命縮短 → reticulocyte↑、LDH↑、indirect bilirubin↑、haptoglobin↓。
 - 血管內溶血（intravascular）：hemoglobinemia、hemoglobinuria。
 - 血管外溶血（extravascular）：脾臟巨噬細胞吞噬 → 脾腫大。
+- 詳見 [[血液異常#溶血（Hemolysis）|溶血]]的評估流程
 
 #### G6PD 缺乏症（Glucose-6-Phosphate Dehydrogenase Deficiency）
 
@@ -230,8 +235,8 @@ credit:
 
 | 類型 | 抗體 | 溫度 | 溶血方式 | 相關疾病 |
 |------|------|------|----------|----------|
-| **Warm AIHA** | IgG | 37°C | **血管外**（脾） | SLE、CLL、Methyldopa、Penicillin |
-| **Cold agglutinin** | IgM | < 30°C（典型 4°C） | **血管外（肝）為主**，可併血管內 | Mycoplasma、EBV、Lymphoma |
+| **Warm AIHA** | IgG | 37°C | **血管外**（脾） | [[免疫風濕科#全身性紅斑狼瘡（SLE）\|SLE]]、CLL、Methyldopa、Penicillin |
+| **Cold agglutinin** | IgM | < 30°C（典型 4°C） | **血管外（肝）為主**，可併血管內 | [[感染科#Mycoplasma pneumoniae\|Mycoplasma]]、EBV、Lymphoma |
 
 - 診斷：**Direct Coombs test (+)**。
     - Warm：anti-IgG (+)；Cold：**anti-C3d (+)**（IgM 已解離）。
@@ -255,7 +260,7 @@ credit:
 #### 微血管病性溶血性貧血（Microangiopathic Hemolytic Anemia, MAHA）
 
 - 紅血球通過受損微血管 → 機械性破壞 → 血抹片見 **schistocytes（碎片紅血球）**。
-- 見於：TTP、HUS、DIC、HELLP syndrome、惡性高血壓、人工瓣膜。
+- 見於：TTP、HUS、DIC、[[產科#HELLP Syndrome|HELLP syndrome]]、[[心臟內科#高血壓危象（Hypertensive Crisis）|惡性高血壓]]、人工瓣膜。
 
 ## 白血病（Leukemia）
 
@@ -276,11 +281,11 @@ credit:
 |----------|------|------|
 | M0–M1 | Undifferentiated / Minimally differentiated | — |
 | M2 | AML with maturation | **t(8;21)**，最常見；預後較好 |
-| **M3** | **Acute Promyelocytic Leukemia** | **t(15;17) PML-RARα**；**DIC**為主要死因 |
+| **M3** | **Acute Promyelocytic Leukemia** | **t(15;17) PML-RARα**；**[[血液腫瘤科#DIC（Disseminated Intravascular Coagulation）\|DIC]]**為主要死因 |
 | M4 | Acute myelomonocytic | inv(16)，預後好 |
 | M5 | Acute monocytic | 皮膚/牙齦浸潤 |
 | M6 | Acute erythroid | — |
-| M7 | Acute megakaryoblastic | Down syndrome 相關 |
+| M7 | Acute megakaryoblastic | [[小兒科#唐氏症（Down Syndrome, Trisomy 21）\|Down syndrome]] 相關 |
 
 - **Acute Promyelocytic Leukemia（APL, M3）**：
     - t(15;17) → PML-RARα 融合基因。
@@ -300,7 +305,7 @@ credit:
 - 細胞化學：MPO (–)、**PAS (+)**、**TdT (+)**。
 - Flow cytometry：
     - B-ALL：CD10、CD19、CD20、CD22；最常見（75%）。
-    - T-ALL：CD2, CD3, CD5, CD7；常前縱膈腔腫塊表現（thymic mass）。
+    - T-ALL：CD2, CD3, CD5, CD7；常[[偶發病灶#縱膈腔腫塊（Mediastinal Mass）|前縱膈腔腫塊]]表現（thymic mass）。
 - 預後因子：
 
 | 比較項目 | 預後好 | 預後差 |
@@ -353,6 +358,7 @@ credit:
     - 早期：觀察（watch and wait）。
     - 首選：**Ibrutinib（BTK inhibitor）**、Venetoclax（BCL-2 inhibitor）。
     - 年輕：FCR（Fludarabine + Cyclophosphamide + Rituximab）。
+- 詳見 [[血液異常#白血球增多（Leukocytosis）|白血球增多]]的評估流程
 
 ### Hairy Cell Leukemia
 
@@ -371,8 +377,8 @@ credit:
     - RS cell markers：**CD15(+)、CD30(+)**。
     - RS cell 來源：B cell。
 - 臨床：
-    - 無痛性淋巴結腫大（頸部最常見）。
-    - **B symptoms**：發燒 >38°C、夜間盜汗、:red[體重減輕 >10%]。
+    - [[全身症狀#淋巴結腫大（Lymphadenopathy）|無痛性淋巴結腫大]]（頸部最常見）。
+    - **B symptoms**：發燒 >38°C、[[全身症狀#夜間盜汗（Night Sweats）|夜間盜汗]]、:red[體重減輕 >10%]。
     - **Pel-Ebstein fever**：週期性發燒。
     - 擴散方式：**沿相鄰淋巴結順序擴散（contiguous spread）**。
 - 分型（Rye）：
@@ -403,6 +409,7 @@ credit:
     - 替代：BV-AVD（Brentuximab vedotin + AVD），BEACOPP。
     - 復發：**high-dose chemo + auto-HSCT**；
 - 預後：治癒率 **> 80%**。
+- 詳見 [[全身症狀#淋巴結腫大（Lymphadenopathy）|淋巴結腫大]]的評估流程
 
 ### Non-Hodgkin Lymphoma（NHL）
 
@@ -411,7 +418,7 @@ credit:
 - 分類：
     - **低度惡性（Indolent）**：follicular lymphoma、 marginal zone lymphoma、small lymphocytic lymphoma。
     - **高度惡性（Aggressive）**：diffuse large B-cell lymphoma、Burkitt lymphoma、mantle cell lymphoma。
-    - **T cell lymphoma**：mycosis fungoides、Sézary syndrome、adult T-cell leukemia/lymphoma。
+    - **T cell lymphoma**：[[皮膚科#蕈狀肉芽腫（Mycosis Fungoides, MF）|mycosis fungoides]]、Sézary syndrome、adult T-cell leukemia/lymphoma。
 
 **Follicular Lymphoma（FL）**
 
@@ -427,8 +434,8 @@ credit:
 **Marginal Zone Lymphoma（MZL）**
 
 - **MALT lymphoma** 為最常見亞型；與慢性感染/自體免疫相關。
-- 胃 MALT → **Helicobacter pylori**（早期以抗生素三合療法治療可緩解）。
-- 其他部位：唾腺（Sjögren's）、甲狀腺（Hashimoto's）、眼附屬器。
+- 胃 MALT → **[[消化內科#H. pylori|Helicobacter pylori]]**（早期以抗生素三合療法治療可緩解）。
+- 其他部位：唾腺（[[免疫風濕科#Sjögren's Syndrome（乾燥症候群）|Sjögren's]]）、甲狀腺（[[代謝內分泌科#Hashimoto's Thyroiditis|Hashimoto's]]）、眼附屬器。
 
 **Small Lymphocytic Lymphoma（SLL）**
 
@@ -490,7 +497,7 @@ credit:
 - **惡性漿細胞** 增殖於骨髓 → 產生單株免疫球蛋白（M protein）。
 - 好發 **> 65 歲**，黑人 > 白人。
 - 臨床表現：**CRAB**。
-    - **C**alcium↑（高血鈣）：骨溶解釋放。
+    - **C**alcium↑（[[電解質與酸鹼#高血鈣（Hypercalcemia）|高血鈣]]）：骨溶解釋放。
     - **R**enal insufficiency：light chain 沉積、hypercalcemia。
     - **A**nemia：骨髓浸潤。
     - **B**one lesions：骨痛、病理性骨折、脊椎壓迫性骨折。
@@ -535,11 +542,12 @@ credit:
 - :red[M protein < 3 g/dL、骨髓漿細胞 < 10%]、無 CRAB。
 - 進展至 MM 風險：每年 :red[**約 1%**]。
 - 需長期追蹤。
+- 詳見 [[血液異常#單株免疫球蛋白（Monoclonal Gammopathy / M Protein）|單株免疫球蛋白]]的評估流程
 
 ### Primary Amyloidosis（AL Amyloidosis）
 
 - Light chain 沉積為不溶性類澱粉纖維。
-- 器官受影響：心臟（**restrictive cardiomyopathy**）、腎臟（nephrotic syndrome）、舌（macroglossia）、肝臟、神經、皮膚。
+- 器官受影響：心臟（**[[心臟內科#限制型心肌病變（Restrictive Cardiomyopathy, RCM）|restrictive cardiomyopathy]]**）、腎臟（[[腎臟內科#Nephrotic Syndrome|nephrotic syndrome]]）、舌（macroglossia）、肝臟、神經、皮膚。
 - 診斷：組織切片 **Congo red stain → apple-green birefringence** under polarized light。
 - 治療：類似 MM（Bortezomib-based + auto-HSCT）。
 
@@ -559,13 +567,14 @@ credit:
     - **面紅（plethora）**、頭痛、頭暈、視力模糊。
     - **水生性搔癢（aquagenic pruritus）**：洗澡後搔癢（與 histamine 釋放相關）。
     - **紅斑性肢痛症（erythromelalgia）**：手腳灼熱/紅腫/痛（與微血管栓塞相關）。
-    - 血栓（心肌梗塞、中風、Budd-Chiari syndrome）。
-    - 痛風（uric acid↑）、消化性潰瘍（histamine↑）、脾腫大。
+    - 血栓（心肌梗塞、中風、[[消化內科#Budd-Chiari Syndrome|Budd-Chiari syndrome]]）。
+    - [[骨科#痛風性關節炎（Gout）|痛風]]（uric acid↑）、消化性潰瘍（histamine↑）、脾腫大。
 - 實驗室：Hb/Hct↑、WBC↑、Plt↑、**EPO↓**（與次發性鑑別）。
 - 治療：
     - 所有人：**Phlebotomy（放血，:red[目標 Hct < 45%]）** + **低劑量 Aspirin**。
     - 高風險（年齡 > 60 歲或曾有血栓）：加 **Hydroxyurea**（cytoreduction）。
     - 二線：Ruxolitinib（hydroxyurea 不耐或抗性）。
+- 詳見 [[血液異常#紅血球增多（Polycythemia / Erythrocytosis）|紅血球增多]]的評估流程
 
 ### 原發性血小板增多症（Essential Thrombocythemia, ET）
 
@@ -578,6 +587,7 @@ credit:
     - 高風險：Hydroxyurea + Aspirin。
     - 降血小板藥物：Anagrelide。
 - 預後最好的 MPN。
+- 詳見 [[血液異常#血小板增多（Thrombocytosis）|血小板增多]]
 
 ### 原發性骨髓纖維化（Primary Myelofibrosis, PMF）
 
@@ -617,6 +627,8 @@ credit:
 | 瘀青型態 | 小點狀（petechiae） | 大片（ecchymosis、hematoma） |
 | 手術後出血 | 即刻 | 數小時後 |
 
+- 詳見 [[皮膚系統主訴#紫斑與瘀點（Purpura / Petechiae）|紫斑與瘀點]]、[[血液異常#血小板低下（Thrombocytopenia）|血小板低下]]的評估流程
+
 ### 血小板低下（Thrombocytopenia）
 
 #### 免疫性血小板低下紫斑症（Immune Thrombocytopenia, ITP）
@@ -631,7 +643,7 @@ credit:
     - :red[Plt > 30K] 且無出血 → 觀察。
     - 首選：**Corticosteroids**（Prednisone）。
     - 二線：**IVIG**（快速升血小板）、Anti-D immunoglobulin（飽和巨噬細胞）。
-    - 難治：**Splenectomy**、Rituximab、TPO-receptor agonists（Eltrombopag, Romiplostim）。
+    - 難治：**[[肝膽胰外科#ITP（Immune Thrombocytopenic Purpura）|Splenectomy]]**、Rituximab、TPO-receptor agonists（Eltrombopag, Romiplostim）。
 
 #### 血栓性血小板低下紫斑症（Thrombotic Thrombocytopenic Purpura, TTP）
 
@@ -655,7 +667,7 @@ credit:
 #### 溶血性尿毒症症候群（Hemolytic Uremic Syndrome, HUS）
 
 - 與 TTP 類似（MAHA + thrombocytopenia）但**以腎衰竭為主**。
-- **典型**：兒童感染 **E. coli O157:H7**（EHEC）。
+- **典型**：兒童感染 **[[感染科#腸內菌科（Enterobacteriaceae）|E. coli O157:H7]]**（EHEC）。
     - 前驅：血性腹瀉。
     - Shiga-like toxin → 腎小血管內皮損傷。
     - **不可使用抗生素**（加速毒素釋放）。
@@ -666,7 +678,7 @@ credit:
 #### DIC（Disseminated Intravascular Coagulation）
 
 - 全身性凝血活化 + 纖溶 → 消耗性凝血病。
-- 原因：sepsis（最常見）、trauma、obstetric（羊水栓塞、胎盤早期剝離）、AML-M3、malignancy。
+- 原因：sepsis（最常見）、trauma、obstetric（[[產科#羊水栓塞（Amniotic Fluid Embolism）|羊水栓塞]]、[[產科#胎盤早期剝離（Placental Abruption）|胎盤早期剝離]]）、AML-M3、malignancy。
 - 實驗室：PT↑、aPTT↑、**fibrinogen↓**、**D-dimer↑**、platelet↓、schistocytes。
 - 治療：**治療根本原因**（最重要）→ 補充血品（FFP、cryoprecipitate、platelets）。
 
@@ -700,7 +712,7 @@ credit:
 
 | 疾病 | 缺乏 | 遺傳 |
 |------|------|------|
-| Hemophilia A | **Factor VIII** | **X-linked recessive** |
+| [[小兒科#血友病（Hemophilia）\|Hemophilia A]] | **Factor VIII** | **X-linked recessive** |
 | Hemophilia B | **Factor IX** | **X-linked recessive** |
 
 - 表現：深層出血（**hemarthrosis**）、肌肉血腫、顱內出血。
@@ -724,6 +736,7 @@ credit:
 - **Mixing study**：aPTT 延長時，混合正常血漿。
     - 若校正 → 因子缺乏。
     - 若不校正 → **抑制物（inhibitor）**（如 Factor VIII inhibitor）。
+- 詳見 [[血液異常#凝血功能異常（Prolonged PT / aPTT）|凝血功能異常]]的評估流程
 
 ### 血栓性疾病（Thrombophilia）
 
@@ -736,6 +749,8 @@ credit:
 | Protein C 缺乏 | 抗凝蛋白↓ | **Warfarin-induced skin necrosis** |
 | Protein S 缺乏 | 抗凝蛋白↓ | — |
 | ATIII 缺乏 | Heparin 效果↓ | **Heparin resistance** |
+
+- 詳見 [[血液異常#不明原因血栓（Unexplained Thrombosis / Thrombophilia）|不明原因血栓]]的評估
 
 #### Antiphospholipid Syndrome（APS）
 
@@ -766,7 +781,7 @@ credit:
 | O | 無 | Anti-A + Anti-B → **universal donor** |
 
 - **Rh 系統**：
-    - Rh(–) 母親懷 Rh(+) 胎兒 → 致敏 → 第二胎 **新生兒溶血症**。
+    - Rh(–) 母親懷 Rh(+) 胎兒 → 致敏 → 第二胎 **[[產科#Rh 同種免疫（Rh Isoimmunization）|新生兒溶血症]]**。
     - 預防：**RhoGAM（Anti-D immunoglobulin）**，:red[28 週 + 產後 72 小時內]給予。
 - **Bombay phenotype**：
     - 缺乏 H antigen → 無法合成 A/B 抗原 → 只能接受 Bombay 型的血。
@@ -793,6 +808,8 @@ credit:
 | **過敏反應** | 分鐘 | IgE 媒介；**IgA 缺乏者最嚴重**（anti-IgA → anaphylaxis） | Antihistamine；IgA 缺乏 → **washed RBC** |
 | **TRALI** | :red[< 6 hr] | Donor anti-leukocyte Ab → 肺損傷 | 支持療法（O₂、必要時 intubation） |
 | **TACO** | 小時 | 容量超載 → 心因性肺水腫 | Diuretics |
+
+- 外科輸血原則詳見 [[外科概論#輸血|外科概論的輸血]]
 
 ### 造血幹細胞移植（HSCT）
 
@@ -853,12 +870,12 @@ credit:
 | 抑癌基因 | 腫瘤 |
 |----------|------|
 | **TP53** | **最常見突變的基因**；Li-Fraumeni syndrome |
-| RB | Retinoblastoma |
+| RB | [[眼科#視網膜母細胞瘤（Retinoblastoma）\|Retinoblastoma]] |
 | APC | Familial adenomatous polyposis → 大腸癌 |
 | BRCA1/2 | 乳癌、卵巢癌 |
 | VHL | von Hippel-Lindau → RCC、pheochromocytoma、hemangioblastoma |
-| WT1 | Wilms tumor |
-| NF1 | Neurofibromatosis type 1 |
+| WT1 | [[小兒外科#Wilms Tumor（腎母細胞瘤，Nephroblastoma）\|Wilms tumor]] |
+| NF1 | [[小兒科#Neurofibromatosis Type 1（NF1, von Recklinghausen Disease）\|Neurofibromatosis type 1]] |
 | PTEN | Cowden syndrome → breast、thyroid、endometrial |
 
 ### 腫瘤標記（Tumor Markers）
@@ -878,18 +895,20 @@ credit:
 | **S-100** | 黑色素瘤、Schwannoma |
 | **β₂-microglobulin** | Multiple myeloma、CLL |
 
+- 腫瘤標記的使用原則與偽陽性詳見 [[生化異常#其他腫瘤標記升高（Elevated Tumor Markers）|其他腫瘤標記升高]]
+
 ### 副腫瘤症候群（Paraneoplastic Syndromes）
 
 | 症候群 | 機制 | 最相關腫瘤 |
 |--------|------|-----------|
-| **SIADH** | ADH 異位分泌 | **小細胞肺癌（SCLC）** |
+| **SIADH** | ADH 異位分泌 | **[[胸腔內科#小細胞肺癌（SCLC，約 15%）\|小細胞肺癌（SCLC）]]** |
 | **Cushing syndrome** | ACTH 異位分泌 | SCLC、Carcinoid |
-| **Hypercalcemia** | PTHrP | **Squamous cell carcinoma（肺、頭頸）** |
+| **[[電解質與酸鹼#高血鈣（Hypercalcemia）\|Hypercalcemia]]** | PTHrP | **Squamous cell carcinoma（肺、頭頸）** |
 | **Erythrocytosis** | EPO | RCC、HCC、hemangioblastoma |
-| **Lambert-Eaton syndrome** | Anti-VGCC Ab | SCLC |
-| **Myasthenia gravis** | Anti-AChR Ab | Thymoma |
-| **Dermatomyositis** | — | 多種惡性腫瘤（ovarian、lung、GI） |
-| Acanthosis nigricans | — | 胃癌 |
+| **[[神經內科#Lambert-Eaton 肌無力症候群（LEMS）\|Lambert-Eaton syndrome]]** | Anti-VGCC Ab | SCLC |
+| **[[神經內科#重症肌無力（Myasthenia Gravis, MG）\|Myasthenia gravis]]** | Anti-AChR Ab | [[胸腔外科#縱膈腔腫瘤\|Thymoma]] |
+| **[[皮膚科#皮肌炎（Dermatomyositis）\|Dermatomyositis]]** | — | 多種惡性腫瘤（ovarian、lung、GI） |
+| [[皮膚科#黑色棘皮症（Acanthosis Nigricans）\|Acanthosis nigricans]] | — | 胃癌 |
 | Trousseau syndrome | 高凝狀態 | 胰臟癌、其他黏液分泌腫瘤 |
 | **Pure red cell aplasia** | Anti-erythroid Ab | Thymoma |
 | Limbic encephalitis | Anti-Hu、Anti-NMDAR | SCLC、卵巢畸胎瘤 |
@@ -907,7 +926,7 @@ credit:
 
 - 原因：轉移性腫瘤（**乳癌、肺癌、攝護腺癌**）→ 脊椎硬膜外壓迫。
 - 症狀：back pain（最早）→ 下肢無力 → 感覺異常 → 大小便失禁。
-- 診斷：**MRI（whole spine）**。
+- 診斷：**[[神經內科#脊髓壓迫症（Spinal Cord Compression）|MRI（whole spine）]]**。
 - 治療：**Dexamethasone（高劑量）** → 手術減壓 ± RT。
 
 #### Febrile Neutropenia
@@ -922,6 +941,8 @@ credit:
 
 ::chart{id="febrile-neutropenia"}
 
+- 詳見 [[全身症狀#嗜中性球低下發燒（Febrile Neutropenia）|嗜中性球低下發燒]]
+
 ### 化學治療
 
 | 藥物 | 類別 | 特殊毒性 |
@@ -932,7 +953,7 @@ credit:
 | **Cyclophosphamide / Ifosfamide** | Alkylating agent | **出血性膀胱炎** → 預防：**MESNA** |
 | **Vincristine** | Vinca alkaloid | **周邊神經病變** |
 | **Methotrexate** | 抗代謝 | 骨髓抑制、肝毒性 → 解毒：**Leucovorin** |
-| **5-FU** | 抗代謝 | Hand-foot syndrome |
+| **5-FU** | 抗代謝 | [[皮膚系統主訴#藥物疹與嚴重皮膚反應（Drug Eruptions / SCAR）\|Hand-foot syndrome]] |
 | **Paclitaxel / Docetaxel** | Taxane | 周邊神經病變 |
 | **Irinotecan** | Topoisomerase I 抑制劑 | 腹瀉 |
 
