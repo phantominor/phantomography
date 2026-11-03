@@ -51,6 +51,7 @@ credit:
     - DAPT：Aspirin + P2Y12 inhibitor（Clopidogrel/Ticagrelor）。
     - 抗凝血：Heparin。
     - 其他：β-blocker、ACEi、Statin。
+- 詳見 [[心血管系統主訴#急性胸痛（Acute Chest Pain）|急性胸痛]]的評估流程；內科處置詳見 [[心臟內科#STEMI 處理|心臟內科的 STEMI 處理]]
 
 ### 冠狀動脈繞道手術（CABG）
 
@@ -77,7 +78,7 @@ credit:
 
 - **心房顫動（Afib）**：最常見術後心律不整（30–40%），:red[好發術後第 2–3 天]。
 - Mediastinal bleeding：再探查（:red[>200 mL/hr 持續 2–4 hr 或 >1500 mL/6 hr]）。
-- Sternal wound infection / Mediastinitis：致死率高，常見菌 S. aureus。
+- [[胸腔外科#縱膈腔炎（Mediastinitis）|Sternal wound infection / Mediastinitis]]：致死率高，常見菌 S. aureus。
 - Perioperative MI。
 - Stroke。
 
@@ -108,12 +109,13 @@ credit:
     - Balloon aortic valvuloplasty：僅作為 bridge（暫時性，效果短暫）。
     - 藥物：**禁用血管擴張劑**（nitrate、ACEi 等會致命性低血壓）。
     - 麻醉注意：維持 preload、避免低血壓、維持 sinus rhythm。
+- 詳見 [[心血管系統主訴#心雜音（Heart Murmurs）|心雜音]]的評估流程；內科追蹤詳見 [[心臟內科#主動脈瓣狹窄（Aortic Stenosis, AS）|心臟內科]]
 
 ### 主動脈瓣閉鎖不全（Aortic Regurgitation, AR）
 
 - **急性**：心內膜炎、主動脈剝離、創傷 → LV 來不及代償 → 急性肺水腫 → **緊急手術**。
     - **禁用 IABP**（舒張期充氣會加重回流）。
-- **慢性**：風濕性、bicuspid valve、Marfan syndrome、syphilitic aortitis。
+- **慢性**：風濕性、bicuspid valve、[[小兒科#馬凡氏症候群（Marfan Syndrome）|Marfan syndrome]]、syphilitic aortitis。
     - LV volume overload → eccentric hypertrophy → LV dilatation。
     - 長期無症狀 → 出現症狀時 LV 已不可逆受損。
 - **身體檢查**（因 wide pulse pressure）：
@@ -131,6 +133,7 @@ credit:
     - 急性 AR：**緊急 AVR**；術前可用 Nitroprusside/Inotropes 暫時穩定。
     - 慢性 AR：vasodilator（Nifedipine、ACEi/ARB）可暫時減輕 regurgitant volume，但**不能取代手術**。
     - 定期追蹤 LV size/function（echo），一旦達手術標準即介入。
+- 內科追蹤詳見 [[心臟內科#主動脈瓣閉鎖不全（Aortic Regurgitation, AR）|心臟內科]]
 
 ### 二尖瓣狹窄（Mitral Stenosis, MS）
 
@@ -148,6 +151,7 @@ credit:
     - 利尿劑、rate control（β-blocker）、抗凝血（Afib → **warfarin**，機械瓣/風濕性 MS 不建議 NOAC）。
     - **Percutaneous Mitral Balloon Valvuloplasty（PMBV）**：若瓣膜仍具可塑性（禁忌：左心房血栓、中重度 MR、嚴重瓣膜鈣化）。
     - 不適合 PMBV：手術（commissurotomy 或 MVR）。
+- 內科追蹤詳見 [[心臟內科#二尖瓣狹窄（Mitral Stenosis, MS）|心臟內科]]
 
 ### 二尖瓣閉鎖不全（Mitral Regurgitation, MR）
 
@@ -168,12 +172,13 @@ credit:
     - 新發 Afib 或肺高壓。
 - **治療**：
     - **Mitral valve repair 優於 replacement**。
+- 內科追蹤詳見 [[心臟內科#二尖瓣閉鎖不全（Mitral Regurgitation, MR）|心臟內科]]
 
 ### 三尖瓣疾病（Tricuspid Valve Disease）
 
 - **TR（Tricuspid Regurgitation）**：
     - 最常見原因：**functional（續發於右心室擴大/肺高壓）**。
-    - 其他：心內膜炎（IV drug user → **右心**瓣膜）、Ebstein anomaly、carcinoid syndrome。
+    - 其他：心內膜炎（IV drug user → **右心**瓣膜）、Ebstein anomaly、[[代謝內分泌科#Carcinoid Syndrome|carcinoid syndrome]]。
     - 聽診：holosystolic murmur at LLSB，**吸氣增強（Carvallo's sign）**。
     - JVD with prominent **c-v wave**。
 
@@ -211,6 +216,7 @@ credit:
     - 無法控制的感染（abscess、fungal IE）。
     - Prevention of embolism（大 vegetation > 10 mm + embolic event）。
     - 人工瓣膜 IE（尤其早期）。
+- 抗生素治療與預防詳見 [[心臟內科#感染性心內膜炎（Infective Endocarditis, IE）|心臟內科]]
 
 ## 主動脈疾病（Aortic Diseases）
 
@@ -247,10 +253,10 @@ credit:
 #### 危險因子
 
 - **高血壓（最重要）**。
-- Marfan syndrome（cystic medial necrosis）。
+- [[小兒科#馬凡氏症候群（Marfan Syndrome）|Marfan syndrome（cystic medial necrosis）]]。
 - Ehlers-Danlos syndrome（Type IV，血管型）。
 - Bicuspid aortic valve。
-- Turner syndrome（45,X → coarctation + dissection 風險）。
+- [[小兒科#Turner Syndrome（45,X）|Turner syndrome（45,X → coarctation + dissection 風險）]]。
 - 懷孕第三孕期。
 - Cocaine use。
 
@@ -272,6 +278,7 @@ credit:
     - **禁忌：先用血管擴張劑而不先用 β-blocker**（會引起 reflex tachycardia → 加重 shear stress）。
 - **Complicated Type B**（臟器灌流不足、破裂、持續疼痛、擴大）。
     - **TEVAR（Thoracic Endovascular Aortic Repair）** 或手術。
+- 內科處置詳見 [[心臟內科#主動脈剝離（Aortic Dissection）|心臟內科的主動脈剝離]]
 
 ### 主動脈瘤（Aortic Aneurysm）
 
@@ -283,6 +290,7 @@ credit:
 - 篩檢：建議 **65–75 歲曾吸菸男性** → 一次腹部超音波。
 - 大多無症狀 → 破裂時致死率極高（80–90%）。
 - **破裂三徵（classic triad）**：劇烈腹痛/背痛 + 低血壓 + pulsatile abdominal mass。
+- 影像意外發現的腹主動脈瘤詳見 [[偶發病灶#腹主動脈瘤（Incidental Abdominal Aortic Aneurysm）|偶發病灶]]
 
 #### 手術適應症
 
@@ -344,6 +352,8 @@ credit:
 | CXR | 水滴心（cardiomegaly） | **心包鈣化** |
 | 治療 | Pericardiocentesis | **Pericardiectomy** |
 
+- 詳見 [[心臟內科#縮窄性心包膜炎（Constrictive Pericarditis）|心臟內科的縮窄性心包膜炎]]
+
 ## 先天性心臟病（Congenital Heart Disease）
 
 ### 分類
@@ -356,6 +366,7 @@ credit:
 - **Eisenmenger syndrome**：長期左→右分流 → 肺高壓 → 分流方向逆轉為右→左 → 發紺。
     - 一旦發生 → 不可逆，禁忌手術修補原有缺損。
     - 唯一根治選擇：心肺移植（heart-lung transplantation）。
+- 兒科觀點詳見 [[小兒科#先天性心臟病分類|小兒科的先天性心臟病分類]]
 
 ### 非發紺型（Acyanotic）
 
@@ -376,7 +387,7 @@ credit:
 - 分型：
     - **Perimembranous（最常見，約 80%）**：位於 membranous septum。
     - **Muscular**：位於 muscular septum，可能多發。
-    - **Inlet（AV canal）**：近 AV valve，常見於 Down syndrome。
+    - **Inlet（AV canal）**：近 AV valve，常見於 [[小兒科#唐氏症（Down Syndrome, Trisomy 21）|Down syndrome]]。
     - **Outlet（Subarterial）**：位於肺動脈瓣下方，容易造成主動脈瓣脫垂 → AR（東亞人比例較高）。
 - 血行動力學：左→右分流 → 肺循環血流增加 → LV volume overload → LVH（左心室肥大）。
 - 聽診：**Holosystolic murmur at left lower sternal border**。
@@ -402,7 +413,7 @@ credit:
 #### 主動脈縮窄（Coarctation of Aorta, CoA）
 
 - 常見位置：left subclavian artery 遠端、ligamentum arteriosum 附近。
-- 好發：男性、Turner syndrome、bicuspid aortic valve（50–80% 合併）。
+- 好發：男性、[[小兒科#Turner Syndrome（45,X）|Turner syndrome]]、bicuspid aortic valve（50–80% 合併）。
 - 表現：
     - **上肢高血壓 + 下肢低血壓/脈搏減弱**。
     - 上下肢血壓差 > 20 mmHg。
@@ -475,7 +486,7 @@ credit:
 
 #### Ebstein Anomaly
 
-- Tricuspid valve 下移至 RV → RV atrialization → TR → 合併 ASD/WPW。
+- Tricuspid valve 下移至 RV → RV atrialization → TR → 合併 ASD/[[心臟內科#AVRT（AV Reentrant Tachycardia）/ WPW Syndrome|WPW]]。
 
 ## 其他心臟外科主題
 
@@ -516,7 +527,7 @@ credit:
         - 聽診：「tumor plop」（舒張期腫瘤撞擊聲，類似 opening snap）。
         - 可改變體位時改變症狀。
         - 治療：**手術切除**（含附著處的 atrial septum），復發率低。
-    - Rhabdomyoma：小兒最常見心臟腫瘤，與 **tuberous sclerosis** 相關，多發，常位於心室壁，多數可自行消退。
+    - Rhabdomyoma：小兒最常見心臟腫瘤，與 **[[小兒科#Tuberous Sclerosis（TSC）|tuberous sclerosis]]** 相關，多發，常位於心室壁，多數可自行消退。
 - **惡性（約 25% 原發性）**：
     - **Angiosarcoma**：最常見原發性惡性心臟腫瘤，好發 **右心房（RA）**，預後極差。
     - Rhabdomyosarcoma：小兒最常見惡性心臟腫瘤。
@@ -550,7 +561,7 @@ credit:
 - **間歇性跛行（Intermittent Claudication）**：
     - 行走時小腿疼痛 → 休息緩解。
     - 最常見阻塞位置：**superficial femoral artery（SFA）**。
-    - 與 neurogenic claudication（spinal stenosis）鑑別：
+    - 與 [[神經外科#腰椎管狹窄症（Lumbar Spinal Stenosis）|neurogenic claudication（spinal stenosis）]]鑑別：
         - Vascular：行走加重、站立緩解、ABI 下降。
         - Neurogenic：站立/走路/伸背加重、**坐下/彎腰緩解**、ABI 正常。
 
@@ -567,6 +578,7 @@ credit:
     - 降膽固醇：Statin。
     - 血管重建：PCI 或手術。
         - 適應症：Rest pain、tissue loss、lifestyle-limiting claudication 經保守治療無效。
+- 詳見 [[心血管系統主訴#肢體缺血與跛行（Limb Ischemia / Claudication）|肢體缺血與跛行]]的評估流程；內科治療詳見 [[心臟內科#周邊動脈疾病（Peripheral Artery Disease, PAD）|心臟內科的 PAD]]
 
 ### 急性肢體缺血（Acute Limb Ischemia, ALI）
 
@@ -589,7 +601,7 @@ credit:
     - **Embolism**：首選 **Fogarty balloon embolectomy**（經動脈切開以球囊導管取栓）。
     - **Thrombosis**：首選 **catheter-directed thrombolysis**（tPA 局部溶栓）或 surgical bypass。
 - **Reperfusion injury**：再灌流後釋放 K⁺、myoglobin、lactate，可致心律不整與 AKI。
-- **Compartment syndrome**：肢體腫脹、劇痛（被動伸展加劇），需 fasciotomy。
+- **[[外科概論#Compartment Syndrome（四肢）|Compartment syndrome]]**：肢體腫脹、劇痛（被動伸展加劇），需 fasciotomy。
 
 ### 頸動脈疾病（Carotid Artery Disease）
 
@@ -606,6 +618,7 @@ credit:
     - Vagus nerve / Recurrent laryngeal nerve → 聲音沙啞。
     - Marginal mandibular branch（facial n.）→ 嘴角下垂。
     - Hyperperfusion syndrome：術後同側頭痛、高血壓、癲癇 → 控制血壓。
+- 中風的次級預防詳見 [[神經內科#中風次級預防|神經內科]]
 
 ## 靜脈疾病（Venous Disease）
 
@@ -626,11 +639,12 @@ credit:
     - 淺、不規則邊緣、基底有肉芽組織。
     - 與動脈潰瘍比較：動脈潰瘍在 lateral malleolus / 足趾、深、punched-out、蒼白基底。
 - 治療：壓迫治療（compression）為主，Unna boot。
+- 詳見 [[心血管系統主訴#水腫（Edema）|水腫]]的評估流程
 
 ### 深部靜脈栓塞（DVT）
 
 - **Virchow's triad**：stasis、endothelial injury、hypercoagulability。
-- 好發：術後制動、創傷、骨折、惡性腫瘤、口服避孕藥、先天性 thrombophilia（Factor V Leiden 最常見）。
+- 好發：術後制動、創傷、骨折、惡性腫瘤、口服避孕藥、先天性 thrombophilia（[[血液腫瘤科#遺傳性|Factor V Leiden]] 最常見）。
 - **診斷**：
     - **Duplex ultrasound（compression ultrasound）**：首選，DVT 時靜脈不可壓縮（non-compressible）。
     - **D-dimer**：**高敏感度、低特異度**；陰性可排除（high NPV），但術後/創傷/癌症常偽陽性。
@@ -652,7 +666,7 @@ credit:
 |------|------|----------|------|
 | **Neurogenic** | **95%** | Brachial plexus（下幹 C8–T1 最常見） | 手/前臂麻痛、小魚際萎縮 |
 | Venous | 3–5% | Subclavian vein | **Paget-Schroetter syndrome**（上肢 DVT、腫脹、發紺） |
-| Arterial | < 1% | Subclavian artery | 手部缺血、Raynaud's、微栓塞 |
+| Arterial | < 1% | Subclavian artery | 手部缺血、[[肌肉骨骼系統主訴#雷諾現象（Raynaud's Phenomenon）\|Raynaud's]]、微栓塞 |
 
 - **相關解剖異常**：cervical rib（頸肋）、anomalous first rib、scalene muscle hypertrophy。
 - 診斷：Adson test、Wright test、Roos stress test（3 min elevated arm）；CTA/MRA、nerve conduction。
@@ -670,3 +684,4 @@ credit:
     - Massive PE（血行不穩）→ **systemic tPA** 為首選；若禁忌或失敗 → **surgical embolectomy** 或 **catheter-directed therapy**。
 - Chronic thromboembolic pulmonary hypertension（CTEPH）→ **Pulmonary endarterectomy（PEA）**：唯一根治方式。
 - IVC filter 適應症：抗凝禁忌、抗凝下仍反覆 PE。
+- 診斷流程與抗凝詳見 [[胸腔內科#肺栓塞（Pulmonary Embolism）|胸腔內科的肺栓塞]]
