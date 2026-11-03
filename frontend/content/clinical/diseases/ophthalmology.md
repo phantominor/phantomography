@@ -65,7 +65,7 @@ credit:
 
 #### 乾眼症（Dry Eye Disease）
 
-- 兩大類型：水液缺乏型（如 Sjögren syndrome）、蒸發過強型（如 Meibomian 腺功能障礙，**最常見**）。
+- 兩大類型：水液缺乏型（如 [[免疫風濕科#Sjögren's Syndrome（乾燥症候群）|Sjögren syndrome]]）、蒸發過強型（如 Meibomian 腺功能障礙，**最常見**）。
 - 症狀：異物感、灼熱、乾澀，嚴重時反而**反射性流淚**。
 - 檢查：
     - **Schirmer test**：濾紙置下眼瞼外 1/3 穹窿 5 分鐘（測水液分泌量）。
@@ -178,7 +178,7 @@ credit:
 | 腱膜性 | 退化性腱膜鬆弛 | **最常見（老年人）** |
 | 神經性 | CN III 麻痺 | 合併眼球運動障礙、瞳孔散大 |
 | 神經性 | Horner syndrome | 輕度下垂 + 縮瞳 + 無汗 |
-| 肌源性 | 重症肌無力（MG） | 疲勞後加重、波動性 |
+| 肌源性 | [[神經內科#重症肌無力（Myasthenia Gravis, MG）\|重症肌無力（MG）]] | 疲勞後加重、波動性 |
 
 #### 眼瞼痙攣（Blepharospasm）
 
@@ -215,8 +215,8 @@ credit:
 | 細菌性 | S. aureus, S. pneumoniae, H. influenzae | **膿性** | 雙側、晨起黏稠 |
 | 病毒性 | **Adenovirus** | 水樣 | 高度傳染性、**濾泡（follicles）**、preauricular LAD |
 | 過敏性 | 過敏原 | 水樣、絲狀 | 癢為主、**乳突（papillae）**、chemosis |
-| 淋菌性 | N. gonorrhoeae | **大量膿性** | 新生兒 → ophthalmia neonatorum |
-| 衣原體（砂眼） | C. trachomatis | 黏液膿性 | 濾泡、結疤、角膜血管翳 |
+| 淋菌性 | [[感染科#N. gonorrhoeae（淋病雙球菌）\|N. gonorrhoeae]] | **大量膿性** | 新生兒 → ophthalmia neonatorum |
+| 衣原體（砂眼） | [[感染科#Chlamydia\|C. trachomatis]] | 黏液膿性 | 濾泡、結疤、角膜血管翳 |
 
 #### 流行性角結膜炎（Epidemic Keratoconjunctivitis, EKC）
 
@@ -225,6 +225,7 @@ credit:
 - 症狀：紅眼、異物感、水樣分泌物、preauricular lymphadenopathy。
 - 角膜可見 subepithelial infiltrates（SEI）→ 可持續數月。
 - 治療：支持療法（自限性 2–3 週）、人工淚液、避免類固醇（除非 SEI 影響視力）。
+- 詳見 [[五官主訴#紅眼（Red Eye）|紅眼]]的評估流程
 
 #### 春季角結膜炎（Vernal Keratoconjunctivitis, VKC）
 
@@ -267,7 +268,7 @@ credit:
 | 疼痛 | 輕度不適 | **嚴重深層痛**（可放射至顏面） |
 | 外觀 | 局部鮮紅充血 | 瀰漫性暗紅/紫紅色 |
 | Phenylephrine 10% 點眼 | **血管收縮、充血消退** | 充血不消退（深層鞏膜血管） |
-| 全身疾病 | 多無 | 約 50% 合併全身疾病（**RA 最常見**） |
+| 全身疾病 | 多無 | 約 50% 合併全身疾病（**[[免疫風濕科#類風濕性關節炎（Rheumatoid Arthritis, RA）\|RA]] 最常見**） |
 | 嚴重性 | 自限性、良性 | 可致鞏膜壞死穿孔（necrotizing scleritis） |
 | 治療 | 人工淚液、輕度 NSAID | 全身性 NSAID → 不足時全身類固醇/免疫抑制劑 |
 
@@ -279,7 +280,7 @@ credit:
 |------|------|----------|------|
 | 細菌性 | S. aureus, Pseudomonas | 隱形眼鏡（Pseudomonas）、外傷 | 化膿性浸潤、前房蓄膿（hypopyon） |
 | 黴菌性 | Fusarium, Aspergillus | **植物性外傷（農業傷害）**、類固醇 | 衛星狀病灶（satellite lesions）、羽毛狀邊緣 |
-| 病毒性 | HSV-1 | 免疫低下、壓力 | **樹枝狀潰瘍（dendritic ulcer）** |
+| 病毒性 | [[感染科#HSV\|HSV-1]] | 免疫低下、壓力 | **樹枝狀潰瘍（dendritic ulcer）** |
 | 棘阿米巴 | Acanthamoeba | **隱形眼鏡+自來水** | 環狀浸潤（ring infiltrate）、pain out of proportion |
 
 #### 細菌性角膜潰瘍
@@ -300,7 +301,7 @@ credit:
 
 #### Herpes Zoster Ophthalmicus
 
-- VZV 再活化侵犯三叉神經 V₁ 分支。
+- [[皮膚科#帶狀疱疹（Herpes Zoster / Shingles）|VZV]] 再活化侵犯三叉神經 V₁ 分支。
 - **Hutchinson sign**：鼻尖出現水泡（鼻睫神經 nasociliary nerve 受侵）→ 強烈預測眼部併發症。
 - 治療：口服 Acyclovir/Valacyclovir（:red[72 小時內]開始）。
 
@@ -308,7 +309,7 @@ credit:
 
 - 角膜進行性變薄、前凸 → 不規則散光。
 - 好發年輕人（青春期開始）、常雙側。
-- 相關：Down syndrome、Ehlers-Danlos syndrome、**異位性皮膚炎（atopic dermatitis）**、長期揉眼。
+- 相關：[[小兒科#唐氏症（Down Syndrome, Trisomy 21）|Down syndrome]]、Ehlers-Danlos syndrome、**[[皮膚科#異位性皮膚炎（Atopic Dermatitis, AD）|異位性皮膚炎（atopic dermatitis）]]**、長期揉眼。
 - 徵象：Munson's sign（向下看時下眼瞼呈 V 字突出）、Vogt's striae（基質層細紋）、Fleischer ring（鐵質沉積環）。
 - 治療：
     - 早期：硬式隱形眼鏡（RGP）矯正不規則散光。
@@ -321,7 +322,7 @@ credit:
     - **晨起視力較差**（睡眠時蒸發減少 → 水腫加重）。
     - 治療：高張食鹽水眼藥水 → 嚴重時 DSAEK/DMEK。
 - **Band keratopathy**：角膜鈣質沉積（帶狀角膜病變）。
-    - 相關：高血鈣、慢性葡萄膜炎、JIA、矽油填充後。
+    - 相關：[[電解質與酸鹼#高血鈣（Hypercalcemia）|高血鈣]]、慢性葡萄膜炎、JIA、矽油填充後。
     - 治療：EDTA chelation。
 
 ### 角膜移植
@@ -370,6 +371,7 @@ credit:
 - 徵象：結膜充血、角膜水腫混濁、**瞳孔中度散大固定（mid-dilated, fixed）**、前房極淺（<1/4 角膜厚度）、眼壓極高。
 - 高危族群：**遠視眼**（眼軸短→前房淺）、老年人、女性、亞洲人。
 - 誘發因素：散瞳藥物、暗處、情緒激動、全身性抗膽鹼藥物。
+- 詳見 [[五官主訴#紅眼（Red Eye）|紅眼]]、[[五官主訴#急性視力喪失（Acute Vision Loss）|急性視力喪失]]的評估流程
 
 ### 先天性青光眼
 
@@ -419,13 +421,15 @@ credit:
 | 皮質性（Cortical） | 皮質 | 楔形混濁（spoke-like opacity）、眩光 |
 | 後囊下（PSC） | 後囊下 | **年輕人、類固醇使用、DM、放射線**；近距離視力影響最早 |
 
+- 詳見 [[五官主訴#慢性視力模糊（Gradual Vision Loss）|慢性視力模糊]]的評估流程
+
 ### 病因
 
 - **老年性**：最常見（>90%），蛋白質氧化變性。
-- 代謝性：**DM**（sorbitol pathway → osmotic swelling）、半乳糖血症、低血鈣、Wilson disease。
+- 代謝性：**DM**（sorbitol pathway → osmotic swelling）、半乳糖血症、低血鈣、[[神經內科#威爾森氏病（Wilson Disease）|Wilson disease]]。
 - 外傷性：穿刺傷、鈍傷（rosette-shaped cataract）、電擊、放射線。
 - 藥物性：**類固醇**（PSC 型）、Amiodarone、Chlorpromazine。
-- 先天性：TORCH 感染（尤其 **rubella**）、Down syndrome、遺傳。
+- 先天性：[[小兒科#先天性感染（TORCH）|TORCH]] 感染（尤其 **rubella**）、Down syndrome、遺傳。
 - 續發性：慢性葡萄膜炎、青光眼手術後。
 - 其他相關：**異位性皮膚炎（atopic dermatitis）** → 常為前囊下或後囊下型，好發年輕人。
 
@@ -456,10 +460,10 @@ credit:
 
 | 部位 | 包含 | 常見病因 |
 |------|------|----------|
-| 前葡萄膜炎 | 虹膜炎（iritis）、虹膜睫狀體炎 | **最常見**；HLA-B27（AS）、JIA、HSV、sarcoidosis |
-| 中間葡萄膜炎 | 睫狀體扁平部炎（pars planitis） | 多發性硬化症、sarcoidosis |
-| 後葡萄膜炎 | 脈絡膜炎、視網膜炎 | Toxoplasma（最常見感染性）、CMV、TB、sarcoidosis |
-| 全葡萄膜炎 | 全層 | Behçet disease、VKH、syphilis |
+| 前葡萄膜炎 | 虹膜炎（iritis）、虹膜睫狀體炎 | **最常見**；HLA-B27（[[免疫風濕科#僵直性脊椎炎（Ankylosing Spondylitis, AS）\|AS]]）、[[小兒科#幼年型特發性關節炎（Juvenile Idiopathic Arthritis, JIA）\|JIA]]、HSV、[[免疫風濕科#Sarcoidosis（類肉瘤病）\|sarcoidosis]] |
+| 中間葡萄膜炎 | 睫狀體扁平部炎（pars planitis） | [[神經內科#多發性硬化症（Multiple Sclerosis, MS）\|多發性硬化症]]、sarcoidosis |
+| 後葡萄膜炎 | 脈絡膜炎、視網膜炎 | [[感染科#Toxoplasma gondii\|Toxoplasma]]（最常見感染性）、[[感染科#CMV\|CMV]]、[[感染科#Mycobacterium tuberculosis（結核病）\|TB]]、sarcoidosis |
+| 全葡萄膜炎 | 全層 | [[免疫風濕科#Behçet's Disease\|Behçet disease]]、VKH、[[感染科#Treponema pallidum（Syphilis，梅毒）\|syphilis]] |
 
 ### 前葡萄膜炎
 
@@ -502,7 +506,7 @@ credit:
 #### VKH（Vogt-Koyanagi-Harada）Disease
 
 - 雙側肉芽腫性全葡萄膜炎 + 滲出性視網膜剝離。
-- 全身：聽力下降、白斑（vitiligo）、白髮（poliosis）、腦膜刺激症狀。
+- 全身：聽力下降、[[皮膚科#白斑（Vitiligo）|白斑（vitiligo）]]、白髮（poliosis）、腦膜刺激症狀。
 - 好發亞洲人、深膚色人種。
 - 治療：全身性高劑量類固醇。
 
@@ -520,6 +524,7 @@ credit:
 - 發生與血糖控制及病程長短相關。
 - NPDR = Non-Proliferative Diabetic Retinopathy（非增殖性）。
 - PDR = Proliferative Diabetic Retinopathy（增殖性）。
+- 篩檢與全身處置詳見 [[代謝內分泌科#微血管併發症|代謝內分泌科的微血管併發症]]
 
 #### 分期
 
@@ -550,14 +555,15 @@ credit:
 ### 視網膜中央動脈阻塞（CRAO）
 
 - **眼科急症！**。
-- 病因：栓塞（最常見，來自頸動脈或心臟）、血栓、巨細胞動脈炎（GCA）。
+- 病因：栓塞（最常見，來自頸動脈或心臟）、血栓、[[神經內科#顳動脈炎（Giant Cell Arteritis, GCA）|巨細胞動脈炎（GCA）]]。
 - 症狀：**突然無痛性單眼視力喪失**。
 - 眼底：**cherry-red spot**（黃斑中心凹因下方脈絡膜血供仍在而呈紅色，周圍視網膜蒼白水腫）。
 - RAPD（+）。
 - 治療（黃金時間 :red[90–120 分鐘]，效果有限）：
     - 眼球按摩、降眼壓（Timolol、Acetazolamide、前房穿刺）→ 希望栓塞移位。
     - **須排除巨細胞動脈炎（GCA）** → ESR/CRP → 若疑似 → 立即高劑量類固醇 + 顳動脈切片。
-- 後續：視為「眼中風」→ 需頸動脈超音波、心臟評估（心房顫動、瓣膜），中風風險評估。
+- 後續：視為「眼中風」→ 需頸動脈超音波、心臟評估（[[心臟內科#Atrial Fibrillation（AF）|心房顫動]]、瓣膜），中風風險評估。
+- 詳見 [[五官主訴#急性視力喪失（Acute Vision Loss）|急性視力喪失]]的評估流程
 
 ### 視網膜中央靜脈阻塞（CRVO）
 
@@ -578,7 +584,7 @@ credit:
 |------|------|----------|
 | **裂孔性（Rhegmatogenous）** | 視網膜裂孔 → 玻璃體液進入 | **最常見**；高度近視、白內障術後、外傷 |
 | 牽引性（Tractional） | 纖維血管膜牽拉 | PDR、ROP、外傷 |
-| 滲出性（Exudative） | 液體從脈絡膜滲出 | VKH、腫瘤、嚴重 pre-eclampsia |
+| 滲出性（Exudative） | 液體從脈絡膜滲出 | VKH、腫瘤、嚴重 [[產科#妊娠高血壓疾病（Hypertensive Disorders of Pregnancy）\|pre-eclampsia]] |
 
 #### 裂孔性視網膜剝離
 
@@ -632,14 +638,14 @@ credit:
 - 表現：**白瞳症（leukocoria / cat's eye reflex）**、斜視。
 - 診斷：眼底檢查（EUA）、眼超音波（鈣化）、MRI（避免 CT 以減少輻射致癌風險）。
 - 治療：依分期 → 化療（全身/局部）、雷射、冷凍、放射線、摘眼（最後手段）。
-- **遺傳型第二腫瘤風險**：骨肉瘤（osteosarcoma）最常見。
+- **遺傳型第二腫瘤風險**：骨肉瘤（[[骨科#惡性骨骼腫瘤|osteosarcoma]]）最常見。
 
 ## 視神經疾病
 
 ### 視神經炎（Optic Neuritis）
 
 - 好發年輕女性（20–40 歲）。
-- 強烈關聯：**多發性硬化症（MS）**。
+- 強烈關聯：**[[神經內科#多發性硬化症（Multiple Sclerosis, MS）|多發性硬化症（MS）]]**。
 - 症狀：
     - **急性單眼視力下降**（數天內進展）。
     - 眼球轉動疼痛（尤其上轉時）。
@@ -655,12 +661,13 @@ credit:
 
 ### 視乳頭水腫（Papilledema）
 
-- **雙側視神經盤水腫** → 代表顱內壓升高。
-- 病因：腦腫瘤、腦水腫、靜脈竇栓塞、假性腦腫瘤。
+- **雙側視神經盤水腫** → 代表[[神經外科#顱內壓（ICP）基本概念|顱內壓升高]]。
+- 病因：腦腫瘤、腦水腫、靜脈竇栓塞、[[神經內科#特發性顱內壓升高（Idiopathic Intracranial Hypertension, IIH）|假性腦腫瘤]]。
 - 早期視力正常 → 晚期視力喪失。
 - 症狀：頭痛（晨起加重、咳嗽/用力時惡化）、暫時性視力模糊（transient visual obscurations）。
 - 眼底：視盤邊緣模糊、靜脈擴張、出血、棉絮斑。
 - 腰椎穿刺前須先以影像排除佔位性病變，確認無佔位後方可行 LP。
+- 詳見 [[神經外科#顱內壓升高與腦水腫|神經外科的顱內壓升高]]
 
 ### 特發性顱內壓增高（IIH / Pseudotumor Cerebri）
 
@@ -675,7 +682,7 @@ credit:
 
 | 類型 | 動脈炎性（A-AION） | 非動脈炎性（NA-AION） |
 |------|---------------------|------------------------|
-| 病因 | **巨細胞動脈炎（GCA）** | 小血管疾病（HTN、DM、高脂血症） |
+| 病因 | **[[神經內科#顳動脈炎（Giant Cell Arteritis, GCA）\|巨細胞動脈炎（GCA）]]** | 小血管疾病（HTN、DM、高脂血症） |
 | 年齡 | >70 歲 | >50 歲 |
 | 視力喪失 | 嚴重 | 輕至中度 |
 | 眼底 | 蒼白視盤水腫 | 充血性視盤水腫 |
@@ -722,6 +729,7 @@ credit:
 - 重要鑑別：
     - **瞳孔受累（pupil-involving）**→ 高度懷疑 **後交通動脈瘤壓迫** → 緊急 CTA/MRA！
     - **瞳孔未受累（pupil-sparing）**→ 多為**糖尿病微血管病變（缺血性）**。
+- 詳見 [[五官主訴#複視與眼球運動異常（Diplopia）|複視]]、[[五官主訴#瞳孔不等大（Anisocoria）|瞳孔不等大]]的評估流程；動脈瘤詳見 [[神經外科#自發性蛛網膜下腔出血（Spontaneous SAH）|神經外科的蛛網膜下腔出血]]
 
 #### CN IV（滑車神經）麻痺
 
@@ -743,7 +751,7 @@ credit:
 ### 甲狀腺眼病（Thyroid Eye Disease / Graves' Ophthalmopathy）
 
 - **最常見成人眼突（proptosis）原因**。
-- 自體免疫 → TSH receptor Ab → 眼外肌及眶脂肪發炎、腫脹。
+- 自體免疫 → [[代謝內分泌科#Graves' Disease|TSH receptor Ab]] → 眼外肌及眶脂肪發炎、腫脹。
 - 眼病嚴重度與甲狀腺功能狀態不一定平行（甲亢已控制仍可惡化）；**吸菸是最重要可改變危險因子**。
 - 眼外肌受侵順序：Inferior rectus（**最常受侵，上轉受限**） > Medial rectus > Superior rectus > Lateral rectus > Oblique。
 - 臨床表現：
@@ -758,6 +766,7 @@ credit:
     - 中重度：**IV pulse methylprednisolone** → 眶部放射線。
     - 緊急（DON）：高劑量類固醇 → 無效 → **眶減壓手術（orbital decompression）**。
     - 穩定期：手術順序為**眶減壓 → 斜視手術 → 眼瞼手術**。
+- 甲狀腺功能的治療詳見 [[代謝內分泌科#Graves' Disease|代謝內分泌科的 Graves' disease]]
 
 ### 眼眶蜂窩組織炎
 
@@ -770,10 +779,11 @@ credit:
 | 瞳孔反應 | 正常 | 可異常（RAPD） |
 | 嚴重度 | 較輕 | **可致命** |
 
-- 眶後蜂窩組織炎最常見原因：**鼻竇炎（ethmoid sinusitis）**。
+- 眶後蜂窩組織炎最常見原因：**[[耳鼻喉科#鼻竇炎併發症|鼻竇炎（ethmoid sinusitis）]]**。
 - 最常見病原菌：**S. aureus、Streptococcus**。
 - 併發症：海綿竇栓塞（cavernous sinus thrombosis）、腦膜炎、腦膿瘍。
 - 治療：眶後 → 住院 IV 抗生素 ± CT 掃描；有膿瘍 → 手術引流。
+- 詳見 [[五官主訴#眼瞼與眼眶腫脹（Eyelid / Periorbital Swelling）|眼瞼與眼眶腫脹]]的評估流程
 
 ### 眼眶腫瘤
 
@@ -802,7 +812,7 @@ credit:
     - 分級：Grade I（<1/3 前房）→ Grade IV（全前房充滿）。
     - 處理：抬高頭部、限制活動、散瞳（Atropine）、類固醇眼藥水、**避免 aspirin/NSAID**。
     - 併發症：再出血（:red[3–5 天]最危險）、青光眼、角膜血染（corneal blood staining）。
-    - **鐮刀細胞疾病者**：即使少量 hyphema 也可致嚴重眼壓升高。
+    - **[[血液腫瘤科#鐮刀型紅血球症（Sickle Cell Disease）|鐮刀細胞疾病]]者**：即使少量 hyphema 也可致嚴重眼壓升高。
 
 - **眼球破裂（Ruptured Globe）**：
     - 線索：淺前房、不規則瞳孔（teardrop pupil，尖端指向傷口）、玻璃體脫出、眼壓極低。
@@ -830,6 +840,7 @@ credit:
 - 典型表現：搏動性眼突（pulsating proptosis）、結膜血管擴張迂曲（corkscrew vessels）、眼壓升高、眼眶雜音（bruit）、CN III/IV/VI 麻痺。
 - 診斷：CTA/MRA → 確診用血管攝影（DSA）。
 - 治療：直接型 → 血管內介入栓塞；間接型 → 部分可自行閉合，必要時介入治療。
+- 介入治療詳見 [[神經外科#頸動脈海綿竇瘻管（Carotid-Cavernous Fistula, CCF）|神經外科的 CCF]]
 
 ## 全身性疾病的眼部表現
 
@@ -846,18 +857,18 @@ credit:
     - Grade I：動脈輕度狹窄。
     - Grade II：**動靜脈交叉壓迫（AV nicking）**。
     - Grade III：出血、硬性滲出物、棉絮斑（cotton-wool spots）。
-    - Grade IV：**視乳頭水腫（papilledema）** → 惡性高血壓。
+    - Grade IV：**視乳頭水腫（papilledema）** → [[心臟內科#高血壓危象（Hypertensive Crisis）|惡性高血壓]]。
 
 ### 其他
 
 | 疾病 | 眼部表現 |
 |------|----------|
-| Wilson disease | **Kayser-Fleischer ring**（角膜 Descemet 膜銅沉積）、Sunflower cataract |
-| Marfan syndrome | **水晶體上移位（superotemporal lens subluxation）**、近視、視網膜剝離 |
+| [[神經內科#威爾森氏病（Wilson Disease）\|Wilson disease]] | **Kayser-Fleischer ring**（角膜 Descemet 膜銅沉積）、Sunflower cataract |
+| [[小兒科#馬凡氏症候群（Marfan Syndrome）\|Marfan syndrome]] | **水晶體上移位（superotemporal lens subluxation）**、近視、視網膜剝離 |
 | Homocystinuria | **水晶體下移位（inferonasal lens subluxation）** |
-| Down syndrome | Brushfield spots（虹膜白色斑點）、斜視、屈光不正 |
-| RA | 乾眼、鞏膜炎（scleritis）、周邊角膜潰瘍 |
-| SLE | 棉絮斑、視網膜血管炎 |
-| Sarcoidosis | 葡萄膜炎（mutton-fat KPs）、淚腺腫大 |
-| AIDS | CMV retinitis（出血 + 壞死白斑） |
-| Ankylosing spondylitis | 急性前葡萄膜炎（HLA-B27） |
+| [[小兒科#唐氏症（Down Syndrome, Trisomy 21）\|Down syndrome]] | Brushfield spots（虹膜白色斑點）、斜視、屈光不正 |
+| [[免疫風濕科#類風濕性關節炎（Rheumatoid Arthritis, RA）\|RA]] | 乾眼、鞏膜炎（scleritis）、周邊角膜潰瘍 |
+| [[免疫風濕科#全身性紅斑狼瘡（SLE）\|SLE]] | 棉絮斑、視網膜血管炎 |
+| [[免疫風濕科#Sarcoidosis（類肉瘤病）\|Sarcoidosis]] | 葡萄膜炎（mutton-fat KPs）、淚腺腫大 |
+| [[感染科#HIV / AIDS\|AIDS]] | CMV retinitis（出血 + 壞死白斑） |
+| [[免疫風濕科#僵直性脊椎炎（Ankylosing Spondylitis, AS）\|Ankylosing spondylitis]] | 急性前葡萄膜炎（HLA-B27） |
