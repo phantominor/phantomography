@@ -65,7 +65,7 @@ credit:
 ### 分類
 
 - **Uncomplicated UTI**：健康、非懷孕的女性之下泌尿道感染（cystitis）。
-- **Complicated UTI**：有結構或功能異常（結石、阻塞、導管、男性、孕婦、DM、免疫低下）。
+- **Complicated UTI**：有結構或功能異常（結石、阻塞、導管、男性、[[產科#妊娠期 UTI|孕婦]]、DM、免疫低下）。
 - **Recurrent UTI**：:red[6 個月內 ≥ 2 次 或 1 年內 ≥ 3 次]。
 
 ### 病原菌
@@ -83,6 +83,7 @@ credit:
 - **Cystitis（膀胱炎）**：頻尿、急尿、排尿疼痛（dysuria）、恥骨上疼痛、血尿；無發燒。
 - **Pyelonephritis（腎盂腎炎）**：發燒（>38°C）、畏寒、腰痛（CVA tenderness）、噁心嘔吐 ± 下泌尿道症狀。
 - 尿液檢查：pyuria（:red[WBC > 5/HPF]）、bacteriuria、**leukocyte esterase (+)**、**nitrite (+)**（Gram(+) 可能假陰性）。
+- 詳見 [[腎泌尿系統主訴#排尿疼痛與膿尿（Dysuria / Pyuria）|排尿疼痛與膿尿]]的評估流程；腎盂腎炎的內科處置詳見 [[腎臟內科#泌尿道感染（UTI）與腎盂腎炎|腎臟內科]]
 
 ### 治療
 
@@ -142,7 +143,7 @@ credit:
 
 - 男性 > 女性（約 2–3：1）。
 - 好發年齡：20–50 歲。
-- 風險因子：脫水（**最重要可修正因子**）、高蛋白飲食、高鈉飲食、高草酸飲食、家族史、肥胖、痛風、副甲狀腺亢進、反覆 UTI、結構異常。
+- 風險因子：脫水（**最重要可修正因子**）、高蛋白飲食、高鈉飲食、高草酸飲食、家族史、肥胖、[[骨科#痛風性關節炎（Gout）|痛風]]、[[代謝內分泌科#原發性副甲狀腺機能亢進（Primary Hyperparathyroidism）|副甲狀腺亢進]]、反覆 UTI、結構異常。
 - **終生復發率高達 50%**。
 
 ### 結石種類
@@ -152,7 +153,7 @@ credit:
 | **Calcium oxalate** | **70–80%** | 信封形結晶；最常與 hypercalciuria 相關 | 無關 | **Radio-opaque** |
 | Calcium phosphate | 常與 CaOx 混合 | — | 鹼性 | Radio-opaque |
 | **Struvite** | 10–15% | MgNH₄PO₄；urease-producing bacteria（**Proteus**）；可形成 staghorn calculus（鹿角形結石）| **鹼性** | Radio-opaque |
-| **Uric acid** | 5–10% | 痛風、高尿酸、腫瘤溶解症候群；可用鹼化尿液（NaHCO3）完全溶解 | **酸性** | **Radiolucent**（但 CT 可見） |
+| **Uric acid** | 5–10% | 痛風、高尿酸、[[血液腫瘤科#Tumor Lysis Syndrome（TLS）\|腫瘤溶解症候群]]；可用鹼化尿液（NaHCO3）完全溶解 | **酸性** | **Radiolucent**（但 CT 可見） |
 | Cystine | 1–2% | 體染色體隱性 cystinuria；六角形結晶 | 酸性 | 微弱顯影 |
 
 ### 臨床表現
@@ -161,6 +162,7 @@ credit:
 - 疼痛為間歇性，患者坐立不安（與腹膜炎患者不動相反）。
 - 可伴隨噁心、嘔吐、血尿（>85%有鏡下血尿）。
 - 結石卡在 UVJ → 類似膀胱刺激症狀（頻尿、急尿）。
+- 詳見 [[腎泌尿系統主訴#腰痛與腎絞痛（Flank Pain / Renal Colic）|腰痛與腎絞痛]]的評估流程
 
 ### 診斷
 
@@ -202,6 +204,7 @@ credit:
 - Uric acid：鹼化尿液（K-**citrate**）、低普林飲食、Allopurinol。
 - Struvite：根除感染、完全清除結石；Acetohydroxamic acid（urease inhibitor）。
 - Cystine：大量飲水、鹼化尿液、Tiopronin 或 D-penicillamine（結合 cystine）。
+- 代謝評估詳見 [[腎臟內科#腎結石（Nephrolithiasis）|腎臟內科的腎結石]]
 
 ## 良性攝護腺肥大（BPH）
 
@@ -222,6 +225,7 @@ credit:
 - 嚴重度評估：**IPSS（International Prostate Symptom Score）**。
     - Mild：0–7；Moderate：8–19；Severe：20–35。
     - LUTS 症狀嚴重度與指診時攝護腺大小沒有絕對相關性。
+- 詳見 [[腎泌尿系統主訴#下泌尿道症狀與尿滯留（LUTS / Urinary Retention）|下泌尿道症狀與尿滯留]]的評估流程
 
 ### 併發症
 
@@ -296,6 +300,7 @@ credit:
 - **DRE**：硬結節、不規則、不對稱。
 - **Multiparametric MRI**：PI-RADS 評分 → :red[≥ 3] 建議切片。
 - **確診**：**經直腸超音波引導切片（TRUS biopsy）** 或 MRI-fusion targeted biopsy。
+- 詳見 [[生化異常#攝護腺特異抗原升高（Elevated PSA）|攝護腺特異抗原升高]]的評估流程
 
 ### 分期
 
@@ -356,6 +361,7 @@ credit:
 - 任何 :red[> 40 歲]之無痛性血尿 → 需排除膀胱癌。
 - 可能有頻尿、急尿等刺激症狀（尤其 CIS）。
 - 進展期：骨盆疼痛、水腎、體重下降。
+- 詳見 [[腎泌尿系統主訴#血尿（Hematuria）|血尿]]的評估流程
 
 ### 診斷
 
@@ -415,7 +421,7 @@ credit:
 - 成人腎臟最常見的惡性腫瘤（佔 85–90%）。
 - 男性 > 女性（2：1）。
 - 好發 50–70 歲。
-- 風險因子：**吸菸**（最重要可改變因子）、肥胖、高血壓、VHL syndrome、長期透析。
+- 風險因子：**吸菸**（最重要可改變因子）、肥胖、高血壓、[[神經內科#神經皮膚症候群|VHL syndrome]]、長期透析。
 
 ### 病理分類
 
@@ -426,15 +432,15 @@ credit:
 | Chromophobe | 5% | 預後較好 |
 | Collecting duct | <1% | 罕見、預後差 |
 | Oncocytoma | — | **良性腫瘤**，嗜酸性細胞，central scar on CT |
-| Angiomyolipoma（AML） | — | **良性**；血管＋平滑肌＋脂肪；CT 見脂肪密度（fat attenuation）；與 **Tuberous Sclerosis** 相關（雙側/多發） |
+| Angiomyolipoma（AML） | — | **良性**；血管＋平滑肌＋脂肪；CT 見脂肪密度（fat attenuation）；與 **[[小兒科#Tuberous Sclerosis（TSC）\|Tuberous Sclerosis]]** 相關（雙側/多發） |
 
 ### 臨床表現
 
 - **經典三徵**：血尿 + 腰痛 + 腹部腫塊（只有 10–15% 完整三徵）。
 - 現代大多為影像**偶然發現**（incidental finding）。
 - **Paraneoplastic syndromes**：
-    - **高血鈣**：PTHrP 分泌。
-    - **紅血球增多症**：EPO 分泌。
+    - **[[電解質與酸鹼#高血鈣（Hypercalcemia）|高血鈣]]**：PTHrP 分泌。
+    - **[[血液異常#紅血球增多（Polycythemia / Erythrocytosis）|紅血球增多症]]**：EPO 分泌。
     - **Stauffer syndrome**：非轉移性肝功能異常。
     - 高血壓：Renin 分泌。
     - Cushing syndrome：ACTH。
@@ -454,6 +460,7 @@ credit:
         - IV：明顯實質成分、強化 → **手術**（>90% malignancy）。
 - MRI：評估 IVC tumor thrombus 最佳。
 - **不需要術前切片**（典型影像即可手術）→ 切片有出血、needle tract seeding 風險。
+- 影像意外發現的腎臟腫塊詳見 [[偶發病灶#腎臟偶發腫塊（Incidental Renal Mass）|腎臟偶發腫塊]]
 
 ### 治療
 
@@ -485,7 +492,7 @@ credit:
 ### 流行病學
 
 - **15–35 歲男性最常見的惡性腫瘤**。
-- 風險因子：**隱睪症（cryptorchidism）**、對側睪丸癌史、家族史、Klinefelter syndrome、testicular microlithiasis。
+- 風險因子：**[[泌尿科#隱睪症（Cryptorchidism）|隱睪症（cryptorchidism）]]**、對側睪丸癌史、家族史、[[小兒科#Klinefelter Syndrome（47,XXY）|Klinefelter syndrome]]、testicular microlithiasis。
 - 隱睪症：最常停留在**腹股溝管**；惡性化風險最高的是**腹腔內**未降睪丸。
     - 最常見的隱睪症相關癌：**Seminoma**。
     - 即使手術矯正仍有較高風險。
@@ -530,6 +537,7 @@ credit:
 - 超音波：實質性、hypoechoic、血流增加。
 - **透光試驗（transillumination）陰性**（hydrocele 透光）。
 - 10% 以轉移症狀表現（腰痛、咳嗽）。
+- 詳見 [[腎泌尿系統主訴#陰囊腫塊（Scrotal Mass）|陰囊腫塊]]的評估流程
 
 ### 診斷與分期
 
@@ -592,7 +600,7 @@ credit:
 
 ### 膀胱創傷
 
-- 常與 **骨盆骨折** 相關。
+- 常與 **[[骨科#骨盆骨折（Pelvic Fracture）|骨盆骨折]]** 相關。
 - 診斷：**CT cystography** 或 conventional cystography（retrograde instill contrast）。
 - 膀胱裝滿 contrast 後需拍**排空後**影像 → 小的後壁穿孔可能被脹滿的膀胱遮住。
 - 分類與處理：
@@ -654,8 +662,8 @@ credit:
 
 | 損傷位置 | 膀胱行為 | 特點 |
 |----------|----------|------|
-| **UMN lesion**（SCI above S2、MS、CVA） | Detrusor overactivity（spastic bladder） | 不自主收縮、高壓、incontinence；可合併 DSD |
-| **LMN lesion**（S2–S4 損傷、cauda equina、DM neuropathy） | Detrusor underactivity（flaccid/areflexic bladder） | 無收縮、大量殘尿、overflow incontinence |
+| **UMN lesion**（SCI above S2、[[神經內科#多發性硬化症（Multiple Sclerosis, MS）\|MS]]、CVA） | Detrusor overactivity（spastic bladder） | 不自主收縮、高壓、incontinence；可合併 DSD |
+| **LMN lesion**（S2–S4 損傷、[[神經外科#不完全性脊髓損傷症候群\|cauda equina]]、DM neuropathy） | Detrusor underactivity（flaccid/areflexic bladder） | 無收縮、大量殘尿、overflow incontinence |
 
 - **DSD（Detrusor-Sphincter Dyssynergia）**：逼尿肌收縮時外括約肌不放鬆（UMN lesion）→ 膀胱內壓極高 → 腎臟損害。
 - 治療：**Clean Intermittent Catheterization（CIC）** 為基石治療。
@@ -671,6 +679,7 @@ credit:
 - 症狀：**突發嚴重高血壓**（SBP 可 > 200 mmHg）、劇烈頭痛、反射性心搏過緩、損傷部位以上潮紅/流汗、損傷部位以下蒼白/雞皮疙瘩。
 - **為急症**，嚴重可致顱內出血、癲癇、死亡。
 - 處理：立即找出並移除觸發因素（先引流膀胱/解除糞便嵌塞）→ 坐起以降低血壓 → 若仍高血壓則短效降壓藥（Nifedipine、Nitropaste）。
+- 脊髓損傷的其他併發症詳見 [[復健科#脊髓損傷常見併發症|復健科]]
 
 ### 尿失禁與膀胱過動症
 
@@ -680,6 +689,8 @@ credit:
 | **Urge（急迫性）** | 逼尿肌不自主收縮 → 急尿且來不及上廁所 | OAB 的一種表現 | Anticholinergics（Oxybutynin, Tolterodine）、β₃-agonist（Mirabegron）、Botox 注射膀胱 |
 | **Overflow（溢流性）** | 膀胱過度膨脹 → 被動漏尿 | 膀胱出口阻塞或 detrusor failure；常有大量排尿後殘餘尿量 | 治療根本原因（BPH → α-blocker/TURP）；CIC |
 | **Functional** | 行動/認知障礙無法及時到達廁所 | 老年人 | 環境調整、定時排尿 |
+
+- 詳見 [[腎泌尿系統主訴#尿失禁（Urinary Incontinence）|尿失禁]]的評估流程；女性尿失禁手術詳見 [[婦科#尿失禁（Urinary Incontinence, UI）|婦科]]
 
 #### 膀胱過動症（OAB, Overactive Bladder）
 
@@ -704,9 +715,9 @@ credit:
     - 最常見腎臟融合異常。
     - 下極融合，被 **inferior mesenteric artery** 擋住無法正常上升 → 位置偏低。
     - 常無症狀，但易併 UPJ obstruction 及結石。
-    - 與 **Turner syndrome（45,X）** 相關。
+    - 與 **[[小兒科#Turner Syndrome（45,X）|Turner syndrome（45,X）]]** 相關。
 - **Renal agenesis（腎發育不全）**：
-    - 雙側：**Potter sequence**（羊水過少 → 肺發育不全 + 肢體畸形 + 特殊面容）→ 致死。
+    - 雙側：**[[產科#羊水過少（Oligohydramnios）|Potter sequence]]**（羊水過少 → 肺發育不全 + 肢體畸形 + 特殊面容）→ 致死。
     - 單側：常無症狀，對側代償性肥大。
 - **Multicystic Dysplastic Kidney（MCDK）**：
     - 新生兒最常見的囊性腎臟疾病。
@@ -720,12 +731,13 @@ credit:
 | 遺傳 | **體染色體顯性** | 體染色體隱性 |
 | 基因 | **PKD1（Chr 16，85%）**、PKD2 | PKHD1 |
 | 發病年齡 | 成人（30–50 歲） | 嬰兒/新生兒 |
-| 腎臟外表現 | **肝囊腫**（最常見）、**腦動脈瘤（berry aneurysm）**、心臟瓣膜異常 | 肝纖維化（congenital hepatic fibrosis） |
+| 腎臟外表現 | **肝囊腫**（最常見）、**[[神經外科#自發性蛛網膜下腔出血（Spontaneous SAH）\|腦動脈瘤（berry aneurysm）]]**、心臟瓣膜異常 | 肝纖維化（congenital hepatic fibrosis） |
 | 預後 | 進展至 ESRD（60 歲約 50%） | 嚴重者出生即死亡 |
 
 - **ADPKD**：
     - 表現：腎臟雙側腫大、多發囊腫、血尿、腰痛、高血壓、結石。
     - 治療：控制血壓（ACEi/ARB）、Tolvaptan（V2 receptor antagonist）。
+- 腎功能與 Tolvaptan 詳見 [[腎臟內科#體染色體顯性多囊腎（ADPKD）|腎臟內科的 ADPKD]]
 
 ### UPJ Obstruction（腎盂輸尿管交界阻塞）
 
@@ -751,6 +763,7 @@ credit:
 - 處理：
     - Grade I–III：低劑量預防性抗生素 + 定期追蹤（VCUG / 超音波 / DMSA 掃描）。
     - Grade IV–V 或 breakthrough UTI： **Ureteral reimplantation** 或 endoscopic injection。
+- 兒童 UTI 處置詳見 [[小兒科#泌尿道感染|小兒科的泌尿道感染]]
 
 ### Posterior Urethral Valves（PUV，後尿道瓣膜）
 
@@ -780,6 +793,7 @@ credit:
 - 常合併 ventral chordee（陰莖向下彎曲）、prepuce 背側多餘（hooded prepuce）。
 - **禁做包皮環切術（circumcision）** → 包皮需保留用於後續手術修補。
 - 治療：6–18 個月大時手術修補（urethroplasty）。
+- 手術詳見 [[小兒外科#尿道下裂（Hypospadias）|小兒外科的尿道下裂]]
 
 ## 男性生殖系統急症
 
@@ -797,12 +811,13 @@ credit:
 - 黃金時間：**:red[6 小時內]**手術 → 睪丸保留率 ~100%；>24 小時 → 幾乎不可挽救。
 - 治療：**緊急 scrotal exploration + detorsion + orchiopexy**（雙側固定）。
     - 若睪丸已壞死 → orchiectomy + 對側 orchiopexy。
+- 詳見 [[腎泌尿系統主訴#急性陰囊疼痛（Acute Scrotal Pain）|急性陰囊疼痛]]的評估流程
 
 ### 附睪炎（Epididymitis）
 
 - **最常見的急性陰囊疼痛原因**。
 - 病原菌：
-    - :red[< 35 歲]：**Chlamydia trachomatis、Neisseria gonorrhoeae**（STI）。
+    - :red[< 35 歲]：**[[感染科#Chlamydia|Chlamydia trachomatis]]、[[感染科#N. gonorrhoeae（淋病雙球菌）|Neisseria gonorrhoeae]]**（STI）。
     - \> 35 歲：**E. coli**（UTI）。
 - 症狀：逐漸發作的陰囊疼痛、附睪腫脹壓痛、可有發燒。
 - 理學檢查：
@@ -821,6 +836,7 @@ credit:
 - 症狀：劇烈疼痛、陰囊腫脹/壞死、crepitus、全身性 sepsis。
 - 治療：**緊急手術清創** + 廣效抗生素 + 必要時多次清創。
 - 睪丸通常可保留（睪丸血供來自腹部而非陰囊皮膚）。
+- 壞死性筋膜炎的一般處置詳見 [[外科概論#壞死性筋膜炎（Necrotizing Fasciitis）|外科概論]]
 
 ### 嵌頓性包莖（Paraphimosis）
 
@@ -832,7 +848,7 @@ credit:
 
 | 類型 | 機制 | 特點 | 治療 |
 |------|------|------|------|
-| **Ischemic（low-flow）** | 靜脈回流受阻 → 血液滯留 | **痛**、黑暗色血、常見於鐮刀細胞貧血、PDE5i 過量；**急症** | Aspiration of blood + **Phenylephrine injection**（α-agonist）→ 失敗 → surgical shunt |
+| **Ischemic（low-flow）** | 靜脈回流受阻 → 血液滯留 | **痛**、黑暗色血、常見於[[血液腫瘤科#鐮刀型紅血球症（Sickle Cell Disease）\|鐮刀細胞貧血]]、PDE5i 過量；**急症** | Aspiration of blood + **Phenylephrine injection**（α-agonist）→ 失敗 → surgical shunt |
 | **Non-ischemic（high-flow）** | 動脈瘻管（通常外傷後） | 不痛、部分勃起 | 觀察 → 必要時 angioembolization |
 
 ## 男性生殖功能
@@ -853,6 +869,7 @@ credit:
 - 第一線：**PDE5 inhibitor（Sildenafil, Tadalafil）**；禁與 **nitrates** 併用（致命性低血壓）；與 α-blocker 併用需錯開時間。
 - 第二線：Intracavernosal injection（PGE1 / Alprostadil）、vacuum erection device。
 - 第三線：Penile prosthesis（inflatable 或 malleable）。
+- 詳見 [[腎泌尿系統主訴#勃起功能障礙（Erectile Dysfunction）|勃起功能障礙]]的評估流程
 
 ### 男性不孕症
 
@@ -866,7 +883,7 @@ credit:
     - 站立時觸診如 "bag of worms"、Valsalva 加劇。
     - Grade III 或影響生育力 → Varicocelectomy（microsurgical）。
 - **無精症（Azoospermia）**鑑別：
-    - **Obstructive**：FSH 正常、睪丸大小正常 → 常見原因：prior vasectomy、先天性輸精管缺失（與 cystic fibrosis 相關）。
+    - **Obstructive**：FSH 正常、睪丸大小正常 → 常見原因：prior vasectomy、先天性輸精管缺失（與 [[小兒科#囊腫性纖維化（Cystic Fibrosis, CF）|cystic fibrosis]] 相關）。
     - **Non-obstructive**：FSH 升高、睪丸萎縮 → 精子生成障礙（Klinefelter's、cryptorchidism、化療後）。
 
 ### 射精障礙
@@ -900,7 +917,7 @@ credit:
 ### 陰莖癌（Penile Cancer）
 
 - 罕見，好發老年未割包皮男性；> 95% 為 **SCC**。
-- 風險因子：**包莖**（最重要）、HPV 16/18、吸菸、lichen sclerosus。
+- 風險因子：**包莖**（最重要）、HPV 16/18、吸菸、[[皮膚科#硬化性萎縮苔蘚（Lichen Sclerosus）|lichen sclerosus]]。
 - 癌前病變：Erythroplasia of Queyrat（龜頭 CIS）、Bowen's disease（陰莖幹 CIS）、Giant condyloma（Buschke-Löwenstein）。
 - 表現：龜頭/包皮無痛性腫塊或潰瘍。
 - 轉移先至 **inguinal LN**；治療依深度行局部切除至 penectomy。
