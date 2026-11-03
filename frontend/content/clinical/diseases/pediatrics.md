@@ -37,6 +37,7 @@ credit:
 - 成人身高預估：2 歲身高 ×2 ≈ 成人身高（粗估）。
 - 青春期：女 8–10 cm/yr、男 10–12 cm/yr（peak height velocity）。
 - **身高成長速率 :red[< 4 cm/year]（3 歲後）** → 需評估。
+- 詳見 [[小兒主訴#身材矮小（Short Stature）|身材矮小]]、[[小兒主訴#生長遲滯（Failure to Thrive）|生長遲滯]]的評估流程
 
 ### 頭圍
 
@@ -115,6 +116,8 @@ credit:
 | 4 歲 | 想像遊戲（imaginary friends） |
 | 6 歲 | 學齡期、勤勉感 |
 
+- 詳見 [[小兒主訴#發展遲緩（Developmental Delay）|發展遲緩]]的評估流程
+
 ### 預防接種（台灣現行）
 
 | 年齡 | 疫苗 |
@@ -138,6 +141,7 @@ credit:
 - **不活化疫苗（Inactivated）**：DTaP、IPV、HepB、HepA、PCV、Hib、Influenza。
     - 可同時接種，無間隔限制。
 - **流感疫苗**：滿 6 個月起每年可接種；:red[首次接種未滿 9 歲需打 2 劑]（間隔 4 週）。
+- 成人疫苗與特殊族群詳見 [[家庭醫學科#預防接種|家庭醫學科的預防接種]]
 
 ## 新生兒學
 
@@ -204,7 +208,7 @@ credit:
 - 治療：
     - **Surfactant 替代療法**（exogenous surfactant 經氣管內給予）→ 顯著降低死亡率。
     - CPAP 或 mechanical ventilation。
-- 預防：產前給母親 **Betamethasone**（antenatal corticosteroid），:red[24–34 週]早產高風險者。
+- 預防：產前給母親 **[[產科#類固醇促胎兒肺成熟（Antenatal Corticosteroids）|Betamethasone]]**（antenatal corticosteroid），:red[24–34 週]早產高風險者。
     - 促進胎兒肺成熟，需在分娩前至少 24–48 小時給予。
 
 #### 暫時性呼吸急促（Transient Tachypnea of Newborn, TTN）
@@ -227,9 +231,10 @@ credit:
 #### 新生兒持續性肺高壓（PPHN）
 
 - 出生後肺血管阻力未正常下降 → 右至左分流（PDA、foramen ovale）→ 嚴重低血氧。
-- 原因：MAS、CDH（先天性橫膈膜疝氣）、RDS、sepsis、idiopathic。
+- 原因：MAS、[[小兒外科#先天性橫膈疝氣（Congenital Diaphragmatic Hernia, CDH）|CDH（先天性橫膈膜疝氣）]]、RDS、sepsis、idiopathic。
 - 診斷：上下肢 SpO₂ 差異 > 5–10%（pre-ductal > post-ductal）；Echo 確認。
 - 治療：**Inhaled Nitric Oxide（iNO）**→ 選擇性肺血管擴張；ECMO。
+- 詳見 [[小兒主訴#新生兒呼吸窘迫（Neonatal Respiratory Distress）|新生兒呼吸窘迫]]的評估流程
 
 ### 新生兒黃疸
 
@@ -256,9 +261,9 @@ credit:
 | 病因 | 機制 | 特點 |
 |------|------|------|
 | ABO 不合 | 母 O 型 → 嬰兒 A 或 B 型 | **最常見新生兒溶血**；Direct Coombs (+) |
-| Rh 不合 | 母 Rh(−) → 嬰兒 Rh(+) | 第二胎以後嚴重；預防：母親產後 72 hr 給 **RhIG** |
+| [[產科#Rh 同種免疫（Rh Isoimmunization）\|Rh 不合]] | 母 Rh(−) → 嬰兒 Rh(+) | 第二胎以後嚴重；預防：母親產後 72 hr 給 **RhIG** |
 | G6PD 缺乏 | 氧化壓力 → 溶血 | 台灣常見，新生兒篩檢 |
-| Hereditary spherocytosis | RBC 膜缺陷 | 球形紅血球、osmotic fragility↑ |
+| [[血液腫瘤科#遺傳性球形紅血球症（Hereditary Spherocytosis, HS）\|Hereditary spherocytosis]] | RBC 膜缺陷 | 球形紅血球、osmotic fragility↑ |
 | 母乳性黃疸 | 母乳中 β-glucuronidase↑ → 腸肝循環↑ | 通常持續到 4–12 週，停餵母乳 24–48 hr 可降 |
 | 哺乳不足性黃疸 | 攝取不足 → 脫水 → 腸肝循環↑ | 出生後前幾天，鼓勵頻繁餵食 |
 | Crigler-Najjar syndrome | UGT 酵素缺乏 | Type I：完全缺乏→嚴重，需肝移植；Type II：部分缺乏→phenobarbital 有效 |
@@ -271,9 +276,10 @@ credit:
     - 診斷：Echo（gallbladder 缺如或萎縮）、HIDA scan（肝臟攝取正常但無腸道排泄）、肝切片。
     - 治療：**Kasai procedure（肝門空腸吻合術）**，需在 :red[**60 天內**] 施行效果最佳。
     - Kasai 若失敗 → 肝移植（兒童肝移植最常見適應症）。
-- **新生兒肝炎**：CMV、idiopathic、α₁-antitrypsin deficiency。
-- **膽道囊腫（Choledochal cyst）**：黃疸 + 腹痛 + 右上腹腫塊。
+- **新生兒肝炎**：CMV、idiopathic、[[消化內科#α1-Antitrypsin Deficiency|α₁-antitrypsin deficiency]]。
+- **[[肝膽胰外科#膽道囊腫（Choledochal Cyst）|膽道囊腫（Choledochal cyst）]]**：黃疸 + 腹痛 + 右上腹腫塊。
     - 增加膽管癌風險 → 手術切除。
+- 手術詳見 [[小兒外科#膽道閉鎖（Biliary Atresia）|小兒外科的膽道閉鎖]]
 
 #### 核黃疸（Kernicterus）
 
@@ -292,6 +298,7 @@ credit:
     - 可移除約 50% bilirubin 和致敏抗體。
     - 併發症：低血鈣、血小板低下、感染、NEC、電解質異常。
 - 溶血性疾病（ABO/Rh）合併快速上升時可考慮 **IVIG**。
+- 詳見 [[小兒主訴#新生兒黃疸（Neonatal Jaundice）|新生兒黃疸]]的評估流程
 
 ### 新生兒感染
 
@@ -301,7 +308,7 @@ credit:
 - 最常見菌種：**Group B Streptococcus（GBS）** > E. coli。
 - 傳染途徑：產道（垂直感染）。
 - 危險因子：早產、PROM > 18 hr、母親 GBS colonization、絨毛膜羊膜炎。
-- GBS 預防：母親產前篩檢（35–37 週），陽性者**分娩時給 IV Penicillin（IAP）**。
+- [[產科#Group B Streptococcus（GBS）預防|GBS 預防]]：母親產前篩檢（35–37 週），陽性者**分娩時給 IV Penicillin（IAP）**。
 
 #### 晚發性敗血症（Late-Onset Sepsis, LOS）
 
@@ -339,7 +346,7 @@ credit:
 #### 新生兒低血鈣
 
 - 早發型（出生 24–48 hr）：早產兒、母親 DM、perinatal asphyxia。
-- 晚發型（出生後 5–7 天）：高磷奶粉（牛奶）、母親副甲狀腺亢進（新生兒副甲狀腺被抑制）、DiGeorge syndrome。
+- 晚發型（出生後 5–7 天）：高磷奶粉（牛奶）、母親副甲狀腺亢進（新生兒副甲狀腺被抑制）、[[免疫風濕科#細胞免疫缺陷（T cell）|DiGeorge syndrome]]。
 - 症狀：jitteriness、抽搐、QT prolongation。
 - 治療：Calcium gluconate IV。
 
@@ -353,7 +360,7 @@ credit:
 | PVL（腦室旁白質軟化） | 缺血缺氧 → 白質壞死 → **痙攣型雙側下肢癱瘓（spastic diplegia）** |
 | NEC（壞死性腸炎） | 最常見早產兒腸道急症；母乳餵食為最重要預防 |
 | PDA | 早產兒 ductus arteriosus 未關閉；治療：Indomethacin 或 Ibuprofen |
-| ROP（早產兒視網膜病變） | 高氧 → 視網膜血管異常增生 → 嚴重可致盲 |
+| [[眼科#早產兒視網膜病變（Retinopathy of Prematurity, ROP）\|ROP（早產兒視網膜病變）]] | 高氧 → 視網膜血管異常增生 → 嚴重可致盲 |
 | BPD（支氣管肺發育不良） | 長期需氧（≥ 28 天）+ 36 週矯正年齡仍需氧 |
 
 #### 壞死性腸炎（NEC）
@@ -370,6 +377,7 @@ credit:
 - 治療：
     - Stage I–II：NPO、NG decompression、IV antibiotics（ampicillin + gentamicin + metronidazole）。
     - Stage III：手術（壞死腸段切除 ± enterostomy）。
+- 手術詳見 [[小兒外科#壞死性腸炎（Necrotizing Enterocolitis, NEC）|小兒外科的壞死性腸炎]]
 
 ### 先天性異常
 
@@ -395,6 +403,7 @@ credit:
     - **R**enal anomalies。
     - **L**imb defects（radial aplasia）。
 - 治療：手術修補。
+- 手術詳見 [[小兒外科#食道閉鎖與氣管食道瘻管（Esophageal Atresia / TEF）|小兒外科的食道閉鎖]]
 
 #### 肥厚性幽門狹窄（Hypertrophic Pyloric Stenosis）
 
@@ -406,6 +415,7 @@ credit:
     - Pylorus muscle thickness :red[> 3 mm]。
     - Pylorus length :red[> 15 mm]。
 - 治療：先矯正電解質與脫水 → **Ramstedt pyloromyotomy**（幽門肌肉切開術）。
+- 詳見 [[小兒主訴#嬰幼兒嘔吐（Vomiting in Infants and Children）|嬰幼兒嘔吐]]的評估流程；手術詳見 [[小兒外科#肥厚性幽門狹窄（Hypertrophic Pyloric Stenosis, HPS）|小兒外科]]
 
 #### 腸旋轉不良與中腸扭轉（Malrotation with Midgut Volvulus）
 
@@ -414,6 +424,7 @@ credit:
 - 診斷：Upper GI series → **bird's beak sign / corkscrew sign**（十二指腸空腸交界異常位置）。
 - 治療：**緊急手術 — Ladd procedure**（解除扭轉 + 鬆解 Ladd bands + 闌尾切除 + 腸道重新排列）。
 - **重要原則**：新生兒膽汁性嘔吐 = midgut volvulus until proven otherwise。
+- 手術詳見 [[小兒外科#腸旋轉不良與中腸扭轉（Malrotation & Midgut Volvulus）|小兒外科的腸旋轉不良]]
 
 #### 先天性巨結腸症（Hirschsprung Disease）
 
@@ -428,6 +439,7 @@ credit:
     - 鋇劑灌腸：transition zone（正常擴張的近端 → 痙攣縮小的遠端）。
     - 確診：直腸吸引切片（rectal suction biopsy）→ **無 ganglion cells + nerve fiber hypertrophy + AChE↑**。
 - 治療：手術切除無神經節段 → pull-through procedure。
+- 手術詳見 [[小兒外科#先天性巨結腸症（Hirschsprung Disease）|小兒外科的先天性巨結腸症]]
 
 #### 腸閉鎖（Intestinal Atresia）
 
@@ -438,6 +450,7 @@ credit:
 - **空腸 / 迴腸閉鎖**：
     - 可能因子宮內血管事故（vascular accident）。
     - XR：多個 air-fluid levels。
+- 詳見 [[小兒外科#腸閉鎖（Intestinal Atresia）|小兒外科的腸閉鎖]]
 
 #### 臍膨出 vs 腹裂
 
@@ -448,12 +461,15 @@ credit:
 | 合併畸形 | **常見**（心臟、染色體異常如 Trisomy 13, 18） | 少見 |
 | 肝臟疝出 | 可能 | 少見 |
 
+- 詳見 [[小兒外科#臍膨出（Omphalocele）vs 腹裂（Gastroschisis）|小兒外科]]
+
 #### 肛門閉鎖（Imperforate Anus）
 
 - 高位：rectourethral fistula（男嬰）、rectovaginal fistula（女嬰）。
 - 低位：perineal fistula、rectovestibular fistula（女嬰）。
 - 檢查：合併泌尿道、脊椎、心臟異常（VACTERL association）。
 - 治療：低位 → 初期可 anoplasty；高位 → 先造 colostomy → 後行 pull-through。
+- 詳見 [[小兒外科#肛門直腸畸形（Anorectal Malformations / Imperforate Anus）|小兒外科的肛門直腸畸形]]
 
 ### 新生兒篩檢（台灣）
 
@@ -491,9 +507,9 @@ credit:
 - 合併症：
     - **心臟**：先天性心臟病（40–50%）→ 最常見 **AVSD（Endocardial cushion defect）**。
     - **消化道**：十二指腸閉鎖、Hirschsprung disease、annular pancreas。
-    - **血液**：新生兒暫時性骨髓增生異常（TAM）、ALL 和 **AML** 風險增加。
+    - **血液**：新生兒暫時性骨髓增生異常（TAM）、ALL 和 **[[血液腫瘤科#急性骨髓性白血病（Acute Myeloid Leukemia, AML）|AML]]** 風險增加。
     - **內分泌**：甲狀腺低下。
-    - **神經**：智能障礙、早發性阿茲海默症。
+    - **神經**：智能障礙、[[神經內科#阿茲海默病（Alzheimer's Disease）|早發性阿茲海默症]]。
     - **頸椎**：Atlantoaxial instability → 運動前需篩檢。
     - **免疫**：免疫缺損 → 感染風險增加。
 
@@ -515,16 +531,16 @@ credit:
 - 表現型女性。
 - 特徵：**矮小（最常見）**、**蹼狀頸（webbed neck）**、盾狀胸（shield chest）、寬距乳頭（widely spaced nipples）、淋巴水腫（出生時手腳水腫）、肘外翻（cubitus valgus）。
 - 合併症：
-    - **主動脈窄縮（Coarctation of aorta）**、bicuspid aortic valve。
+    - **[[心血管外科#主動脈縮窄（Coarctation of Aorta, CoA）|主動脈窄縮（Coarctation of aorta）]]**、bicuspid aortic valve。
     - **馬蹄腎（Horseshoe kidney）**。
-    - 性腺發育不良（streak gonads）→ 原發性無月經、不孕。
+    - 性腺發育不良（streak gonads）→ [[生殖內分泌科#原發性無月經（Primary Amenorrhea）|原發性無月經]]、不孕。
     - 甲狀腺低下、骨質疏鬆。
 - 治療：GH（促進身高成長）、estrogen replacement（誘發青春期）。
 
 #### Klinefelter Syndrome（47,XXY）
 
 - 表現型男性。
-- 特徵：**高大**、長四肢、小睪丸（firm）、男性女乳（gynecomastia）、**不孕（azoospermia）**。
+- 特徵：**高大**、長四肢、小睪丸（firm）、[[乳房外科#男性女乳症（Gynecomastia）|男性女乳（gynecomastia）]]、**不孕（azoospermia）**。
 - 實驗室：FSH↑、LH↑、Testosterone↓。
 - 合併：學習障礙、乳癌風險稍增。
 - 治療：Testosterone replacement。
@@ -621,7 +637,7 @@ credit:
 - 臨床三系統：
     - 骨骼：**高瘦**、長指蜘蛛指（arachnodactyly）、漏斗胸/雞胸、脊柱側彎、arm span > height。
     - 眼睛：**水晶體上方脫位（upward lens subluxation）**。
-    - 心血管：主動脈根部擴張 → 主動脈瓣逆流、主動脈剝離（最危險）、MVP。
+    - 心血管：主動脈根部擴張 → 主動脈瓣逆流、[[心臟內科#主動脈剝離（Aortic Dissection）|主動脈剝離（最危險）]]、MVP。
 - 治療：β-blocker（減緩主動脈擴張）、定期 Echo 追蹤。
 - 與 Homocystinuria 鑑別：後者水晶體向**下**脫位、有智能障礙、血栓傾向。
 
@@ -632,7 +648,7 @@ credit:
     - :red[≥ 6 個 **café-au-lait spots**（青春期前 > 5 mm；青春期後 > 15 mm）]。
     - ≥ 2 個 neurofibroma 或 ≥ 1 個 plexiform neurofibroma。
     - 腋下或鼠蹊部雀斑（axillary/inguinal freckling = Crowe sign）。
-    - 視神經膠質瘤（optic glioma）。
+    - [[神經內科#神經皮膚症候群|視神經膠質瘤（optic glioma）]]。
     - ≥ 2 個 Lisch nodules（虹膜錯構瘤，hamartoma）。
     - 骨骼異常（sphenoid dysplasia、脛骨假性關節）。
     - 一等親有 NF1。
@@ -645,7 +661,7 @@ credit:
     - 腦：cortical tubers、subependymal nodules → **癲癇（infantile spasms 常見）**、智能障礙。
     - 腎：angiomyolipoma、renal cysts。
     - 心：**rhabdomyoma**（最常見兒童心臟腫瘤，可自行消退）。
-    - 肺：lymphangioleiomyomatosis（LAM，成年女性）。
+    - 肺：[[胸腔內科#Lymphangioleiomyomatosis（LAM）|lymphangioleiomyomatosis（LAM，成年女性）]]。
 
 #### Achondroplasia
 
@@ -660,7 +676,7 @@ credit:
 - 白種人最常見致死性 AR 遺傳疾病（**東亞/台灣罕見**）。
 - 基因：**CFTR 基因突變**（最常見 ΔF508）→ Chloride channel 缺陷 → 分泌物濃稠。
 - 臨床：
-    - **肺**：反覆肺感染（嬰幼兒期以 **S. aureus / H. influenzae** 為主，年長後 **Pseudomonas aeruginosa** 最重要）、支氣管擴張、呼吸衰竭。
+    - **肺**：反覆肺感染（嬰幼兒期以 **S. aureus / H. influenzae** 為主，年長後 **[[感染科#Pseudomonas aeruginosa|Pseudomonas aeruginosa]]** 最重要）、支氣管擴張、呼吸衰竭。
     - **胰臟**：胰臟外分泌不足 → 脂肪便（steatorrhea）、FTT、脂溶性維生素缺乏（ADEK）。
     - **腸道**：新生兒 meconium ileus（10–15%）→ 高度暗示 CF。
     - **肝膽**：focal biliary cirrhosis。
@@ -683,7 +699,7 @@ credit:
 
 | 遺傳模式 | 代表疾病 |
 |----------|----------|
-| AD | Marfan、NF1、NF2、TSC、Huntington、ADPKD、Achondroplasia、Familial hypercholesterolemia、vWD（多數）、Noonan syndrome |
+| AD | Marfan、NF1、NF2、TSC、[[神經內科#亨丁頓舞蹈症（Huntington's Disease）\|Huntington]]、ADPKD、Achondroplasia、Familial hypercholesterolemia、vWD（多數）、Noonan syndrome |
 | AR | CF、SCD、PKU、Galactosemia、MSUD、CAH、Wilson disease、Gaucher、Tay-Sachs、GSD（多數）、Albinism |
 | X-linked recessive | Hemophilia A/B、G6PD deficiency、DMD/BMD、Fabry、Hunter（MPS II）、OTC deficiency、Lesch-Nyhan、Bruton agammaglobulinemia |
 | X-linked dominant | Rett syndrome、Incontinentia pigmenti |
@@ -696,13 +712,13 @@ credit:
 
 | 疾病 | 病原 | 疹子特徵 | 重點 |
 |------|------|----------|------|
-| 麻疹（Measles） | Paramyxovirus | **Koplik spots**（頰黏膜白點）→ maculopapular rash 由臉→軀幹→四肢向下蔓延 | 3C：Cough、Coryza、Conjunctivitis → 出疹；嚴重併發症：肺炎（最常見死因）、SSPE（數年後）、腦炎 |
+| 麻疹（Measles） | Paramyxovirus | **[[感染科#麻疹（Measles）\|Koplik spots]]**（頰黏膜白點）→ maculopapular rash 由臉→軀幹→四肢向下蔓延 | 3C：Cough、Coryza、Conjunctivitis → 出疹；嚴重併發症：肺炎（最常見死因）、SSPE（數年後）、腦炎 |
 | 德國麻疹（Rubella） | Rubivirus | 粉紅色斑丘疹，臉→軀幹→四肢（1–3 天消退）；**Forchheimer spots**（軟顎瘀點） | 後枕、後耳淋巴結腫大；先天性德國麻疹症候群最危險（見 TORCH） |
-| 玫瑰疹（Roseola / Exanthem subitum） | **HHV-6** | **先高燒 3–5 天 → 燒退出疹**（maculopapular，軀幹→四肢） | 好發 6 月–2 歲；熱性痙攣最常見原因之一；退燒後出疹時已不具傳染力 |
-| 水痘（Varicella） | VZV | **各期並存**（vesicle, pustule, crust 同時存在）、向心性分布（軀幹多）、搔癢 | 併發症：皮膚細菌感染（GAS）、腦炎、肺炎（成人嚴重）；**Reye syndrome**（若用 aspirin）；免疫缺損 → disseminated |
+| 玫瑰疹（Roseola / Exanthem subitum） | **[[感染科#疱疹病毒家族（Herpesviridae）\|HHV-6]]** | **先高燒 3–5 天 → 燒退出疹**（maculopapular，軀幹→四肢） | 好發 6 月–2 歲；熱性痙攣最常見原因之一；退燒後出疹時已不具傳染力 |
+| 水痘（Varicella） | VZV | **各期並存**（vesicle, pustule, crust 同時存在）、向心性分布（軀幹多）、搔癢 | 併發症：皮膚細菌感染（GAS）、腦炎、肺炎（成人嚴重）；**[[感染科#VZV\|Reye syndrome]]**（若用 aspirin）；免疫缺損 → disseminated |
 | 手足口病 | Coxsackie A16、**Enterovirus 71** | 口腔潰瘍 + 手掌、腳掌、臀部 vesicular rash | EV71 可致重症：腦幹腦炎、肺水腫、心肌炎；重症前驅徵兆：**持續昏睡、肌躍型抽搐（myoclonic jerk）、持續嘔吐**、心跳加快、呼吸急促 |
-| 傳染性紅斑（Erythema infectiosum / 5th disease） | **Parvovirus B19** | **Slapped cheek** → 軀幹四肢網狀紅斑（lace-like） | 可致暫時性純紅血球再生不良（aplastic crisis，尤其 SCD、spherocytosis）；孕婦感染 → **胎兒水腫（hydrops fetalis）** |
-| 猩紅熱（Scarlet fever） | **GAS** | 砂紙樣疹（sandpaper-like）、**Pastia lines**（皺褶處加深）、**草莓舌** | Pharyngitis 後 1–2 天出疹；可能併發 rheumatic fever、PSGN |
+| 傳染性紅斑（Erythema infectiosum / 5th disease） | **[[感染科#Parvovirus B19\|Parvovirus B19]]** | **Slapped cheek** → 軀幹四肢網狀紅斑（lace-like） | 可致暫時性純紅血球再生不良（aplastic crisis，尤其 SCD、spherocytosis）；孕婦感染 → **胎兒水腫（hydrops fetalis）** |
+| 猩紅熱（Scarlet fever） | **GAS** | 砂紙樣疹（sandpaper-like）、**Pastia lines**（皺褶處加深）、**草莓舌** | Pharyngitis 後 1–2 天出疹；可能併發 [[感染科#Group A Streptococcus（S. pyogenes）\|rheumatic fever]]、PSGN |
 
 ::::source{from="20261006-pediatric-fever-rash"}
 - 手足口病：**Coxsackie A6** 水泡較大，可在原有濕疹處大量出疹（eczema coxsackium）；**EV-D68** 也可造成急性無力脊髓炎（AFM）。
@@ -723,6 +739,8 @@ credit:
 | 病灶時期 | **各期並存**，大小不一 | 大水泡，時期較一致 |
 :::
 ::::
+
+- 詳見 [[皮膚系統主訴#發燒合併皮疹（Fever and Rash）|發燒合併皮疹]]、[[小兒主訴#幼兒發燒（Fever in Young Children）|幼兒發燒]]的評估流程；兒童出疹性疾病整理詳見 [[20261006-pediatric-fever-rash|兒童發燒合併紅疹的鑑別診斷]]（逐篇筆記）
 
 ### 兒童上呼吸道感染
 
@@ -750,12 +768,12 @@ credit:
     - 診斷：快篩（Rapid strep test）+ Throat culture（gold standard）。
     - 治療：**Penicillin V（10 天）** 或 Amoxicillin → 預防風濕熱。
     - 併發症：
-        - 化膿性：扁桃腺周圍膿瘍（peritonsillar abscess）、retropharyngeal abscess。
-        - 非化膿性：**急性風濕熱（ARF）**、**急性鏈球菌感染後腎絲球腎炎（PSGN）**。
+        - 化膿性：[[耳鼻喉科#扁桃腺周圍膿瘍（Peritonsillar Abscess, PTA / Quinsy）|扁桃腺周圍膿瘍（peritonsillar abscess）]]、[[耳鼻喉科#咽後膿瘍（Retropharyngeal Abscess）|retropharyngeal abscess]]。
+        - 非化膿性：**急性風濕熱（ARF）**、**[[腎臟內科#Post-Streptococcal Glomerulonephritis（PSGN）|急性鏈球菌感染後腎絲球腎炎（PSGN）]]**。
 
 #### 百日咳（Pertussis）
 
-- 病原：**Bordetella pertussis**。
+- 病原：**[[感染科#Bordetella pertussis（百日咳）|Bordetella pertussis]]**。
 - 三階段：
     1. **Catarrhal stage**（1–2 週）：類似感冒，**此時傳染力最強**。
     2. **Paroxysmal stage**（2–6 週）：陣發性咳嗽 + **inspiratory whoop** + post-tussive emesis。
@@ -801,12 +819,14 @@ credit:
 | 年齡 | 6 個月–3 歲 | 2–7 歲 |
 | XR | Steeple sign | Thumbprint sign |
 
+- 詳見 [[小兒主訴#兒童喘鳴與呼吸困難（Stridor / Wheezing in Children）|兒童喘鳴與呼吸困難]]的評估流程
+
 ### 下呼吸道感染
 
 #### 細支氣管炎（Bronchiolitis）
 
 - **2 歲以下嬰幼兒最常見下呼吸道感染**。
-- 最常見病原：**RSV（Respiratory Syncytial Virus）**。
+- 最常見病原：**[[感染科#RSV（Respiratory Syncytial Virus）|RSV（Respiratory Syncytial Virus）]]**。
 - 好發季節：秋冬。
 - 高危險群：早產兒、BPD、先天性心臟病、免疫缺損。
 - 臨床：先有 URI 症狀 → 2–3 天後 wheezing、tachypnea、intercostal retraction、feeding difficulty。
@@ -833,14 +853,14 @@ credit:
     - 學齡兒童最常見非典型肺炎。
     - 臨床：乾咳、低度發燒、headache、malaise（**walking pneumonia**）。
     - CXR：多樣（interstitial、patchy consolidation）。
-    - 併發症：Steven-Johnson syndrome（SJS）、cold agglutinin（autoimmune hemolytic anemia）、erythema multiforme、neurological（encephalitis、Guillain-Barré）。
+    - 併發症：[[皮膚科#Stevens-Johnson Syndrome（SJS）/ Toxic Epidermal Necrolysis（TEN）|Steven-Johnson syndrome（SJS）]]、cold agglutinin（autoimmune hemolytic anemia）、erythema multiforme、neurological（encephalitis、[[神經內科#Guillain-Barré Syndrome（GBS）|Guillain-Barré]]）。
     - 治療：Macrolides（Azithromycin）。
 
 ### 腸胃道感染
 
 #### 急性腸胃炎
 
-- **病毒性最常見**：Rotavirus（以前最常見，疫苗後減少）、Norovirus（現為常見）。
+- **病毒性最常見**：[[感染科#Rotavirus|Rotavirus]]（以前最常見，疫苗後減少）、Norovirus（現為常見）。
     - **Rotavirus**：dsRNA 病毒、好發 6 個月–2 歲、水樣腹瀉 + 嘔吐 + 發燒 → 脫水；預防：**口服活性減毒疫苗**（2、4 個月）。
 - 細菌性：
     - **血性腹瀉（dysentery）**常見菌種：Shigella、Salmonella、Campylobacter、EHEC（E. coli O157:H7）、C. difficile。
@@ -856,6 +876,7 @@ credit:
 
 - 輕/中度：**口服補液（ORS）**。
 - 重度/無法口服：IV **N/S 或 LR :red[20 mL/kg bolus]**。
+- 詳見 [[小兒主訴#兒童腹瀉與脫水（Diarrhea and Dehydration）|兒童腹瀉與脫水]]的評估流程
 
 ### 泌尿道感染
 
@@ -872,7 +893,7 @@ credit:
     - **抗生素前務必先留尿液培養**。
 - 影像學：
     - **Renal ultrasound**：2 歲以下首次發燒性 UTI 即做，評估結構異常/水腎。
-    - **VCUG（Voiding Cystourethrography）**：若 US 異常、反覆發燒性 UTI、非典型 UTI（非 E. coli、治療反應差）時施行，評估 VUR（膀胱輸尿管逆流）。
+    - **[[泌尿科#Vesicoureteral Reflux（VUR, 膀胱輸尿管逆流）|VCUG（Voiding Cystourethrography）]]**：若 US 異常、反覆發燒性 UTI、非典型 UTI（非 E. coli、治療反應差）時施行，評估 VUR（膀胱輸尿管逆流）。
     - **Tc-99m DMSA renal scan**：感染後 4–6 個月追蹤，評估腎皮質瘢痕。
 - 治療：
     - 上泌尿道（pyelonephritis）：IV antibiotics（Ceftriaxone / Ampicillin + Gentamicin）→ 改口服共 10–14 天。
@@ -891,7 +912,7 @@ credit:
 - 臨床：
     - 嬰兒：非特異性 → 發燒、irritability、poor feeding、bulging fontanelle、seizure。
     - 較大兒童：頭痛、頸部僵硬（neck stiffness）、Kernig/Brudzinski sign、嘔吐、光敏感。
-    - **N. meningitidis**：petechial/purpuric rash → **DIC** → Waterhouse-Friderichsen syndrome（雙側腎上腺出血）。
+    - **N. meningitidis**：petechial/purpuric rash → **DIC** → [[代謝內分泌科#腎上腺功能不全（Adrenal Insufficiency）|Waterhouse-Friderichsen syndrome]]（雙側腎上腺出血）。
 - CSF 分析：
 
 | | 細菌性 | 病毒性 | TB |
@@ -934,7 +955,7 @@ credit:
 
 #### 冠狀動脈異常
 
-- **Coronary artery aneurysm**（冠狀動脈瘤）：最嚴重併發症。
+- **[[免疫風濕科#中血管炎（Medium-vessel Vasculitis）|Coronary artery aneurysm]]**（冠狀動脈瘤）：最嚴重併發症。
 - 未治療者約 25% 發生冠狀動脈瘤 → 治療後降至 < 5%。
 - **Echo**：診斷時及追蹤時必做。
 
@@ -947,6 +968,8 @@ credit:
 ## 免疫缺損與過敏
 
 ### 原發性免疫缺損分類
+
+- 成人與分類整理詳見 [[免疫風濕科#免疫缺陷（Immunodeficiency）|免疫風濕科的免疫缺陷]]
 
 #### 抗體（B cell）缺損
 
@@ -985,7 +1008,7 @@ credit:
 - **C3 缺乏**：反覆化膿菌感染（類似抗體缺損）。
 - **C5–C9（MAC）缺乏**：反覆 **Neisseria**（meningococcus、gonococcus）感染。
 - **C1q / C2 / C4 缺乏**：**SLE-like** 表現（最常見為 C2 deficiency）。
-- **C1 esterase inhibitor 缺乏**：**Hereditary angioedema** → 反覆非搔癢性皮下/黏膜水腫 → 可致喉部水腫窒息。
+- **C1 esterase inhibitor 缺乏**：**[[免疫風濕科#血管性水腫（Angioedema）|Hereditary angioedema]]** → 反覆非搔癢性皮下/黏膜水腫 → 可致喉部水腫窒息。
 
 ### 過敏性疾病
 
@@ -1002,6 +1025,7 @@ credit:
     - 外用 corticosteroid（急性發作）。
     - Calcineurin inhibitors（Tacrolimus、Pimecrolimus）→ 臉部/皮膚薄處。
     - 嚴重：Dupilumab（anti-IL-4Rα）。
+- 詳見 [[皮膚科#異位性皮膚炎（Atopic Dermatitis, AD）|皮膚科的異位性皮膚炎]]
 
 #### 食物過敏
 
@@ -1028,6 +1052,7 @@ credit:
 - 診斷：
     - ≥ 6 歲：肺功能（spirometry）→ FEV₁/FVC↓ + **支氣管擴張劑反應 ≥ 12%**。
     - < 6 歲：臨床診斷（反覆 wheezing、cough、dyspnea）。
+- 成人治療（GINA）詳見 [[胸腔內科#氣喘（Asthma）|胸腔內科的氣喘]]
 
 #### 嚴重度分級與治療（≥ 6 歲）
 
@@ -1059,7 +1084,7 @@ credit:
     - 若部分阻塞：**患側 hyperinflation（air trapping）**、吐氣時更明顯。
     - 多數異物為 radiolucent（不顯影）。
 - 處理：
-    - **Rigid bronchoscopy**（最佳診斷及治療）。
+    - **[[耳鼻喉科#氣管異物|Rigid bronchoscopy]]**（最佳診斷及治療）。
     - 若完全阻塞致窒息：< 1 歲 → back blows + chest thrusts；≥ 1 歲 → Heimlich maneuver。
 
 ## 心臟血管系統
@@ -1087,13 +1112,14 @@ credit:
 | **AVSD** | **唐氏症最常見心臟缺損**；primum ASD + inlet VSD + 共同 AV valve | 複合性雜音 |
 | **Coarctation of Aorta** | **Turner syndrome** 關聯；上肢血壓 > 下肢、股動脈脈搏弱/延遲；**differential cyanosis**（下肢發紺、上肢不發紺） | Systolic murmur；rib notching（older children XR） |
 
-- **Large L→R shunt 後果**：肺血流過多 → 肺動脈壓↑ → 長期可致 **Eisenmenger syndrome**（不可逆肺高壓 → shunt 逆轉為 R→L → 發紺）→ 此時手術修補已禁忌。
+- **Large L→R shunt 後果**：肺血流過多 → 肺動脈壓↑ → 長期可致 **[[胸腔內科#肺高壓（Pulmonary Hypertension）|Eisenmenger syndrome]]**（不可逆肺高壓 → shunt 逆轉為 R→L → 發紺）→ 此時手術修補已禁忌。
+- 手術詳見 [[心血管外科#非發紺型（Acyanotic）|心血管外科的先天性心臟病]]
 
 #### 發紺型（Cyanotic / Right-to-Left Shunt）
 
 | 疾病 | 特點 |
 |------|------|
-| **Tetralogy of Fallot（TOF）** | **最常見發紺型先天性心臟病**；4 特徵：RV outflow obstruction（最重要決定嚴重度）、VSD、overriding aorta、RVH |
+| **[[心血管外科#法洛氏四合症（Tetralogy of Fallot, TOF）\|Tetralogy of Fallot（TOF）]]** | **最常見發紺型先天性心臟病**；4 特徵：RV outflow obstruction（最重要決定嚴重度）、VSD、overriding aorta、RVH |
 | **Transposition of Great Arteries（TGA）** | 主動脈接右心室、肺動脈接左心室 → 平行循環 → **出生後即嚴重發紺**；需靠 PDA/ASD 混合；**reverse differential cyanosis**（上肢發紺 > 下肢）；治療：PGE₁ → **Arterial switch operation（Jatene）** |
 | **Tricuspid Atresia** | 右心房→右心室無通路；需 ASD + VSD/PDA 存活 |
 | **Total Anomalous Pulmonary Venous Return（TAPVR）** | 肺靜脈全部回流至右心系統 → 需 ASD 混合；obstructed type 為新生兒急症（嚴重肺水腫 + 發紺） |
@@ -1113,6 +1139,7 @@ credit:
 - 特徵：≤ 3/6 級、隨姿勢改變（坐起/站立時減弱、仰臥時增強）。
 - 無心臟結構異常、無症狀、無需治療。
 - 常見類型：Still murmur（2–6 歲，LLSB buzzing/vibratory quality）、venous hum（continuous, 改變頸部位置可消失）。
+- 詳見 [[心血管系統主訴#心雜音（Heart Murmurs）|心雜音]]的鑑別
 
 ### 心衰竭（Heart Failure in Children）
 
@@ -1128,7 +1155,7 @@ credit:
 
 - **兒童最常見的病態性心律不整**。
 - HR 通常 :red[> 220 bpm（嬰兒）或 > 180 bpm（兒童）]；**節律規則、無變異、P 波不明顯**（與 sinus tachycardia 鑑別）。
-- 機制：多為 re-entry（accessory pathway），如 **WPW（Wolff-Parkinson-White）**。
+- 機制：多為 re-entry（accessory pathway），如 **[[心臟內科#AVRT（AV Reentrant Tachycardia）/ WPW Syndrome|WPW（Wolff-Parkinson-White）]]**。
     - WPW ECG：**delta wave** + short PR + wide QRS（sinus rhythm 時）。
 - 處理：
     - 穩定：**Vagal maneuvers**（冰敷臉部/冰袋覆臉 in infants、Valsalva in older children）。
@@ -1138,7 +1165,7 @@ credit:
 
 ### 心肌炎（Myocarditis）
 
-- 最常見病因：病毒性（**Coxsackievirus B** 最常見、Adenovirus）。
+- 最常見病因：病毒性（**[[心臟內科#Myocarditis|Coxsackievirus B]]** 最常見、Adenovirus）。
 - 臨床：前驅 URI 症狀 → 數日後出現心衰竭表現（tachycardia、gallop rhythm、cardiomegaly、shock）。
 - 診斷：Troponin↑、BNP↑、Echo（LV dysfunction、dilatation）、cardiac MRI。
 - 治療：支持性（inotropes、ECMO if needed）；避免 NSAID（動物實驗顯示可能加重）。
@@ -1148,7 +1175,7 @@ credit:
 - 最常見菌種：**Viridans group Streptococci**（native valve）、**S. aureus**（acute / IVDU / prosthetic valve early）。
 - 先天性心臟病（尤其 VSD、aortic valve disease、TOF 術後）為主要風險因子。
 - 臨床：發燒 + new murmur + 栓塞現象（Janeway lesions、Osler nodes、splinter hemorrhage、Roth spots）。
-- 診斷：Modified Duke criteria（2 major or 1 major + 3 minor or 5 minor）。
+- 診斷：[[心臟內科#Modified Duke Criteria|Modified Duke criteria]]（2 major or 1 major + 3 minor or 5 minor）。
     - Major：sustained bacteremia（典型菌）+ endocardial involvement（Echo 有 vegetation）。
 - 治療：長期 IV 抗生素（4–6 週）。
 - 預防：高風險者（prosthetic valve、previous IE、unrepaired cyanotic CHD、repaired CHD with residual defect）在高風險牙科處置前給 Amoxicillin（或 Clindamycin if allergic）。
@@ -1163,7 +1190,7 @@ credit:
     - 姿勢調整（餵食後直立、head elevation）。
     - 濃稠配方。
     - 藥物：PPI（Omeprazole）或 H₂ blocker（severe GERD）。
-    - 手術（Nissen fundoplication）：藥物無效或嚴重併發症。
+    - 手術（[[胸腔外科#胃食道逆流（GERD）手術治療|Nissen fundoplication]]）：藥物無效或嚴重併發症。
 
 ### 腸套疊（Intussusception）
 
@@ -1178,7 +1205,7 @@ credit:
 - 觸診：right upper quadrant **sausage-shaped mass**。
 - 診斷：**腹部超音波 → target sign / doughnut sign（橫切）、pseudokidney sign（縱切）**。
 - 治療：
-    - **Air enema（氣體灌腸復位）**→ 首選（同時診斷及治療），成功率 > 80%。
+    - **[[小兒外科#腸套疊（Intussusception）|Air enema（氣體灌腸復位）]]**→ 首選（同時診斷及治療），成功率 > 80%。
     - 禁忌：peritonitis、perforation、shock。
     - 手術：灌腸失敗、lead point、壞死穿孔。
 
@@ -1194,7 +1221,7 @@ credit:
     - **2 歲** 以下最常出現症狀。
     - 男：女 ≈ **2**：1。
 - 最常見表現：**無痛性下消化道出血**（brick-red or maroon stool）→ 異位胃黏膜分泌 HCl → 鄰近迴腸潰瘍出血。
-- 診斷：**Technetium-99m pertechnetate scan（Meckel scan）**→ 偵測異位胃黏膜。
+- 診斷：**[[小兒外科#梅克爾憩室（Meckel's Diverticulum）|Technetium-99m pertechnetate scan（Meckel scan）]]**→ 偵測異位胃黏膜。
 - 治療：手術切除（有症狀者）。
 
 ### 闌尾炎（Appendicitis）
@@ -1210,6 +1237,7 @@ credit:
     - 不確定時：CT with contrast。
 - 治療：Appendectomy（laparoscopic preferred）+ perioperative antibiotics。
     - 穿孔合併膿瘍：先 IV antibiotics ± percutaneous drainage → interval appendectomy（6–8 週後）。
+- 詳見 [[小兒主訴#兒童腹痛（Abdominal Pain in Children）|兒童腹痛]]的評估流程
 
 ### 發炎性腸道疾病（IBD）
 
@@ -1222,7 +1250,7 @@ credit:
 | 肛門周圍病灶 | **常見**（fistula、abscess、tag） | 少見 |
 | 出血 | 少 | **常見（血性腹瀉）** |
 | 併發症 | Fistula、stricture、abscess、kidney stone（oxalate）、B12 deficiency | **Toxic megacolon**、大腸癌風險↑（> 10 年病史） |
-| 腸外表現 | Erythema nodosum、arthritis、oral ulcer、uveitis、kidney stones | Primary sclerosing cholangitis（PSC）、pyoderma gangrenosum |
+| 腸外表現 | Erythema nodosum、arthritis、oral ulcer、uveitis、kidney stones | [[消化內科#原發性硬化性膽管炎（Primary Sclerosing Cholangitis, PSC）\|Primary sclerosing cholangitis（PSC）]]、pyoderma gangrenosum |
 
 - 兒童 IBD 特別考量：**生長遲緩**（尤其 Crohn）可能是首發表現。
 - 治療：5-ASA（UC 為主）、corticosteroid（急性發作）、immunomodulators（Azathioprine/6-MP、MTX）、biologics（Infliximab = anti-TNF）。
@@ -1233,7 +1261,7 @@ credit:
 - 自體免疫性腸病，對 **gluten**（麩質，存在於小麥、大麥、黑麥）過敏。
 - 好發：有 HLA-DQ2/DQ8 者；**與 T1DM、自體免疫甲狀腺炎、唐氏症、Turner syndrome、IgA deficiency 相關**。
 - 臨床：慢性腹瀉（脂肪便）、腹脹、FTT、鐵缺乏貧血、易怒。
-- 皮膚：**Dermatitis herpetiformis**（搔癢性水泡性皮疹，肘/膝/臀部）。
+- 皮膚：**[[皮膚科#疱疹樣皮膚炎（Dermatitis Herpetiformis, DH）|Dermatitis herpetiformis]]**（搔癢性水泡性皮疹，肘/膝/臀部）。
 - 診斷：
     - 血清學：**anti-tTG IgA + total IgA**（若 IgA 缺乏 → 改測 IgG 如 anti-DGP IgG）。
     - **檢驗前須維持含麩質飲食**，否則偽陰性。
@@ -1314,7 +1342,7 @@ credit:
 | Stroke | 兒童中風常見原因 |
 | Functional asplenia | 反覆脾臟梗塞 → **autosplenectomy** → encapsulated bacteria 感染風險↑ |
 | Avascular necrosis | 股骨頭最常見 |
-| Priapism | 陰莖異常勃起 → 泌尿急症 |
+| [[泌尿科#陰莖異常勃起（Priapism）\|Priapism]] | 陰莖異常勃起 → 泌尿急症 |
 
 #### 預防及治療
 
@@ -1433,11 +1461,11 @@ credit:
 | 腫瘤 | 好發年齡 | 特點 |
 |------|----------|------|
 | **CNS tumors** | 各年齡 | **兒童第二常見惡性腫瘤**；後顱窩最常見（兒童）；Medulloblastoma、Pilocytic astrocytoma、Brainstem glioma、Ependymoma |
-| **Neuroblastoma** | < 5 歲 | 源自 neural crest → **腎上腺最常見原發部位**；可自發消退（< 1 歲）；腹部腫塊、raccoon eyes（眶周瘀斑）、opsoclonus-myoclonus；**尿液 VMA/HVA↑**；N-myc amplification→預後差 |
-| **Wilms tumor（nephroblastoma）** | 2–5 歲 | 腹部腫塊（通常無痛）、血尿、高血壓；**WAGR syndrome**（Wilms, Aniridia, GU anomalies, intellectual disability → WT1 deletion）；**Beckwith-Wiedemann syndrome**（macrosomia, omphalocele, macroglossia → WT2） |
-| **Retinoblastoma** | < 3 歲 | **白瞳症（leukocoria）**= 最常見表現；RB1 tumor suppressor gene；bilateral → hereditary（AD）；second malignancy 風險（osteosarcoma） |
+| **[[小兒外科#Neuroblastoma（神經母細胞瘤）\|Neuroblastoma]]** | < 5 歲 | 源自 neural crest → **腎上腺最常見原發部位**；可自發消退（< 1 歲）；腹部腫塊、raccoon eyes（眶周瘀斑）、opsoclonus-myoclonus；**尿液 VMA/HVA↑**；N-myc amplification→預後差 |
+| **[[小兒外科#Wilms Tumor（腎母細胞瘤，Nephroblastoma）\|Wilms tumor（nephroblastoma）]]** | 2–5 歲 | 腹部腫塊（通常無痛）、血尿、高血壓；**WAGR syndrome**（Wilms, Aniridia, GU anomalies, intellectual disability → WT1 deletion）；**Beckwith-Wiedemann syndrome**（macrosomia, omphalocele, macroglossia → WT2） |
+| **[[眼科#視網膜母細胞瘤（Retinoblastoma）\|Retinoblastoma]]** | < 3 歲 | **白瞳症（leukocoria）**= 最常見表現；RB1 tumor suppressor gene；bilateral → hereditary（AD）；second malignancy 風險（osteosarcoma） |
 | **Hepatoblastoma** | < 3 歲 | 兒童最常見肝臟惡性腫瘤；**AFP↑↑**；與 Beckwith-Wiedemann、FAP 相關 |
-| **Osteosarcoma** | 10–20 歲 | 最常見原發性骨惡性腫瘤；distal femur / proximal tibia；**Codman triangle、sunburst pattern（XR）**；ALP↑ |
+| **[[骨科#惡性骨骼腫瘤\|Osteosarcoma]]** | 10–20 歲 | 最常見原發性骨惡性腫瘤；distal femur / proximal tibia；**Codman triangle、sunburst pattern（XR）**；ALP↑ |
 | **Ewing sarcoma** | 10–20 歲 | 第二常見骨腫瘤；diaphysis of long bones / pelvis / ribs；**t(11;22) EWS-FLI1**；onion-skin periosteal reaction |
 | **Rhabdomyosarcoma** | < 10 歲 | 兒童最常見軟組織肉瘤；**embryonal type 最常見**；頭頸部、泌尿生殖道最常見 |
 
@@ -1460,8 +1488,8 @@ credit:
 
 #### 其他類型
 
-- FSGS（focal segmental glomerulosclerosis）：兒童第二常見；steroid-resistant 多；可進展至 ESRD。
-- Membranous nephropathy：兒童少見（成人 NS 最常見）。
+- [[腎臟內科#Focal Segmental Glomerulosclerosis（FSGS）|FSGS（focal segmental glomerulosclerosis）]]：兒童第二常見；steroid-resistant 多；可進展至 ESRD。
+- [[腎臟內科#Membranous Nephropathy（MN）|Membranous nephropathy]]：兒童少見（成人 NS 最常見）。
 
 ### 腎炎症候群（Nephritic Syndrome）
 
@@ -1514,10 +1542,11 @@ credit:
 - 臨床：
     - 雙側腎臟多發性囊腫，通常成人發病。
     - 高血壓（常為最早表現）、腰痛、血尿、UTI、腎結石。
-- 腎外表現：肝臟囊腫（最常見）、**腦動脈瘤（berry aneurysm）**、MVP、大腸憩室。
+- 腎外表現：肝臟囊腫（最常見）、**[[偶發病灶#無症狀顱內病灶（Incidental Brain Findings）|腦動脈瘤（berry aneurysm）]]**、MVP、大腸憩室。
 - 診斷：腎臟超音波。
 - 治療：控制血壓（ACEi/ARB）、Tolvaptan（V2 receptor antagonist，延緩囊腫進展）。
 - 多數於 50–60 歲進展至 ESRD。
+- 詳見 [[小兒主訴#兒童水腫與血尿（Edema / Hematuria in Children）|兒童水腫與血尿]]的評估流程
 
 #### ARPKD（Autosomal Recessive Polycystic Kidney Disease）
 
@@ -1572,7 +1601,7 @@ credit:
 - 治療：**Basal-bolus insulin regimen**（MDI 或 insulin pump）。
     - Basal：long-acting（Glargine / Detemir）。
     - Bolus：rapid-acting（Lispro / Aspart）。
-- **Diabetic Ketoacidosis（DKA）**：可為 T1DM 首次表現。
+- **[[代謝內分泌科#DKA（Diabetic Ketoacidosis）|Diabetic Ketoacidosis（DKA）]]**：可為 T1DM 首次表現。
     - 診斷：血糖 > 200 + pH < 7.3 或 HCO₃ < 15 + ketonemia/ketonuria。
     - 治療順序：IV fluid → Insulin drip（0.1 U/kg/hr）→ 矯正電解質（尤其鉀）。
     - 若 :red[K⁺ < 3.5]：先補 K⁺ 再給 insulin，不可先打 insulin。
@@ -1583,7 +1612,7 @@ credit:
 #### Type 2 DM
 
 - 兒童/青少年肥胖日益增加 → T2DM 在兒童也漸增。
-- 危險因子：肥胖、家族史、Acanthosis nigricans、PCOS。
+- 危險因子：肥胖、家族史、[[皮膚科#黑色棘皮症（Acanthosis Nigricans）|Acanthosis nigricans]]、[[生殖內分泌科#多囊性卵巢症候群（PCOS）|PCOS]]。
 - 與 T1DM 鑑別：肥胖、C-peptide 正常/↑、autoantibody (−)。
 
 ### 先天性腎上腺增生（Congenital Adrenal Hyperplasia, CAH）
@@ -1624,6 +1653,8 @@ credit:
 | Hypothyroidism | ↓ | 顯著延遲 | 矮（需治療）；TSH↑、T₄↓ |
 | Turner syndrome | ↓ | 延遲 | 矮；45,X 表現 |
 
+- 詳見 [[小兒主訴#身材矮小（Short Stature）|身材矮小]]的評估流程
+
 ### 性發育異常
 
 #### Tanner 分期
@@ -1650,7 +1681,7 @@ credit:
     - 治療：**GnRH agonist**（leuprolide）→ 持續刺激導致 downregulation。
 - **週邊性（GnRH-independent, pseudo）**：性激素來源非下視丘-腦垂體軸。
     - **LH、FSH↓**（被負回饋抑制）。
-    - 女：卵巢囊腫/腫瘤、**McCune-Albright syndrome**（café-au-lait spots + polyostotic fibrous dysplasia + precocious puberty）、exogenous estrogen。
+    - 女：卵巢囊腫/腫瘤、**[[骨科#良性骨骼腫瘤|McCune-Albright syndrome]]**（café-au-lait spots + polyostotic fibrous dysplasia + precocious puberty）、exogenous estrogen。
     - 男：先天性腎上腺增生（CAH）、Leydig cell tumor、HCG-secreting tumor。
     - 治療：針對病因。
 
@@ -1658,7 +1689,8 @@ credit:
 
 - :red[女 > 13 歲無乳房發育；男 > 14 歲無睪丸增大]。
 - 最常見原因：**體質性延遲**。
-- 病理性：Turner、Klinefelter、Kallmann syndrome（GnRH 缺乏 + anosmia）。
+- 病理性：Turner、Klinefelter、[[生殖內分泌科#原發性無月經（Primary Amenorrhea）|Kallmann syndrome]]（GnRH 缺乏 + anosmia）。
+- 詳見 [[小兒主訴#性早熟與青春期延遲（Precocious / Delayed Puberty）|性早熟與青春期延遲]]的評估流程
 
 ## 神經系統
 
@@ -1759,7 +1791,8 @@ credit:
 | Type III | > 18 個月 | 可走（後期可能失去） | 正常壽命 |
 
 - 臨床：floppy infant、bell-shaped chest、frog-leg posture、fasciculations（tongue）、**智力正常**。
-- 治療：**Nusinersen**（Spinraza，intrathecal antisense oligonucleotide）、**Onasemnogene**（Zolgensma，gene therapy IV）、**Risdiplam**（oral SMN2 splicing modifier）。
+- 治療：**[[神經內科#肌萎縮側索硬化症（ALS）|Nusinersen]]**（Spinraza，intrathecal antisense oligonucleotide）、**Onasemnogene**（Zolgensma，gene therapy IV）、**Risdiplam**（oral SMN2 splicing modifier）。
+- 詳見 [[小兒主訴#鬆軟兒（Floppy Infant / Hypotonia）|鬆軟兒]]的評估流程
 
 ### 腦性麻痺（Cerebral Palsy, CP）
 
@@ -1777,6 +1810,7 @@ credit:
 
 - 合併問題：智能障礙、癲癇、視覺/聽覺障礙、行為問題、feeding difficulty。
 - 治療：物理/職能/語言治療、Baclofen（spasticity）、Botulinum toxin injection、orthopedic surgery。
+- 復健詳見 [[復健科#腦性麻痺（Cerebral Palsy, CP）|復健科的腦性麻痺]]
 
 ### 水腦症（Hydrocephalus）
 
@@ -1784,7 +1818,7 @@ credit:
     - Communicating（交通性）：CSF 吸收障礙（蛛網膜下腔出血後、腦膜炎後）。
     - Non-communicating / Obstructive（阻塞性）：CSF 流通受阻（**aqueductal stenosis**、posterior fossa tumor）。
 - 嬰兒表現：頭圍快速增加（最重要）、前囟門膨出、sunset eyes（上視障礙，眼球下轉）、scalp vein distension、irritability。
-- 治療：**VP shunt（ventriculoperitoneal shunt）**或 ETV（endoscopic third ventriculostomy）。
+- 治療：**[[神經外科#水腦症的治療|VP shunt（ventriculoperitoneal shunt）]]**或 ETV（endoscopic third ventriculostomy）。
 
 ## 風濕免疫疾病
 
@@ -1796,7 +1830,7 @@ credit:
 - 臨床四特徵：
     1. **Palpable purpura（可觸性紫斑）**：下肢 + 臀部（重力依賴區）；為診斷必要條件。
     2. **關節痛/關節炎**：膝、踝（不造成永久損害）。
-    3. **腹痛**：colicky、可致腸套疊（多為 ileoileal 型 → 鋇劑/空氣灌腸無法復位）。
+    3. **腹痛**：colicky、可致[[小兒外科#腸套疊（Intussusception）|腸套疊]]（多為 ileoileal 型 → 鋇劑/空氣灌腸無法復位）。
     4. **腎臟侵犯（IgA nephropathy）**：血尿 ± 蛋白尿 → 決定長期預後（可延遲至 6 個月後才出現）。
 - 實驗室：PLT 正常或↑（與 ITP 鑑別）、PT/aPTT 正常、IgA 可↑。
 - 治療：支持性（多數 self-limited，4–6 週）；關節痛/腹痛 → NSAID/steroid；嚴重腎臟 → steroid/immunosuppression。
@@ -1809,16 +1843,16 @@ credit:
 
 | 類型 | 特點 |
 |------|------|
-| **Oligoarticular（少關節型）** | **最常見（50%）**；≤ 4 個關節（膝最常見）；**ANA (+) 高比例**；最大風險：**慢性前葡萄膜炎（uveitis）**→ 需定期裂隙燈檢查 |
+| **Oligoarticular（少關節型）** | **最常見（50%）**；≤ 4 個關節（膝最常見）；**ANA (+) 高比例**；最大風險：**[[眼科#葡萄膜炎（Uveitis）\|慢性前葡萄膜炎（uveitis）]]**→ 需定期裂隙燈檢查 |
 | Polyarticular（多關節型） | RF(−)：> 4 個關節，好發女孩；RF(+)：類似成人 RA，Rheumatoid nodules |
-| **Systemic（Still disease）** | **高燒**（quotidian fever，每日高峰 39–40°C 後退）、salmon-colored evanescent rash、hepatosplenomegaly、lymphadenopathy、serositis；**Ferritin↑↑**；可致 MAS（Macrophage Activation Syndrome） |
+| **Systemic（Still disease）** | **高燒**（quotidian fever，每日高峰 39–40°C 後退）、salmon-colored evanescent rash、hepatosplenomegaly、lymphadenopathy、serositis；**Ferritin↑↑**；可致 [[免疫風濕科#Macrophage Activation Syndrome / Hemophagocytic Lymphohistiocytosis（MAS / HLH）\|MAS（Macrophage Activation Syndrome）]] |
 
 - 治療：NSAID → intra-articular steroid → DMARD（MTX）→ biologics（Etanercept, Adalimumab, Tocilizumab）。
 
 ### 兒童全身性紅斑性狼瘡（SLE）
 
 - 兒童 SLE 通常較成人嚴重。
-- 腎臟受侵犯（lupus nephritis）更常見且更嚴重。
+- 腎臟受侵犯（[[腎臟內科#Lupus Nephritis|lupus nephritis]]）更常見且更嚴重。
 - 診斷：same ACR/SLICC criteria。
 - 特別考量：避免長期 steroid 對生長的影響。
 
@@ -1860,7 +1894,7 @@ credit:
 - 身體虐待紅旗：
     - 與病史不符的傷痕。
     - 不同癒合階段的瘀傷。
-    - 特徵性骨折：**metaphyseal corner fractures**（bucket-handle / classic metaphyseal lesion）→ 最具特異性。
+    - 特徵性骨折：**[[骨科#兒童骨折特性|metaphyseal corner fractures]]**（bucket-handle / classic metaphyseal lesion）→ 最具特異性。
     - **Posterior rib fractures**（擠壓）、spiral fractures in non-ambulatory children。
     - 嬰兒 **subdural hematoma + retinal hemorrhage** → 高度懷疑 **搖晃嬰兒症候群**（Shaken Baby Syndrome = Abusive Head Trauma）。
 :::source{from="20261028-medical-safeguards"}
@@ -1869,6 +1903,7 @@ credit:
 
 - 骨骼調查（skeletal survey）：< 2 歲懷疑虐待時。
 - 醫師有**法定通報義務**。
+- 詳見 [[小兒主訴#疑似兒童虐待（Suspected Child Abuse）|疑似兒童虐待]]的評估流程與通報
 
 ### 嬰兒猝死症（SIDS）
 
