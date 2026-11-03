@@ -145,10 +145,11 @@ credit:
 - **Tanner stage 發育順序**：乳房發育（thelarche）→ 陰毛（pubarche/adrenarche）→ 生長加速（growth spurt）→ 初經（menarche）。
     - 初經通常在 Tanner stage IV。
     - 初經通常在生長加速高峰 **之後**。
-- **性早熟（Precocious puberty）**：女孩 < 8 歲出現第二性徵。
+- **[[小兒科#性早熟（Precocious Puberty）|性早熟（Precocious puberty）]]**：女孩 < 8 歲出現第二性徵。
     - Central（GnRH-dependent）：真性，HPO 軸提早啟動；女孩最常見 **idiopathic**。
     - Peripheral（GnRH-independent）：假性，外源或腫瘤產生性荷爾蒙。
     - 治療（central type）：**GnRH agonist**（leuprolide）。
+- 兒童評估詳見 [[小兒科#性早熟（Precocious Puberty）|小兒科的性早熟]]
 
 ## 月經異常（Abnormal Uterine Bleeding, AUB）
 
@@ -162,6 +163,7 @@ credit:
     - 續發性：原本有月經者停經 ≥ 3 個月（規則者）或 ≥ 6 個月（不規則者）。
 - **Oligomenorrhea**：週期 > 38 天。
 - **Polymenorrhea**：週期 < 24 天。
+- 無月經的鑑別詳見 [[生殖內分泌科#無月經的鑑別|生殖內分泌科]]、[[婦產主訴#無月經（Amenorrhea）|無月經]]的評估流程
 
 ### PALM-COEIN 分類（FIGO）
 
@@ -171,11 +173,13 @@ credit:
 | **A** — Adenomyosis | 子宮肌腺症 | 內膜侵入肌層，痛經 + HMB |
 | **L** — Leiomyoma | 子宮肌瘤 | 最常見骨盆腔腫瘤 |
 | **M** — Malignancy | 子宮內膜癌/增生 | 停經後出血首要排除 |
-| **C** — Coagulopathy | 凝血異常 | vWD 最常見先天性原因 |
-| **O** — Ovulatory dysfunction | 排卵異常 | PCOS、甲狀腺、高泌乳素 |
+| **C** — Coagulopathy | 凝血異常 | [[血液腫瘤科#von Willebrand Disease（vWD）\|vWD]] 最常見先天性原因 |
+| **O** — Ovulatory dysfunction | 排卵異常 | [[生殖內分泌科#多囊性卵巢症候群（PCOS）\|PCOS]]、甲狀腺、高泌乳素 |
 | **E** — Endometrial | 內膜局部異常 | 前列腺素/纖溶異常 |
 | **I** — Iatrogenic | 醫源性 | IUD、荷爾蒙治療、抗凝血劑 |
 | **N** — Not yet classified | 未分類 | AVM、慢性子宮內膜炎等 |
+
+- 詳見 [[婦產主訴#異常子宮出血（Abnormal Uterine Bleeding）|異常子宮出血]]的評估流程；排卵期出血詳見 [[20261015-obgyn-clinic#排卵期出血|婦產科門診：排卵期出血]]（逐篇筆記）
 
 ### 無排卵性出血（Anovulatory Bleeding）
 
@@ -269,6 +273,7 @@ credit:
 - **Dyspareunia（性交痛）**：尤其 uterosacral ligament 受侵犯。
 - **Dyschezia（排便痛）**：直腸受侵犯。
 - **Dysuria + 不孕（infertility）**。
+- 詳見 [[婦產主訴#經痛與慢性骨盆腔痛（Dysmenorrhea / Chronic Pelvic Pain）|經痛與慢性骨盆腔痛]]的評估流程
 
 #### 診斷
 
@@ -339,7 +344,8 @@ credit:
     - Theca lutein cyst：雙側、多房、常與**高 hCG** 相關（葡萄胎、多胞胎）。
 - 偏良性：單純囊性、單側、活動、小（< 5–6 cm）。
 - 懷疑惡性：實心、雙側、乳突狀（papillary excrescences）、固定不動、腹水、CA-125↑、快速增大。
-- **Krukenberg tumor**：轉移性卵巢腫瘤；最常從**胃癌**轉移（signet ring cells）；通常雙側。
+- **Krukenberg tumor**：轉移性卵巢腫瘤；最常從**[[消化內科#胃癌（Gastric Cancer）|胃癌]]**轉移（signet ring cells）；通常雙側。
+- 詳見 [[婦產主訴#骨盆腔腫塊（Pelvic / Adnexal Mass）|骨盆腔腫塊]]的評估流程
 
 ### 上皮性卵巢腫瘤（Epithelial Ovarian Tumors）
 
@@ -383,7 +389,7 @@ credit:
 - 婦癌中**死亡率最高**（沉默殺手）。
 - 大多數診斷時已為晚期（Stage III/IV）。
 - 最常見類型：**High-grade serous carcinoma（HGSC）**。
-- 危險因子：家族史（**BRCA1/2**、Lynch syndrome）、nulliparity、早初經/晚停經、不孕、endometriosis（endometrioid & clear cell）。
+- 危險因子：家族史（**[[乳房外科#乳癌危險因子|BRCA1/2]]**、[[大腸直腸外科#Lynch Syndrome（HNPCC）|Lynch syndrome]]）、nulliparity、早初經/晚停經、不孕、endometriosis（endometrioid & clear cell）。
     - **BRCA1**：卵巢癌終身風險 ~40%；**BRCA2**：~15–20%。
 - 保護因子：OCP（使用 > 5 年風險降 50%）、多次懷孕、哺乳、輸卵管結紮、BSO。
 - 篩檢：**目前沒有有效的卵巢癌篩檢方法**。
@@ -445,6 +451,7 @@ credit:
     - 即使外觀缺血仍先嘗試 detorsion → 保留卵巢功能。
     - Oophoropexy 可考慮預防復發。
     - 若組織明顯壞死 → salpingo-oophorectomy。
+- 詳見 [[婦產主訴#急性骨盆腔痛（Acute Pelvic Pain）|急性骨盆腔痛]]的評估流程
 
 ## 子宮頸癌（Cervial Cancer）
 
@@ -462,6 +469,7 @@ credit:
     - 劑數：**:red[< 15 歲 2 劑]**；**≥ 15 歲或免疫低下 3 劑**。
     - 台灣公費：國中女生。
     - 接種後仍需做子宮頸抹片篩檢。
+- 病毒特性詳見 [[感染科#HPV（Human Papillomavirus）|感染科的 HPV]]
 
 ### 子宮頸癌篩檢
 
@@ -481,6 +489,7 @@ credit:
     - 不滿意（unsatisfactory）＝ SCJ 未完整看到 → 需 ECC 或 conization。
 - **Endocervical curettage（ECC）**：刮取子宮頸管內膜組織，評估轉化區以上病變（**孕婦禁忌**）。
 - **Endometrial biopsy**：子宮內膜取樣，排除子宮內膜癌或增生，尤其用於 AGC 或異常出血。
+- 國健署篩檢總表詳見 [[家庭醫學科#台灣癌症篩檢（國健署）|家庭醫學科]]
 
 ### 子宮頸上皮內病變（CIN）
 
@@ -500,7 +509,7 @@ credit:
 ### 子宮頸癌診斷與分期
 
 - **SCC**：最常見（70–80%）；**腺癌**：比例漸增（20–25%）。
-- 危險因子：**HPV 持續感染**（最重要）、多性伴侶、早期性行為、抽菸、HIV。
+- 危險因子：**HPV 持續感染**（最重要）、多性伴侶、早期性行為、抽菸、[[感染科#HIV / AIDS|HIV]]。
 - 臨床表現：異常陰道出血（接觸性出血最典型）、陰道分泌物增加。
 - 晚期：骨盆痛、水腎、下肢水腫、直腸/膀胱症狀。
 - 診斷：Pap smear 篩檢 → 異常者行陰道鏡 + 切片 → 確定診斷。
@@ -545,11 +554,11 @@ credit:
     - **肥胖**（最重要可改變因子）：脂肪 aromatase → androgen 轉 estrogen。
     - Nulliparity。
     - 早初經 / 晚停經。
-    - **PCOS**（慢性無排卵）。
+    - **[[生殖內分泌科#多囊性卵巢症候群（PCOS）|PCOS]]**（慢性無排卵）。
     - **Tamoxifen**（在子宮具 estrogenic effect）。
     - Estrogen-only HRT（無 progesterone 對抗）。
     - Estrogen-secreting tumors（granulosa cell tumor）。
-    - **Lynch syndrome（HNPCC）**：最重要的遺傳風險因子；子宮內膜癌終身風險 40–60%。
+    - **[[大腸直腸外科#Lynch Syndrome（HNPCC）|Lynch syndrome（HNPCC）]]**：最重要的遺傳風險因子；子宮內膜癌終身風險 40–60%。
 - 保護因子：
     - OCP（combined，含 progesterone）。
     - Multiparity。
@@ -633,7 +642,7 @@ credit:
 
 | 疾病 | 病原 | 特徵 |
 |------|------|------|
-| 梅毒（一期） | Treponema pallidum | **Painless** chancre |
+| 梅毒（一期） | [[感染科#Treponema pallidum（Syphilis，梅毒）\|Treponema pallidum]] | **Painless** chancre |
 | 軟下疳（Chancroid） | Haemophilus ducreyi | **Painful** ulcer + inguinal lymphadenopathy |
 | LGV | C. trachomatis L1–L3 | Painful inguinal LN（groove sign） |
 
@@ -641,9 +650,9 @@ credit:
 
 | 疾病 | 特徵 | 癌變風險 |
 |------|------|----------|
-| **Lichen sclerosus** | 停經後女性為主；ivory-white、皺縮、**羊皮紙樣**；搔癢嚴重；figure-of-8 分布；治療：**Clobetasol**（長期） | **有**（SCC 風險 4–5%） |
+| **[[皮膚科#硬化性萎縮苔蘚（Lichen Sclerosus）\|Lichen sclerosus]]** | 停經後女性為主；ivory-white、皺縮、**羊皮紙樣**；搔癢嚴重；figure-of-8 分布；治療：**Clobetasol**（長期） | **有**（SCC 風險 4–5%） |
 | Lichen simplex chronicus | 慢性搔癢 → 表皮增厚；白色斑塊 | 低 |
-| Lichen planus | 紫紅色扁平丘疹、Wickham striae；可侵犯口腔 | 低 |
+| [[皮膚科#扁平苔蘚（Lichen Planus）\|Lichen planus]] | 紫紅色扁平丘疹、Wickham striae；可侵犯口腔 | 低 |
 
 ### 外陰癌（Vulvar Cancer）
 
@@ -660,6 +669,7 @@ credit:
 - 外陰瘙癢 + eczematoid appearance → 組織學見 **Paget cells**（大、蒼白、含黏液）。
 - 通常 intraepithelial（原位），但須排除底下的 invasive adenocarcinoma。
 - 與乳房 Paget's 不同：外陰 Paget's 多為原發性。
+- 乳房 Paget's 詳見 [[乳房外科#Paget's Disease of the Nipple|乳房外科]]
 
 ## 陰道疾病
 
@@ -669,7 +679,7 @@ credit:
 
 | 特徵 | **Bacterial vaginosis** | **Candidiasis** | **Trichomoniasis** |
 |------|--------|-----------------|---------------------|
-| 病原 | Gardnerella + 厭氧菌 | **C. albicans**（90%） | **T. vaginalis** |
+| 病原 | Gardnerella + 厭氧菌 | **[[感染科#Candida\|C. albicans]]**（90%） | **T. vaginalis** |
 | 分類 | **非 STI** | **非 STI** | **STI** |
 | 分泌物 | 灰白、稀薄、均質 | 白色濃稠 **cottage cheese** 樣 | 黃綠色、泡沫狀 |
 | 氣味 | **Fishy**（whiff test +） | 無特殊 | 惡臭 |
@@ -678,6 +688,8 @@ credit:
 | 搔癢 | 少 | **嚴重** | 中度 |
 | 特殊 | Amsel criteria（≥ 3/4） | DM、抗生素使用為誘因 | **Strawberry cervix** |
 | 治療 | **Metronidazole** | **Fluconazole**（口服）或 **Clotrimazole**（外用） | **Metronidazole + 治療性伴侶** |
+
+- 詳見 [[婦產主訴#陰道分泌物與外陰搔癢（Vaginal Discharge / Vulvar Itching）|陰道分泌物與外陰搔癢]]的評估流程；門診實務詳見 [[20261015-obgyn-clinic#陰道分泌物與性病|婦產科門診：陰道分泌物與性病]]（逐篇筆記）
 
 #### Bacterial Vaginosis 的 Amsel Criteria
 
@@ -702,7 +714,7 @@ credit:
 
 #### 病因
 
-- 最常見：**Chlamydia trachomatis** 與 **Neisseria gonorrhoeae** 上行感染。
+- 最常見：**[[感染科#Chlamydia|Chlamydia trachomatis]]** 與 **[[感染科#N. gonorrhoeae（淋病雙球菌）|Neisseria gonorrhoeae]]** 上行感染。
 - 其他：厭氧菌、G(−) bacilli 等（多為 polymicrobial）。
 - 危險因子：年輕性活躍女性、多性伴侶、:red[IUD 置入後 3 週內]。
 
@@ -723,9 +735,9 @@ credit:
     - TOA 破裂 → 急性腹膜炎 → **急診手術**。
 - **Fitz-Hugh-Curtis syndrome（肝包膜周圍炎）**。
     - Chlamydia（最常見）或 Gonorrhea 上行至肝周圍。
-    - **右上腹痛**（mimics cholecystitis）。
+    - **右上腹痛**（mimics [[肝膽胰外科#急性膽囊炎（Acute Cholecystitis）|cholecystitis]]）。
     - 腹腔鏡可見 **violin string adhesions**。
-- 輸卵管阻塞 → **不孕**、**子宮外孕** 風險增加。
+- 輸卵管阻塞 → **不孕**、**[[產科#子宮外孕（Ectopic Pregnancy）|子宮外孕]]** 風險增加。
 - 慢性骨盆痛。
 
 #### 治療
@@ -734,6 +746,7 @@ credit:
 - **住院**（TOA、嚴重、無法口服、懷孕、門診治療失敗、疑似外科急症）：Cefoxitin/Cefotetan IV + Doxycycline 或 Clindamycin IV + Gentamicin IV。
 - **所有性伴侶（:red[60 天內]）皆需治療**，治療期間禁性行為。
 - IUD 不需常規移除；若 72 小時內未改善再考慮取出。
+- 詳見 [[婦產主訴#急性骨盆腔痛（Acute Pelvic Pain）|急性骨盆腔痛]]的評估流程
 
 ### 骨盆腔器官脫垂（Pelvic Organ Prolapse, POP）
 
@@ -787,6 +800,8 @@ credit:
 | **Urge UI** | 逼尿肌過動（detrusor overactivity） | 突然強烈尿意 → 來不及即漏；頻尿、夜尿 |
 | **Overflow UI** | 膀胱出口阻塞 / 逼尿肌無力 | 滴滴答答；PVR↑ |
 
+- 詳見 [[腎泌尿系統主訴#尿失禁（Urinary Incontinence）|尿失禁]]的評估流程；男性與膀胱過動症詳見 [[泌尿科#尿失禁與膀胱過動症|泌尿科]]
+
 #### Stress UI 治療
 
 - **保守**：**Kegel exercises** → 所有 UI 的第一線治療。
@@ -826,7 +841,7 @@ credit:
         - 過度吸收造成 volume overload，較不易引發低血鈉症。
         - Deficit 上限約 **:red[2500 mL]**（年長或心肺疾病者降至 1500 mL）。
     - **低黏度非電解質液**（glycine、sorbitol、mannitol）：用於 monopolar electrosurgery。
-        - 過度吸收可致 **低血鈉（dilutional hyponatremia）**；glycine 代謝為 ammonia → 腦病變。
+        - 過度吸收可致 **[[電解質與酸鹼#低血鈉（Hyponatremia）|低血鈉（dilutional hyponatremia）]]**；glycine 代謝為 ammonia → 腦病變。
         - Deficit 上限 **:red[1000–1500 mL]** → 嚴重可致腦水腫。
 - 監測：術中持續追蹤灌注液進出量（fluid deficit）。
 
