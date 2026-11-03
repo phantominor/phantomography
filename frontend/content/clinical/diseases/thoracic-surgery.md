@@ -45,7 +45,7 @@ credit:
 - **喉返神經（recurrent laryngeal nerve, RLN）**：
     - **左側**繞主動脈弓下方 → 走在氣管食道溝上行（較長，較易受傷）。
     - **右側**繞右鎖骨下動脈。
-    - 單側損傷 → 聲帶麻痺 → 聲音沙啞；雙側損傷 → 氣道阻塞。
+    - 單側損傷 → [[耳鼻喉科#聲帶麻痺（Vocal Cord Paralysis）|聲帶麻痺]] → 聲音沙啞；雙側損傷 → 氣道阻塞。
 - **胸管（thoracic duct）**：
     - 起自 cisterna chyli → 穿過主動脈裂孔 → 在**右側**後縱膈腔上行 → 至 T4–5 處**跨至左側** → 匯入左側頸靜脈角（left jugular-subclavian junction）。
     - 損傷 → **乳糜胸（chylothorax）**。
@@ -57,7 +57,7 @@ credit:
 - 全球癌症死亡率第一位。
 - 台灣：男性癌症死因第一位；女性近年快速上升（非吸菸型腺癌增多）。
 - 最主要危險因子：**吸菸**（佔 85%）。
-- 其他危險因子：二手菸、石綿、氡氣（radon）、空氣污染、家族史、肺纖維化。
+- 其他危險因子：二手菸、[[胸腔內科#職業性/暴露性肺病|石綿]]、氡氣（radon）、空氣污染、家族史、肺纖維化。
 
 ### 肺癌分類
 
@@ -76,9 +76,9 @@ credit:
 - 位置：**中央**；與吸菸高度相關。
 - 高度惡性、生長快、早期轉移。
 - **副腫瘤症候群（paraneoplastic syndromes）**最常見：
-    - **SIADH** → 低血鈉。
+    - **[[代謝內分泌科#抗利尿激素不當分泌症候群（SIADH）|SIADH]]** → 低血鈉。
     - **Cushing syndrome**（ectopic ACTH）。
-    - **Lambert-Eaton myasthenic syndrome**（anti-VGCC Ab）。
+    - **[[神經內科#Lambert-Eaton 肌無力症候群（LEMS）|Lambert-Eaton myasthenic syndrome]]**（anti-VGCC Ab）。
 
 ### 肺癌臨床表現
 
@@ -86,15 +86,16 @@ credit:
 
 - 咳嗽（最常見）、咳血、呼吸困難、胸痛。
 - 中央型 → 阻塞性肺炎、肺塌陷。
-- **上腔靜脈症候群（SVC syndrome）**：臉部/上肢水腫、頸靜脈怒張、頭痛。
+- **[[血液腫瘤科#Superior Vena Cava Syndrome|上腔靜脈症候群（SVC syndrome）]]**：臉部/上肢水腫、頸靜脈怒張、頭痛。
 - **喉返神經**受侵犯 → 聲音沙啞。
 - **膈神經**受侵犯 → 橫膈上升。
+- 詳見 [[呼吸系統主訴#咳血（Hemoptysis）|咳血]]的評估流程
 
 #### Pancoast tumor
 
 - 位於肺尖（superior sulcus tumor）。
 - 侵犯臂叢神經 → 肩膀/上肢疼痛、C8-T1 分佈感覺異常/肌肉萎縮。
-- 侵犯星狀神經節（stellate ganglion）→ **Horner's syndrome**：同側瞳孔縮小（miosis）+ 上瞼下垂（ptosis）+ 無汗（anhidrosis）。
+- 侵犯星狀神經節（stellate ganglion）→ **[[五官主訴#瞳孔不等大（Anisocoria）|Horner's syndrome]]**：同側瞳孔縮小（miosis）+ 上瞼下垂（ptosis）+ 無汗（anhidrosis）。
 
 #### Paraneoplastic Syndromes
 
@@ -106,6 +107,8 @@ credit:
 | 高血鈣 | PTHrP | **SCC** |
 | 肥大性骨關節病（Hypertrophic osteoarthropathy） | 杵狀指 + 骨膜炎 | 各型，尤其 NSCLC |
 
+- 副腫瘤症候群總整理詳見 [[血液腫瘤科#副腫瘤症候群（Paraneoplastic Syndromes）|血液腫瘤科]]；杵狀指詳見 [[呼吸系統主訴#杵狀指（Digital Clubbing）|杵狀指]]的評估流程
+
 ### 肺癌診斷
 
 - **CXR**：初步篩檢。
@@ -116,6 +119,7 @@ credit:
     - 中央病灶 → 支氣管鏡切片。
     - 縱膈腔淋巴結 → **EBUS-TBNA**（endobronchial ultrasound-guided transbronchial needle aspiration）或 mediastinoscopy。
 - **低劑量 CT 篩檢**：台灣建議高風險族群（重度吸菸者、石綿暴露、家族史等）。
+- 篩檢條件詳見 [[胸腔內科#肺癌篩檢|胸腔內科的肺癌篩檢]]
 
 #### Solitary Pulmonary Nodule（SPN，孤立性肺結節）
 
@@ -126,6 +130,7 @@ credit:
     - 低風險：serial CT 追蹤。
     - 中風險：PET/CT ± biopsy。
     - 高風險/持續增大：**手術切除**（VATS wedge → 術中冰凍切片 → 決定是否 lobectomy）。
+- 詳見 [[偶發病灶#肺結節（Pulmonary Nodule）|肺結節]]的評估流程
 
 ### 肺癌分期
 
@@ -215,6 +220,7 @@ credit:
 - EGFR/ALK 陽性者 → 標靶治療為首選。
 - 無 driver mutation + PD-L1 ≥ 50% → 單用 immunotherapy。
 - 無 driver mutation + PD-L1 < 50% → chemo + immunotherapy。
+- 內科治療詳見 [[胸腔內科#非小細胞肺癌（NSCLC，約 85%）|胸腔內科的 NSCLC]]
 
 ### 其他肺部腫瘤與病灶
 
@@ -240,17 +246,18 @@ credit:
 
 #### 肺膿瘍（Lung Abscess）
 
-- 肺實質壞死形成含膿液空腔，常因吸入性肺炎（厭氧菌為主）引起。
+- 肺實質壞死形成含膿液空腔，常因[[胸腔內科#肺炎（Pneumonia）|吸入性肺炎]]（厭氧菌為主）引起。
 - 好發：酗酒、意識不清、吞嚥困難者；最常在**右下葉後段**（仰臥吸入位置）。
 - 影像：空腔 + air-fluid level。
 - 治療：**長期抗生素為主**（涵蓋厭氧菌，療程 4–6 週）。
 - 手術適應症：抗生素治療 6 週以上無效、:red[膿瘍 > 6 cm]、懷疑腫瘤、大量咳血。
+- 內科治療詳見 [[胸腔內科#肺膿瘍（Lung Abscess）|胸腔內科的肺膿瘍]]
 
 ## 氣管疾病
 
 ### 氣管狹窄（Tracheal Stenosis）
 
-- 最常見原因：**長期插管 / 氣切後**（cuff 壓迫缺血 → 肉芽 → 纖維化 → 狹窄）。
+- 最常見原因：**[[耳鼻喉科#氣管切開術（Tracheostomy）|長期插管 / 氣切後]]**（cuff 壓迫缺血 → 肉芽 → 纖維化 → 狹窄）。
 - 好發位置：cuff 接觸處、stoma 處。
 - 症狀：漸進性呼吸困難、喘鳴（stridor）。
     - 管腔縮窄 :red[**> 50%**（直徑約 < 8 mm）]才出現症狀；直徑 **< 5 mm** 才出現 stridor。
@@ -292,6 +299,8 @@ credit:
 
 - 心衰竭病人使用**利尿劑後**常被誤判為 exudate
     → 此時看 **:red[血清−肋膜液白蛋白差 > 1.2 g/dL]** 支持 transudate。
+
+- 詳見 [[呼吸系統主訴#肋膜積液（Pleural Effusion）|肋膜積液]]的評估流程；內科處理詳見 [[胸腔內科#肋膜積液處理|胸腔內科]]
 
 #### 特殊肋膜液分析
 
@@ -343,6 +352,7 @@ credit:
 - 診斷：VATS pleural biopsy → 免疫組化：**Calretinin (+)**、CK5/6 (+)、WT-1 (+)。
 - 治療：multimodal（手術 + 化療 + 放療），化療首選 cisplatin + pemetrexed。
 - 預後：整體差，中位存活 12–18 個月。
+- 詳見 [[胸腔內科#惡性肋膜間皮瘤（Malignant Mesothelioma）|胸腔內科的惡性間皮瘤]]
 
 ## 氣胸及血胸
 
@@ -374,6 +384,7 @@ credit:
 | 持續漏氣 :red[> 5–7 天] | 手術 |
 
 - 再發率：第一次發作後約 **30%**；手術後 < 5%。
+- 內科觀點詳見 [[胸腔內科#氣胸（Pneumothorax）|胸腔內科的氣胸]]；創傷性張力性氣胸詳見 [[外科概論#胸部外傷|外科概論的胸部外傷]]
 
 ### 血胸（Hemothorax）
 
@@ -412,8 +423,8 @@ credit:
 
 ### 胸壁腫瘤
 
-- **良性**：osteochondroma（最常見良性骨腫瘤）、fibrous dysplasia、desmoid tumor。
-- **惡性**：chondrosarcoma（最常見原發惡性胸壁腫瘤）、osteosarcoma、Ewing sarcoma、MFH、fibrosarcoma。
+- **良性**：[[骨科#良性骨骼腫瘤|osteochondroma]]（最常見良性骨腫瘤）、fibrous dysplasia、desmoid tumor。
+- **惡性**：[[骨科#惡性骨骼腫瘤|chondrosarcoma]]（最常見原發惡性胸壁腫瘤）、osteosarcoma、Ewing sarcoma、MFH、fibrosarcoma。
 - 治療原則：**wide excision（≥ 2 cm margin）** + 胸壁重建（mesh ± muscle flap）。
 
 ### 胸廓出口症候群（Thoracic Outlet Syndrome, TOS）
@@ -438,23 +449,24 @@ credit:
 
 | 腫瘤 | 重點 |
 |------|------|
-| **Thymoma** | 最常見前縱膈腔腫瘤（成人）；與 **Myasthenia Gravis（MG）** 相關（30–50%）；Masaoka 分期；完整胸腺切除 ± RT/chemo（cisplatin-based） |
+| **Thymoma** | 最常見前縱膈腔腫瘤（成人）；與 **[[神經內科#重症肌無力（Myasthenia Gravis, MG）\|Myasthenia Gravis（MG）]]** 相關（30–50%）；Masaoka 分期；完整胸腺切除 ± RT/chemo（cisplatin-based） |
 | **Teratoma（germ cell tumor）** | 最常見前縱膈腔腫瘤（兒童）；良性 mature teratoma 含三胚層組織；惡性分 **seminoma**（對化療/放療敏感、**AFP 不升高**、β-hCG 可輕微升高）與 **nonseminoma**（AFP 及/或 β-hCG 升高、需化療 + 手術） |
 | **Thyroid（substernal goiter）** | 從頸部延伸至上/前縱膈腔；多可經頸部切口切除 |
-| **Lymphoma** | Hodgkin lymphoma 好發前縱膈腔；大腫塊可致 SVC syndrome |
+| **Lymphoma** | [[血液腫瘤科#Hodgkin Lymphoma（HL）\|Hodgkin lymphoma]] 好發前縱膈腔；大腫塊可致 SVC syndrome |
 
 #### 中縱膈腔
 
-- Lymphadenopathy（最常見）：淋巴瘤、轉移、sarcoidosis。
+- Lymphadenopathy（最常見）：淋巴瘤、轉移、[[胸腔內科#結節病（Sarcoidosis）|sarcoidosis]]。
 - Bronchogenic cyst：最常位於 carina 附近。
 - Pericardial cyst：通常在右側心膈角（asymptomatic）。
 
 #### 後縱膈腔
 
 - **神經源性腫瘤**（最常見後縱膈腔腫瘤）。
-    - 成人：Schwannoma、Neurofibroma（NF1）。
-    - 兒童：Neuroblastoma、Ganglioneuroblastoma、Ganglioneuroma。
+    - 成人：Schwannoma、[[小兒科#Neurofibromatosis Type 1（NF1, von Recklinghausen Disease）|Neurofibroma（NF1）]]。
+    - 兒童：[[小兒外科#Neuroblastoma（神經母細胞瘤）|Neuroblastoma]]、Ganglioneuroblastoma、Ganglioneuroma。
 - 食道囊腫（esophageal duplication cyst）。
+- 影像意外發現的縱膈腔腫塊詳見 [[偶發病灶#縱膈腔腫塊（Mediastinal Mass）|縱膈腔腫塊]]
 
 ### 縱膈腔炎（Mediastinitis）
 
@@ -491,7 +503,7 @@ credit:
 | 類型 | 位置 | 危險因子 |
 |------|------|----------|
 | **鱗狀細胞癌（SCC）** | 中段最常見 | 吸菸、飲酒、熱食、achalasia、caustic injury、Plummer-Vinson syndrome |
-| **腺癌（Adenocarcinoma）** | 下段/GEJ | **Barrett's esophagus**（GERD → intestinal metaplasia）、obesity |
+| **腺癌（Adenocarcinoma）** | 下段/GEJ | **[[消化內科#胃食道逆流（GERD）\|Barrett's esophagus]]**（GERD → intestinal metaplasia）、obesity |
 
 - **Barrett's esophagus** 進程：GERD → Barrett's → low-grade dysplasia → high-grade dysplasia → adenocarcinoma。
     - 有 dysplasia → endoscopic surveillance ± ablation（RFA）或 EMR/ESD。
@@ -501,6 +513,7 @@ credit:
 - **漸進性吞嚥困難（progressive dysphagia）**：先固體後液體。
 - 體重減輕、odynophagia。
 - 晚期：聲音沙啞（RLN invasion）、咳嗽（tracheoesophageal fistula）。
+- 詳見 [[消化系統主訴#吞嚥困難（Dysphagia）|吞嚥困難]]的評估流程；內科觀點詳見 [[消化內科#食道癌|消化內科的食道癌]]
 
 #### 診斷與分期
 
@@ -565,6 +578,7 @@ credit:
     - 替代：**內視鏡 POEM**（III 型首選，但術後 GERD 較多）。
     - 暫時性/高手術風險：肉毒桿菌注射、氣球擴張（balloon dilation）。
 - 長期：食道鱗狀細胞癌風險增加。
+- 詳見 [[消化內科#Achalasia（食道弛緩不能症）|消化內科的 Achalasia]]
 
 #### 胃食道逆流（GERD）手術治療
 
@@ -573,6 +587,7 @@ credit:
     - **Nissen fundoplication（360° 全包繞）**：最常用、抗逆流效果最佳；副作用：dysphagia、gas-bloat syndrome。
     - **Toupet fundoplication（270° 後方部分包繞）**：適用食道蠕動較差者，dysphagia 較少。
     - **Dor fundoplication（180° 前方部分包繞）**：常用於 Heller myotomy 後防逆流。
+- 藥物治療詳見 [[消化內科#胃食道逆流（GERD）|消化內科的 GERD]]
 
 #### 食道憩室（Esophageal Diverticulum）
 
@@ -603,6 +618,7 @@ credit:
         - 插管（禁用 bag-mask ventilation，避免腸道脹氣）。
         - NG tube 減壓、gentle ventilation ± iNO/ECMO → 待肺高壓穩定後手術修補。
 - **Morgagni hernia**：前內側（胸骨旁），**右側居多**，較少見、症狀輕。
+- 新生兒處置詳見 [[小兒外科#先天性橫膈疝氣（Congenital Diaphragmatic Hernia, CDH）|小兒外科的 CDH]]
 
 ### 食道裂孔疝氣（Hiatal Hernia）
 
