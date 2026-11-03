@@ -18,6 +18,7 @@ credit:
 | 復發 | 少 | 術後高復發 |
 
 - Keloid 治療：類固醇注射（intralesional triamcinolone）、壓力治療、矽膠片、放射線（術後輔助降低復發）。
+- 傷口癒合各期詳見 [[外科概論#傷口癒合|外科概論的傷口癒合]]
 
 ### Relaxed Skin Tension Lines（RSTL）
 
@@ -60,7 +61,7 @@ credit:
 #### 不利因素（移植失敗原因）
 - **Hematoma（最常見失敗原因）**：血腫將皮片抬離傷床 → 阻斷血管新生。
 - **Seroma**：漿液積聚。
-- **Infection**：尤其 **β-hemolytic Streptococcus（GAS）** 最具破壞性（產生 fibrinolysin）。
+- **Infection**：尤其 **[[感染科#Group A Streptococcus（S. pyogenes）|β-hemolytic Streptococcus（GAS）]]** 最具破壞性（產生 fibrinolysin）。
 - **Shear force**：皮片移動 → 血管無法吻合。
 - **不良傷床**：暴露的骨頭（無骨膜）、肌腱（無 paratenon）、軟骨（無軟骨膜）。
 
@@ -124,6 +125,8 @@ Mathes & Nahai 依血管蒂數量與型態將肌肉分為五型：
 | Latissimus dorsi flap | 乳房重建、胸壁缺損 | Type V，dominant pedicle 為 thoracodorsal a. |
 | Gracilis flap | 顏面動態重建 | Type II，常用於 facial reanimation |
 
+- 乳房重建時機詳見 [[乳房外科#乳房重建（Breast Reconstruction）|乳房外科]]
+
 ### 游離皮瓣術後監測
 
 - 最常見失敗原因：**靜脈栓塞（venous thrombosis）**。
@@ -162,7 +165,7 @@ Mathes & Nahai 依血管蒂數量與型態將肌肉分為五型：
 - **女 > 男**（與唇裂相反）。
 - 胚胎學：第 7–12 週，palatine shelves 未融合。
 - 合併問題：
-    - **中耳炎/傳導性聽力障礙**（Eustachian tube dysfunction）。
+    - **[[耳鼻喉科#積液性中耳炎（Otitis Media with Effusion, OME）|中耳炎/傳導性聽力障礙]]**（Eustachian tube dysfunction）。
     - 語言障礙（velopharyngeal insufficiency → 鼻音過重）。
     - 餵食困難。
 - 手術時機：:red[**9–18 個月**]（語言發展前）。
@@ -184,6 +187,7 @@ Mathes & Nahai 依血管蒂數量與型態將肌肉分為五型：
     - **Crouzon**：FGFR2，bicoronal + midface hypoplasia、眼球突出，**無手部異常**。
     - **Apert**：FGFR2，同上 + **syndactyly（併指，mitten hand）**。
     - **Pfeiffer**：FGFR1/2，**寬大拇指與大腳趾**。
+- 神經外科觀點詳見 [[神經外科#顱縫早閉（Craniosynostosis）|神經外科]]
 
 ### 顏面神經（CN VII）
 
@@ -193,6 +197,7 @@ Mathes & Nahai 依血管蒂數量與型態將肌肉分為五型：
     - cf. 中樞型（中風）→ 對側下臉受影響，額頭不受影響（雙側支配）。
     - 治療：:red[72 小時內]口服 Prednisolone ± Valacyclovir。
     - 大多 3–6 個月自然恢復。
+- 詳見 [[神經系統主訴#顏面神經麻痺（Facial Palsy）|顏面神經麻痺]]的評估流程；腮腺手術的顏面神經詳見 [[耳鼻喉科#腮腺手術與顏面神經|耳鼻喉科]]
 
 ## 手外科（Hand Surgery）
 
@@ -255,8 +260,10 @@ Mathes & Nahai 依血管蒂數量與型態將肌肉分為五型：
 
 | | Boutonnière | Swan Neck |
 |---|------------|-----------|
-| 病因 | Central slip 斷裂 | 常見於 RA |
+| 病因 | Central slip 斷裂 | 常見於 [[免疫風濕科#類風濕性關節炎（Rheumatoid Arthritis, RA）\|RA]] |
 | 表現 | **PIP 屈曲 + DIP 過伸** | **PIP 過伸 + DIP 屈曲** |
+
+- 詳見 [[肌肉骨骼系統主訴#手腕與手部疼痛（Wrist and Hand Pain）|手腕與手部疼痛]]的評估流程；骨科觀點詳見 [[骨科#腕部與手部損傷|骨科]]
 
 ### 手部感染
 
@@ -301,15 +308,17 @@ Mathes & Nahai 依血管蒂數量與型態將肌肉分為五型：
 - 特徵：pearly papule、telangiectasia、rolled border、中心潰瘍。
 - **幾乎不轉移**（locally invasive）。
 - 治療：手術切除（:red[3–4 mm margin]）；顏面部 / morpheaform → **Mohs surgery**。
+- 詳見 [[皮膚系統主訴#皮膚腫塊與痣的變化（Skin Lumps / Changing Mole）|皮膚腫塊與痣的變化]]的評估流程；皮膚科觀點詳見 [[皮膚科#基底細胞癌（Basal Cell Carcinoma, BCC）|皮膚科的 BCC]]
 
 ### 鱗狀細胞癌（SCC）
 
 - 第二常見皮膚癌。
 - **會轉移**（vs BCC 最大區別）。
 - 危險因子：UV、慢性傷口、immunosuppression（**器官移植後最常見皮膚癌 = SCC**）。
-- 前驅病灶：**Actinic keratosis（日光性角化症）**— 最常見 pre-malignant lesion。
-    - Bowen's disease = SCC in situ。
+- 前驅病灶：**[[皮膚科#日光性角化症（Actinic Keratosis, AK）|Actinic keratosis（日光性角化症）]]**— 最常見 pre-malignant lesion。
+    - [[皮膚科#Bowen Disease（SCC in situ）|Bowen's disease]] = SCC in situ。
 - 治療：手術切除（:red[4–6 mm margin]）。
+- 皮膚科觀點詳見 [[皮膚科#鱗狀細胞癌（Squamous Cell Carcinoma, SCC）|皮膚科的 SCC]]
 
 ### 黑色素瘤（Melanoma）
 
@@ -339,6 +348,7 @@ Mathes & Nahai 依血管蒂數量與型態將肌肉分為五型：
 
 - **SLNB**：Breslow > 0.8 mm 或有 ulceration → 進行。
 - 轉移性治療：Anti-PD-1（Pembrolizumab）、BRAF mutation (+) → BRAF + MEK inhibitor。
+- 皮膚科觀點詳見 [[皮膚科#黑色素瘤（Melanoma）|皮膚科的黑色素瘤]]
 
 ## 血管瘤與血管畸形
 
@@ -360,12 +370,13 @@ Mathes & Nahai 依血管蒂數量與型態將肌肉分為五型：
 - **大多觀察即可**。
 - 需治療的情況：阻塞呼吸道、遮蔽視軸、大面積顏面、潰瘍出血、心衰竭。
 - **治療首選：Propranolol（oral β-blocker）**。
+- 氣道血管瘤詳見 [[耳鼻喉科#聲門下血管瘤（Subglottic Hemangioma）|耳鼻喉科的聲門下血管瘤]]
 
 ### 血管畸形分類
 
 | 類型 | 流速 | 考試重點 |
 |------|------|----------|
-| **Capillary（Port-wine stain）** | 低 | V1 分布 → **Sturge-Weber syndrome**（腦膜血管瘤、青光眼、癲癇） |
+| **Capillary（Port-wine stain）** | 低 | V1 分布 → **[[神經內科#神經皮膚症候群\|Sturge-Weber syndrome]]**（腦膜血管瘤、青光眼、癲癇） |
 | **Venous** | 低 | 可壓縮、藍色、體位相關 |
 | **Lymphatic（Cystic hygroma）** | 低 | 頸部後三角，**可透光（transillumination +）** |
 | **AVM** | **高** | 有 thrill/bruit，可致高輸出量心衰竭 |
@@ -398,6 +409,7 @@ Mathes & Nahai 依血管蒂數量與型態將肌肉分為五型：
 
 - 預防最重要：:red[每 2 小時翻身]、減壓床墊、營養支持。
 - Stage III–IV → 手術皮瓣覆蓋。
+- 詳見 [[皮膚系統主訴#皮膚潰瘍（Skin Ulcer）|皮膚潰瘍]]的評估流程；預防與脊髓損傷病人照護詳見 [[復健科#壓瘡（Pressure Injury）|復健科]]
 
 ### Marjolin's Ulcer
 
@@ -436,4 +448,4 @@ Mathes & Nahai 依血管蒂數量與型態將肌肉分為五型：
 - **Facelift（拉皮）**：
     - 感覺神經：**Great auricular nerve** 最常受傷（耳後感覺喪失）。
     - 運動神經：**Facial nerve marginal mandibular branch** 最易受傷（嘴角下垂）。
-- **Liposuction（抽脂）**→ fat embolism syndrome、體液流失/低血容、lidocaine toxicity。
+- **Liposuction（抽脂）**→ fat embolism syndrome、體液流失/低血容、[[麻醉科#局部麻醉劑全身毒性（Local Anesthetic Systemic Toxicity, LAST）|lidocaine toxicity]]。
