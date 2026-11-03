@@ -25,9 +25,10 @@ credit:
     3. Irregular respiration。
 - 頭痛（早晨最嚴重、躺下/咳嗽/用力時加劇）。
 - 嘔吐（projectile vomiting，可不伴噁心）。
-- 視乳頭水腫（papilledema）。
+- [[眼科#視乳頭水腫（Papilledema）|視乳頭水腫（papilledema）]]。
 - 意識改變（GCS 下降）。
 - 嬰兒：前囟門膨凸、頭圍增大、落日徵（sunset eyes）。
+- 詳見 [[神經系統主訴#意識障礙與昏迷（Altered Consciousness / Coma）|意識障礙與昏迷]]的評估流程
 
 ### 腦疝症候群（Herniation Syndromes）
 
@@ -60,7 +61,7 @@ credit:
 | Vasogenic | BBB 破壞 → 血漿蛋白滲出至細胞外間隙 | 腫瘤、膿瘍、創傷（白質為主） |
 | Cytotoxic | 細胞膜 Na⁺/K⁺ pump 失功 → 細胞內水腫 | 缺血/缺氧（灰質為主） |
 | Interstitial | CSF 流出至腦室周圍間質 | 阻塞性水腦症 |
-| Osmotic | 血漿滲透壓急劇下降 | 低血鈉、DKA 快速校正 |
+| Osmotic | 血漿滲透壓急劇下降 | [[電解質與酸鹼#低血鈉（Hyponatremia）\|低血鈉]]、DKA 快速校正 |
 
 - **Vasogenic edema → Dexamethasone 有效**（尤其腫瘤周圍水腫）。
 - **Cytotoxic edema → Dexamethasone 無效**（缺血性中風不建議用類固醇）。
@@ -74,6 +75,7 @@ credit:
     - Motor component 對預後最具預測力。
 - 瞳孔檢查：大小、對光反射、對稱性。
 - 所有頭部外傷病人先考慮頸椎損傷（C-spine immobilization）。
+- 創傷初步評估詳見 [[外科概論#Primary Survey（ABCDE）|外科概論的 ATLS]]；復健詳見 [[復健科#外傷性腦損傷（Traumatic Brain Injury, TBI）|復健科的外傷性腦損傷]]
 
 ### 顱內出血分類
 
@@ -120,12 +122,12 @@ credit:
     - **CSF otorrhea**：腦脊液從耳朵漏出 → 顳骨（中顱窩）骨折。
     - 確認方法：β₂-transferrin（特異性最高）、glucose 含量高（>30 mg/dL）、halo sign。
     - 大部分 7–10 天內自行癒合（頭部抬高、避免用力）→ 持續 :red[> 2 週] → 考慮手術修補。
-    - 持續 CSF 漏增加**腦膜炎**風險。
+    - 持續 CSF 漏增加**[[神經內科#細菌性腦膜炎|腦膜炎]]**風險。
     - **禁放 NG tube**（可能經篩板進入顱腔）→ 改用 orogastric tube。
 
 #### 顏面骨折
 
-- **眼眶骨折（Orbital blowout fracture）**：
+- **[[眼科#鈍傷|眼眶骨折（Orbital blowout fracture）]]**：
     - 眶底最常見 → 下直肌/眶脂肪嵌入上頜竇。
     - 症狀：複視（尤其上視受限）、眼球內陷（enophthalmos）、眶下神經麻木（infraorbital hypoesthesia）。
     - CT：teardrop sign（軟組織疝入上頜竇）。
@@ -166,7 +168,7 @@ credit:
     - 最常見位置：前交通動脈（ACoA）。
     - **PCom 動脈瘤 → 壓迫 CN III → 同側瞳孔散大、眼瞼下垂、眼球運動障礙**（壓迫性 CN III 麻痺會侵犯瞳孔，與糖尿病缺血性 CN III 麻痺「瞳孔倖免」相反）。
     - 好發年齡：40–60 歲。
-    - 危險因子：高血壓、抽菸、酗酒、家族史、多囊腎（ADPKD）、Ehlers-Danlos syndrome、結締組織疾病。
+    - 危險因子：高血壓、抽菸、酗酒、家族史、[[腎臟內科#體染色體顯性多囊腎（ADPKD）|多囊腎（ADPKD）]]、Ehlers-Danlos syndrome、結締組織疾病。
 - **臨床表現**：
     - **「有生以來最劇烈的頭痛」（thunderclap headache）** → 突然發作。
     - 頸部僵硬（meningismus）。
@@ -181,6 +183,7 @@ credit:
 - **分級**：
     - **Hunt & Hess Scale**（依臨床嚴重度 I–V）：預測預後。
     - **Fisher Grade**（依 CT 上出血量）：預測血管痙攣風險。
+- 詳見 [[神經系統主訴#急性頭痛（Acute Headache）|急性頭痛]]的評估流程；內科處置詳見 [[神經內科#蜘蛛膜下腔出血（SAH）|神經內科的 SAH]]
 
 #### SAH 併發症
 
@@ -189,7 +192,7 @@ credit:
 | **再出血（Rebleeding）** | 最危險在前 24 小時 | 早期夾閉/栓塞（24–72 hr 內）|
 | **血管痙攣（Vasospasm）** | **第 4–14 天**（高峰第 7 天）| **Nimodipine**（口服，改善預後但不一定逆轉痙攣本身）；Triple-H therapy（舊）：Hypertension, Hypervolemia, Hemodilution → 現趨向 euvolemia + induced HTN |
 | **水腦症（Hydrocephalus）** | 急性或慢性 | 急性 → EVD；慢性 → VP shunt |
-| **低血鈉** | 數天後 | **Cerebral salt wasting**（hypovolemic → 補 N/S）或 SIADH（**euvolemic** → 限水）|
+| **低血鈉** | 數天後 | **Cerebral salt wasting**（hypovolemic → 補 N/S）或 [[代謝內分泌科#抗利尿激素不當分泌症候群（SIADH）\|SIADH]]（**euvolemic** → 限水）|
 | **癲癇** | 任何時間 | 預防性抗癲癇藥（爭議中）|
 
 #### SAH 治療
@@ -212,6 +215,7 @@ credit:
     - **小腦出血 > 3 cm** 或壓迫第四腦室致水腦 → 緊急手術減壓。
     - Putaminal hemorrhage：深部位置，多保守治療；大量且意識惡化可考慮。
     - Thalamic hemorrhage：深部位置，通常不手術；破入腦室致 hydrocephalus → EVD。
+- 內科處置詳見 [[神經內科#腦內出血（ICH）|神經內科的腦內出血]]
 
 ### 腦血管畸形（Cerebrovascular Malformations）
 
@@ -254,6 +258,7 @@ credit:
         - 禁忌：活動性出血、近期手術/外傷、INR > 1.7、PLT < 100K、SBP > 185/110（需先降壓）。
     - **機械取栓（Mechanical thrombectomy）**：大血管阻塞（LVO），**發病 6 小時內**；6–24 小時需影像（CTP/DWI-mismatch）篩選。
     - **Aspirin**：tPA 後 24 小時（追蹤 CT 無出血）給予；未接受 tPA → 立即 aspirin。
+- 詳見 [[神經系統主訴#急性局部神經缺損（Acute Focal Neurologic Deficit）|急性局部神經缺損]]的評估流程；急性處置與次級預防詳見 [[神經內科#缺血性中風急性處理|神經內科]]
 
 ### 頸動脈狹窄（Carotid Artery Stenosis）
 
@@ -262,6 +267,7 @@ credit:
 - **Carotid endarterectomy（CEA）**：為頸動脈狹窄手術治療的 gold standard。
 - **Carotid artery stenting（CAS）**：高手術風險/解剖不利者的替代。
 - 手術最大風險：中風。
+- 術式與併發症詳見 [[心血管外科#頸動脈疾病（Carotid Artery Disease）|心血管外科的頸動脈疾病]]
 
 ### Moyamoya Disease
 
@@ -282,9 +288,9 @@ credit:
 | Astrocytoma | IDH-mutant；Grade 2–4 | 大腦半球 |
 | Oligodendroglioma | 鈣化常見（CT 可見）；診斷需 **IDH mutation + 1p/19q co-deletion 兩者兼具** → 化療反應佳、預後最好 | 額葉 |
 | **Meningioma** | 最常見良性腦瘤；來自蛛網膜顆粒；dural tail sign；鈣化 | 矢狀竇旁、凸面、蝶骨翼 |
-| Schwannoma | CN VIII（vestibular portion）；NF2 相關為雙側 | CP angle |
+| Schwannoma | CN VIII（vestibular portion）；[[神經內科#神經皮膚症候群\|NF2]] 相關為雙側 | CP angle |
 | Pituitary adenoma | 視野缺損（bitemporal hemianopia）；內分泌異常 | 蝶鞍 |
-| Hemangioblastoma | 高度血管性；與 **VHL syndrome** 相關；可致 EPO ↑ 紅血球增多 | 小腦（後顱窩）|
+| Hemangioblastoma | 高度血管性；與 **[[神經內科#神經皮膚症候群\|VHL syndrome]]** 相關；可致 EPO ↑ 紅血球增多 | 小腦（後顱窩）|
 | **腦轉移瘤（Metastasis）** | **成人最常見顱內腫瘤整體**；多發、灰白質交界 | 大腦半球 |
 
 ### 小兒常見腦腫瘤
@@ -309,6 +315,7 @@ credit:
 - **顱內腫瘤不宜做 lumbar puncture** → ICP 升高時 LP 可能誘發 uncal herniation。
 - **腦轉移瘤最常見原發來源**：肺癌（最多）> 乳癌 > 黑色素瘤 > 腎癌 > 大腸癌。
 - **最容易轉移腦部的腫瘤**：黑色素瘤（比率最高）。
+- 影像意外發現的顱內病灶詳見 [[偶發病灶#無症狀顱內病灶（Incidental Brain Findings）|無症狀顱內病灶]]
 
 ### Glioblastoma（GBM）
 
@@ -337,13 +344,14 @@ credit:
 | 類型 | 分泌激素 | 治療 |
 |------|----------|------|
 | **Prolactinoma** | Prolactin（最常見功能性腺瘤） | **Dopamine agonist（Cabergoline/Bromocriptine）** → 藥物治療首選，非手術！ |
-| GH-secreting | GH → 肢端肥大症 | 手術（transsphenoidal approach） |
-| ACTH-secreting | ACTH → Cushing's disease | 手術 |
+| GH-secreting | GH → [[代謝內分泌科#肢端肥大症（Acromegaly）/ 巨人症（Gigantism）\|肢端肥大症]] | 手術（transsphenoidal approach） |
+| ACTH-secreting | ACTH → [[代謝內分泌科#Cushing's Disease\|Cushing's disease]] | 手術 |
 | Non-functioning | 無 → 壓迫症狀為主 | 手術（若有視野/壓迫症狀）|
 
 - **視交叉壓迫 → Bitemporal hemianopia（雙顳側偏盲）**。
-- **腦下垂體中風（Pituitary apoplexy）**：腺瘤內急性出血或梗塞 → 突發劇烈頭痛 + 視力急遽惡化 + 眼肌麻痺 → 緊急手術減壓。
+- **[[代謝內分泌科#腦下垂體中風（Pituitary Apoplexy）|腦下垂體中風（Pituitary apoplexy）]]**：腺瘤內急性出血或梗塞 → 突發劇烈頭痛 + 視力急遽惡化 + 眼肌麻痺 → 緊急手術減壓。
 - **手術入路**：**Transsphenoidal approach**（經蝶竇）→ 標準入路。
+- 內分泌評估詳見 [[代謝內分泌科#腦下垂體腫瘤|代謝內分泌科]]；意外發現詳見 [[偶發病灶#腦下垂體偶發瘤（Pituitary Incidentaloma）|腦下垂體偶發瘤]]
 
 ## 水腦症（Hydrocephalus）
 
@@ -363,6 +371,7 @@ credit:
     3. **癡呆（Dementia）**。
 - 診斷：CT/MRI 見腦室擴大但無腦溝變寬（與腦萎縮鑑別）；**大量 CSF 引流測試（tap test）**：抽 :red[30–50 mL] CSF 後步態改善 → 預測分流術反應佳。
 - 治療：**VP shunt（ventriculoperitoneal shunt）**。
+- 與其他失智的鑑別詳見 [[神經系統主訴#失智與記憶力減退（Dementia / Memory Loss）|失智與記憶力減退]]
 
 ### 水腦症的治療
 
@@ -412,6 +421,7 @@ credit:
     - 處理：:red[**24–48 小時內緊急手術減壓**]。
 - 保守治療 6–8 週無效。
 - 進行性神經功能缺損。
+- 詳見 [[肌肉骨骼系統主訴#下背痛（Low Back Pain）|下背痛]]、[[肌肉骨骼系統主訴#頸痛（Neck Pain）|頸痛]]的評估流程
 
 ### 脊髓損傷（Spinal Cord Injury）
 
@@ -466,6 +476,7 @@ credit:
 - :red[T6 以上]脊髓損傷 → 交感神經去支配 → **低血壓 + 心跳過慢**。
 - 與 hypovolemic shock 鑑別：hypovolemic → tachycardia；neurogenic → **bradycardia**。
 - 治療：輸液 + vasopressor（phenylephrine/norepinephrine）± atropine。
+- 長期併發症與自主神經反射異常詳見 [[復健科#脊髓損傷常見併發症|復健科]]
 
 ### 脊椎退化性疾病
 
@@ -492,7 +503,7 @@ credit:
 
 | 類型 | 特點 | 穩定性 |
 |------|------|--------|
-| Compression fracture | 前柱壓縮（骨質疏鬆最常見） | 通常穩定 |
+| Compression fracture | 前柱壓縮（[[骨科#骨質疏鬆症（Osteoporosis）\|骨質疏鬆最常見]]） | 通常穩定 |
 | Burst fracture | 前柱 + 中柱（軸向壓力） | 不穩定（骨片可能後突入椎管）|
 | Chance fracture（seat belt injury） | 水平方向斷裂（flexion-distraction） | 不穩定 |
 | Fracture-dislocation | 三柱皆損 | 最不穩定 → 手術 |
@@ -509,6 +520,7 @@ credit:
         - Type I：tip → 穩定。
         - **Type II**：base of dens → **最常見、最不穩定、最高 nonunion rate** → 常需手術。
         - Type III：into C2 body → 通常 halo vest 可治。
+- 分類與治療詳見 [[骨科#脊椎骨折與損傷|骨科的脊椎骨折與損傷]]
 
 ### 脊髓腫瘤
 
@@ -523,6 +535,7 @@ credit:
     - 紅旗警示：新發背痛 + 癌症史、進行性神經缺損、膀胱/直腸功能障礙。
     - 診斷：**MRI（首選）**。
     - 治療：**Dexamethasone**（減少水腫）→ 放射線治療/手術減壓。
+- 腫瘤急症處置詳見 [[血液腫瘤科#Spinal Cord Compression|血液腫瘤科的脊髓壓迫]]
 
 ## 中樞神經系統感染
 
@@ -530,18 +543,19 @@ credit:
 
 - **來源**：鄰近感染擴散（sinusitis、otitis media、dental）、血行播散（肺部感染、心內膜炎）、外傷/手術後。
 - **最常見病原菌**：Streptococcus spp.；混合感染常見。
-    - 免疫不全：Toxoplasma（AIDS）、Aspergillus、Nocardia。
+    - 免疫不全：[[感染科#Toxoplasma gondii|Toxoplasma]]（AIDS）、Aspergillus、[[感染科#Nocardia vs Actinomyces|Nocardia]]。
 - **CT/MRI**：ring-enhancing lesion with surrounding edema。
     - 鑑別：腦轉移瘤、GBM → MRI DWI 上 abscess **高訊號**（restricted diffusion，因為膿液黏稠）。
 - 治療：
     - 抗生素（通常 6–8 週）。
     - **手術引流/切除**：膿瘍 :red[> 2.5 cm]、mass effect 明顯、對抗生素無反應。
     - 小的 abscess（< 2.5 cm）或多發性 → 先抗生素試治。
+- 內科處置詳見 [[神經內科#腦膿瘍（Brain Abscess）|神經內科的腦膿瘍]]
 
 ### 脊椎硬膜外膿瘍（Spinal Epidural Abscess）
 
 - 危險因子：IVDU、DM、免疫低下、脊椎手術/硬膜外注射後。
-- **最常見病原菌：S. aureus**。
+- **最常見病原菌：[[感染科#Staphylococcus aureus|S. aureus]]**。
 - 症狀演進：背痛（最早）→ 神經根症狀 → 運動/感覺缺損 → 癱瘓/膀胱直腸障礙。
 - 診斷：**MRI with gadolinium**（首選）。
 - 治療：**緊急手術減壓 + 長期抗生素**（有神經缺損時）。
@@ -558,6 +572,7 @@ credit:
     - 手術：**Anterior temporal lobectomy** → 成功率 60–80% seizure-free。
 - **Corpus callosotomy**：適用於無法定位的全身性癲癇（如 drop attacks / atonic seizures）。
 - **VNS（Vagus Nerve Stimulation）**：不適合切除手術者的替代。
+- 詳見 [[神經系統主訴#抽搐與癲癇發作（Seizure）|抽搐與癲癇發作]]的評估流程；藥物治療詳見 [[神經內科#抗癲癇藥物|神經內科的抗癲癇藥物]]
 
 ### 三叉神經痛（Trigeminal Neuralgia）
 
@@ -583,7 +598,7 @@ credit:
 
 | 類型 | 特點 |
 |------|------|
-| **Chiari I** | 小腦扁桃體下疝 :red[> 5 mm] 至枕骨大孔以下；常伴 **脊髓空洞症（syringomyelia）**；成人/青少年；頭痛、頸痛、上肢感覺異常 |
+| **Chiari I** | 小腦扁桃體下疝 :red[> 5 mm] 至枕骨大孔以下；常伴 **[[神經內科#脊髓空洞症（Syringomyelia）\|脊髓空洞症（syringomyelia）]]**；成人/青少年；頭痛、頸痛、上肢感覺異常 |
 | **Chiari II** | 小腦扁桃體 + 蚓部 + 腦幹下疝；**幾乎都伴 myelomeningocele**；兒童 |
 
 - 治療：
@@ -604,7 +619,7 @@ credit:
 | Meningocele | 脊膜突出但脊髓在原位 → 神經功能通常正常 |
 | **Myelomeningocele** | 脊髓 + 脊膜突出 → 嚴重神經缺損；常伴 Chiari II、水腦症 |
 
-- **預防**：孕期補充 **Folic acid（葉酸）**。
+- **預防**：孕期補充 **[[產科#產前檢查與預防|Folic acid（葉酸）]]**。
 - Myelomeningocele 處理：出生後 24–48 小時內手術關閉。
 - **Encephalocele**（腦膨出）：顱骨缺損處腦膜 ± 腦組織疝出；最常見位置為枕部（occipital）；需手術修補。
 
@@ -627,6 +642,7 @@ credit:
 
 - **Syndromic craniosynostosis**：Crouzon（無肢體異常）、Apert（合併手足併指）。
 - 治療：手術矯正（通常在 1 歲前）→ 避免 ICP 升高及美觀考量。
+- 顱顏重建詳見 [[整形外科#顱縫早閉（Craniosynostosis）|整形外科]]
 
 ## 周邊神經
 
@@ -658,6 +674,8 @@ credit:
 |------|--------|------|----------|
 | **Erb-Duchenne palsy（上臂型）** | **C5-C6** | 肩外展/外旋、前臂屈曲/旋後無力 → **「Waiter's tip」姿勢** | 難產（肩難產）、機車事故 |
 | **Klumpke's palsy（下臂型）** | **C8-T1** | 手內在肌無力（claw hand）；可能伴 **Horner's syndrome**（T1 交感）| 上拉力（手臂過度外展）|
+
+- 復健詳見 [[復健科#臂叢神經損傷（Brachial Plexus Injury）|復健科]]
 
 ## 其他重要主題
 
