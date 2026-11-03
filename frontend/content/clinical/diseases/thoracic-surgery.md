@@ -118,8 +118,7 @@ credit:
     - 周邊病灶 → CT-guided biopsy / VATS wedge resection。
     - 中央病灶 → 支氣管鏡切片。
     - 縱膈腔淋巴結 → **EBUS-TBNA**（endobronchial ultrasound-guided transbronchial needle aspiration）或 mediastinoscopy。
-- **低劑量 CT 篩檢**：台灣建議高風險族群（重度吸菸者、石綿暴露、家族史等）。
-- 篩檢條件詳見 [[胸腔內科#肺癌篩檢|胸腔內科的肺癌篩檢]]
+- **低劑量 CT 篩檢**：台灣國健署公費篩檢對象為肺癌家族史與重度吸菸者，資格詳見 [[胸腔內科#肺癌篩檢|胸腔內科的肺癌篩檢]]。
 
 #### Solitary Pulmonary Nodule（SPN，孤立性肺結節）
 

@@ -1069,7 +1069,7 @@ credit:
 
 | 類型 | 好發 | 位置 | 惡性風險 | 處理 |
 |------|------|------|----------|------|
-| Serous cystadenoma（SCN） | 老年女性 | 胰體/尾 | **極低** | 觀察 |
+| Serous cystadenoma（SCN） | 老年女性 | 各處皆可（胰頭約 40%、體尾合計約 60%） | **極低** | 觀察 |
 | Mucinous cystic neoplasm（MCN） | 中年女性 | 胰體/尾 | **中高** | **手術切除** |
 | Intraductal papillary mucinous neoplasm（IPMN） | 老年 | 胰頭多 | Main duct type：高；Branch duct type：低–中 | Main duct → 手術；Branch duct → 依風險決定 |
 | Solid pseudopapillary neoplasm（SPN） | **年輕女性** | 任何位置 | 低惡性度 | 手術切除（預後佳） |

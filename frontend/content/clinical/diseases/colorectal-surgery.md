@@ -263,9 +263,13 @@ credit:
 ### 闌尾腫瘤
 
 - 闌尾切除標本中偶然發現。
-- **Carcinoid**：最常見闌尾腫瘤。
-    - < 2 cm + 基底未侵犯 + 無 mesoappendix 侵犯 → appendectomy 足夠。
-    - ≥ 2 cm 或侵犯基底/mesoappendix → **Right hemicolectomy**。
+- **神經內分泌腫瘤（NET，舊稱 carcinoid）**：最常見闌尾腫瘤（佔闌尾腫瘤 45–77%）。
+    - 約 80% 是急性闌尾炎切除標本中意外發現；多位於**尖端**、< 2 cm、G1。
+    - **完整切除（R0）且 ≤ 2 cm → appendectomy 即可**。
+    - **:red[> 2 cm] 或切緣陽性（R1/R2）→ Right hemicolectomy**。
+    - 1–2 cm：
+        - 舊版 ENETS（2016）：合併 mesoappendix 侵犯 > 3 mm、Ki-67 > 2%（G2）、血管侵犯、位於基底或切緣不清 → 建議 right hemicolectomy。
+        - ENETS 2023 改為**一般不需要 right hemicolectomy**：歐洲 40 家醫院 278 位 1–2 cm 病人追蹤 13 年，right hemicolectomy 組約 20% 有淋巴結轉移，但與只切闌尾的存活相同、沒有腫瘤相關死亡（Nesti, Lancet Oncol 2023）。高分級等個別風險才考慮，交神經內分泌腫瘤 MDT 討論。
 - **Mucinous neoplasm（低惡性度黏液腫瘤）**：若破裂 → **Pseudomyxoma peritonei**（腹腔充滿黏液）→ 治療：cytoreductive surgery + HIPEC。
 - **Adenocarcinoma**：→ Right hemicolectomy（如同結腸癌治療）。
 

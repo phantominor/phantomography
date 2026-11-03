@@ -333,11 +333,15 @@ credit:
 ### Carcinoid Tumor / NET（非胰臟）
 
 - 來源：enterochromaffin cells（Kulchitsky cells）。
-- 好發部位：**小腸（最常見，尤其迴腸末端）** > 闌尾 > 直腸。
-    - 闌尾 carcinoid：:red[< 1 cm → appendectomy 即可；> 2 cm → right hemicolectomy]。
+- 好發部位**東西方不同**：
+    - 歐美：**小腸（迴腸末端）與直腸相當**（SEER 2000–2012 年發生率：小腸 1.05、直腸 1.04/10 萬人）；教科書「小腸最常見」是西方資料。
+    - 東亞（含台灣）：**直腸最多**，小腸少見。
+        - 台灣癌症登記：直腸佔全部 NET 約 25%（1996–2008），1996–2015 年約 30%，都是第一位。
+        - 日本 2016 年全國登記：直腸約佔胃腸胰 NEN 的一半，迴腸只佔約 1%。
+    - 闌尾 NET 多是切闌尾時意外發現，處置（> 2 cm 才做 right hemicolectomy）詳見 [[大腸直腸外科#闌尾腫瘤|大腸直腸外科]]。
 - **Carcinoid syndrome**：flushing、diarrhea、wheezing、right-sided heart valve disease。
     - 通常需有 **肝轉移** 才出現（因腸道分泌的 serotonin 正常被肝臟代謝）。
     - 診斷：**24hr urine 5-HIAA（5-hydroxyindoleacetic acid）↑**。
     - 治療：**Octreotide（somatostatin analog）**→ 控制症狀 + 抑制腫瘤生長。
 - **Carcinoid crisis**：麻醉/手術誘發 → 嚴重低血壓/支氣管痙攣 → 預防：術前給 octreotide。
-- 闌尾類癌詳見 [[大腸直腸外科#闌尾腫瘤|大腸直腸外科]]；肺類癌詳見 [[胸腔外科#肺類癌（Carcinoid tumor）|胸腔外科]]
+- 肺類癌詳見 [[胸腔外科#肺類癌（Carcinoid tumor）|胸腔外科]]

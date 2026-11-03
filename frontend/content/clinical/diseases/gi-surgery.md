@@ -450,13 +450,12 @@ credit:
 - 惡性最常見：**adenocarcinoma**（十二指腸）> carcinoid > lymphoma > GIST。
 - 良性最常見：leiomyoma / GIST。
 - **Carcinoid tumor**：來源嗜鉻細胞（enterochromaffin / Kulchitsky cells）。
-    - GI 最常見位置：**appendix** > **ileum** > rectum。
-    - Appendix carcinoid：:red[< 2 cm → appendectomy；≥ 2 cm → right hemicolectomy]。
+    - 好發位置東西方不同：歐美小腸（迴腸）與直腸相當，東亞（含台灣）直腸最多；詳見 [[內分泌外科#Carcinoid Tumor / NET（非胰臟）|內分泌外科]]。
+    - Appendix NET：:red[≤ 2 cm 完整切除 → appendectomy；> 2 cm 或切緣陽性 → right hemicolectomy]；1–2 cm 的爭議詳見 [[大腸直腸外科#闌尾腫瘤|大腸直腸外科]]。
     - **[[代謝內分泌科#Carcinoid Syndrome|Carcinoid syndrome]]**：flushing、腹瀉、支氣管痙攣、右側心瓣膜病變。
         - 需**肝轉移**才出現，因腸道分泌的 serotonin 會被肝臟代謝。
     - 診斷：尿 **5-HIAA** ↑。
     - 治療：**Octreotide** + 手術。
-- 神經內分泌腫瘤詳見 [[內分泌外科#Carcinoid Tumor / NET（非胰臟）|內分泌外科]]
 
 ### 短腸症候群（Short Bowel Syndrome）
 
