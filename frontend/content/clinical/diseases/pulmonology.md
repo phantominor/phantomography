@@ -66,9 +66,9 @@ credit:
 
 | 機制 | A-a gradient | 對 O₂ 反應 | 例子 |
 |------|-------------|-----------|------|
-| Hypoventilation | 正常 | 有 | Opioid OD、NM disease |
+| Hypoventilation | 正常 | 有 | [[精神科#鴉片類（Opioids）\|Opioid OD]]、NM disease |
 | V/Q mismatch | ↑ | 有 | COPD、PE、pneumonia |
-| Shunt（右→左） | ↑ | **差** | ARDS、ASD（Eisenmenger） |
+| Shunt（右→左） | ↑ | **差** | ARDS、[[心血管外科#心房中隔缺損（ASD）\|ASD（Eisenmenger）]] |
 | Diffusion impairment | ↑ | 有 | ILD、肺高壓 |
 | Low FiO₂ | 正常 | 有 | 高海拔 |
 
@@ -84,7 +84,7 @@ credit:
 #### 病理生理
 
 - **慢性氣道發炎** → 支氣管高反應性（hyperresponsiveness）→ 可逆性氣流阻塞。
-- 發炎細胞：以 **eosinophils** 為核心；Th2 主導（IL-4, IL-5, IL-13）。
+- 發炎細胞：以 **[[血液異常#嗜酸性球增多（Eosinophilia）|eosinophils]]** 為核心；Th2 主導（IL-4, IL-5, IL-13）。
 - 病理：黏膜水腫、黏液栓塞、平滑肌增生/痙攣、基底膜增厚。
 - 特徵性病理：Curschmann spirals、Charcot-Leyden crystals、Creola bodies。
 
@@ -125,13 +125,15 @@ credit:
 
 ::chart{id="asthma-exacerbation"}
 
+- 詳見 [[呼吸系統主訴#喘鳴與哮鳴（Stridor / Wheezing）|喘鳴與哮鳴]]的鑑別
+
 #### 特殊類型
 
 - **Exercise-induced bronchoconstriction（EIB）**：運動後 5–15 分鐘出現，預防用 SABA 運動前 15 分鐘吸入。
-- **Aspirin-exacerbated respiratory disease（AERD ）**：Asthma + Nasal polyps + ASA/NSAID sensitivity。
+- **Aspirin-exacerbated respiratory disease（AERD ）**：Asthma + [[耳鼻喉科#鼻息肉（Nasal Polyps）|Nasal polyps]] + ASA/NSAID sensitivity。
     - 機制：COX-1 抑制 → arachidonic acid 轉向 leukotriene pathway。
     - 治療：避免 NSAID、使用 LTRA（montelukast）。
-- **Allergic bronchopulmonary aspergillosis（ABPA）**：氣喘 + 反覆肺浸潤 + 中央型支氣管擴張 + IgE↑↑ + Aspergillus skin test (+) + eosinophilia。
+- **[[感染科#Aspergillus|Allergic bronchopulmonary aspergillosis（ABPA）]]**：氣喘 + 反覆肺浸潤 + 中央型支氣管擴張 + IgE↑↑ + Aspergillus skin test (+) + eosinophilia。
     - 治療：**Oral corticosteroids** ± Itraconazole。
 
 ### 慢性阻塞性肺病（COPD）
@@ -145,8 +147,8 @@ credit:
         - 病理：杯狀細胞增生（goblet cell hyperplasia）、**Reid index↑（黏膜腺體/支氣管壁厚度比，正常 < 0.4）**。
     - **肺氣腫（Emphysema）**：terminal bronchiole 以遠的氣腔永久性擴大 + 肺泡壁破壞。
         - **Centriacinar**：最常見，**吸菸**相關，上肺葉為主。
-        - **Panacinar**：**α1-antitrypsin deficiency**，下肺葉為主。
-        - **Paraseptal**：胸膜下、可形成 bulla → 自發性氣胸。
+        - **Panacinar**：**[[消化內科#α1-Antitrypsin Deficiency|α1-antitrypsin deficiency]]**，下肺葉為主。
+        - **Paraseptal**：胸膜下、可形成 bulla → [[胸腔內科#氣胸（Pneumothorax）|自發性氣胸]]。
 
 #### 診斷
 
@@ -194,6 +196,7 @@ credit:
     4. 控制氧氣：目標 SpO₂ :red[**88–92%**]（避免高濃度氧氣導致 CO₂ retention）。
     5. **NIV（BiPAP）**：:red[pH < 7.35 + PaCO₂ > 45] 的急性呼吸性酸中毒。
     6. 插管：NIV 失敗、意識不清、血行不穩。
+- 詳見 [[呼吸系統主訴#低血氧與呼吸衰竭（Hypoxemia / Respiratory Failure）|低血氧與呼吸衰竭]]、[[電解質與酸鹼#呼吸性酸鹼異常（Respiratory Acidosis / Alkalosis）|呼吸性酸鹼異常]]
 
 ### 支氣管擴張症（Bronchiectasis）
 
@@ -203,9 +206,9 @@ credit:
 
 #### 常見病因
 
-- **感染後**：肺結核（台灣常見）、百日咳、麻疹、NTM。
-- **囊性纖維化（Cystic Fibrosis）**：西方國家最常見原因。
-- **免疫缺乏**：IgA deficiency、CVID、HIV。
+- **感染後**：肺結核（台灣常見）、[[小兒科#百日咳（Pertussis）|百日咳]]、[[感染科#麻疹（Measles）|麻疹]]、[[感染科#Nontuberculous Mycobacteria（NTM）|NTM]]。
+- **[[小兒科#囊腫性纖維化（Cystic Fibrosis, CF）|囊性纖維化（Cystic Fibrosis）]]**：西方國家最常見原因。
+- **免疫缺乏**：[[免疫風濕科#免疫缺陷（Immunodeficiency）|IgA deficiency]]、CVID、[[感染科#HIV / AIDS|HIV]]。
 - **纖毛異常**：Primary ciliary dyskinesia（Kartagener syndrome）。
 - 其他：過敏性支氣管肺麴菌病、異物吸入、氣管阻塞。
 
@@ -229,7 +232,7 @@ credit:
 
 - 一大類影響肺間質的疾病 → 造成發炎與/或纖維化 → 限制性通氣障礙 + gas exchange impairment。
 - PFT：限制性（TLC↓、FVC↓）、擴散障礙（**DLCO↓**）。
-- 臨床：漸進性呼吸困難、乾咳、clubbing。
+- 臨床：漸進性呼吸困難、乾咳、[[呼吸系統主訴#杵狀指（Digital Clubbing）|clubbing]]。
 - PE：bilateral fine **inspiratory crackles**。
 - 影像：HRCT 最重要。
 
@@ -257,7 +260,7 @@ credit:
 | **AIP**（Acute Interstitial Pneumonia） | 不明原因的 ARDS、急性發作、死亡率 >50% |
 | **DIP**（Desquamative Interstitial Pneumonia） | **吸菸者**、肺泡內巨噬細胞堆積、戒菸可改善 |
 | **RB-ILD**（Respiratory Bronchiolitis-ILD） | **吸菸者**、比 DIP 更輕微、戒菸通常就好 |
-| **LIP**（Lymphoid Interstitial Pneumonia） | GGO + **薄壁囊腫（cysts）**、聯想 **Sjögren syndrome** 和 **HIV** |
+| **LIP**（Lymphoid Interstitial Pneumonia） | GGO + **薄壁囊腫（cysts）**、聯想 **[[免疫風濕科#Sjögren's Syndrome（乾燥症候群）\|Sjögren syndrome]]** 和 **HIV** |
 
 ### 結節病（Sarcoidosis）
 
@@ -266,11 +269,11 @@ credit:
 - **雙側肺門淋巴結腫大（Bilateral Hilar Lymphadenopathy）**為最典型表現。
 - 可能合併 pulmonary infiltrates / fibrosis。
 - 肺外表現：
-    - 皮膚：erythema nodosum、lupus pernio。
-    - 眼：**anterior uveitis**。
+    - 皮膚：[[皮膚科#結節性紅斑（Erythema Nodosum）|erythema nodosum]]、lupus pernio。
+    - 眼：**[[眼科#前葡萄膜炎|anterior uveitis]]**。
     - 心臟：傳導異常、心肌病變。
-    - 神經：顏面神經麻痺、diabetes insipidus。
-    - 高血鈣：activated macrophages 產生 1,25-dihydroxy vitamin D。
+    - 神經：[[神經系統主訴#顏面神經麻痺（Facial Palsy）|顏面神經麻痺]]、[[代謝內分泌科#尿崩症（Diabetes Insipidus, DI）|diabetes insipidus]]。
+    - [[電解質與酸鹼#高血鈣（Hypercalcemia）|高血鈣]]：activated macrophages 產生 1,25-dihydroxy vitamin D。
     - 關節：急性多關節炎。
     - **Löfgren syndrome**：BHL + erythema nodosum + fever + polyarthralgia。
 - 診斷：組織切片見 non-caseating granuloma + 臨床影像相符。
@@ -286,10 +289,10 @@ credit:
 
 | CTD | 肺部表現 |
 |-----|------------|
-| **RA** | ILD 以 UIP pattern 為主；pleural effusion 特徵為**低 glucose** |
-| **Scleroderma** | ILD 以**NSIP pattern**最常見；limited SSc（CREST）易併發**肺動脈高壓** |
-| **SLE** | 最常見肺部表現為**pleuritis/effusion** |
-| **PM/DM** | Anti-**MDA5** → 快速進展 ILD（預後差） |
+| **[[免疫風濕科#類風濕性關節炎（Rheumatoid Arthritis, RA）\|RA]]** | ILD 以 UIP pattern 為主；pleural effusion 特徵為**低 glucose** |
+| **[[免疫風濕科#全身性硬化症（Systemic Sclerosis, SSc）\|Scleroderma]]** | ILD 以**NSIP pattern**最常見；limited SSc（CREST）易併發**肺動脈高壓** |
+| **[[免疫風濕科#全身性紅斑狼瘡（SLE）\|SLE]]** | 最常見肺部表現為**pleuritis/effusion** |
+| **[[免疫風濕科#發炎性肌病（Inflammatory Myopathies）\|PM/DM]]** | Anti-**MDA5** → 快速進展 ILD（預後差） |
 | **Sjögren** | 聯想 LIP；長期需監測淋巴瘤風險 |
 
 ### 職業性/暴露性肺病
@@ -317,13 +320,13 @@ credit:
 
 - **Acute eosinophilic pneumonia（AEP）**：急性呼吸衰竭 + bilateral infiltrates + BAL eosinophils > 25%；常見新開始吸菸者；**對 corticosteroids 反應極佳**。
 - **Chronic eosinophilic pneumonia（CEP）**：慢性咳嗽/呼吸困難 + CXR 周邊型分布的浸潤；peripheral eosinophilia；steroids 反應佳。
-- **Eosinophilic granulomatosis with polyangiitis（EGPA / Churg-Strauss）**：asthma + eosinophilia + vasculitis + p-ANCA。
+- **[[免疫風濕科#ANCA 相關血管炎（AAV）|Eosinophilic granulomatosis with polyangiitis（EGPA / Churg-Strauss）]]**：asthma + eosinophilia + vasculitis + p-ANCA。
 
 #### Lymphangioleiomyomatosis（LAM）
 
 - 好發：**育齡女性**。
 - 平滑肌異常增生 → 囊性肺病變 + 反覆氣胸 + 乳糜胸。
-- 與 Tuberous Sclerosis Complex（TSC）相關。
+- 與 [[小兒科#Tuberous Sclerosis（TSC）|Tuberous Sclerosis Complex（TSC）]]相關。
 - HRCT：bilateral thin-walled cysts（diffuse, uniform）。
 - 血清 **VEGF-D↑**。
 - 治療：**mTOR inhibitor（Sirolimus）**。
@@ -352,19 +355,19 @@ credit:
 #### 常見病原
 
 - **最常見**：Streptococcus pneumoniae（所有年齡層）。
-- 年輕人/學生：Mycoplasma pneumoniae。
+- 年輕人/學生：[[感染科#Mycoplasma pneumoniae|Mycoplasma pneumoniae]]。
 - 老人/慢性病：H. influenzae、S. pneumoniae。
 - 酗酒/吸入：Klebsiella pneumoniae、厭氧菌。
 - COPD 急性惡化：H. influenzae、M. catarrhalis、S. pneumoniae。
-- HIV/免疫低下：PJP、TB、Cryptococcus。
+- HIV/免疫低下：[[感染科#Pneumocystis jirovecii（PJP）|PJP]]、TB、Cryptococcus。
 
 #### 非典型肺炎（Atypical pneumonia）
 
 | 病原 | 特點 | 診斷 | 治療 |
 |------|------|------|------|
-| **Mycoplasma** | 年輕人、乾咳、walking pneumonia、cold agglutinin（IgM）、bullous myringitis、Stevens-Johnson syndrome、erythema multiforme | Serology、PCR | Macrolide / Doxycycline |
+| **Mycoplasma** | 年輕人、乾咳、walking pneumonia、cold agglutinin（IgM）、bullous myringitis、[[皮膚科#Stevens-Johnson Syndrome（SJS）/ Toxic Epidermal Necrolysis（TEN）\|Stevens-Johnson syndrome]]、erythema multiforme | Serology、PCR | Macrolide / Doxycycline |
 | **Chlamydophila pneumoniae** | 雙期病程（先咽炎再肺炎）、聲音沙啞 | Serology | Macrolide / Doxycycline |
-| **Legionella pneumophila** | 冷卻水塔/空調、高燒、相對性心搏過慢、腹瀉、低血鈉、肝功能異常、CPK↑ | **Urine antigen**、culture（BCYE agar） | **Fluoroquinolone** / Macrolide |
+| **[[感染科#Legionella pneumophila\|Legionella pneumophila]]** | 冷卻水塔/空調、高燒、相對性心搏過慢、腹瀉、[[電解質與酸鹼#低血鈉（Hyponatremia）\|低血鈉]]、肝功能異常、CPK↑ | **Urine antigen**、culture（BCYE agar） | **Fluoroquinolone** / Macrolide |
 | **Chlamydia psittaci** | 鸚鵡/鳥類**接觸**（Psittacosis） | Serology | Doxycycline |
 | **Coxiella burnetii** | 牛羊接觸（Q fever） | Serology | Doxycycline |
 
@@ -439,7 +442,7 @@ credit:
 
 - 慢性咳嗽（> 2–3 週）、咳血、午後低熱、夜間盜汗、體重減輕、食慾不振。
 - **粟粒性 TB（Miliary TB）**：血行散布 → CXR 雙肺瀰漫性粟粒狀陰影。
-- 肺外 TB：淋巴結（**最常見**）、肋膜、骨關節（Pott disease = 脊椎 TB）、腹膜、泌尿生殖系統、中樞神經系統（TB meningitis）。
+- 肺外 TB：淋巴結（**最常見**）、肋膜、骨關節（Pott disease = 脊椎 TB）、腹膜、泌尿生殖系統、中樞神經系統（[[神經內科#結核性腦膜炎|TB meningitis]]）。
 
 ### 診斷
 
@@ -477,8 +480,8 @@ credit:
 |------|------|-----------|
 | **Isoniazid（INH, H）** | 抑制 mycolic acid 合成 | **肝毒性**（最常見嚴重副作用）、周邊神經病變（**補充 Pyridoxine/B6 預防**）、SLE-like syndrome |
 | **Rifampin（RIF, R）** | 抑制 RNA polymerase | 肝毒性、橘紅色體液、藥物交互作用多（**CYP450 inducer**）、flu-like syndrome |
-| **Pyrazinamide（PZA, Z）** | 在酸性環境殺菌 | **肝毒性**（TB 藥中肝毒性最強）、**高尿酸血症/痛風**（抑制 uric acid 排泄） |
-| **Ethambutol（EMB, E）** | 抑制 arabinosyl transferase | **視神經炎（optic neuritis）**→ 紅綠色辨認障礙、視力下降 → 須定期追蹤視力 |
+| **Pyrazinamide（PZA, Z）** | 在酸性環境殺菌 | **肝毒性**（TB 藥中肝毒性最強）、**高尿酸血症/[[骨科#痛風性關節炎（Gout）\|痛風]]**（抑制 uric acid 排泄） |
+| **Ethambutol（EMB, E）** | 抑制 arabinosyl transferase | **[[眼科#視神經炎（Optic Neuritis）\|視神經炎（optic neuritis）]]**→ 紅綠色辨認障礙、視力下降 → 須定期追蹤視力 |
 | **Streptomycin（SM, S）** | Aminoglycoside | 耳毒性（ototoxicity）、腎毒性；**孕婦禁用** |
 
 #### 潛伏結核感染治療
@@ -544,11 +547,11 @@ credit:
 #### 局部症狀
 
 - 咳嗽（最常見症狀）、咳血、呼吸困難、胸痛。
-- **Pancoast tumor**：肺尖腫瘤。
-    - Horner syndrome：ipsilateral ptosis + miosis + anhidrosis。
+- **[[胸腔外科#Pancoast tumor|Pancoast tumor]]**：肺尖腫瘤。
+    - [[五官主訴#瞳孔不等大（Anisocoria）|Horner syndrome]]：ipsilateral ptosis + miosis + anhidrosis。
     - 臂叢神經受侵 → C8-T1 疼痛/麻木（手臂內側）。
-- **SVC syndrome**：上腔靜脈阻塞 → 顏面/上肢水腫、JVD、頭痛。
-- 喉返神經受侵 → 聲音沙啞（hoarseness）。
+- **[[血液腫瘤科#Superior Vena Cava Syndrome|SVC syndrome]]**：上腔靜脈阻塞 → 顏面/上肢水腫、JVD、頭痛。
+- 喉返神經受侵 → [[五官主訴#聲音沙啞（Hoarseness）|聲音沙啞（hoarseness）]]。
 - 膈神經受侵 → 同側橫膈膜升高。
 - 氣管/食道受侵 → 呼吸困難/吞嚥困難。
 
@@ -556,9 +559,9 @@ credit:
 
 | 症候群 | 肺癌類型 | 機制 |
 |--------|---------|------|
-| **SIADH** → 低血鈉 | **SCLC** | ADH 異位分泌 |
-| **Cushing syndrome** | **SCLC** | ACTH 異位分泌 |
-| **Lambert-Eaton myasthenic syndrome（LEMS）** | **SCLC** | Anti-VGCC Ab → 近端肌無力（改善 with repeated use，與 MG 相反） |
+| **[[代謝內分泌科#抗利尿激素不當分泌症候群（SIADH）\|SIADH]]** → 低血鈉 | **SCLC** | ADH 異位分泌 |
+| **[[代謝內分泌科#庫欣氏症候群（Cushing's Syndrome）\|Cushing syndrome]]** | **SCLC** | ACTH 異位分泌 |
+| **[[神經內科#Lambert-Eaton 肌無力症候群（LEMS）\|Lambert-Eaton myasthenic syndrome（LEMS）]]** | **SCLC** | Anti-VGCC Ab → 近端肌無力（改善 with repeated use，與 MG 相反） |
 | **高血鈣** | **Squamous cell** | PTHrP 分泌 |
 | Hypertrophic pulmonary osteoarthropathy（HPOA） | 所有 | Clubbing + periostitis + arthralgia |
 
@@ -576,6 +579,7 @@ credit:
 - **N**：N1 同側 hilar → N2 同側 mediastinal/subcarinal → N3 對側。
 - **M**：M0 無遠端轉移；M1 有遠端轉移（含惡性肋膜/心包積液）。
 - 常見遠端轉移：腦、骨、肝、腎上腺。
+- 詳見 [[胸腔外科#肺癌分期|胸腔外科的肺癌分期]]
 
 #### SCLC 分期
 
@@ -609,7 +613,7 @@ credit:
 
 - **低劑量胸部 CT（LDCT）**。
 - USPSTF：:red[**50–80 歲 + ≥ 20 pack-year**]，現仍吸菸或戒菸 < 15 年。
-- 台灣國健署：
+- [[家庭醫學科#台灣癌症篩檢（國健署）|台灣國健署]]：
     - 具肺癌家族史：男 50–74 歲、女 45–74 歲。
     - 重度吸菸者：50–74 歲且 :red[≥ 30 pack-year]（戒菸 < 15 年）。
 
@@ -619,6 +623,7 @@ credit:
 - **傾向良性特徵**：鈣化、邊緣光滑、< 6 mm、2 年內大小不變。
 - **傾向惡性特徵**：spiculated margin、> 2 cm、GGO 成分、成長。
 - 處理：依大小、影像特徵、風險因子決定 → 追蹤 CT / PET / 切片 / 手術切除。
+- 追蹤時程詳見 [[偶發病灶#肺結節（Pulmonary Nodule）|偶然發現的肺結節]]（Fleischner 2017）
 
 ## 肋膜疾病
 
@@ -636,9 +641,9 @@ credit:
 
 | 漏出液（Transudate） | 滲出液（Exudate） |
 |-----------------------|-------------------|
-| 心臟衰竭（**最常見**） | 肺炎旁積液（parapneumonic） |
-| 肝硬化 | TB（淋巴球為主、ADA↑） |
-| 腎病症候群 | 惡性（malignant，細胞學陽性） |
+| [[心臟內科#心衰竭（Heart Failure）\|心臟衰竭]]（**最常見**） | 肺炎旁積液（parapneumonic） |
+| [[消化內科#肝硬化（Liver Cirrhosis）\|肝硬化]] | TB（淋巴球為主、ADA↑） |
+| [[腎臟內科#Nephrotic Syndrome\|腎病症候群]] | 惡性（malignant，細胞學陽性） |
 
 #### 肋膜液分析重點
 
@@ -646,11 +651,11 @@ credit:
 |------|------|
 | Cell count & differential | 嗜中性球↑→ 急性感染；**淋巴球↑ → TB、malignancy、sarcoidosis** |
 | **ADA（Adenosine deaminase）** | **:red[> 40 U/L] → 高度懷疑 TB 肋膜炎** |
-| Glucose↓ | Empyema、RA、TB、malignancy、esophageal rupture |
+| Glucose↓ | Empyema、RA、TB、malignancy、[[胸腔外科#食道穿孔（Esophageal Perforation）\|esophageal rupture]] |
 | :red[pH < 7.2] | Complicated parapneumonic → 需引流 |
 | Cytology | 惡性細胞 → malignant effusion |
-| Amylase↑ | 食道破裂（唾液 amylase）、胰臟炎（胰臟 amylase） |
-| :red[Triglyceride > 110 mg/dL] | **Chylothorax**（乳糜胸）→ 胸管損傷、淋巴瘤 |
+| Amylase↑ | 食道破裂（唾液 amylase）、[[消化內科#急性胰臟炎（Acute Pancreatitis）\|胰臟炎]]（胰臟 amylase） |
+| :red[Triglyceride > 110 mg/dL] | **[[胸腔外科#乳糜胸（Chylothorax）\|Chylothorax]]**（乳糜胸）→ 胸管損傷、淋巴瘤 |
 | Cholesterol↑ | Pseudochylothorax（慢性肋膜積液） |
 
 #### 肋膜積液處理
@@ -661,6 +666,7 @@ credit:
     - Complicated parapneumonic：**胸管引流** ± fibrinolytic therapy（tPA + DNase）。
     - Empyema：Frank pus → 必須引流；若引流不佳 → VATS decortication。
     - Malignant effusion：反覆性 → **pleurodesis**（talc 為首選硬化劑）。
+- 詳見 [[呼吸系統主訴#肋膜積液（Pleural Effusion）|肋膜積液]]的評估流程
 
 ### 氣胸（Pneumothorax）
 
@@ -669,7 +675,7 @@ credit:
 | 類型 | 原因 | 特點 |
 |------|------|------|
 | **Primary spontaneous** | 無明顯肺病；好發年輕、瘦高男性 | Apical subpleural blebs 破裂 |
-| **Secondary spontaneous** | 有潛在肺病（COPD、TB、CF、LAM） | 更危險，常需介入 |
+| **Secondary spontaneous** | 有潛在肺病（COPD、TB、CF、[[胸腔內科#Lymphangioleiomyomatosis（LAM）\|LAM]]） | 更危險，常需介入 |
 | **Traumatic** | 外傷/醫源性 | 中心靜脈導管、胸腔穿刺、正壓呼吸 |
 | **Tension** | 單向閥機制 | Hemodynamic compromise → 緊急 needle decompression |
 
@@ -680,11 +686,12 @@ credit:
 - **Tension pneumothorax**：needle decompression → chest tube。
 - **復發預防**：第二次或持續漏氣 → **VATS** with pleurodesis / bullectomy。
 - 首次 spontaneous 氣胸復發率約 30%；第二次後約 50–70%。
+- 胸管與手術詳見 [[胸腔外科#氣胸（Pneumothorax）|胸腔外科的氣胸]]
 
 #### 特殊：Catamenial Pneumothorax
 
 - 與月經週期相關的反覆氣胸。
-- 機制：胸腔子宮內膜異位 → 橫膈膜缺損。
+- 機制：胸腔[[婦科#子宮內膜異位症（Endometriosis）|子宮內膜異位]] → 橫膈膜缺損。
 - 好發右側。
 
 ### 惡性肋膜間皮瘤（Malignant Mesothelioma）
@@ -703,7 +710,7 @@ credit:
 
 - **Stasis**：臥床、長途飛行、手術後。
 - **Endothelial injury**：手術、外傷、中心靜脈導管。
-- **Hypercoagulability**：惡性腫瘤、OCP/HRT、懷孕、Factor V Leiden、Antiphospholipid syndrome、Protein C/S deficiency。
+- **Hypercoagulability**：惡性腫瘤、OCP/HRT、懷孕、[[血液異常#不明原因血栓（Unexplained Thrombosis / Thrombophilia）|Factor V Leiden]]、[[免疫風濕科#Antiphospholipid Syndrome（APS）|Antiphospholipid syndrome]]、Protein C/S deficiency。
 
 ### 臨床表現
 
@@ -711,17 +718,18 @@ credit:
 - 其他症狀：Tachypnea、tachycardia、pleuritic chest pain、咳血。
 - **Massive PE**：低血壓、休克、右心衰竭、PEA。
 - ABG：respiratory alkalosis（early）、hypoxemia、A-a gradient↑。
+- 詳見 [[呼吸系統主訴#急性呼吸困難（Acute Dyspnea）|急性呼吸困難]]的評估流程
 
 ### 診斷
 
 | 步驟 | 說明 |
 |------|------|
 | 臨床評估 | **Wells score** / Geneva score |
-| D-dimer | 高敏感度、低特異度 → **排除用** |
+| [[生化異常#D-dimer 升高（Elevated D-dimer）\|D-dimer]] | 高敏感度、低特異度 → **排除用** |
 | **CT Pulmonary Angiography（CTPA）** | **Gold standard**；直接看到 filling defect |
 | V/Q scan | CTPA 禁忌時（腎功能不全、顯影劑過敏） |
 | Echo | 右心擴大、RV dysfunction → 輔助評估嚴重度 |
-| Lower extremity duplex US | 確認 DVT 來源 |
+| [[外科概論#深部靜脈栓塞（DVT）/ 肺栓塞（PE）\|Lower extremity duplex US]] | 確認 DVT 來源 |
 
 ::chart{id="pe-diagnosis"}
 
@@ -746,12 +754,13 @@ credit:
 ### 定義
 
 - 右心導管測量：mean pulmonary artery pressure（mPAP）**> 20 mmHg**（舊定義：mPAP ≥ 25 mmHg）。
+- 詳見 [[心臟內科#肺動脈高壓（Pulmonary Hypertension, PH）|心臟內科的肺動脈高壓]]
 
 ### WHO 分類（5 大組）
 
 | Group | 名稱 | 常見原因 | 特點 |
 |-------|------|---------|------|
-| **1** | **Pulmonary arterial hypertension** | Idiopathic、heritable、CTD、HIV、drugs、portal HTN、CHD | Pre-capillary; PVR↑, PCWP ≤ 15 |
+| **1** | **Pulmonary arterial hypertension** | Idiopathic、heritable、CTD、HIV、drugs、[[肝膽胰外科#門脈高壓（Portal Hypertension）\|portal HTN]]、CHD | Pre-capillary; PVR↑, PCWP ≤ 15 |
 | **2** | 左心疾病 | HFrEF、HFpEF、valvular disease | **最常見**；Post-capillary; PCWP > 15 |
 | **3** | 肺疾病/低血氧 | COPD、ILD、OSA | Treat underlying lung disease |
 | **4** | **CTEPH** | Chronic thromboembolic PH | 長期 PE 未溶解 |
@@ -793,8 +802,8 @@ credit:
 |------|------|
 | 氣道疾病 | **支氣管炎（最常見原因）**、支氣管擴張、肺癌 |
 | 肺實質 | 肺炎、TB、肺膿瘍、fungal ball（aspergilloma） |
-| 血管性 | PE、AV malformation、Goodpasture、GPA |
-| 其他 | 凝血障礙、抗凝血藥物、mitral stenosis |
+| 血管性 | PE、AV malformation、[[腎臟內科#Type I：Anti-GBM Disease（Goodpasture's Disease）\|Goodpasture]]、[[免疫風濕科#ANCA 相關血管炎（AAV）\|GPA]] |
+| 其他 | 凝血障礙、抗凝血藥物、[[心臟內科#二尖瓣狹窄（Mitral Stenosis, MS）\|mitral stenosis]] |
 
 ### 大量咳血（Massive Hemoptysis）
 
@@ -806,6 +815,7 @@ credit:
     2. **支氣管動脈栓塞術**：**首選**非手術止血方式。
     3. 支氣管鏡：定位出血側 + 止血措施。
     4. 手術切除：BAE 失敗或反覆大量咳血。
+- 詳見 [[呼吸系統主訴#咳血（Hemoptysis）|咳血]]的評估流程
 
 ## 呼吸衰竭
 
@@ -814,7 +824,9 @@ credit:
 | 類型 | 特徵 | PaO₂ | PaCO₂ | 常見原因 |
 |------|------|------|-------|---------|
 | **Type I** | Oxygenation failure | ↓ (< 60 mmHg) | N 或↓ | Pneumonia、ARDS、PE、ILD、pulmonary edema |
-| **Type II** | Ventilation failure | ↓ (< 60 mmHg) | **↑** (> 45 mmHg) | COPD 急性惡化、NM disease（MG, GBS）、obesity hypoventilation、drug OD、chest wall disease |
+| **Type II** | Ventilation failure | ↓ (< 60 mmHg) | **↑** (> 45 mmHg) | COPD 急性惡化、NM disease（[[神經內科#重症肌無力（Myasthenia Gravis, MG）\|MG]], [[神經內科#Guillain-Barré Syndrome（GBS）\|GBS]]）、obesity hypoventilation、drug OD、chest wall disease |
+
+- 詳見 [[呼吸系統主訴#低血氧與呼吸衰竭（Hypoxemia / Respiratory Failure）|低血氧與呼吸衰竭]]的評估流程
 
 ### 氧氣治療裝置
 
@@ -844,7 +856,7 @@ credit:
 ### 常見原因
 
 - **肺部直接損傷（Direct/Pulmonary）**：**肺炎**、aspiration、吸入性損傷、lung contusion、drowning。
-- **肺外間接損傷（Indirect/Extrapulmonary）**：**sepsis**、pancreatitis、massive transfusion（TRALI）、burns、DIC、shock。
+- **肺外間接損傷（Indirect/Extrapulmonary）**：**[[感染科#菌血症與敗血症|sepsis]]**、[[消化內科#急性胰臟炎（Acute Pancreatitis）|pancreatitis]]、massive transfusion（[[血液腫瘤科#輸血反應|TRALI]]）、[[外科概論#燒燙傷（Burns）|burns]]、[[血液腫瘤科#DIC（Disseminated Intravascular Coagulation）|DIC]]、shock。
 
 ### 病理
 
@@ -864,7 +876,7 @@ credit:
 - **Prone positioning**：俯臥通氣 :red[≥ 12–16 hr/day] → **降低死亡率**。
 - **Neuromuscular blockade**：中重度早期可考慮。
 - **ECMO**：refractory hypoxemia 時考慮（VV-ECMO）。
-- **Corticosteroids**：Dexamethasone（COVID-19）。
+- **Corticosteroids**：Dexamethasone（[[感染科#COVID-19（SARS-CoV-2）|COVID-19]]）。
 
 ## 機械通氣（Mechanical Ventilation）
 
@@ -908,9 +920,11 @@ credit:
 
 ### 阻塞性睡眠呼吸中止症（OSA）
 
+- 手術詳見 [[耳鼻喉科#阻塞性睡眠呼吸中止症（OSA）|耳鼻喉科的 OSA]]；鑑別詳見 [[精神系統主訴#白天過度嗜睡（Excessive Daytime Sleepiness）|白天過度嗜睡]]
+
 #### 危險因子
 
-- **肥胖**（最重要）、男性、年齡增加、上呼吸道解剖狹窄（大扁桃腺、小下巴）、飲酒/鎮靜劑、甲狀腺低下、肢端肥大症。
+- **肥胖**（最重要）、男性、年齡增加、上呼吸道解剖狹窄（大扁桃腺、小下巴）、飲酒/鎮靜劑、[[代謝內分泌科#甲狀腺機能低下（Hypothyroidism）|甲狀腺低下]]、[[代謝內分泌科#肢端肥大症（Acromegaly）/ 巨人症（Gigantism）|肢端肥大症]]。
 
 #### 臨床
 

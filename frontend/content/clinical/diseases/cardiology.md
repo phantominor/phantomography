@@ -855,6 +855,7 @@ credit:
 ### 定義
 
 - :red[**mPAP > 20 mmHg**]（at rest, by right heart catheterization）。
+- 詳見 [[胸腔內科#肺高壓（Pulmonary Hypertension）|胸腔內科的肺高壓]]
 
 ### WHO 分類
 
