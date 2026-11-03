@@ -14,7 +14,8 @@ credit:
 - 機制：外源性 pyrogen（LPS、細菌成分）→ 巨噬細胞釋放內源性 pyrogen（IL-1、IL-6、TNF-α）→ 下視丘 PGE₂ ↑ → 體溫設定點上調。
 - **Fever of unknown origin（FUO）**：
     - 定義：:red[體溫 ≥ 38.3°C、持續 ≥ 3 週]、住院 ≥ 3 天或門診 ≥ 3 次就診仍未確診。
-    - 常見原因：感染（TB、心內膜炎、膿瘍）> 腫瘤（lymphoma）> 自體免疫（SLE、Still's disease、血管炎）> 藥物。
+    - 常見原因：感染（[[胸腔內科#肺結核（Pulmonary Tuberculosis）|TB]]、[[心臟內科#感染性心內膜炎（Infective Endocarditis, IE）|心內膜炎]]、膿瘍）> 腫瘤（[[血液腫瘤科#淋巴瘤（Lymphoma）|lymphoma]]）> 自體免疫（[[免疫風濕科#全身性紅斑狼瘡（SLE）|SLE]]、[[免疫風濕科#成人 Still's Disease（Adult-Onset Still's Disease, AOSD）|Still's disease]]、血管炎）> 藥物。
+- 詳見 [[全身症狀#急性發燒（Acute Fever）|急性發燒]]、[[全身症狀#不明熱（Fever of Unknown Origin, FUO）|不明熱]]的評估流程
 
 ### 菌血症與敗血症
 
@@ -23,6 +24,7 @@ credit:
     - qSOFA（快速篩檢）：:red[RR ≥ 22/min、SBP ≤ 100 mmHg]、意識改變（GCS < 15）（≥ 2 項 → 高危）。
 - **Septic shock**：Sepsis + 充分輸液後仍需 vasopressor 維持 :red[MAP ≥ 65 + lactate > 2 mmol/L]。
 - Hour-1 Bundle：測 lactate → 血液培養（**抗生素前**）→ 廣效抗生素 → :red[30 mL/kg crystalloid] → vasopressor（**Norepinephrine 首選**）。
+- 外科觀點詳見 [[外科概論#Sepsis 與 Septic Shock|外科概論的 Sepsis 與 Septic Shock]]；休克的鑑別詳見 [[心血管系統主訴#低血壓與休克（Hypotension / Shock）|低血壓與休克]]
 
 ### 常用抗生素
 
@@ -47,7 +49,7 @@ credit:
 
 | 藥物 | 涵蓋 | 重要副作用/備註 |
 |------|------|-----------------|
-| Vancomycin | MRSA、GPC | 腎毒性、Red man syndrome（非過敏→減慢速度）、需監測 |
+| Vancomycin | MRSA、GPC | 腎毒性、[[皮膚系統主訴#藥物疹與嚴重皮膚反應（Drug Eruptions / SCAR）\|Red man syndrome]]（非過敏→減慢速度）、需監測 |
 | Aminoglycosides（Gentamicin、Amikacin） | GNR | 腎毒性 + 耳毒性（不可逆） |
 | Fluoroquinolones（Ciprofloxacin、Levofloxacin） | 廣效；Cipro 偏 GNR/Pseudo，Levo 加 respiratory GPC | 肌腱斷裂、QT 延長、C. difficile |
 | Macrolides（Azithromycin、Erythromycin）| Atypical（Mycoplasma、Chlamydia、Legionella） | QT 延長；Erythromycin 抑制 CYP3A4、促腸胃蠕動 |
@@ -55,7 +57,7 @@ credit:
 | Metronidazole | 厭氧菌、原蟲（Giardia、Entamoeba、Trichomonas） | Disulfiram-like reaction（禁酒） |
 | Clindamycin | GPC + anaerobe | C. difficile 高風險；可抑制毒素產生（Strep TSS） |
 | TMP-SMX | MRSA（口服）、PJP、Nocardia | 高血鉀、骨髓抑制 |
-| Linezolid | MRSA、VRE | 血小板低下（>2 週）、serotonin syndrome（避免合用 SSRI） |
+| Linezolid | MRSA、VRE | 血小板低下（>2 週）、[[精神科#Serotonin Syndrome（血清素症候群）\|serotonin syndrome]]（避免合用 SSRI） |
 | Daptomycin | MRSA、VRE | CK 上升；不能用於肺炎（被 surfactant 不活化） |
 | Polymyxin（Colistin） | MDR GNR（Acinetobacter、CRE） | 腎毒性 |
 | Tigecycline | 廣效（含 MRSA、VRE、ESBL、anaerobe） | 不涵蓋 Pseudomonas |
@@ -99,10 +101,10 @@ credit:
 
 | 感染類型 | 特點 |
 |----------|------|
-| 皮膚軟組織感染 | Cellulitis、abscess、folliculitis、furuncle、carbuncle、impetigo（bullous type） |
-| 菌血症/心內膜炎 | 最常見病原；IV drug user → **右側心內膜炎（三尖瓣）**|
-| 骨髓炎 | 最常見病原 |
-| 化膿性關節炎 | 最常見病原（膝關節好發） |
+| 皮膚軟組織感染 | [[皮膚科#蜂窩性組織炎（Cellulitis）與丹毒（Erysipelas）\|Cellulitis]]、abscess、folliculitis、furuncle、carbuncle、impetigo（bullous type） |
+| 菌血症/心內膜炎 | 最常見病原；IV drug user → **[[心臟內科#感染性心內膜炎（Infective Endocarditis, IE）\|右側心內膜炎（三尖瓣）]]**|
+| [[骨科#急性骨髓炎（Acute Osteomyelitis）\|骨髓炎]] | 最常見病原 |
+| [[骨科#化膿性關節炎（Septic Arthritis）\|化膿性關節炎]] | 最常見病原（膝關節好發） |
 | 肺炎 | **流感後續發性肺炎**；necrotizing pneumonia、empyema |
 
 #### Toxin-mediated diseases
@@ -110,7 +112,7 @@ credit:
 | 疾病 | 毒素 | 特點 |
 |------|------|------|
 | Toxic Shock Syndrome（TSS） | TSST-1（**superantigen**） | 高燒、瀰漫性紅疹 → 脫皮、低血壓、多器官受累。**月經相關（tampon）**或傷口相關 |
-| Scalded Skin Syndrome（SSSS） | Exfoliative toxin（exfoliatin） | 新生兒/嬰幼兒：全身紅斑 → 水泡 → 大面積脫皮（**Nikolsky sign +**） |
+| [[皮膚科#葡萄球菌燙傷樣皮膚症候群（SSSS, Staphylococcal Scalded Skin Syndrome）\|Scalded Skin Syndrome（SSSS）]] | Exfoliative toxin（exfoliatin） | 新生兒/嬰幼兒：全身紅斑 → 水泡 → 大面積脫皮（**Nikolsky sign +**） |
 | 食物中毒 | Enterotoxin（**heat-stable**） | **Preformed** heat-stable enterotoxin → 潛伏期 :red[**1–6 小時**]、以**嘔吐為主**、**不發燒** |
 
 #### MRSA 治療
@@ -134,9 +136,9 @@ credit:
 
 | 分類 | 溶血 | Lancefield | 重要特徵 |
 |------|------|------------|----------|
-| Group A streptococcus (S. pyogenes) | β | A | **Pharyngitis**、cellulitis、**necrotizing fasciitis**、TSS、**rheumatic fever**、**PSGN** |
-| Group B streptococcus (S. agalactiae) | β | B | **新生兒感染**（meningitis、sepsis）、**孕婦 screening** |
-| Pneumococcus (S. pneumoniae) | α | — | **社區肺炎/腦膜炎/中耳炎最常見**；有**莢膜** |
+| Group A streptococcus (S. pyogenes) | β | A | **[[耳鼻喉科#急性咽扁桃腺炎（Acute Pharyngotonsillitis）\|Pharyngitis]]**、cellulitis、**[[皮膚科#壞死性筋膜炎（Necrotizing Fasciitis）\|necrotizing fasciitis]]**、TSS、**rheumatic fever**、**PSGN** |
+| Group B streptococcus (S. agalactiae) | β | B | **新生兒感染**（meningitis、sepsis）、**[[產科#Group B Streptococcus（GBS）預防\|孕婦 screening]]** |
+| Pneumococcus (S. pneumoniae) | α | — | **社區肺炎/腦膜炎/[[耳鼻喉科#急性中耳炎（Acute Otitis Media, AOM）\|中耳炎]]最常見**；有**莢膜** |
 | Viridans group (S. mutans、S. mitis) | α | — | **亞急性心內膜炎**、齲齒 |
 | Enterococcus (E. faecalis、E. faecium) | γ 或 α | D | 院內 UTI、菌血症、心內膜炎；**天然抗藥多** |
 
@@ -155,12 +157,13 @@ credit:
 - **免疫後遺症**：
     - **Acute Rheumatic Fever（ARF）**：咽炎後 2–4 週（**僅咽炎後，皮膚感染不會引起**）。
         - Jones criteria：**J♥NES** = **J**oint（migratory polyarthritis）、**♥**（Carditis）、**N**odules（subcutaneous）、**E**rythema marginatum、**S**ydenham chorea。
-        - 最常見長期後遺症：**二尖瓣狹窄**。
+        - 最常見長期後遺症：**[[心臟內科#二尖瓣狹窄（Mitral Stenosis, MS）|二尖瓣狹窄]]**。
         - 治療：Aspirin（關節炎）、Penicillin（根除殘餘 GAS）。
         - 預防復發：長期 Penicillin prophylaxis。
-    - **Post-streptococcal Glomerulonephritis（PSGN）**：咽炎後 1–2 週或皮膚感染後 3–6 週。
+    - **[[腎臟內科#Post-Streptococcal Glomerulonephritis（PSGN）|Post-streptococcal Glomerulonephritis（PSGN）]]**：咽炎後 1–2 週或皮膚感染後 3–6 週。
         - Nephritic syndrome：血尿、蛋白尿、水腫、高血壓、C3 ↓。
         - 預後良好：兒童大多完全恢復。
+- 詳見 [[五官主訴#喉嚨痛（Sore Throat）|喉嚨痛]]的評估流程
 
 #### Group B Streptococcus（S. agalactiae）
 
@@ -191,7 +194,7 @@ credit:
 - 危險因子：抗生素使用（**clindamycin、fluoroquinolone、cephalosporins**）、住院、PPI、老年。
 - 毒素：Toxin A（enterotoxin）+ Toxin B（cytotoxin）。
 - 臨床：水樣腹瀉（可血便）、發燒、腹痛、WBC ↑↑。
-- 嚴重併發症：**Toxic megacolon**（大腸擴張 :red[>6 cm] + 全身毒性徵象）。
+- 嚴重併發症：**[[大腸直腸外科#Toxic Megacolon|Toxic megacolon]]**（大腸擴張 :red[>6 cm] + 全身毒性徵象）。
 - 診斷：Stool GDH（篩檢）→ Toxin EIA 或 NAAT/PCR（確認）。
 - 治療：
     - 首選：Oral **Vancomycin** 或 **Fidaxomicin**。
@@ -210,7 +213,7 @@ credit:
 
 - Tetanospasmin → 抑制 inhibitory neurotransmitter（glycine、GABA）→ 肌肉痙攣。
 - 臨床：lockjaw（牙關緊閉）、risus sardonicus（痙笑）、opisthotonus（角弓反張）。
-- 治療：TIG（破傷風免疫球蛋白）+ 傷口清創 + Metronidazole + 支持療法（鎮靜、肌肉鬆弛）。
+- 治療：[[外科概論#破傷風（Tetanus）|TIG（破傷風免疫球蛋白）]]+ 傷口清創 + Metronidazole + 支持療法（鎮靜、肌肉鬆弛）。
 - 預防：Td/Tdap 疫苗（完整接種 3 劑 + 每 10 年追加）。
 
 #### C. botulinum（Botulism，肉毒桿菌）
@@ -273,9 +276,9 @@ credit:
 
 | 菌種 | 臨床重點 |
 |------|----------|
-| **Escherichia coli** | **UTI 最常見病原**；新生兒腦膜炎第二常見；旅行者腹瀉（ETEC）；溶血性尿毒症 HUS（**EHEC O157:H7**）；HAP/VAP |
-| **Klebsiella pneumoniae** | 酗酒者/DM 肺炎（**currant jelly sputum**、cavity）；**肝膿瘍** → 可合併眼內炎、腦膿瘍；ESBL 產生者常見 |
-| **Proteus mirabilis** | **urease (+)** → 鹼性尿 → **struvite stone**（磷酸銨鎂結石） → **staghorn calculus**（鹿角結石） |
+| **Escherichia coli** | **[[泌尿科#泌尿道感染（UTI）\|UTI 最常見病原]]**；新生兒腦膜炎第二常見；旅行者腹瀉（ETEC）；溶血性尿毒症 [[血液腫瘤科#溶血性尿毒症症候群（Hemolytic Uremic Syndrome, HUS）\|HUS]]（**EHEC O157:H7**）；HAP/VAP |
+| **Klebsiella pneumoniae** | 酗酒者/DM 肺炎（**currant jelly sputum**、cavity）；**[[肝膽胰外科#細菌性肝膿瘍（Pyogenic Liver Abscess）\|肝膿瘍]]** → 可合併眼內炎、腦膿瘍；ESBL 產生者常見 |
+| **Proteus mirabilis** | **urease (+)** → 鹼性尿 → **[[腎臟內科#腎結石（Nephrolithiasis）\|struvite stone]]**（磷酸銨鎂結石） → **staghorn calculus**（鹿角結石） |
 | **Serratia marcescens** | 院內感染；IVDU 心內膜炎；**AmpC** 產生者 |
 | **Salmonella** | 腸道感染 |
 | **Shigella** | 腸道感染 |
@@ -296,7 +299,7 @@ credit:
 - 臨床：
     - 院內肺炎（HAP/VAP）：ICU 最重要病原之一。
     - 燒傷感染：晚期最常見病原。
-    - 外耳炎（swimmer's ear）→ DM/老人的**惡性外耳炎**。
+    - 外耳炎（swimmer's ear）→ DM/老人的**[[五官主訴#耳痛與耳漏（Otalgia / Otorrhea）|惡性外耳炎]]**。
     - 角膜潰瘍：隱形眼鏡使用者。
     - **Ecthyma gangrenosum**：neutropenic 病人的皮膚壞死性病灶。
     - Cystic fibrosis 慢性肺部感染：最重要的慢性感染病原。
@@ -310,8 +313,8 @@ credit:
 #### Haemophilus influenzae
 
 - 培養需 **Factor X（hemin）+ Factor V（NAD）** → chocolate agar。
-- **Type b（Hib）**：莢膜型，曾為兒童腦膜炎/會厭炎最常見病原 → Hib 疫苗接種後大幅減少。
-- **Non-typeable（NTHi）**：成人 COPD 急性發作、中耳炎、鼻竇炎。
+- **Type b（Hib）**：莢膜型，曾為兒童腦膜炎/[[耳鼻喉科#急性會厭炎（Acute Epiglottitis / Supraglottitis）|會厭炎]]最常見病原 → Hib 疫苗接種後大幅減少。
+- **Non-typeable（NTHi）**：成人 [[胸腔內科#急性惡化（COPD AE）|COPD 急性發作]]、中耳炎、鼻竇炎。
 - 治療：Amoxicillin-clavulanate 或 Ceftriaxone。
 
 #### Legionella pneumophila
@@ -319,7 +322,7 @@ credit:
 - 培養需 **BCYE agar**（含鐵 + L-cysteine）。
 - 環境來源：冷卻水塔、蓮蓬頭、噴泉（**aerosol 傳播**，不會人傳人）。
 - **Legionnaires' disease**：
-    - 嚴重肺炎 + **腸道症狀（水瀉）** + **低血鈉** + **肝功能異常** + 高燒 + 相對緩脈。
+    - 嚴重肺炎 + **腸道症狀（水瀉）** + **[[電解質與酸鹼#低血鈉（Hyponatremia）|低血鈉]]** + **肝功能異常** + 高燒 + 相對緩脈。
     - CXR：快速進展的浸潤。
 - 診斷：**Urine Legionella antigen**；培養。
 - 治療：**Fluoroquinolone** 或 **Azithromycin**（β-lactam 無效）。
@@ -346,19 +349,21 @@ credit:
 | 糞便 | 大量水瀉 | 少量血膿便、tenesmus |
 | 代表 | ETEC、Vibrio cholerae、C. perfringens、S. aureus、B. cereus（嘔吐型） | Shigella、Salmonella、Campylobacter、EHEC、EIEC、C. difficile |
 
+- 詳見 [[消化系統主訴#急性腹瀉（Acute Diarrhea）|急性腹瀉]]、[[小兒主訴#兒童腹瀉與脫水（Diarrhea and Dehydration）|兒童腹瀉與脫水]]的評估流程
+
 #### 各病原重點
 
 | 病原 | 關鍵特徵 |
 |------|----------|
 | **Vibrio cholerae** | **Rice-water stool**（大量水瀉）、嚴重脫水、治療以 **ORS** + 輸液為主、Doxycycline 縮短病程 |
-| **Vibrio vulnificus** | 海水傷口感染或**生食牡蠣** → cellulitis + 出血性水泡 + sepsis；好發**肝硬化**；致死率極高 |
+| **Vibrio vulnificus** | 海水傷口感染或**生食牡蠣** → cellulitis + 出血性水泡 + sepsis；好發**[[消化內科#肝硬化（Liver Cirrhosis）\|肝硬化]]**；致死率極高 |
 | **ETEC** | **旅行者腹瀉最常見病原**；heat-labile toxin（LT → ↑cAMP）+ heat-stable toxin（ST → ↑cGMP）|
 | **EHEC（O157:H7）** | Shiga-like toxin；**不發燒的血便** + **HUS**（MAHA + 血小板低 + AKI）；**不可使用抗生素**（增加 HUS 風險）；不可使用止瀉劑 |
 | **Shigella** | **極低感染劑量**；Shiga toxin；血便 + 高燒 + tenesmus；可合併 HUS；治療：Fluoroquinolone/Azithromycin |
 | **Salmonella**（non-typhoidal） | 動物產品（蛋、禽肉）；水瀉 ± 血便；多數自限性不需抗生素；**鐮刀型貧血 → Salmonella osteomyelitis** |
 | **Salmonella typhi/paratyphi** | Enteric fever（傷寒）：持續高燒 + **stepwise fever** + **relative bradycardia** + **rose spots** + hepatosplenomegaly；WBC 正常或偏低；併發症：**腸穿孔**、腸出血；治療：Fluoroquinolone/Ceftriaxone/Azithromycin |
-| **Campylobacter jejuni** | **已開發國家細菌性腸炎最常見病原**；家禽、未煮熟肉品；血便 + 腹痛 + 發燒；併發症：**Guillain-Barré Syndrome（GBS）**、reactive arthritis；治療：Azithromycin |
-| **Yersinia enterocolitica** | 豬肉/乳製品；右下腹痛（**pseudo-appendicitis**）+ 腹瀉 ± 血便；好發兒童/青少年 |
+| **Campylobacter jejuni** | **已開發國家細菌性腸炎最常見病原**；家禽、未煮熟肉品；血便 + 腹痛 + 發燒；併發症：**[[神經內科#Guillain-Barré Syndrome（GBS）\|Guillain-Barré Syndrome（GBS）]]**、[[免疫風濕科#反應性關節炎（Reactive Arthritis）\|reactive arthritis]]；治療：Azithromycin |
+| **Yersinia enterocolitica** | 豬肉/乳製品；右下腹痛（**[[大腸直腸外科#闌尾炎（Appendicitis）\|pseudo-appendicitis]]**）+ 腹瀉 ± 血便；好發兒童/青少年 |
 | **Bacillus cereus** | 嘔吐型（**炒飯** → 1–6 hr）；腹瀉型（肉類/蔬菜 → 8–16 hr） |
 
 ### Neisseria
@@ -367,9 +372,9 @@ credit:
 
 - 革蘭氏陰性雙球菌、Oxidase (+)。
 - 飛沫傳播、nasopharynx colonization。
-- 臨床：**急性細菌性腦膜炎**（青少年/年輕成人）+ **petechiae/purpura** + septic shock。
-    - **Waterhouse-Friderichsen syndrome**：腦膜炎菌血症 → **雙側腎上腺出血性壞死** → 急性腎上腺功能不全 + DIC。
-- 高危：**末端補體缺乏（C5–C9 deficiency）**、脾切除、宿舍群居。
+- 臨床：**[[神經內科#細菌性腦膜炎|急性細菌性腦膜炎]]**（青少年/年輕成人）+ **petechiae/purpura** + septic shock。
+    - **[[代謝內分泌科#腎上腺功能不全（Adrenal Insufficiency）|Waterhouse-Friderichsen syndrome]]**：腦膜炎菌血症 → **雙側腎上腺出血性壞死** → 急性腎上腺功能不全 + DIC。
+- 高危：**[[免疫風濕科#補體系統（Complement System）|末端補體缺乏（C5–C9 deficiency）]]**、脾切除、宿舍群居。
 - 治療：**Ceftriaxone**。
 - 預防：**Rifampin、Ciprofloxacin**、Ceftriaxone；疫苗。
 
@@ -379,12 +384,13 @@ credit:
 - 性接觸傳播；新生兒經產道垂直感染。
 - 臨床：
     - 男性：**urethritis**（膿性分泌物、排尿疼痛）。
-    - 女性：**cervicitis**、常無症狀 → 未治療可致 **PID** → 不孕、子宮外孕。
+    - 女性：**cervicitis**、常無症狀 → 未治療可致 **[[婦科#骨盆腔炎（Pelvic Inflammatory Disease, PID）|PID]]** → 不孕、子宮外孕。
     - 播散性（DGI）：**遊走性多關節痛 + 腱鞘炎 + 膿疱性皮疹**；或化膿性關節炎（成人單關節炎常見病因）。
     - 新生兒：**ophthalmia neonatorum**（化膿性結膜炎，生後 2–5 天）。
 - 診斷：**NAAT**（首選）；培養用 **Thayer-Martin agar**。
 - 治療：**:red[Ceftriaxone 500 mg IM 單劑]**（≥150 kg 用 1 g）；若未排除 Chlamydia → **加 Doxycycline 100 mg BID × 7 天**。
 - 預防：新生兒出生後點 **erythromycin 眼藥膏**。
+- 詳見 [[婦產主訴#陰道分泌物與外陰搔癢（Vaginal Discharge / Vulvar Itching）|陰道分泌物與外陰搔癢]]、[[腎泌尿系統主訴#排尿疼痛與膿尿（Dysuria / Pyuria）|排尿疼痛與膿尿]]
 
 #### Moraxella catarrhalis
 
@@ -400,6 +406,7 @@ credit:
 - **Acid-fast bacilli（AFB）**：mycolic acid rich cell wall → Ziehl-Neelsen stain。
 - 培養：**Löwenstein-Jensen medium**、液態培養。
 - 傳播：**飛沫核（droplet nuclei）**，aerosol。
+- 臨床與台灣防治詳見 [[胸腔內科#肺結核（Pulmonary Tuberculosis）|胸腔內科的肺結核]]
 
 #### 潛伏性結核感染（LTBI）vs 活動性結核（Active TB）
 
@@ -444,8 +451,8 @@ credit:
 
 #### 肺外結核
 
-- 常見部位：**淋巴結**（最常見肺外 TB）、胸膜、骨關節（**Pott's disease** = 脊椎 TB）、泌尿生殖道、腹膜、腦膜、粟粒性 TB（miliary TB → 血行散布）。
-- TB 腦膜炎：CSF → 淋巴球為主、蛋白質↑↑、**葡萄糖↓↓**、ADA↑。
+- 常見部位：**淋巴結**（最常見肺外 TB）、胸膜、骨關節（**[[骨科#急性骨髓炎（Acute Osteomyelitis）|Pott's disease]]** = 脊椎 TB）、泌尿生殖道、腹膜、腦膜、粟粒性 TB（miliary TB → 血行散布）。
+- [[神經內科#結核性腦膜炎|TB 腦膜炎]]：CSF → 淋巴球為主、蛋白質↑↑、**葡萄糖↓↓**、ADA↑。
 - 治療：與肺 TB 相同但延長至 9–12 個月；CNS 加 **dexamethasone**。
 
 ### Nontuberculous Mycobacteria（NTM）
@@ -488,7 +495,7 @@ credit:
 | Primary | 感染後 ~3 週 | **Painless chancre**（硬性下疳）：無痛、邊緣硬、clean base；可自癒 |
 | Secondary | 6–8 週後 | **Maculopapular rash（含手掌腳底）**、condylomata lata、mucous patches、全身淋巴腫大、fever |
 | Latent | - | 無症狀；僅血清學陽性 |
-| Tertiary | 數年–數十年 | **Gumma**（慢性肉芽腫）、**Aortitis**（升主動脈瘤）、**Neurosyphilis**（神經梅毒） |
+| Tertiary | 數年–數十年 | **Gumma**（慢性肉芽腫）、**Aortitis**（升主動脈瘤）、**[[神經內科#Neurosyphilis\|Neurosyphilis]]**（神經梅毒） |
 
 - **Neurosyphilis**：任何時期皆可發生。
     - **Argyll Robertson pupil**：瞳孔對光反射消失但調節反射存在。
@@ -501,7 +508,7 @@ credit:
 - 診斷：
     - **Nontreponemal tests**（screening）：**RPR、VDRL** → 治療後 titer **應下降**（:red[四倍以上]）。
     - **Treponemal tests**（confirmatory）：**FTA-ABS、TP-PA** → 一旦陽性通常**終身陽性**。
-    - VDRL/RPR 可出現 **biologic false positive**（SLE、APS、pregnancy、HIV）。
+    - VDRL/RPR 可出現 **biologic false positive**（SLE、[[免疫風濕科#Antiphospholipid Syndrome（APS）|APS]]、pregnancy、HIV）。
 - 治療：
     - **Penicillin G**：所有梅毒的標準治療。
     - **PCN 過敏**：須做 desensitization（無可靠替代藥物）。
@@ -515,7 +522,7 @@ credit:
 | 分期 | 特點 |
 |------|------|
 | Early localized（數天–數週） | **Erythema migrans（EM）**：靶心樣紅斑（bull's eye rash）+ flu-like symptoms |
-| Early disseminated（數週–數月） | 多發性 EM、顏面神經麻痺、meningitis、**AV block** |
+| Early disseminated（數週–數月） | 多發性 EM、顏面神經麻痺、meningitis、**[[心臟內科#AV Block\|AV block]]** |
 | Late（數月–數年） | **大關節炎**（膝關節為主）、慢性腦病變、多發性神經病變 |
 
 - 診斷：ELISA（screening）→ **Western blot**（confirmatory）。
@@ -575,6 +582,7 @@ credit:
 | **Q fever** | *Coxiella burnetii* | 無（家畜 aerosol） | **無皮疹**；atypical pneumonia + granulomatous hepatitis |
 
 - 治療：全部首選 **Doxycycline**。
+- 詳見 [[全身症狀#旅遊後發燒（Fever in Returned Travelers）|旅遊後發燒]]的鑑別
 
 ### 其他重要病原
 
@@ -582,7 +590,7 @@ credit:
 |------|------|------|------|------|
 | **Brucellosis** | *Brucella spp.* | 未消毒乳製品、接觸牛羊 | **Undulant fever** + sacroiliitis + 肝脾腫 | Doxycycline + Streptomycin |
 | **Tularemia** | *Francisella tularensis* | 蜱、接觸兔子 | **Ulceroglandular**（潰瘍+淋巴腫）；Category A bioterrorism | Streptomycin / Gentamicin |
-| **Bacterial vaginosis** | *Gardnerella vaginalis* | 菌叢失衡（非 STI） | Fishy odor + **clue cells** + pH>4.5 | Metronidazole |
+| **[[婦科#Bacterial Vaginosis 的 Amsel Criteria\|Bacterial vaginosis]]** | *Gardnerella vaginalis* | 菌叢失衡（非 STI） | Fishy odor + **clue cells** + pH>4.5 | Metronidazole |
 | **Melioidosis** | *Burkholderia pseudomallei* | 土壤/水（台灣南部） | 類 TB 肺炎、肝脾膿瘍；**Vietnam time bomb** | Meropenem → TMP-SMX |
 | **Cat Scratch Disease** | *Bartonella henselae* | 貓抓/貓蚤 | 同側淋巴腫大、自限性；AIDS→ **bacillary angiomatosis** | 多不需治療；AIDS→ Erythromycin |
 
@@ -597,7 +605,7 @@ credit:
 | **Voriconazole** | 同上 | **侵襲性 Aspergillosis 首選**；視覺障礙、光敏感 |
 | **Itraconazole** | 同上 | Endemic fungi、Sporotrichosis；negative inotrope |
 | **Echinocandins** | 抑制 β-1,3-glucan synthase | **侵襲性 Candidiasis 首選**；對 Crypto/Mucor 無效 |
-| **Flucytosine** | 干擾 DNA/RNA 合成 | 合併 Amphotericin B 治 Cryptococcal meningitis；骨髓抑制 |
+| **Flucytosine** | 干擾 DNA/RNA 合成 | 合併 Amphotericin B 治 [[神經內科#隱球菌腦膜炎\|Cryptococcal meningitis]]；骨髓抑制 |
 | **Terbinafine** | 抑制 squalene epoxidase | 皮癬菌/甲癬；肝毒性 |
 
 ### 伺機性黴菌感染
@@ -640,7 +648,7 @@ credit:
 #### Mucormycosis
 
 - **無隔膜（aseptate）、菌絲 90° 分枝**。
-- 好發：**DKA**、neutropenia、deferoxamine。
+- 好發：**[[代謝內分泌科#DKA（Diabetic Ketoacidosis）|DKA]]**、neutropenia、deferoxamine。
 - **Rhinocerebral**：鼻竇→眼眶→腦；血管侵犯壞死；鼻黏膜/硬顎 **black eschar**。
 - 治療：**矯正 DKA** + **外科清創** + **Ampho B**。
 
@@ -681,7 +689,7 @@ credit:
 
 #### Malassezia furfur
 
-- **Tinea versicolor**：Hypo-/hyperpigmented patches。
+- **[[皮膚科#汗斑（Pityriasis Versicolor / Tinea Versicolor）|Tinea versicolor]]**：Hypo-/hyperpigmented patches。
 - KOH：**spaghetti and meatballs**。
 - 治療：Selenium sulfide / topical azole。
 
@@ -735,7 +743,7 @@ credit:
 
 | CD4 | 伺機性感染 |
 |-----|-----------|
-| < 500 | Kaposi sarcoma（HHV-8）、oral hairy leukoplakia（EBV）、TB |
+| < 500 | [[皮膚科#卡波西肉瘤（Kaposi Sarcoma）\|Kaposi sarcoma]]（HHV-8）、oral hairy leukoplakia（EBV）、TB |
 | < 200 | **PJP**（最常見）、Candida esophagitis |
 | < 100 | **Toxoplasma encephalitis**、Cryptococcal meningitis |
 | < 50 | **MAC**（disseminated）、**CMV retinitis**、PML（JC virus） |
@@ -774,10 +782,10 @@ credit:
 
 | 病毒 | 潛伏位置 | 主要疾病 |
 |------|----------|----------|
-| **HSV-1** | 三叉神經節 | 口腔疱疹、dendritic ulcer（角膜）、**疱疹性腦炎（temporal lobe）** |
+| **HSV-1** | 三叉神經節 | 口腔疱疹、[[眼科#HSV 角膜炎\|dendritic ulcer]]（角膜）、**[[神經內科#HSV Encephalitis\|疱疹性腦炎]]（temporal lobe）** |
 | **HSV-2** | 薦椎神經節 | 生殖器疱疹、新生兒疱疹 |
-| **VZV** | 背根神經節 | 水痘、帶狀疱疹 |
-| **EBV** | B cells | Infectious mononucleosis、Burkitt lymphoma、NPC、PTLD、oral hairy leukoplakia |
+| **VZV** | 背根神經節 | 水痘、[[皮膚科#帶狀疱疹（Herpes Zoster / Shingles）\|帶狀疱疹]] |
+| **EBV** | B cells | Infectious mononucleosis、[[血液腫瘤科#Non-Hodgkin Lymphoma（NHL）\|Burkitt lymphoma]]、[[耳鼻喉科#鼻咽癌（Nasopharyngeal Carcinoma, NPC）\|NPC]]、PTLD、oral hairy leukoplakia |
 | **CMV** | Monocytes | 先天性 CMV、retinitis/colitis（免疫低下） |
 | **HHV-6** | T cells | **Roseola infantum**（高燒 3 天→退燒後出疹） |
 | **HHV-8** | B cells | **Kaposi sarcoma**、primary effusion lymphoma、Castleman disease |
@@ -808,7 +816,7 @@ credit:
     - 治療：成人/免疫低下 → Acyclovir；疫苗：活性減毒。
 - **帶狀疱疹**：
     - VZV 再活化 → **沿皮節分布、不跨中線**。
-    - **Hutchinson sign**：鼻尖水泡 → V1 眼部受累 → 需眼科評估。
+    - **[[眼科#Herpes Zoster Ophthalmicus|Hutchinson sign]]**：鼻尖水泡 → V1 眼部受累 → 需眼科評估。
     - **Ramsay Hunt syndrome**：耳部疱疹 + 顏面麻痺 + 聽力障礙。
     - 最常見併發症：**PHN（post-herpetic neuralgia）**，老人風險高。
     - 治療：:red[72 hr 內] Valacyclovir；疫苗：**Shingrix**。
@@ -862,7 +870,7 @@ credit:
 
 #### RSV（Respiratory Syncytial Virus）
 
-- Paramyxovirus；嬰幼兒 **bronchiolitis** 及 viral pneumonia 最常見病因。
+- Paramyxovirus；嬰幼兒 **[[小兒科#細支氣管炎（Bronchiolitis）|bronchiolitis]]** 及 viral pneumonia 最常見病因。
 - 好發 < 2 歲，冬季流行。
 - 臨床：先 URI 症狀 → wheezing、tachypnea、呼吸困難；CXR：hyperinflation。
 - 治療：支持療法（吸氧、補液）。
@@ -874,7 +882,7 @@ credit:
 
 - dsRNA（Reoviridae）；**嬰幼兒病毒性腸胃炎最常見病因**。
 - 嚴重水瀉 → 脫水。
-- 預防：口服活性減毒疫苗（嬰兒常規）；罕見副作用：**腸套疊**。
+- 預防：口服活性減毒疫苗（嬰兒常規）；罕見副作用：**[[小兒科#腸套疊（Intussusception）|腸套疊]]**。
 
 #### Norovirus
 
@@ -883,6 +891,8 @@ credit:
 - 極低感染劑量、環境存活力強、alcohol-based sanitizer 效果差（non-enveloped）。
 
 ### 出疹性病毒
+
+- 詳見 [[皮膚系統主訴#發燒合併皮疹（Fever and Rash）|發燒合併皮疹]]的鑑別；兒童出疹性疾病的整理詳見 [[20261006-pediatric-fever-rash|兒童發燒合併紅疹的鑑別診斷]]（逐篇筆記）
 
 #### 麻疹（Measles）
 
@@ -911,8 +921,8 @@ credit:
 - **ssDNA 病毒**；感染紅血球前驅細胞（erythroid precursors）。
 - 兒童：**Erythema infectiosum（fifth disease）**→ 臉頰紅疹 + 軀幹網狀皮疹。
 - 成人：對稱性小關節 polyarthropathy。
-- 慢性溶血患者：**Aplastic crisis**（reticulocyte↓↓）。
-- 孕婦：**Hydrops fetalis**（胎兒嚴重貧血 → 心衰竭 → 水腫）。
+- 慢性溶血患者：**[[血液腫瘤科#再生不良性貧血（Aplastic Anemia）|Aplastic crisis]]**（reticulocyte↓↓）。
+- 孕婦：**[[產科#TORCH infections|Hydrops fetalis]]**（胎兒嚴重貧血 → 心衰竭 → 水腫）。
 - 診斷：Parvovirus B19 IgM；骨髓 **giant pronormoblasts**。
 - 治療：多自限性；aplastic crisis → 輸血；免疫低下 → IVIG。
 
@@ -932,6 +942,8 @@ credit:
 :::source{from="20261007-community-epidemic-control"}
 - 可感染期：:red[發病前 1 天到發病後 5 天]，此期間住院要防蚊（曾有院內感染）。
 :::
+
+- 法定傳染病通報與防疫實務詳見 [[20261007-community-epidemic-control|社區防疫：法定傳染病通報、應變醫院與隔離病房]]（逐篇筆記）
 
 #### 日本腦炎（Japanese Encephalitis）
 
@@ -956,7 +968,7 @@ credit:
 | 型別 | 疾病 |
 |------|------|
 | **6、11** | **Genital warts（condylomata acuminata）**、laryngeal papillomatosis（兒童） |
-| **16、18** | **Cervical cancer**（最重要）、anal/oropharyngeal/penile cancer |
+| **16、18** | **[[婦科#子宮頸癌（Cervial Cancer）\|Cervical cancer]]**（最重要）、anal/oropharyngeal/penile cancer |
 
 - 致癌機制：**E6 → 降解 p53**；**E7 → 抑制 Rb** → 失去 cell cycle 控制。
 - 診斷：Pap smear → 異常 → Colposcopy + biopsy；HPV DNA testing。
@@ -1007,7 +1019,8 @@ credit:
     - **未併發症**：**Artemisinin-based 為首選**（如 artemether-lumefantrine）。
     - **Chloroquine**：僅用於已知 chloroquine-sensitive 地區；**P. falciparum 多已抗藥**。
     - **嚴重瘧疾（cerebral malaria、意識改變、:red[parasitemia > 5%]）**：**IV Artesunate**。
-    - **Primaquine**（或 tafenoquine）：根除肝內 hypnozoite（P. vivax/ovale）→ **投藥前須檢驗 G6PD**（缺乏者溶血）。
+    - **Primaquine**（或 tafenoquine）：根除肝內 hypnozoite（P. vivax/ovale）→ **投藥前須檢驗 [[血液腫瘤科#G6PD 缺乏症（Glucose-6-Phosphate Dehydrogenase Deficiency）|G6PD]]**（缺乏者溶血）。
+- 預防用藥詳見 [[家庭醫學科#瘧疾預防|家庭醫學科的瘧疾預防]]；[[全身症狀#旅遊後發燒（Fever in Returned Travelers）|旅遊後發燒]]的評估流程
 
 #### Toxoplasma gondii
 
@@ -1024,7 +1037,7 @@ credit:
 
 | 病原 | 傳播 | 臨床 | 治療 |
 |------|------|------|------|
-| **Trypanosoma cruzi**（Chagas） | Reduviid bug（中南美洲） | 急性：Romaña sign；慢性：**dilated cardiomyopathy**、megacolon/esophagus | Benznidazole / Nifurtimox |
+| **Trypanosoma cruzi**（Chagas） | Reduviid bug（中南美洲） | 急性：Romaña sign；慢性：**[[心臟內科#擴張型心肌病變（Dilated Cardiomyopathy, DCM）\|dilated cardiomyopathy]]**、megacolon/esophagus | Benznidazole / Nifurtimox |
 | **Leishmania** | Sandfly（白蛉） | 內臟型（kala-azar）：hepatosplenomegaly + pancytopenia；皮膚型：無痛潰瘍 | Amphotericin B（visceral）、Miltefosine |
 | **Entamoeba histolytica** | 糞口（cyst） | Flask-shaped ulcer、blood/mucus stool → **肝膿瘍**（anchovy paste pus） | **Metronidazole** → **Paromomycin**（清 cyst） |
 | **Giardia lamblia** | 糞口（水源） | 慢性水瀉、脂肪便、腹脹 | Metronidazole / Tinidazole |
@@ -1040,18 +1053,18 @@ credit:
 | **Ascaris lumbricoides** | 糞口（卵） | 肺期：Löffler syndrome（eosinophilia + 肺浸潤）；腸期：腸/膽管阻塞 | **Albendazole** / Mebendazole |
 | **Enterobius vermicularis** | 糞口/自體感染 | 夜間肛門搔癢 | Albendazole / Mebendazole（全家治療） |
 | **Strongyloides stercoralis** | **皮膚穿入**（赤腳） | 皮膚→肺→小腸；**Hyperinfection** | **Ivermectin**；免疫抑制前需篩檢！ |
-| **Ancylostoma/Necator** | 皮膚穿入 | **缺鐵性貧血**、ground itch | Albendazole |
+| **Ancylostoma/Necator** | 皮膚穿入 | **[[血液腫瘤科#缺鐵性貧血（Iron Deficiency Anemia, IDA）\|缺鐵性貧血]]**、ground itch | Albendazole |
 
 #### 絛蟲（Cestodes）
 
 | 病原 | 傳播 | 臨床 | 治療 |
 |------|------|------|------|
 | **Taenia solium** | 食未熟豬肉（intestinal）；食蟲卵（**cysticercosis**） | **Neurocysticercosis**：腦內囊泡+鈣化+癲癇 | NCC：Albendazole + Dexamethasone；intestinal：Praziquantel |
-| **Echinococcus granulosus** | 犬糞（卵） | **肝 hydatid cyst**：**不可穿刺**（anaphylaxis + 散播） | 手術 + Albendazole |
+| **Echinococcus granulosus** | 犬糞（卵） | **[[肝膽胰外科#肝包蟲囊腫（Hydatid Cyst）\|肝 hydatid cyst]]**：**不可穿刺**（anaphylaxis + 散播） | 手術 + Albendazole |
 
 #### 吸蟲（Trematodes）
 
 | 病原 | 傳播 | 臨床 | 治療 |
 |------|------|------|------|
-| **Schistosoma** | 淡水尾蚴穿皮 | S. mansoni/japonicum：肝纖維化、門脈高壓；S. haematobium：**膀胱鱗狀細胞癌** | **Praziquantel** |
-| **Clonorchis sinensis** | 食生淡水魚 | 膽管炎、膽管擴張 → **膽管癌（cholangiocarcinoma）** | **Praziquantel** |
+| **Schistosoma** | 淡水尾蚴穿皮 | S. mansoni/japonicum：肝纖維化、[[肝膽胰外科#門脈高壓（Portal Hypertension）\|門脈高壓]]；S. haematobium：**膀胱鱗狀細胞癌** | **Praziquantel** |
+| **Clonorchis sinensis** | 食生淡水魚 | 膽管炎、膽管擴張 → **[[肝膽胰外科#膽管癌（Cholangiocarcinoma）\|膽管癌（cholangiocarcinoma）]]** | **Praziquantel** |
