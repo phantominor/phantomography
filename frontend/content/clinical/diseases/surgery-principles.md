@@ -40,8 +40,6 @@ credit:
 
 ### 電解質異常重點
 
-- 各電解質異常的評估流程詳見 [[電解質與酸鹼#鈉與水（Sodium and Water）|電解質與酸鹼]]
-
 #### 鈉（Na⁺）正常 135–145 mEq/L
 
 - **低血鈉**：最常見住院病人電解質異常。
@@ -76,6 +74,7 @@ credit:
 #### 鎂（Mg²⁺）
 
 - 低血鎂常伴隨 refractory hypokalemia、hypocalcemia → 須先補 Mg。
+- 各電解質異常的評估流程詳見 [[電解質與酸鹼#鈉與水（Sodium and Water）|電解質與酸鹼]]
 
 ### 酸鹼平衡
 
