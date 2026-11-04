@@ -10,72 +10,72 @@ status: initial
 
 #### 定義與分類
 
-- **ALT（GPT）**：**主要在肝臟**，對肝細胞損傷較特異；**AST（GOT）**：**肝、心肌、骨骼肌、紅血球、腎**都有。
-- **正常上限**：一般實驗室約 **40 U/L**；ACG 建議的健康上限更低：**男性 29–33、女性 19–25 U/L**。
+- **ALT（GPT）**：主要在肝臟，對肝細胞損傷較特異；**AST（GOT）**：肝、心肌、骨骼肌、紅血球、腎都有。
+- **正常上限**：一般實驗室約 40 U/L；ACG 建議的健康上限更低：男性 29–33、女性 19–25 U/L。
 - **依升高程度**：
-    - **輕度（< 5 倍上限）**：**脂肪肝（MASLD，最常見）**、**酒精**、**慢性 B、C 型肝炎**、**藥物**、**自體免疫性肝炎**、**血色素沉著症**、**Wilson 病**、**α₁-antitrypsin 缺乏**、**乳糜瀉**、**甲狀腺疾病**、**肌肉來源（AST 為主）**。
-    - **中度（5–15 倍）**：上述任一，加上**急性病毒性肝炎**。
-    - **極高（> :red[1000] U/L 或 > 15 倍）**：**缺血性肝炎（休克肝）**、**急性病毒性肝炎（A、B、E）**、**藥物或毒物（acetaminophen 最常見）**、**總膽管結石（短暫、24–72 小時內快速下降）**、**自體免疫性肝炎急性發作**、**[[消化內科#Budd-Chiari Syndrome|Budd-Chiari]]**、**HSV 肝炎**。
-- **R 值（區分型態）= （ALT ÷ ALT 上限）÷ （ALP ÷ ALP 上限）**：
-    - **> 5：肝細胞型**；**< 2：膽汁滯留型**；**2–5：混合型**。
+    - 輕度（< 5 倍上限）：**脂肪肝（MASLD，最常見）**、酒精、慢性 B、C 型肝炎、藥物、自體免疫性肝炎、血色素沉著症、Wilson 病、α₁-antitrypsin 缺乏、乳糜瀉、甲狀腺疾病、肌肉來源（AST 為主）。
+    - 中度（5–15 倍）：上述任一，加上急性病毒性肝炎。
+    - 極高（> :red[1000] U/L 或 > 15 倍）：**缺血性肝炎（休克肝）**、急性病毒性肝炎（A、B、E）、藥物或毒物（acetaminophen 最常見）、總膽管結石（短暫、24–72 小時內快速下降）、自體免疫性肝炎急性發作、[[消化內科#Budd-Chiari Syndrome|Budd-Chiari]]、HSV 肝炎。
+- **R 值（區分型態）** = （ALT ÷ ALT 上限）÷ （ALP ÷ ALP 上限）：
+    - \> 5：肝細胞型；< 2：膽汁滯留型；2–5：混合型。
 - **AST/ALT 比值**：
-    - **:red[> 2]（AST 很少 > 300）→ 酒精性肝病**（pyridoxine 缺乏使 ALT 合成減少）。
-    - **> 1 → 肝硬化**（任何原因）、**Wilson 病**、肌肉來源。
-    - **< 1 → 脂肪肝、病毒性肝炎**。
+    - :red[> 2]（AST 很少 > 300）→ **酒精性肝病**（pyridoxine 缺乏使 ALT 合成減少）。
+    - \> 1 → 肝硬化（任何原因）、Wilson 病、肌肉來源。
+    - < 1 → 脂肪肝、病毒性肝炎。
 
 #### Red flags
 
-- **INR 延長、膽紅素上升、意識改變** → **[[消化內科#急性肝衰竭（Acute Liver Failure, ALF）|急性肝衰竭]]**（INR ≥ 1.5 + [[消化內科#肝性腦病變（Hepatic Encephalopathy）|肝性腦病變]]，無慢性肝病）。
-- **acetaminophen 服用史**（含過量或長期大量 + 酒精、禁食）→ **N-acetylcysteine**。
-- **轉胺酶快速下降但膽紅素與 INR 上升** → **:red[肝細胞大量壞死]**（不是好轉）。
-- **發燒、右上腹痛、黃疸** → **[[消化內科#急性膽管炎（Cholangitis）|急性膽管炎]]**。
-- **懷孕第三孕期** → **HELLP、妊娠急性脂肪肝**。
-- **年輕人 + 溶血 + 神經精神症狀** → **Wilson 病（急性肝衰竭型）**。
+- INR 延長、膽紅素上升、意識改變 → **[[消化內科#急性肝衰竭（Acute Liver Failure, ALF）|急性肝衰竭]]**（INR ≥ 1.5 + [[消化內科#肝性腦病變（Hepatic Encephalopathy）|肝性腦病變]]，無慢性肝病）。
+- acetaminophen 服用史（含過量或長期大量 + 酒精、禁食）→ **N-acetylcysteine**。
+- 轉胺酶快速下降但膽紅素與 INR 上升 → :red[肝細胞大量壞死]（不是好轉）。
+- 發燒、右上腹痛、黃疸 → [[消化內科#急性膽管炎（Cholangitis）|急性膽管炎]]。
+- 懷孕第三孕期 → HELLP、妊娠急性脂肪肝。
+- 年輕人 + 溶血 + 神經精神症狀 → **Wilson 病**（急性肝衰竭型）。
 
 #### 鑑別診斷
 
 | 類別 | 疾病 | 鑑別關鍵 |
 |---|---|---|
-| **代謝** | **[[消化內科#非酒精性脂肪肝病（NAFLD）\|脂肪肝（MASLD）]]** | **肥胖、糖尿病、代謝症候群**、超音波亮肝、**ALT > AST** |
-| **酒精** | **[[消化內科#酒精性肝病（Alcoholic Liver Disease）\|酒精性肝病]]** | **AST/ALT > 2、GGT 高、MCV 大** |
-| **病毒** | **[[消化內科#病毒性肝炎 (Viral Hepatitis)\|B、C 型肝炎]]**（台灣最重要）、A、E 型、[[感染科#EBV（Infectious Mononucleosis）\|EBV]]、[[感染科#CMV\|CMV]]、HSV | **HBsAg、anti-HCV**；急性：anti-HAV IgM、HBc IgM |
-| **藥物** | **[[消化內科#藥物性肝損傷（Drug-Induced Liver Injury, DILI）\|藥物性肝損傷]]**：**acetaminophen**、**抗結核藥（isoniazid、rifampin、pyrazinamide）**、**amoxicillin-clavulanate**、statin、**中草藥與保健食品** | **用藥時序**、停藥後改善 |
-| **自體免疫** | **[[消化內科#自體免疫性肝炎（Autoimmune Hepatitis, AIH）\|自體免疫性肝炎]]** | **女性、IgG 高、ANA、抗平滑肌抗體** |
-| **遺傳代謝** | **[[消化內科#Hemochromatosis（血色素沉著症）\|血色素沉著症]]**、**[[消化內科#Wilson's Disease\|Wilson 病]]**、α₁-antitrypsin 缺乏 | **鐵飽和度 > 45%**；**ceruloplasmin 低、K-F 環（< 40 歲）** |
-| **缺血或血流** | **缺血性肝炎（休克、心衰竭）**、**Budd-Chiari** | **低血壓後 1–3 天 AST、ALT、LDH 極高、快速下降**；ALT/LDH < 1.5 |
-| **膽道** | **[[肝膽胰外科#總膽管結石（Choledocholithiasis）\|總膽管結石]]** | **腹痛後短暫極高、快速下降** |
-| **肝外** | **肌肉損傷（AST 為主、CK 高）**、**[[代謝內分泌科#甲狀腺機能低下（Hypothyroidism）\|甲狀腺低下]]**、甲狀腺亢進、**[[消化內科#Celiac Disease（乳糜瀉）\|乳糜瀉]]**、溶血、**劇烈運動** | **CK、TSH**；ALT 正常 |
-| **妊娠** | **[[產科#妊娠期急性脂肪肝（Acute Fatty Liver of Pregnancy, AFLP）\|妊娠急性脂肪肝]]**、HELLP、**[[產科#妊娠期肝內膽汁淤積（Intrahepatic Cholestasis of Pregnancy, ICP）\|妊娠肝內膽汁淤積]]** | **懷孕週數**、血小板、血壓 |
+| 代謝 | [[消化內科#非酒精性脂肪肝病（NAFLD）\|脂肪肝（MASLD）]]（**最常見**） | 肥胖、糖尿病、代謝症候群、超音波亮肝、ALT > AST |
+| 酒精 | [[消化內科#酒精性肝病（Alcoholic Liver Disease）\|酒精性肝病]] | **AST/ALT > 2**、GGT 高、MCV 大 |
+| 病毒 | [[消化內科#病毒性肝炎 (Viral Hepatitis)\|B、C 型肝炎]]（**台灣最重要**）、A、E 型、[[感染科#EBV（Infectious Mononucleosis）\|EBV]]、[[感染科#CMV\|CMV]]、HSV | HBsAg、anti-HCV；急性：anti-HAV IgM、HBc IgM |
+| 藥物 | [[消化內科#藥物性肝損傷（Drug-Induced Liver Injury, DILI）\|藥物性肝損傷]]：acetaminophen、抗結核藥（isoniazid、rifampin、pyrazinamide）、amoxicillin-clavulanate、statin、中草藥與保健食品 | **用藥時序**、停藥後改善 |
+| 自體免疫 | [[消化內科#自體免疫性肝炎（Autoimmune Hepatitis, AIH）\|自體免疫性肝炎]] | 女性、**IgG 高**、ANA、抗平滑肌抗體 |
+| 遺傳代謝 | [[消化內科#Hemochromatosis（血色素沉著症）\|血色素沉著症]]、[[消化內科#Wilson's Disease\|Wilson 病]]、α₁-antitrypsin 缺乏 | 鐵飽和度 > 45%；ceruloplasmin 低、**K-F 環**（< 40 歲） |
+| 缺血或血流 | 缺血性肝炎（休克、心衰竭）、Budd-Chiari | 低血壓後 1–3 天極高、快速下降；**LDH 同時極高**（ALT/LDH < 1.5） |
+| 膽道 | [[肝膽胰外科#總膽管結石（Choledocholithiasis）\|總膽管結石]] | 腹痛後**短暫極高**、快速下降 |
+| 肝外 | 肌肉損傷（AST 為主、CK 高）、[[代謝內分泌科#甲狀腺機能低下（Hypothyroidism）\|甲狀腺低下]]、甲狀腺亢進、[[消化內科#Celiac Disease（乳糜瀉）\|乳糜瀉]]、溶血、劇烈運動 | **CK**、TSH；ALT 正常 |
+| 妊娠 | [[產科#妊娠期急性脂肪肝（Acute Fatty Liver of Pregnancy, AFLP）\|妊娠急性脂肪肝]]、HELLP、[[產科#妊娠期肝內膽汁淤積（Intrahepatic Cholestasis of Pregnancy, ICP）\|妊娠肝內膽汁淤積]] | 懷孕週數、血小板、血壓 |
 
 #### 易混淆鑑別
 
 :::compare[轉胺酶 > 1000 的四大原因]
 | | 缺血性肝炎 | 急性病毒性肝炎 | Acetaminophen 中毒 | 總膽管結石 |
 |---|---|---|---|---|
-| 背景 | **休克、心衰竭、心跳停止、敗血症** | 接觸史、不潔飲食 | **過量或長期大量**（酒精、禁食加重） | **右上腹痛** |
-| 高峰 | **1–3 天內達數千** | 數百到數千、**上升較慢** | **數千到上萬** | **數百到上千，24–72 小時快速下降** |
-| 下降 | **很快（7–10 天恢復）** | 數週 | 依嚴重度 | **很快** |
-| **LDH** | **極高（ALT/LDH < 1.5）** | 輕度 | 高 | 輕度 |
-| 膽紅素 | 輕度上升 | **常明顯升高** | 依嚴重度 | **上升、ALP 隨後上升** |
-| 確診 | 臨床（灌流不足病史） | **anti-HAV IgM、HBsAg、HBc IgM、anti-HEV** | **acetaminophen 濃度、用藥史** | **超音波、MRCP** |
+| 背景 | **休克**、心衰竭、心跳停止、敗血症 | 接觸史、不潔飲食 | 過量或長期大量（酒精、禁食加重） | 右上腹痛 |
+| 高峰 | 1–3 天內達數千 | 數百到數千、**上升較慢** | **數千到上萬** | 數百到上千 |
+| 下降 | 很快（7–10 天恢復） | 數週 | 依嚴重度 | **24–72 小時內** |
+| LDH | **極高**（ALT/LDH < 1.5） | 輕度 | 高 | 輕度 |
+| 膽紅素 | 輕度上升 | **常明顯升高** | 依嚴重度 | 上升、ALP 隨後上升 |
+| 確診 | 臨床（灌流不足病史） | anti-HAV IgM、HBsAg、HBc IgM、anti-HEV | acetaminophen 濃度、用藥史 | 超音波、MRCP |
 :::
 
 :::compare[脂肪肝 vs 酒精性肝病 vs 慢性 B 型肝炎]
 | | 脂肪肝（MASLD） | 酒精性肝病 | 慢性 B 型肝炎 |
 |---|---|---|---|
-| 危險因子 | **肥胖、糖尿病、高血脂、高血壓** | **男性每天 > 30 g、女性 > 20 g 酒精** | **母子垂直感染（台灣）** |
-| AST/ALT | **< 1** | **> 2** | < 1（肝硬化時 > 1） |
-| 其他 | **超音波亮肝**、**FIB-4** 評估纖維化 | **GGT 高、MCV 大**、三酸甘油脂高 | **HBsAg 陽性**、HBV DNA、HBeAg |
-| 治療 | **減重 7–10%**、運動、控制代謝因子、**resmetirom 或 GLP-1 RA（MASH 合併纖維化）** | **戒酒**；重度酒精性肝炎評估類固醇 | **抗病毒藥（entecavir、tenofovir）** |
+| 危險因子 | 肥胖、糖尿病、高血脂、高血壓 | 男性每天 > 30 g、女性 > 20 g 酒精 | **母子垂直感染**（台灣） |
+| AST/ALT | < 1 | **> 2** | < 1（肝硬化時 > 1） |
+| 其他 | 超音波亮肝、FIB-4 評估纖維化 | GGT 高、MCV 大、三酸甘油脂高 | HBsAg 陽性、HBV DNA、HBeAg |
+| 治療 | **減重 7–10%**、運動、控制代謝因子、resmetirom 或 GLP-1 RA（MASH 合併纖維化） | **戒酒**；重度酒精性肝炎評估類固醇 | 抗病毒藥（entecavir、tenofovir） |
 :::
 
 ![Kayser-Fleischer 環：角膜邊緣的棕綠色銅沉積環（Wilson 病）](media/commons/kayser-fleischer-ring.webp "Kayser-Fleischer 環：角膜邊緣的棕綠色銅沉積環（Wilson 病） | Herbert L. Fred, MD, Hendrik A. van Dijk，CC BY 3.0，Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Kayser-Fleischer_ring.jpg")
 
 #### 問診與理學檢查
 
-- **飲酒量**、**用藥（含中草藥、保健食品、抗結核藥、抗生素、acetaminophen）**、**B、C 型肝炎與家族史**、**輸血、靜脈藥癮、性行為、刺青**、**旅遊與不潔飲食**、代謝症候群、自體免疫病、**劇烈運動**。
-- 症狀：倦怠、食慾不振、**黃疸、茶色尿、灰白便**、右上腹痛、搔癢。
-- 理學檢查：**黃疸**、**[[消化系統主訴#肝腫大（Hepatomegaly）|肝腫大]]與觸痛**、**慢性肝病徵象（蜘蛛痣、手掌紅斑、男性女乳、脾腫大、腹水）**、**K-F 環**、BMI、**撲翼樣震顫**。
+- **飲酒量**、**用藥**（含中草藥、保健食品、抗結核藥、抗生素、acetaminophen）、B、C 型肝炎與家族史、輸血、靜脈藥癮、性行為、刺青、旅遊與不潔飲食、代謝症候群、自體免疫病、劇烈運動。
+- 症狀：倦怠、食慾不振、黃疸、茶色尿、灰白便、右上腹痛、搔癢。
+- 理學檢查：黃疸、[[消化系統主訴#肝腫大（Hepatomegaly）|肝腫大]]與觸痛、慢性肝病徵象（蜘蛛痣、手掌紅斑、男性女乳、脾腫大、腹水）、K-F 環、BMI、**撲翼樣震顫**。
 
 #### 檢查流程
 
@@ -94,18 +94,18 @@ flowchart TD
   K -->|"是"| L["肝臟切片"]:::key
 ```
 
-- **第一線**：**肝功能全套（ALT、AST、ALP、GGT、膽紅素、albumin、INR）**、**CBC（血小板）**、**HBsAg、anti-HCV（陽性驗 HCV RNA）**、**鐵、TIBC、ferritin**、**腹部超音波**。
-- **第二線**：**ANA、抗平滑肌抗體、IgG**、**ceruloplasmin**、**α₁-antitrypsin**、**TSH**、**CK**、**乳糜瀉抗體**。
-- **纖維化評估**：**FIB-4（年齡、AST、ALT、血小板）**、**彈性超音波（FibroScan）**。
-- **急性極高** → **anti-HAV IgM、HBsAg、anti-HBc IgM、anti-HEV、acetaminophen 濃度**、乳酸。
+- **第一線**：肝功能全套（ALT、AST、ALP、GGT、膽紅素、albumin、INR）、CBC（血小板）、**HBsAg、anti-HCV**（陽性驗 HCV RNA）、鐵、TIBC、ferritin、腹部超音波。
+- **第二線**：ANA、抗平滑肌抗體、IgG、ceruloplasmin、α₁-antitrypsin、TSH、CK、乳糜瀉抗體。
+- **纖維化評估**：FIB-4（年齡、AST、ALT、血小板）、彈性超音波（FibroScan）。
+- **急性極高** → anti-HAV IgM、HBsAg、anti-HBc IgM、anti-HEV、acetaminophen 濃度、乳酸。
 
 #### 初步處置
 
-- **停用可疑藥物與保健食品、戒酒**；**輕度無症狀 → 數週後重驗**。
-- **acetaminophen → N-acetylcysteine**（**:red[不用等濃度]**，越早越好）。
-- **急性肝衰竭 → 加護病房、轉肝臟移植中心**。
-- **脂肪肝 → 減重、運動、控制血糖血脂**；**B、C 肝 → 抗病毒治療**；**自體免疫性肝炎 → 類固醇 ± azathioprine**。
-- **肝炎病毒帶原者**：**每 6 個月腹部超音波 + AFP**（肝癌篩檢）。
+- 停用可疑藥物與保健食品、戒酒；輕度無症狀 → 數週後重驗。
+- acetaminophen → **N-acetylcysteine**（:red[不用等濃度]，越早越好）。
+- 急性肝衰竭 → 加護病房、**轉肝臟移植中心**。
+- 脂肪肝 → 減重、運動、控制血糖血脂；B、C 肝 → 抗病毒治療；自體免疫性肝炎 → 類固醇 ± azathioprine。
+- 肝炎病毒帶原者：**每 6 個月腹部超音波 + AFP**（肝癌篩檢）。
 
 :::pitfall
 休克病人轉胺酶 3000，被當成急性病毒性肝炎送隔離 → 缺血性肝炎在低血壓後 1–3 天出現，LDH 同時極高，矯正灌流後一週內快速下降。先回顧血壓與心臟功能，治療是恢復灌流。

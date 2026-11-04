@@ -1,5 +1,6 @@
 <!-- UPDATE.md -->
 [2026/11/04]
+- **生化異常：粗體減量樣張**: 轉胺酶升高一節粗體由 162 處減到 42 處（每格、每項最多一個關鍵詞，類別欄與比較表列名不加粗，連結預設不加粗），其他節與其他主訴頁待確認原則後再改
 - **確認已部署**: GitHub repo phantominor/phantomography 已公開且與本機同步，phantomography.vercel.app 已上線（含第 43、44 週周報）；網域確認就是 phantomography.vercel.app；TODO 刪除「推上 GitHub、Vercel 部署」與「確認網域」
 - **治療處置：導覽結構與 β-lactam 樣張**: 左側導覽改成 19 組（藥物 12 組依藥理分類、非藥物 7 組），共 68 頁，尚未建立的頁面顯示灰字。
     - 新增 `clinical/treatments/beta-lactams.md`：總論（機轉、抗藥、Ambler 分類、BLI、PK/PD、過敏與交叉反應、共同副作用）、penicillin、cephalosporin、carbapenem、monobactam、依菌種與抗藥菌選藥（含流程圖）、易混淆比較。
