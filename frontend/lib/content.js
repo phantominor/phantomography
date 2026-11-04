@@ -191,3 +191,37 @@ export function buildSourceUsage(pages = getAllPages()) {
   sourceUsageCache = table;
   return table;
 }
+
+// 自動連結詞表：治療處置、檢查檢驗、臨床技能頁的 frontmatter `autolink`（{ 標題: [詞…] }，標題寫 _page 表示整頁）。
+// 全站內文提到這些詞時自動連過去（lib/markdown/remarkAutoLink.js）；回傳依詞長由長到短排序
+export const AUTOLINK_SOURCES = ['clinical/treatments/', 'clinical/tests/', 'clinical/skills/'];
+
+let autolinkCache = null;
+
+export function buildAutolinkTerms(pages = getAllPages()) {
+  if (autolinkCache && isProd) return autolinkCache;
+  const terms = [];
+  for (const p of pages) {
+    const spec = p.frontmatter.autolink;
+    if (!spec || !AUTOLINK_SOURCES.some((s) => p.slug.startsWith(s))) continue;
+    for (const [headingText, words] of Object.entries(spec)) {
+      const heading = headingText === '_page' ? null : findHeading(p.headings, headingText);
+      if (headingText !== '_page' && !heading) {
+        console.warn(`[content] ${p.slug}:\n  autolink 找不到標題：${headingText}`);
+        continue;
+      }
+      for (const w of [].concat(words || [])) {
+        terms.push({
+          term: String(w),
+          slug: p.slug,
+          url: p.url + (heading ? `#${heading.id}` : ''),
+          page: p.frontmatter.title || p.slug,
+          heading: heading?.text || null,
+        });
+      }
+    }
+  }
+  terms.sort((a, b) => b.term.length - a.term.length);
+  autolinkCache = terms;
+  return terms;
+}

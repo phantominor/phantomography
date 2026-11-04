@@ -4,6 +4,26 @@ aliases: [beta-lactam, β-lactams, β-內醯胺類, 乙內醯胺類, Penicillin 
 description: Penicillin、cephalosporin、carbapenem、monobactam 與 β-lactamase 抑制劑。
 updated: 2026-11-04
 status: initial
+autolink:
+  _page: [β-lactam, β-lactams, beta-lactam]
+  "過敏與交叉反應（Allergy & Cross-reactivity）": [penicillin 過敏, penicillin allergy]
+  "Penicillin 類（Penicillins）": [Penicillin, Penicillins]
+  "天然 Penicillin（Natural Penicillins）": [Penicillin G, Penicillin V, Benzathine penicillin G, Benzathine penicillin, Procaine penicillin]
+  "抗葡萄球菌 Penicillin（Anti-staphylococcal Penicillins）": [Oxacillin, Nafcillin, Dicloxacillin]
+  "Aminopenicillin（Ampicillin、Amoxicillin）": [Ampicillin, Amoxicillin, Aminopenicillin]
+  "Aminopenicillin + β-Lactamase 抑制劑": [Augmentin, Curam, Amoxicillin-clavulanate, Amoxicillin/clavulanate, Unasyn, Ampicillin-sulbactam, Ampicillin/sulbactam]
+  "抗綠膿桿菌 Penicillin（Anti-pseudomonal Penicillins）": [Tazocin, Piperacillin-tazobactam, Piperacillin/tazobactam, Piperacillin]
+  "Cephalosporin 類（Cephalosporins）": [Cephalosporin, Cephalosporins]
+  "第 1 代（First Generation）": [Cefazolin, Cephalexin, Cefadroxil]
+  "第 2 代與 Cephamycin（Second Generation & Cephamycins）": [Cefuroxime, Cefaclor, Cefoxitin, Cefmetazole, Cefotetan, Flumarin, Flomoxef, Cephamycin]
+  "Ceftriaxone、Cefotaxime": [Ceftriaxone, Cefotaxime]
+  "Ceftazidime 與 Brosym": [Ceftazidime, Brosym, Cefoperazone-sulbactam, Cefoperazone, Cefixime, Cefdinir]
+  "第 4 代（Fourth Generation）": [Cefepime]
+  "抗 MRSA Cephalosporin（Anti-MRSA Cephalosporins）": [Ceftaroline]
+  "新型 Cephalosporin 與抑制劑組合（Novel Agents）": [Ceftazidime-avibactam, Ceftazidime/avibactam, Zavicefta, Ceftolozane-tazobactam, Ceftolozane/tazobactam, Cefiderocol]
+  "Carbapenem 類（Carbapenems）": [Carbapenem, Carbapenems]
+  "各藥比較": [Imipenem, Imipenem-cilastatin, Tienam, Meropenem, Mepem, Ertapenem, Invanz, Doripenem, Meropenem-vaborbactam, Imipenem-relebactam]
+  "Monobactam（Aztreonam）": [Aztreonam, Monobactam]
 ---
 ## 總論（Overview）
 

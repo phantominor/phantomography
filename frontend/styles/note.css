@@ -150,6 +150,19 @@
   text-underline-offset: 3px;
 }
 
+/* 自動連結（藥名、檢查名，見 lib/markdown/remarkAutoLink.js）：維持內文色，只加虛線底線，避免整頁都是連結色 */
+.note a.auto-link {
+  color: inherit;
+  text-decoration: underline dotted;
+  text-decoration-color: var(--color-text-faint);
+  text-underline-offset: 3px;
+}
+
+.note a.auto-link:hover {
+  color: var(--color-link-hover);
+  text-decoration-color: currentColor;
+}
+
 .note .broken-link {
   color: var(--color-text-muted);
   text-decoration: line-through dashed;

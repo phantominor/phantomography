@@ -52,6 +52,33 @@
   text-align: center;
 }
 
+/* 一詞多連的頁籤 */
+.tabs {
+  display: flex;
+  gap: 4px;
+  padding: 0 12px;
+  overflow-x: auto;
+  scrollbar-width: none;
+}
+
+.tab {
+  flex-shrink: 0;
+  padding: 6px 12px 8px;
+  font-size: 0.85rem;
+  color: var(--color-text-muted);
+  border-bottom: 2px solid transparent;
+  transition: color 0.15s ease, border-color 0.15s ease;
+}
+
+.tab:hover {
+  color: var(--color-text);
+}
+
+.tabActive {
+  color: var(--color-text);
+  border-bottom-color: var(--color-text);
+}
+
 .iconBtn {
   width: 36px;
   height: 36px;

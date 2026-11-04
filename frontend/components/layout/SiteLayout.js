@@ -44,6 +44,7 @@ export default function SiteLayout({ title, tab, navKey, currentSlug, existing, 
   const [scrolled, setScrolled] = useState(false);
   const [showToTop, setShowToTop] = useState(false);
   const [peekHref, setPeekHref] = useState(null);
+  const [peekTabs, setPeekTabs] = useState(null); // 一詞多連：連結的 data-peek（[{ href, page, heading }]）
   const [returnTo, setReturnTo] = useState(null);
   const [anchorReturnY, setAnchorReturnY] = useState(null);
   const [confirmHaven, setConfirmHaven] = useState(false);
@@ -149,6 +150,9 @@ export default function SiteLayout({ title, tab, navKey, currentSlug, existing, 
         }
         return;
       }
+      let tabs = null;
+      try { tabs = a.dataset.peek ? JSON.parse(a.dataset.peek) : null; } catch { tabs = null; }
+      setPeekTabs(tabs);
       setPeekHref(url.pathname + url.hash);
     };
     document.addEventListener('click', onClick);
@@ -157,7 +161,7 @@ export default function SiteLayout({ title, tab, navKey, currentSlug, existing, 
 
   // 手機版搜尋結果：開連結預覽面板
   useEffect(() => {
-    const onPeek = (e) => setPeekHref(e.detail);
+    const onPeek = (e) => { setPeekTabs(null); setPeekHref(e.detail); };
     window.addEventListener(PEEK_EVENT, onPeek);
     return () => window.removeEventListener(PEEK_EVENT, onPeek);
   }, []);
@@ -310,7 +314,7 @@ export default function SiteLayout({ title, tab, navKey, currentSlug, existing, 
         />
       )}
 
-      {peekHref && <PeekPanel key="peek" href={peekHref} onClose={closePeek} onExpand={expandPeek} />}
+      {peekHref && <PeekPanel key="peek" href={peekHref} tabs={peekTabs} onClose={closePeek} onExpand={expandPeek} />}
 
       {drawerOpen && (
         <MobileNav currentSlug={currentSlug} existing={existing} autoNav={autoNav} toc={toc} onClose={() => setDrawerOpen(false)} />

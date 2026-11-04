@@ -13,7 +13,7 @@ export function findHeading(headings, text) {
   return headings.find((h) => h.text === wanted || h.id === slug) || null;
 }
 
-export default function remarkWikiLink({ linkIndex, currentPage, warnings }) {
+export default function remarkWikiLink({ linkIndex, currentPage, warnings, related }) {
   return (tree) => {
     visit(tree, 'text', (node, index, parent) => {
       if (!parent || !node.value.includes('[[')) return;
@@ -40,10 +40,14 @@ export default function remarkWikiLink({ linkIndex, currentPage, warnings }) {
         }
         const samePage = page === currentPage;
         const url = (samePage ? '' : page.url) + (heading ? `#${heading.id}` : '');
+        // 同一個主題在別的分類也有專論時，預覽面板上方多出頁籤（見 lib/pageProps.js 的 relatedTabs）
+        const tabs = !samePage && related
+          ? related({ slug: page.slug, url, page: page.frontmatter.title || page.slug, heading: heading?.text || null, id: heading?.id }, text)
+          : [];
         parts.push({
           type: 'link',
           url: url || page.url,
-          data: { hProperties: { className: ['wiki-link'] } },
+          data: { hProperties: { className: ['wiki-link'], ...(tabs.length > 1 ? { dataPeek: JSON.stringify(tabs) } : {}) } },
           children: [{ type: 'text', value: text }],
         });
       }

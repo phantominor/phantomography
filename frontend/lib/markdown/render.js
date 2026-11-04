@@ -12,12 +12,13 @@ import rehypeRaw from 'rehype-raw';
 import rehypeKatex from 'rehype-katex';
 import rehypeStringify from 'rehype-stringify';
 import remarkWikiLink from './remarkWikiLink';
+import remarkAutoLink from './remarkAutoLink';
 import remarkDirectives from './remarkDirectives';
 import remarkAnnotations from './remarkAnnotations';
 import rehypeHeadings from './rehypeHeadings';
 import rehypeElements from './rehypeElements';
 
-export async function renderMarkdown(markdown, { linkIndex, currentPage, sources, backlinks, cardsFor, journalEntries, weeklyEntries }) {
+export async function renderMarkdown(markdown, { linkIndex, currentPage, sources, backlinks, cardsFor, journalEntries, weeklyEntries, autolinkTerms, related }) {
   const toc = [];
   const warnings = [];
   const file = await unified()
@@ -27,7 +28,8 @@ export async function renderMarkdown(markdown, { linkIndex, currentPage, sources
     .use(remarkDirective)
     .use(remarkMath)
     .use(remarkAnnotations, { warnings }) // 校閱批註 <!-- 改：… -->：移除並列入警告
-    .use(remarkWikiLink, { linkIndex, currentPage, warnings })
+    .use(remarkWikiLink, { linkIndex, currentPage, warnings, related })
+    .use(remarkAutoLink, { terms: autolinkTerms, currentPage, related })
     .use(remarkDirectives, { sources, cardsFor, journalEntries, weeklyEntries, warnings })
     .use(remarkRehype, { allowDangerousHtml: true })
     .use(rehypeRaw) // 讓 Markdown 裡手寫的 HTML（合併儲存格的表格）生效

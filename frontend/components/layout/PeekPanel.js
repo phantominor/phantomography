@@ -2,6 +2,7 @@
 // Notion 式的連結預覽：點到其他頁面的 wiki-link 時先在這裡看內容，不離開目前頁面。
 // 桌面版從右側滑出；手機版（< 960px）從下方彈出，按住頂端往下拉可以關閉。
 // 內容取自 Next.js 建置時產生的頁面資料（/_next/data/<buildId>/<path>.json）。
+// 一詞多連：連結帶有 data-peek 時（tabs），面板上方出現頁籤，可在疾病、藥物、檢查等不同頁面的段落之間切換。
 
 import { useCallback, useEffect, useRef, useState } from 'react';
 import { LuX, LuMaximize2 } from 'react-icons/lu';
@@ -13,7 +14,11 @@ import styles from './PeekPanel.module.css';
 const CLOSE_DRAG_DISTANCE = 100;
 const ANIMATION_MS = 220;
 
-export default function PeekPanel({ href, onClose, onExpand }) {
+export default function PeekPanel({ href: linkHref, tabs, onClose, onExpand }) {
+  const [href, setHref] = useState(linkHref);
+  // 點擊取得的網址錨點是百分比編碼，頁籤裡的是原字，比對前先解碼
+  const same = (a, b) => { try { return decodeURI(a) === decodeURI(b); } catch { return a === b; } };
+  useEffect(() => setHref(linkHref), [linkHref]);
   const [shown, setShown] = useState(false);
   const [state, setState] = useState({ status: 'loading', data: null });
   const [dragY, setDragY] = useState(0);
@@ -122,6 +127,23 @@ export default function PeekPanel({ href, onClose, onExpand }) {
               <LuMaximize2 />
             </button>
           </div>
+          {tabs?.length > 1 && (
+            <div className={styles.tabs} role="tablist" aria-label="相關段落">
+              {tabs.map((t) => (
+                <button
+                  key={t.href}
+                  type="button"
+                  role="tab"
+                  aria-selected={same(t.href, href)}
+                  className={`${styles.tab} ${same(t.href, href) ? styles.tabActive : ''}`}
+                  onClick={() => setHref(t.href)}
+                  title={t.heading ? `${t.page} › ${t.heading}` : t.page}
+                >
+                  {tabs.filter((o) => o.page === t.page).length > 1 && t.heading ? t.heading.split(' › ').pop() : t.page}
+                </button>
+              ))}
+            </div>
+          )}
         </div>
         <div ref={bodyRef} className={styles.body} data-peek-body>
           {state.status === 'loading' && <p className={styles.status}>載入中…</p>}

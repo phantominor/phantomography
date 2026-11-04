@@ -1,5 +1,11 @@
 <!-- UPDATE.md -->
 [2026/11/04]
+- **一詞多連：藥名自動連結與預覽頁籤**: 照討論採用自動連結 + 預覽頁籤，藍圖升到 `notes-system_v4.md`
+    - 自動連結：專論頁 frontmatter 的 `autolink` 登記詞與段落，全站內文提到時建置自動連過去（`lib/markdown/remarkAutoLink.js`），每個 h2 只連第一次，樣式為內文色加虛線底線。
+    - 預覽頁籤：連結的相關段落（同詞多頁、連結文字是 autolink 詞、專論頁連到同一段的逆連結）在預覽面板上方列成頁籤（`lib/pageProps.js`、`PeekPanel.js`）。
+    - β-lactam 頁登記 19 段的藥名；感染科常用抗生素表等處的藥名已自動連到 β-lactam 頁。
+    - 抗微生物藥物頁序改依作用位置（細胞壁 → 細胞膜 → 葉酸 → DNA → RNA → gyrase → 50S → 30S），原「其他抗細菌藥物」拆成 8 頁。
+    - CLAUDE.md、TODO.md 同步更新。
 - **操作手冊**: 根目錄新增 `MANUAL.md`（之後依意見精簡、改用條列不用表格，方便直接讀原始碼），整理使用者可用的指令與操作（/ingest、套用提案、批註、/relink、/weekly、自動周報 PR 的 Merge 流程、push 上線、記錄檔）；CLAUDE.md 架構圖加入並註明要同步更新
 - **校閱批註機制**: 校閱時在 .md 行尾寫 `<!-- 改：… -->`，累積後說「處理批註」由 Claude 逐條處理並刪除；新增 `lib/markdown/remarkAnnotations.js`（建置時移除註解、console 列出未處理批註與行號），搜尋索引略過註解；CLAUDE.md 新增「校閱批註」一節
 - **醫學周報自動排程**: 建立雲端排程「醫學周報每週自動產出」（每週一台北時間 06:00，cron `0 22 * * 0` UTC，Opus 5.5，不掛 connector）；照 /weekly 與 weekly_v4 產出後推到分支 `weekly/<期別>`、對 main 開 PR，使用者按 Merge 上線

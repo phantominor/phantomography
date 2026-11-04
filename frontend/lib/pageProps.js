@@ -1,7 +1,7 @@
 // lib/pageProps.js
 // 內容頁共用的 getStaticProps 邏輯：找到 Markdown、渲染、決定所屬分頁與上一頁/下一頁
 
-import { getAllPages, buildLinkIndex, getJournalSources, buildBacklinks, buildSourceUsage, backlinkEntry } from './content';
+import { getAllPages, buildLinkIndex, getJournalSources, buildBacklinks, buildSourceUsage, backlinkEntry, buildAutolinkTerms, AUTOLINK_SOURCES } from './content';
 import { renderMarkdown } from './markdown/render';
 import { findHeading } from './markdown/remarkWikiLink';
 import { getCards } from './cards';
@@ -26,6 +26,39 @@ function sampleBacklinks(page, linkIndex) {
   return table;
 }
 
+
+const MAX_TABS = 5;
+const isTopicPage = (slug) => AUTOLINK_SOURCES.some((s) => slug.startsWith(s));
+
+// 一詞多連的預覽頁籤：第一個是連結本身的目標，其餘依序是
+// 1. 同一個詞登記在其他專論頁的段落（autolink 詞重複）；2. 連結文字剛好是某個 autolink 詞；
+// 3. 目標是疾病等一般段落時，治療處置、檢查檢驗、臨床技能頁裡連到這一段的段落（取自逆連結）。
+// 不列目前這一頁；只有一個目標時回傳長度 1（不加頁籤）
+function relatedTabs({ currentSlug, terms, backlinks }) {
+  const byText = new Map();
+  for (const t of terms) {
+    const k = t.term.toLowerCase();
+    if (!byText.has(k)) byText.set(k, []);
+    byText.get(k).push(t);
+  }
+  return (main, text, extras = []) => {
+    const tabs = [{ href: main.url, page: main.page, heading: main.heading }];
+    const add = (slug, href, page, heading) => {
+      if (slug === currentSlug || tabs.some((t) => t.href === href)) return;
+      tabs.push({ href, page, heading });
+    };
+    for (const t of extras) add(t.slug, t.url, t.page, t.heading);
+    for (const t of byText.get(String(text).toLowerCase()) || []) add(t.slug, t.url, t.page, t.heading);
+    if (main.id && !isTopicPage(main.slug)) {
+      for (const e of backlinks[main.slug]?.[main.id] || []) {
+        const slug = e.url.split('#')[0].slice(1);
+        if (isTopicPage(slug)) add(slug, e.url, e.page, e.path.join(' › '));
+      }
+    }
+    return tabs.slice(0, MAX_TABS);
+  };
+}
+
 export async function getContentPageProps(slug) {
   const pages = getAllPages();
   const page = pages.find((p) => p.slug === slug);
@@ -34,8 +67,11 @@ export async function getContentPageProps(slug) {
   // sampleSources 只給樣式樣張頁用：讓來源標註不必依賴真實的逐篇筆記
   const sources = { ...getJournalSources(pages), ...(page.frontmatter.sampleSources || {}) };
   const linkIndex = buildLinkIndex(pages);
+  const allBacklinks = buildBacklinks(pages, linkIndex);
+  const autolinkTerms = page.frontmatter.noindex ? [] : buildAutolinkTerms(pages);
+  const related = relatedTabs({ currentSlug: slug, terms: autolinkTerms, backlinks: allBacklinks });
   const backlinks = {
-    ...(buildBacklinks(pages, linkIndex)[slug] || {}),
+    ...(allBacklinks[slug] || {}),
     ...(page.frontmatter.sampleBacklinks ? sampleBacklinks(page, linkIndex) : {}),
   };
   const { html, toc } = await renderMarkdown(page.content, {
@@ -46,6 +82,8 @@ export async function getContentPageProps(slug) {
     cardsFor: (of = slug) => getCards(of, pages),
     journalEntries: () => getJournalEntries(pages),
     weeklyEntries: () => getWeeklyEntries(pages),
+    autolinkTerms,
+    related,
   });
 
   // 逐篇筆記、醫學周報的導覽依日期自動產生（全站都要：手機抽屜也列得出來）

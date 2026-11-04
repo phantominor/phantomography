@@ -8,7 +8,7 @@ phantomography 是 [phantominor](https://github.com/phantominor/phantominor)（"
 
 姊妹專案 [phantomajor](https://github.com/phantominor/phantomajor) 是同樣模式（從 phantominor 拆出、共用 Supabase），架構與慣例可以參考它。
 
-**目前狀態**：設計藍圖見 `frontend/blueprints/notes-system_v3.md`（最新版）（資訊架構、內容語法、視覺規範、分期都以藍圖為準）；醫學周報另見 `frontend/blueprints/weekly_v4.md`（整合後的完整規格；檔案與期別規則在 v1）。第一期的版面與渲染流程已完成；諸病微精 33 頁匯入自同學的 TWMLE 筆記（經同意，每頁 frontmatter 的 `credit` 註明出處），其他分類尚未撰寫；樣式樣張在 `/style`。純靜態網站、無登入、無資料庫，所有新增都在本地與 Claude 協作完成。
+**目前狀態**：設計藍圖見 `frontend/blueprints/notes-system_v4.md`（最新版）（資訊架構、內容語法、視覺規範、分期都以藍圖為準）；醫學周報另見 `frontend/blueprints/weekly_v4.md`（整合後的完整規格；檔案與期別規則在 v1）。第一期的版面與渲染流程已完成；諸病微精 33 頁匯入自同學的 TWMLE 筆記（經同意，每頁 frontmatter 的 `credit` 註明出處），其他分類尚未撰寫；樣式樣張在 `/style`。純靜態網站、無登入、無資料庫，所有新增都在本地與 Claude 協作完成。
 
 ## 開發指令
 
@@ -53,6 +53,11 @@ npm run lint     # next lint
 - 建置時 console 會列出失效連結與找不到的來源，新增內容後要看一下。
 - 流程圖：內文寫 ```mermaid 圖標題 區塊（圖標題會顯示在圖上方，也會進搜尋索引；`lib/markdown/rehypeElements.js` 轉成占位元素，`lib/mermaid.js` 在瀏覽器端繪製）。可用的共用節點樣式：`:::danger`（緊急）、`:::key`（結論）、`:::start`（起點）；判斷節點用六角形 `{{"…？"}}`，同一層盡量不超過 4 個節點。標籤裡的 `<`、`>` 要寫成 `#60;`、`#62;`。要在多頁出現的流程圖（例如單一疾病的處置流程）存成 `content/_charts/<id>.mmd`（第一行 `%% title: 圖標題`），內文用 `::chart{id="<id>"}` 嵌入；從症狀出發的檢查流程只放在病患主訴，其他頁用連結。
 - 逆連結：建置時由 `lib/content.js` 的 `buildBacklinks` 掃描全站跨頁、指到段落的 wiki-link，被連到的標題旁自動出現來源清單，不用手動維護。
+- 一詞多連（藍圖 v4 §4.5）：
+  - 治療處置、檢查檢驗、臨床技能頁在 frontmatter 寫 `autolink: { 標題: [詞…] }`（`_page` 表示整頁），全站內文提到這些詞時建置自動連過去（`lib/markdown/remarkAutoLink.js`，每個 h2 只連第一次，虛線底線樣式）。
+  - 點連結時，預覽面板依相關段落自動產生頁籤（`lib/pageProps.js` 的 `relatedTabs`）。
+  - 寫新的專論頁要記得登記 autolink 詞（藥名含商品名與學名、檢查名）；藥名、檢查名不再手動加「詳見」，「詳見」只留給沒有明確詞彙的主題延伸。
+- 藥名：台灣常用商品名稱呼的藥寫商品名、括號內寫學名，例如 Tazocin（Piperacillin-tazobactam）；不常用的只寫學名。
 - 跨頁連結：不預先留指向尚未建立頁面的連結；完成一個分類、開始新分類之前、或逐篇筆記新增約 10 篇時，主動問使用者要不要跑 `/relink` 全站讀一次補連結（`.claude/skills/relink/SKILL.md`）。沒有直接提到詞彙的獨立討論也可以在段落末尾加一行「詳見 [[…]]」；太瑣碎、不整合進知識頁的內容留在逐篇筆記，從知識頁用「詳見」連出去。
 - 總覽頁卡片：`::cards`（或 `::cards{of="<導覽區>"}`）依 `data/nav.js` 產生下一層卡片；描述取各頁 frontmatter 的 `description`，圖示取 `nav.js` 的 `icon`（對應 `lib/markdown/icons.js` 的 `CARD_ICONS`）。
 - 逐篇筆記：`content/journal/<YYYY>/<YYYYMMDD>-<slug>.md`，列表（`::journal`，含標籤篩選）與左側導覽依 frontmatter `date` 自動產生（`lib/journal.js`），不用改 `nav.js`；標籤只用 `data/tags.js` 的兩份固定清單（科別取自 `nav.js` 頁名、性質是固定幾個），主題詞不當標籤，清單外的標籤建置時會警告；頁尾「已整合至」由建置時掃描全站 `:::source{from="<檔名>"}` 產生。Claude 依速記補寫的內容包 `:::supplement`。

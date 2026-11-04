@@ -146,8 +146,16 @@ export const SIDE_NAV = {
     {
       title: '抗微生物藥物',
       items: [
+        // 抗細菌藥物依作用位置排列：細胞壁 → 細胞膜 → 葉酸 → DNA → RNA → gyrase → 50S → 30S
         page('β-lactam', 'clinical/treatments/beta-lactams'),
-        page('其他抗細菌藥物', 'clinical/treatments/other-antibacterials'),
+        page('醣胜肽類', 'clinical/treatments/glycopeptides'),
+        page('細胞膜作用藥物', 'clinical/treatments/membrane-active-agents'),
+        page('葉酸拮抗劑', 'clinical/treatments/folate-antagonists'),
+        page('Metronidazole 與 Nitrofurantoin', 'clinical/treatments/dna-damaging-agents'),
+        page('Rifamycin', 'clinical/treatments/rifamycins'),
+        page('Fluoroquinolone', 'clinical/treatments/fluoroquinolones'),
+        page('50S 核糖體抑制劑', 'clinical/treatments/50s-inhibitors'),
+        page('30S 核糖體抑制劑', 'clinical/treatments/30s-inhibitors'),
         page('抗結核藥物', 'clinical/treatments/antituberculosis'),
         page('抗病毒藥物', 'clinical/treatments/antivirals'),
         page('抗黴菌藥物', 'clinical/treatments/antifungals'),
