@@ -141,9 +141,172 @@ export const SIDE_NAV = {
     },
   ],
   'clinical/tests': [],
+  // 前 12 組是藥物治療（依藥理分類），後 7 組是非藥物治療
   'clinical/treatments': [
-    { title: '藥物治療', items: [] },
-    { title: '非藥物治療', items: [] },
+    {
+      title: '抗微生物藥物',
+      items: [
+        page('β-lactam', 'clinical/treatments/beta-lactams'),
+        page('其他抗細菌藥物', 'clinical/treatments/other-antibacterials'),
+        page('抗結核藥物', 'clinical/treatments/antituberculosis'),
+        page('抗病毒藥物', 'clinical/treatments/antivirals'),
+        page('抗黴菌藥物', 'clinical/treatments/antifungals'),
+        page('抗寄生蟲藥物', 'clinical/treatments/antiparasitics'),
+      ],
+    },
+    {
+      title: '心血管藥物',
+      items: [
+        page('降血壓藥物', 'clinical/treatments/antihypertensives'),
+        page('抗心律不整藥物', 'clinical/treatments/antiarrhythmics'),
+        page('心衰竭藥物', 'clinical/treatments/heart-failure-drugs'),
+        page('抗心絞痛與血管擴張劑', 'clinical/treatments/antianginals'),
+        page('升壓劑與強心劑', 'clinical/treatments/vasopressors-inotropes'),
+      ],
+    },
+    {
+      title: '血液藥物',
+      items: [
+        page('抗血小板藥物', 'clinical/treatments/antiplatelets'),
+        page('抗凝血藥物', 'clinical/treatments/anticoagulants'),
+        page('溶栓藥物', 'clinical/treatments/thrombolytics'),
+        page('止血與造血藥物', 'clinical/treatments/hemostatics-hematinics'),
+      ],
+    },
+    {
+      title: '代謝與內分泌藥物',
+      items: [
+        page('降血糖藥物', 'clinical/treatments/antidiabetics'),
+        page('降血脂藥物', 'clinical/treatments/lipid-lowering'),
+        page('甲狀腺與副甲狀腺藥物', 'clinical/treatments/thyroid-parathyroid-drugs'),
+        page('類固醇', 'clinical/treatments/corticosteroids'),
+        page('性荷爾蒙與避孕', 'clinical/treatments/sex-hormones-contraception'),
+        page('骨質疏鬆藥物', 'clinical/treatments/osteoporosis-drugs'),
+      ],
+    },
+    {
+      title: '呼吸道藥物',
+      items: [
+        page('氣喘與 COPD 吸入藥物', 'clinical/treatments/inhaled-therapy'),
+        page('止咳化痰與抗組織胺', 'clinical/treatments/antitussives-antihistamines'),
+      ],
+    },
+    {
+      title: '消化道藥物',
+      items: [
+        page('制酸與黏膜保護', 'clinical/treatments/acid-suppression'),
+        page('止吐與促腸胃蠕動', 'clinical/treatments/antiemetics-prokinetics'),
+        page('瀉劑與止瀉', 'clinical/treatments/laxatives-antidiarrheals'),
+        page('IBD 與肝膽藥物', 'clinical/treatments/ibd-hepatobiliary-drugs'),
+      ],
+    },
+    {
+      title: '腎泌尿藥物',
+      items: [
+        page('利尿劑', 'clinical/treatments/diuretics'),
+        page('泌尿道藥物', 'clinical/treatments/urologic-drugs'),
+      ],
+    },
+    {
+      title: '神經藥物',
+      items: [
+        page('抗癲癇藥物', 'clinical/treatments/antiseizure'),
+        page('巴金森藥物', 'clinical/treatments/antiparkinson'),
+        page('失智藥物', 'clinical/treatments/dementia-drugs'),
+        page('偏頭痛藥物', 'clinical/treatments/migraine-drugs'),
+        page('肌肉鬆弛劑', 'clinical/treatments/muscle-relaxants'),
+      ],
+    },
+    {
+      title: '精神藥物',
+      items: [
+        page('抗憂鬱劑', 'clinical/treatments/antidepressants'),
+        page('抗精神病藥物', 'clinical/treatments/antipsychotics'),
+        page('情緒穩定劑', 'clinical/treatments/mood-stabilizers'),
+        page('鎮靜安眠藥', 'clinical/treatments/sedative-hypnotics'),
+        page('ADHD 與成癮治療', 'clinical/treatments/adhd-addiction-drugs'),
+      ],
+    },
+    {
+      title: '止痛與麻醉藥物',
+      items: [
+        page('NSAID 與 acetaminophen', 'clinical/treatments/nsaids-acetaminophen'),
+        page('鴉片類', 'clinical/treatments/opioids'),
+        page('全身麻醉藥', 'clinical/treatments/general-anesthetics'),
+        page('局部麻醉藥', 'clinical/treatments/local-anesthetics'),
+        page('神經肌肉阻斷劑', 'clinical/treatments/neuromuscular-blockers'),
+      ],
+    },
+    {
+      title: '免疫與腫瘤藥物',
+      items: [
+        page('免疫抑制劑', 'clinical/treatments/immunosuppressants'),
+        page('生物製劑', 'clinical/treatments/biologics'),
+        page('化學治療', 'clinical/treatments/chemotherapy'),
+        page('標靶治療', 'clinical/treatments/targeted-therapy'),
+        page('免疫檢查點抑制劑', 'clinical/treatments/immune-checkpoint-inhibitors'),
+      ],
+    },
+    {
+      title: '特殊用藥',
+      items: [
+        page('特殊族群用藥', 'clinical/treatments/special-populations'),
+        page('中毒與解毒劑', 'clinical/treatments/antidotes'),
+        page('疫苗', 'clinical/treatments/vaccines'),
+      ],
+    },
+    {
+      title: '輸液與輸血',
+      items: [
+        page('輸液治療', 'clinical/treatments/fluid-therapy'),
+        page('電解質補充', 'clinical/treatments/electrolyte-replacement'),
+        page('輸血與血品', 'clinical/treatments/transfusion'),
+      ],
+    },
+    {
+      title: '營養支持',
+      items: [
+        page('腸道營養', 'clinical/treatments/enteral-nutrition'),
+        page('靜脈營養', 'clinical/treatments/parenteral-nutrition'),
+      ],
+    },
+    {
+      title: '呼吸支持',
+      items: [
+        page('氧氣治療', 'clinical/treatments/oxygen-therapy'),
+        page('非侵襲性通氣', 'clinical/treatments/noninvasive-ventilation'),
+        page('機械通氣', 'clinical/treatments/mechanical-ventilation'),
+      ],
+    },
+    {
+      title: '器官支持',
+      items: [
+        page('腎臟替代療法', 'clinical/treatments/renal-replacement-therapy'),
+        page('ECMO 與機械循環輔助', 'clinical/treatments/ecmo-mcs'),
+      ],
+    },
+    {
+      title: '介入治療',
+      items: [
+        page('心血管介入', 'clinical/treatments/cardiovascular-intervention'),
+        page('放射介入', 'clinical/treatments/interventional-radiology'),
+        page('內視鏡治療', 'clinical/treatments/therapeutic-endoscopy'),
+      ],
+    },
+    {
+      title: '放射與核醫治療',
+      items: [
+        page('放射治療', 'clinical/treatments/radiotherapy'),
+        page('核醫治療', 'clinical/treatments/nuclear-medicine-therapy'),
+      ],
+    },
+    {
+      title: '復健',
+      items: [
+        page('物理治療與運動處方', 'clinical/treatments/physical-therapy'),
+        page('職能與語言治療', 'clinical/treatments/occupational-speech-therapy'),
+      ],
+    },
   ],
   'clinical/skills': [],
   'clinical/general': [],

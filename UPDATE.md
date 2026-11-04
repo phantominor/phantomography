@@ -1,5 +1,8 @@
 <!-- UPDATE.md -->
 [2026/11/04]
+- **治療處置：導覽結構與 β-lactam 樣張**: 左側導覽改成 19 組（藥物 12 組依藥理分類、非藥物 7 組），共 68 頁，尚未建立的頁面顯示灰字。
+    - 新增 `clinical/treatments/beta-lactams.md`：總論（機轉、抗藥、Ambler 分類、BLI、PK/PD、過敏與交叉反應、共同副作用）、penicillin、cephalosporin、carbapenem、monobactam、依菌種與抗藥菌選藥（含流程圖）、易混淆比較。
+    - 台灣常用的藥物寫商品名，括號內寫學名。
 - **胃小腸外科：小腸惡性腫瘤組成改東西方並列**: 原本「adenocarcinoma > carcinoid > lymphoma > GIST」改為歐美 NET 與腺癌相當（NCDB/SEER 1985–2005 NET 37.4%、腺癌 36.9%，2000 年起 NET 最多，Bilimoria 2009），東亞以 lymphoma、GIST、腺癌為主（台灣多中心小腸鏡研究 29%、28%、26%，J Formos Med Assoc 2018）
 - **周報對話角色每週更換**: weekly_v4 §5、/weekly skill 加入角色每週換、台詞語氣套用角色性格、角色設定要查來源，並記錄已用過的角色
 - **醫學周報改為不經審核、藍圖 weekly_v4**: 整合 v1–v3 與第 43、44 週兩輪評分成完整規格 `frontend/blueprints/weekly_v4.md`；/weekly 直接寫正式檔、build、改知識頁、commit，不再有草稿、:::review 與評分欄
