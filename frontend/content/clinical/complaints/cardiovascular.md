@@ -12,11 +12,11 @@ status: initial
 
 - **急性胸痛**：數分鐘至數天內新發生或性質改變的胸痛；第一步不是找「最可能」的診斷，而是先排除**會致命的原因**。
 - **六大致命胸痛（must-not-miss）**：
-    - **[[心臟內科#急性冠心症（ACS）|急性冠心症（ACS）]]**。
-    - **[[心臟內科#主動脈剝離（Aortic Dissection）|主動脈剝離（aortic dissection）]]**。
-    - **[[胸腔內科#肺栓塞（Pulmonary Embolism）|肺栓塞（pulmonary embolism, PE）]]**。
+    - [[心臟內科#急性冠心症（ACS）|急性冠心症（ACS）]]。
+    - [[心臟內科#主動脈剝離（Aortic Dissection）|主動脈剝離（aortic dissection）]]。
+    - [[胸腔內科#肺栓塞（Pulmonary Embolism）|肺栓塞（pulmonary embolism, PE）]]。
     - **張力性氣胸（tension pneumothorax）**。
-    - **[[心臟內科#心包填塞（Cardiac Tamponade）|心包填塞（cardiac tamponade）]]**。
+    - [[心臟內科#心包填塞（Cardiac Tamponade）|心包填塞（cardiac tamponade）]]。
     - **食道破裂（Boerhaave syndrome）**。
 - 疼痛性質的三分法：
     - **壓迫感、悶痛、緊縮感**（pressure / tightness）→ 心肌缺血。
@@ -28,7 +28,7 @@ status: initial
 - **血行動力學不穩定**：低血壓（hypotension）、休克、意識改變（altered mental status）。
 - **ECG 上 ST 上升**、新發生的 LBBB、心律不整。
 - 冒冷汗（diaphoresis）、呼吸困難（dyspnea）、暈厥合併胸痛。
-- **兩手血壓差 :red[> 20 mmHg]**、脈搏不對稱、新出現的主動脈瓣逆流雜音 → 主動脈剝離。
+- 兩手血壓差 :red[> 20 mmHg]、脈搏不對稱、新出現的主動脈瓣逆流雜音 → 主動脈剝離。
 - 單側呼吸音消失 + 氣管偏移 + 低血壓 → 張力性氣胸。
 - **Beck triad**（低血壓 + 頸靜脈怒張（JVD） + 心音遙遠（muffled heart sounds））→ 心包填塞。
 - 劇烈嘔吐後胸痛 + 皮下氣腫（subcutaneous emphysema） → 食道破裂。
@@ -75,7 +75,7 @@ status: initial
 | ECG | **ST 上升**（或新發 LBBB、後壁 MI） | ST 下降、T 波倒置，或正常 | ST 下降、T 波倒置，或正常 |
 | Troponin | **上升** | **上升** | **正常** |
 | 病理 | 冠狀動脈完全阻塞、透壁梗塞 | 部分阻塞、心內膜下梗塞 | 部分阻塞、無心肌壞死 |
-| 再灌注 | **Primary PCI（door-to-balloon :red[≤ 90 分鐘]）** 或血栓溶解劑 | 依風險分層決定侵入性治療時機 | 同 NSTEMI |
+| 再灌注 | Primary PCI（door-to-balloon :red[≤ 90 分鐘]） 或血栓溶解劑 | 依風險分層決定侵入性治療時機 | 同 NSTEMI |
 | 血栓溶解劑 | 可用 | **不用** | **不用** |
 :::
 
@@ -113,7 +113,7 @@ flowchart TD
   K -->|"否"| M["HEART score 評估<br/>低風險 → 門診追蹤或非侵入性檢查"]:::key
 ```
 
-- **ECG：到院 :red[10 分鐘內]完成**；第一張無法診斷但症狀持續 → 每 15–30 分鐘重複。
+- ECG：到院 :red[10 分鐘內]完成；第一張無法診斷但症狀持續 → 每 15–30 分鐘重複。
     - 下壁 MI 加做**右側導程（V4R）**看右心室梗塞。
     - V1–V3 ST 下降 + R 波變高 → 懷疑**後壁 MI**，加做 V7–V9。
 - **高敏感度 troponin**：到院時與 1–3 小時後各一次（看絕對值與變化量）；症狀 < 3 小時第一次可能還沒升高。
@@ -127,7 +127,7 @@ flowchart TD
 
 - 監視器、氧氣（**SpO₂ < 90% 才給**）、靜脈留置針。
 - 懷疑 ACS：
-    - **Aspirin :red[160–325 mg] 嚼服**（排除主動脈剝離後）。
+    - Aspirin :red[160–325 mg] 嚼服（排除主動脈剝離後）。
     - NTG 舌下（**禁忌：收縮壓 < 90 mmHg、右心室梗塞、24–48 小時內使用 PDE5 抑制劑**）。
     - 疼痛控制、抗凝血（heparin）、P2Y12 抑制劑；STEMI → 再灌注。
 - 主動脈剝離：**先 IV β 阻斷劑**（esmolol、labetalol）把心跳降到 < 60、收縮壓降到 100–120 mmHg，**再加血管擴張劑**（否則反射性心搏過速）；A 型 → 緊急手術。
@@ -160,7 +160,7 @@ Cocaine 引起的胸痛 → 給單純 β 阻斷劑 → α 受體作用失去抵�
 | 類別 | 疾病 | 鑑別關鍵 |
 |---|---|---|
 | 冠狀動脈 | **穩定型心絞痛**、**血管痙攣性心絞痛（[[心臟內科#Prinzmetal（Variant）Angina\|Prinzmetal]]）**、微血管性心絞痛（microvascular angina） | Prinzmetal：**休息時、清晨**發作，短暫 ST 上升，吸菸者；微血管性：女性、冠狀動脈攝影正常 |
-| 結構性 | **[[心臟內科#主動脈瓣狹窄（Aortic Stenosis, AS）\|主動脈瓣狹窄]]**、**[[心臟內科#肥厚型心肌病變（Hypertrophic Cardiomyopathy, HCM）\|HCM]]**、肺動脈高壓 | 勞動時胸痛 + 暈厥 + 雜音 |
+| 結構性 | [[心臟內科#主動脈瓣狹窄（Aortic Stenosis, AS）\|主動脈瓣狹窄]]、[[心臟內科#肥厚型心肌病變（Hypertrophic Cardiomyopathy, HCM）\|HCM]]、肺動脈高壓 | 勞動時胸痛 + 暈厥 + 雜音 |
 | 消化 | [[消化內科#胃食道逆流（GERD）\|GERD]]、食道痙攣、[[消化內科#消化性潰瘍（Peptic Ulcer Disease, PUD）\|消化性潰瘍]] | 與進食、平躺相關；PPI 有效 |
 | 胸壁 | 肋軟骨炎 | 按壓可重現 |
 | 精神 | 焦慮、[[精神科#恐慌症（Panic Disorder）\|恐慌症]] | 排除後才下診斷 |
@@ -175,7 +175,7 @@ Cocaine 引起的胸痛 → 給單純 β 阻斷劑 → α 受體作用失去抵�
 | **無法運動** | **藥物壓力影像**：dobutamine 心臟超音波，或 adenosine/regadenoson 心肌灌注掃描 | Adenosine **禁用於氣喘、二三度房室傳導阻滯** |
 | 中低檢查前機率 | **冠狀動脈電腦斷層（CCTA）** | 陰性預測值高，可直接看冠狀動脈 |
 | 高風險結果或症狀難以控制 | **冠狀動脈攝影** | 診斷 + 治療 |
-- 運動心電圖陽性：**水平或下斜型 ST 下降 :red[≥ 1 mm]**；高風險：低運動量即出現 ST 下降、運動中血壓下降、ST 上升、持續心室心律不整。
+- 運動心電圖陽性：水平或下斜型 ST 下降 :red[≥ 1 mm]；高風險：低運動量即出現 ST 下降、運動中血壓下降、ST 上升、持續心室心律不整。
 - 運動試驗禁忌：急性 MI（2 天內）、不穩定型心絞痛、**有症狀的嚴重 AS**、未控制的心律不整、急性 PE、[[心臟內科#主動脈剝離（Aortic Dissection）|主動脈剝離]]、失代償心衰竭。
 :::
 
@@ -225,8 +225,8 @@ Cocaine 引起的胸痛 → 給單純 β 阻斷劑 → α 受體作用失去抵�
 | 心電圖型態 | 規則 | 可能診斷 |
 |---|---|---|
 | **窄 QRS（< 120 ms）** | **規則** | 竇性心搏過速、[[心臟內科#AVNRT（AV Nodal Reentrant Tachycardia）\|AVNRT]]、[[心臟內科#AVRT（AV Reentrant Tachycardia）/ WPW Syndrome\|AVRT]]、[[心臟內科#Atrial Flutter\|心房撲動（atrial flutter）]]（2:1 傳導）、心房心搏過速 |
-| 窄 QRS | **不規則** | **[[心臟內科#Atrial Fibrillation（AF）\|心房顫動（AF）]]**、心房撲動（不規則傳導）、**多源性心房心搏過速（MAT）**（≥ 3 種 P 波，見於 [[胸腔內科#慢性阻塞性肺病（COPD）\|COPD]]） |
-| **寬 QRS（≥ 120 ms）** | 規則 | **[[心臟內科#Ventricular Tachycardia（VT）\|心室心搏過速（VT）]]**（預設）、SVT 合併束支傳導阻滯、逆向型 AVRT |
+| 窄 QRS | **不規則** | [[心臟內科#Atrial Fibrillation（AF）\|心房顫動（AF）]]、心房撲動（不規則傳導）、**多源性心房心搏過速（MAT）**（≥ 3 種 P 波，見於 [[胸腔內科#慢性阻塞性肺病（COPD）\|COPD]]） |
+| **寬 QRS（≥ 120 ms）** | 規則 | [[心臟內科#Ventricular Tachycardia（VT）\|心室心搏過速（VT）]]（預設）、SVT 合併束支傳導阻滯、逆向型 AVRT |
 | 寬 QRS | 不規則 | **預激症候群合併 AF（pre-excited AF）**、多形性 VT、[[心臟內科#Torsades de Pointes（TdP）\|Torsades de pointes]]、AF 合併束支傳導阻滯 |
 
 #### 易混淆鑑別
@@ -288,7 +288,7 @@ Cocaine 引起的胸痛 → 給單純 β 阻斷劑 → α 受體作用失去抵�
 - **不穩定**（低血壓、意識改變、休克、缺血性胸痛、[[心臟內科#急性心衰竭（Acute Decompensated HF）|急性心衰竭]]）→ **同步電擊（synchronized cardioversion）**。
 - **穩定、窄 QRS、規則**：
     1. **Vagal maneuver**（修正版 Valsalva、頸動脈竇按摩）。
-    2. **Adenosine :red[6 mg] 快速 IV push** → 無效 → :red[12 mg]。
+    2. Adenosine :red[6 mg] 快速 IV push → 無效 → :red[12 mg]。
     3. β 阻斷劑或 CCB（diltiazem、verapamil）。
 - **穩定、寬 QRS**：
     - 規則且單形 → 可試 adenosine；amiodarone（150 mg 10 分鐘以上）或 procainamide。
@@ -306,17 +306,17 @@ WPW 病人發生 AF（不規則、寬窄不一的 QRS）→ 依一般 AF 給 dil
 - 心跳 :red[< 50–60 次/分]；**有症狀**（頭暈（dizziness）、暈厥、疲倦（fatigue）、低血壓、意識改變、心衰竭、胸痛（chest pain））才需要處理。
 - 依位置分：
     - **竇房結功能異常**：竇性心搏過緩、竇性停頓、[[心臟內科#Sick Sinus Syndrome（SSS）|病竇症候群（SSS）]]（含 tachy-brady syndrome）。
-    - **[[心臟內科#AV Block|房室傳導阻滯（AV block）]]**。
+    - [[心臟內科#AV Block|房室傳導阻滯（AV block）]]。
 
 #### 鑑別診斷
 
 | 類別 | 原因 |
 |---|---|
 | 生理性 | 運動員、睡眠、迷走神經張力高 |
-| **藥物** | **β 阻斷劑、CCB（verapamil、diltiazem）、digoxin**、amiodarone、clonidine、ivabradine、acetylcholinesterase inhibitor |
-| 電解質與代謝 | **[[腎臟內科#高血鉀（Hyperkalemia，K⁺ > 5.0 mEq/L）\|高血鉀]]**、**[[代謝內分泌科#甲狀腺機能低下（Hypothyroidism）\|甲狀腺功能低下]]**、低體溫 |
+| 藥物 | **β 阻斷劑、CCB（verapamil、diltiazem）、digoxin**、amiodarone、clonidine、ivabradine、acetylcholinesterase inhibitor |
+| 電解質與代謝 | [[腎臟內科#高血鉀（Hyperkalemia，K⁺ > 5.0 mEq/L）\|高血鉀]]、[[代謝內分泌科#甲狀腺機能低下（Hypothyroidism）\|甲狀腺功能低下]]、低體溫 |
 | 心臟 | **下壁 MI**（右冠狀動脈供應房室結）、傳導系統退化、[[心臟內科#Myocarditis\|心肌炎]]、浸潤性疾病（類澱粉、[[免疫風濕科#Sarcoidosis（類肉瘤病）\|類肉瘤病]]）、心臟手術後 |
-| 感染 | **[[感染科#Borrelia burgdorferi（Lyme disease）\|Lyme disease]]**、Chagas disease、[[心臟內科#分類與好發\|感染性心內膜炎]]（主動脈根部膿瘍） |
+| 感染 | [[感染科#Borrelia burgdorferi（Lyme disease）\|Lyme disease]]、Chagas disease、[[心臟內科#分類與好發\|感染性心內膜炎]]（主動脈根部膿瘍） |
 | 神經 | **顱內壓上升（Cushing reflex：高血壓 + 心搏過緩 + 呼吸不規則）**、[[耳鼻喉科#阻塞性睡眠呼吸中止症（OSA）\|睡眠呼吸中止]] |
 
 #### 易混淆鑑別
@@ -377,9 +377,9 @@ WPW 病人發生 AF（不規則、寬窄不一的 QRS）→ 依一般 AF 給 dil
 
 | 類別 | 代表 | 特徵 |
 |---|---|---|
-| **反射性（reflex）**（最常見） | **血管迷走性（vasovagal）**、情境性（排尿、排便、咳嗽、吞嚥）、頸動脈竇過敏 | 誘發情境（久站、疼痛、看到血）、**前驅症狀**（噁心、冒汗、視線變暗） |
-| **姿勢性低血壓（orthostatic hypotension）** | 脫水、出血、藥物（降壓藥、利尿劑、α 阻斷劑、硝酸鹽）、**自主神經失調**（糖尿病、[[神經內科#巴金森病（Parkinson's Disease, PD）\|Parkinson]]、MSA、類澱粉） | **站起後**數分鐘內發生 |
-| **心因性（cardiac）**（最危險） | 心律不整（心搏過緩、VT、[[心臟內科#Torsades de Pointes（TdP）\|長 QT]]、Brugada、[[心臟內科#AVRT（AV Reentrant Tachycardia）/ WPW Syndrome\|WPW]]）、結構性（**[[心臟內科#主動脈瓣狹窄（Aortic Stenosis, AS）\|AS]]**、**[[心臟內科#肥厚型心肌病變（Hypertrophic Cardiomyopathy, HCM）\|HCM]]**、[[胸腔內科#肺栓塞（Pulmonary Embolism）\|PE]]、[[心臟內科#心包填塞（Cardiac Tamponade）\|心包填塞]]、[[心臟內科#主動脈剝離（Aortic Dissection）\|主動脈剝離]]、心房黏液瘤） | **運動中、平躺時、無前驅症狀**、心悸後暈厥 |
+| 反射性（reflex）（最常見） | **血管迷走性（vasovagal）**、情境性（排尿、排便、咳嗽、吞嚥）、頸動脈竇過敏 | 誘發情境（久站、疼痛、看到血）、**前驅症狀**（噁心、冒汗、視線變暗） |
+| 姿勢性低血壓（orthostatic hypotension） | 脫水、出血、藥物（降壓藥、利尿劑、α 阻斷劑、硝酸鹽）、**自主神經失調**（糖尿病、[[神經內科#巴金森病（Parkinson's Disease, PD）\|Parkinson]]、MSA、類澱粉） | **站起後**數分鐘內發生 |
+| 心因性（cardiac）（最危險） | 心律不整（心搏過緩、VT、[[心臟內科#Torsades de Pointes（TdP）\|長 QT]]、Brugada、[[心臟內科#AVRT（AV Reentrant Tachycardia）/ WPW Syndrome\|WPW]]）、結構性（[[心臟內科#主動脈瓣狹窄（Aortic Stenosis, AS）\|AS]]、[[心臟內科#肥厚型心肌病變（Hypertrophic Cardiomyopathy, HCM）\|HCM]]、[[胸腔內科#肺栓塞（Pulmonary Embolism）\|PE]]、[[心臟內科#心包填塞（Cardiac Tamponade）\|心包填塞]]、[[心臟內科#主動脈剝離（Aortic Dissection）\|主動脈剝離]]、心房黏液瘤） | **運動中、平躺時、無前驅症狀**、心悸後暈厥 |
 
 #### Red flags（傾向心因性）
 
@@ -446,7 +446,7 @@ flowchart TD
 ```
 
 - **所有人**：詳細病史（目擊者描述）、理學檢查、**姿勢性生命徵象**、**12 導程 ECG**。
-- **姿勢性低血壓**：站立 3 分鐘內**收縮壓下降 :red[≥ 20 mmHg] 或舒張壓下降 ≥ 10 mmHg**。
+- **姿勢性低血壓**：站立 3 分鐘內收縮壓下降 :red[≥ 20 mmHg] 或舒張壓下降 ≥ 10 mmHg。
     - 心跳同時上升 → 傾向**容積不足**；心跳不升 → 傾向**自主神經失調**或藥物（β 阻斷劑）。
 - **姿勢性心搏過速症候群（POTS）**：站立 10 分鐘內心跳上升 :red[≥ 30 次/分]（12–19 歲 ≥ 40），**無**姿勢性低血壓；年輕女性為主。
 - 依懷疑方向：
@@ -484,15 +484,15 @@ flowchart TD
 
 | 雜音 | 位置與傳導 | 疾病與特徵 |
 |---|---|---|
-| **收縮期射血型** | **右上胸骨緣 → 頸動脈** | **[[心臟內科#主動脈瓣狹窄（Aortic Stenosis, AS）\|主動脈瓣狹窄（AS）]]**：越嚴重峰值越晚、S2 變弱 |
-| 收縮期射血型 | 左下胸骨緣 | **[[心臟內科#肥厚型心肌病變（Hypertrophic Cardiomyopathy, HCM）\|HCM]]**：**Valsalva、站立時變大** |
-| 收縮期射血型 | 左上胸骨緣 | 肺動脈瓣狹窄、**[[心血管外科#心房中隔缺損（ASD）\|ASD]]**（血流增加 + **S2 固定分裂**）、無害性雜音 |
-| **全收縮期** | **心尖 → 腋下** | **[[心臟內科#二尖瓣閉鎖不全（Mitral Regurgitation, MR）\|二尖瓣閉鎖不全（MR）]]** |
-| 全收縮期 | 左下胸骨緣 | **[[心臟內科#三尖瓣閉鎖不全（Tricuspid Regurgitation, TR）\|TR]]**（**吸氣變大**）、**[[心血管外科#心室中隔缺損（VSD）\|VSD]]**（粗糙、常有震顫） |
+| **收縮期射血型** | **右上胸骨緣 → 頸動脈** | [[心臟內科#主動脈瓣狹窄（Aortic Stenosis, AS）\|主動脈瓣狹窄（AS）]]：越嚴重峰值越晚、S2 變弱 |
+| 收縮期射血型 | 左下胸骨緣 | [[心臟內科#肥厚型心肌病變（Hypertrophic Cardiomyopathy, HCM）\|HCM]]：**Valsalva、站立時變大** |
+| 收縮期射血型 | 左上胸骨緣 | 肺動脈瓣狹窄、[[心血管外科#心房中隔缺損（ASD）\|ASD]]（血流增加 + **S2 固定分裂**）、無害性雜音 |
+| **全收縮期** | **心尖 → 腋下** | [[心臟內科#二尖瓣閉鎖不全（Mitral Regurgitation, MR）\|二尖瓣閉鎖不全（MR）]] |
+| 全收縮期 | 左下胸骨緣 | [[心臟內科#三尖瓣閉鎖不全（Tricuspid Regurgitation, TR）\|TR]]（**吸氣變大**）、[[心血管外科#心室中隔缺損（VSD）\|VSD]]（粗糙、常有震顫） |
 | 收縮中期喀喇音 + 收縮晚期雜音 | 心尖 | **二尖瓣脫垂（MVP）** |
-| **舒張早期遞減型** | 左胸骨緣，**前傾吐氣時**最清楚 | **[[心臟內科#主動脈瓣閉鎖不全（Aortic Regurgitation, AR）\|主動脈瓣閉鎖不全（AR）]]**；肺動脈瓣逆流（Graham Steell） |
-| **開瓣音 + 舒張中期隆隆聲** | 心尖，**左側臥、用鐘面** | **[[心臟內科#二尖瓣狹窄（Mitral Stenosis, MS）\|二尖瓣狹窄（MS）]]**；AR 的 Austin Flint 雜音 |
-| **連續性機器聲** | 左上胸骨緣、鎖骨下 | **[[心血管外科#開放性動脈導管（PDA）\|PDA]]**、動靜脈瘻管、靜脈嗡嗡聲（venous hum） |
+| **舒張早期遞減型** | 左胸骨緣，**前傾吐氣時**最清楚 | [[心臟內科#主動脈瓣閉鎖不全（Aortic Regurgitation, AR）\|主動脈瓣閉鎖不全（AR）]]；肺動脈瓣逆流（Graham Steell） |
+| **開瓣音 + 舒張中期隆隆聲** | 心尖，**左側臥、用鐘面** | [[心臟內科#二尖瓣狹窄（Mitral Stenosis, MS）\|二尖瓣狹窄（MS）]]；AR 的 Austin Flint 雜音 |
+| **連續性機器聲** | 左上胸骨緣、鎖骨下 | [[心血管外科#開放性動脈導管（PDA）\|PDA]]、動靜脈瘻管、靜脈嗡嗡聲（venous hum） |
 
 #### 易混淆鑑別
 
@@ -523,7 +523,7 @@ flowchart TD
 | 時相 | **舒張早期**、遞減 | **舒張中期**隆隆聲，前有**開瓣音** |
 | 位置與姿勢 | 左胸骨緣，**坐起前傾、吐氣末** | 心尖，**左側臥、鐘面** |
 | 相關徵象 | **脈壓變寬**、water-hammer pulse（Corrigan）、de Musset、Quincke、Duroziez、Traube、**Hill sign** | **S1 變大聲**、**S2–開瓣音間距越短越嚴重**、AF、咯血、聲音沙啞（Ortner） |
-| 常見原因 | 主動脈根部擴大（Marfan、梅毒、剝離）、二葉瓣、心內膜炎 | **[[心血管外科#二尖瓣狹窄（Mitral Stenosis, MS）\|風濕性心臟病]]**（幾乎都是） |
+| 常見原因 | 主動脈根部擴大（Marfan、梅毒、剝離）、二葉瓣、心內膜炎 | [[心血管外科#二尖瓣狹窄（Mitral Stenosis, MS）\|風濕性心臟病]]（幾乎都是） |
 :::
 
 :::compare[兒童無害性雜音 vs 病理性雜音]
@@ -548,7 +548,7 @@ flowchart TD
 - **嚴重 AS** 的標準：主動脈瓣面積 :red[< 1.0 cm²]、平均壓差 **≥ 40 mmHg**、最大流速 **≥ 4 m/s**。
     - 出現**心絞痛、暈厥、心衰竭**（平均存活約 5、3、2 年）→ **瓣膜置換**（SAVR 或 TAVI）。
 - 心電圖（LVH、心房擴大、AF）、胸部 X 光（心影、肺鬱血）。
-- 新出現的雜音 + 發燒 → **[[心臟內科#Modified Duke Criteria|感染性心內膜炎]]**：血液培養（≥ 3 套）+ 心臟超音波。
+- 新出現的雜音 + 發燒 → [[心臟內科#Modified Duke Criteria|感染性心內膜炎]]：血液培養（≥ 3 套）+ 心臟超音波。
 
 :::exam
 動態聽診是常考題：Valsalva 或站立時變大的收縮期雜音只有 HCM（與 MVP 變長）；握拳增加後負荷，使逆流型雜音（MR、VSD、AR）變大、AS 與 HCM 變小；吸氣使右側雜音變大。
@@ -566,7 +566,7 @@ flowchart TD
 | **S2 寬分裂** | 吸氣時更寬 | **RBBB**、肺動脈瓣狹窄 |
 | **S2 固定分裂** | 不隨呼吸改變 | **ASD** |
 | **S2 矛盾分裂** | **吐氣時**分裂 | **LBBB**、嚴重 AS、HCM、右心室節律 |
-| P2 變大聲 | — | **[[心臟內科#肺動脈高壓（Pulmonary Hypertension, PH）\|肺動脈高壓]]** |
+| P2 變大聲 | — | [[心臟內科#肺動脈高壓（Pulmonary Hypertension, PH）\|肺動脈高壓]] |
 | **S3** | S2 之後（舒張早期） | **容積負荷**：心衰竭、MR；< 40 歲、孕婦、運動員可為正常 |
 | **S4** | S1 之前（心房收縮） | **心室僵硬**：LVH、高血壓、AS、HCM、急性 MI；**AF 時不會有 S4** |
 | 開瓣音（opening snap） | S2 後 | MS |
@@ -587,7 +587,7 @@ flowchart TD
 | 巨大 a 波 | 三尖瓣狹窄、肺動脈瓣狹窄、肺動脈高壓 |
 | **巨大 v 波** | **TR** |
 | **y 下降陡峭**（Friedreich sign） | **縮窄性心包膜炎**、限制型心肌病變 |
-| **y 下降消失** | **[[心臟內科#心包填塞（Cardiac Tamponade）\|心包填塞]]** |
+| **y 下降消失** | [[心臟內科#心包填塞（Cardiac Tamponade）\|心包填塞]] |
 | **Kussmaul sign**（吸氣時 JVP 上升） | **縮窄性心包膜炎**、右心室梗塞、限制型心肌病變 |
 | 肝頸靜脈逆流（hepatojugular reflux） | 右心衰竭 |
 
@@ -601,7 +601,7 @@ flowchart TD
 | **奇脈（pulsus paradoxus）**：吸氣時收縮壓下降 :red[> 10 mmHg] | **心包填塞**、嚴重氣喘或 [[胸腔內科#慢性阻塞性肺病（COPD）\|COPD]]、大量 PE |
 | **交替脈（pulsus alternans）** | **嚴重左心室衰竭** |
 | 兩手脈搏或血壓不對稱 | [[心臟內科#主動脈剝離（Aortic Dissection）\|主動脈剝離]]、鎖骨下動脈狹窄、主動脈縮窄 |
-| **橈股動脈延遲（radiofemoral delay）** | **[[心血管外科#主動脈縮窄（Coarctation of Aorta, CoA）\|主動脈縮窄]]** |
+| **橈股動脈延遲（radiofemoral delay）** | [[心血管外科#主動脈縮窄（Coarctation of Aorta, CoA）\|主動脈縮窄]] |
 
 #### 易混淆鑑別
 
@@ -614,7 +614,7 @@ flowchart TD
 | 額外心音 | — | **心包膜敲擊音** | S3、S4 |
 | 影像 | **心包膜積液**、舒張期右心室塌陷 | **心包膜增厚或鈣化**、心室間相互依賴 | **心肌增厚**、**雙心房明顯擴大** |
 | BNP | — | 正常或輕微上升 | **明顯上升** |
-| 常見原因 | 惡性腫瘤、尿毒症、外傷、心臟手術、主動脈剝離 | **結核**（開發中國家）、心臟手術、放射線、病毒 | **[[血液腫瘤科#Primary Amyloidosis（AL Amyloidosis）\|類澱粉沉積]]**、[[免疫風濕科#Sarcoidosis（類肉瘤病）\|類肉瘤病]]、[[消化內科#Hemochromatosis（血色素沉著症）\|血色素沉著症]] |
+| 常見原因 | 惡性腫瘤、尿毒症、外傷、心臟手術、主動脈剝離 | **結核**（開發中國家）、心臟手術、放射線、病毒 | [[血液腫瘤科#Primary Amyloidosis（AL Amyloidosis）\|類澱粉沉積]]、[[免疫風濕科#Sarcoidosis（類肉瘤病）\|類肉瘤病]]、[[消化內科#Hemochromatosis（血色素沉著症）\|血色素沉著症]] |
 | 治療 | **心包膜穿刺** | **心包膜切除** | 治療原病 |
 - 詳見 [[心臟內科#縮窄性心包膜炎（Constrictive Pericarditis）|縮窄性心包膜炎]]、[[心臟內科#限制型心肌病變（Restrictive Cardiomyopathy, RCM）|限制型心肌病變]]。
 :::
@@ -638,20 +638,20 @@ flowchart TD
 - **單側小腿腫痛**（DVT → PE 風險）。
 - 水腫合併**呼吸困難（dyspnea）、端坐呼吸（orthopnea）**（心衰竭、肺水腫）。
 - 快速發生的**臉部、嘴唇、喉頭水腫** → **[[免疫風濕科#血管性水腫（Angioedema）|血管性水腫]]（angioedema）**：過敏或 ACE 抑制劑。
-- 紅腫熱痛快速擴散、劇痛不成比例 → **[[外科概論#壞死性筋膜炎（Necrotizing Fasciitis）|壞死性筋膜炎]]**。
-- 外傷或手術後肢體緊繃劇痛、被動伸展痛 → **[[外科概論#Compartment Syndrome（四肢）|腔室症候群]]**。
+- 紅腫熱痛快速擴散、劇痛不成比例 → [[外科概論#壞死性筋膜炎（Necrotizing Fasciitis）|壞死性筋膜炎]]。
+- 外傷或手術後肢體緊繃劇痛、被動伸展痛 → [[外科概論#Compartment Syndrome（四肢）|腔室症候群]]。
 
 #### 鑑別診斷
 
 | 分布 | 原因 | 鑑別關鍵 |
 |---|---|---|
-| **雙側（全身性）** | **[[心臟內科#急性心衰竭（Acute Decompensated HF）\|心衰竭]]** | 頸靜脈怒張、S3、端坐呼吸、BNP 上升 |
-| 雙側 | **[[消化內科#肝硬化（Liver Cirrhosis）\|肝硬化]]** | 腹水、蜘蛛痣、黃疸、低白蛋白 |
-| 雙側 | **[[腎臟內科#Nephrotic Syndrome\|腎病症候群]]**、[[腎臟內科#急性腎絲球腎炎（AGN）\|急性腎絲球腎炎]]、CKD | **眼瞼水腫（晨起明顯）**、蛋白尿 |
+| **雙側（全身性）** | [[心臟內科#急性心衰竭（Acute Decompensated HF）\|心衰竭]] | 頸靜脈怒張、S3、端坐呼吸、BNP 上升 |
+| 雙側 | [[消化內科#肝硬化（Liver Cirrhosis）\|肝硬化]] | 腹水、蜘蛛痣、黃疸、低白蛋白 |
+| 雙側 | [[腎臟內科#Nephrotic Syndrome\|腎病症候群]]、[[腎臟內科#急性腎絲球腎炎（AGN）\|急性腎絲球腎炎]]、CKD | **眼瞼水腫（晨起明顯）**、蛋白尿 |
 | 雙側 | **藥物**：**dihydropyridine CCB（amlodipine）**、NSAID、類固醇、**pioglitazone**、minoxidil、gabapentin/pregabalin | 用藥後出現 |
-| 雙側 | **[[心血管外科#慢性靜脈功能不全（Chronic Venous Insufficiency, CVI）\|慢性靜脈功能不全]]** | 下午加重、色素沉著（hemosiderin）、[[心血管外科#下肢靜脈曲張（Varicose Veins）\|靜脈曲張]]、鬱積性皮膚炎 |
+| 雙側 | [[心血管外科#慢性靜脈功能不全（Chronic Venous Insufficiency, CVI）\|慢性靜脈功能不全]] | 下午加重、色素沉著（hemosiderin）、[[心血管外科#下肢靜脈曲張（Varicose Veins）\|靜脈曲張]]、鬱積性皮膚炎 |
 | 雙側 | [[代謝內分泌科#甲狀腺機能低下（Hypothyroidism）\|甲狀腺功能低下]]、懷孕、[[產科#子癇前症（Preeclampsia）\|子癇前症]]、營養不良（kwashiorkor）、[[心臟內科#肺動脈高壓（Pulmonary Hypertension, PH）\|肺動脈高壓]] | 非凹陷（黏液水腫）；孕期 + 高血壓 + 蛋白尿 |
-| **單側** | **[[心血管外科#深部靜脈栓塞（DVT）\|深部靜脈栓塞（DVT）]]**、[[皮膚科#蜂窩性組織炎（Cellulitis）與丹毒（Erysipelas）\|蜂窩性組織炎]]、**Baker cyst 破裂**、淋巴水腫、May-Thurner syndrome（左下肢） | Wells score、D-dimer、壓迫式超音波 |
+| **單側** | [[心血管外科#深部靜脈栓塞（DVT）\|深部靜脈栓塞（DVT）]]、[[皮膚科#蜂窩性組織炎（Cellulitis）與丹毒（Erysipelas）\|蜂窩性組織炎]]、**Baker cyst 破裂**、淋巴水腫、May-Thurner syndrome（左下肢） | Wells score、D-dimer、壓迫式超音波 |
 | 局部 | 血管性水腫、過敏、昆蟲叮咬、上腔靜脈症候群（臉部與上肢） | 皮疹、癢、ACE 抑制劑使用 |
 
 #### 易混淆鑑別
@@ -719,7 +719,7 @@ flowchart TD
 #### Red flags（標的器官損傷）
 
 - 腦：**高血壓腦病變**（頭痛（headache）、意識改變、抽搐、視乳突水腫）、[[神經內科#腦內出血（ICH）|腦出血]]、[[神經內科#缺血性中風急性處理|缺血性中風]]。
-- 心：**[[心臟內科#急性冠心症（ACS）|急性冠心症]]**、**急性肺水腫**、**[[心臟內科#主動脈剝離（Aortic Dissection）|主動脈剝離]]**。
+- 心：[[心臟內科#急性冠心症（ACS）|急性冠心症]]、**急性肺水腫**、[[心臟內科#主動脈剝離（Aortic Dissection）|主動脈剝離]]。
 - 腎：急性腎損傷、血尿、蛋白尿（proteinuria）。
 - 眼：視網膜出血、滲出、視乳突水腫。
 - 孕婦：**[[產科#子癇前症（Preeclampsia）|子癇前症]]、子癇**。
@@ -732,12 +732,12 @@ flowchart TD
 | 原因 | 線索 | 篩檢 |
 |---|---|---|
 | **腎實質疾病** | 肌酸酐上升、蛋白尿、血尿 | 腎功能、尿液 |
-| **[[腎臟內科#腎動脈狹窄（Renal Artery Stenosis）\|腎動脈狹窄]]** | **年輕女性（FMD）**或老年動脈硬化；**腹部雜音**、**反覆急性肺水腫（flash pulmonary edema）**、**ACEi 後肌酸酐上升 > 30%**、兩腎大小不對稱 | 腎動脈超音波、CTA、MRA |
-| **[[代謝內分泌科#原發性醛固酮過多症（Primary Aldosteronism / Conn's Syndrome）\|原發性醛固酮過多症]]**（最常見的內分泌原因） | **低血鉀**（多數血鉀正常）、頑固性高血壓、[[代謝內分泌科#腎上腺偶發瘤（Adrenal Incidentaloma）\|腎上腺偶發瘤]] | **Aldosterone/renin 比值（ARR）** → 確認試驗 → CT → 腎上腺靜脈採樣 |
-| **[[代謝內分泌科#嗜鉻細胞瘤（Pheochromocytoma）\|嗜鉻細胞瘤]]** | **陣發性頭痛、冒汗、心悸** + 高血壓 | **血漿游離 metanephrines** |
-| **[[代謝內分泌科#庫欣氏症候群（Cushing's Syndrome）\|庫欣氏症候群]]** | 向心性肥胖、紫紋、月亮臉 | 1 mg dexamethasone 抑制試驗、24 小時尿液 cortisol |
+| [[腎臟內科#腎動脈狹窄（Renal Artery Stenosis）\|腎動脈狹窄]] | **年輕女性（FMD）**或老年動脈硬化；**腹部雜音**、**反覆急性肺水腫（flash pulmonary edema）**、**ACEi 後肌酸酐上升 > 30%**、兩腎大小不對稱 | 腎動脈超音波、CTA、MRA |
+| [[代謝內分泌科#原發性醛固酮過多症（Primary Aldosteronism / Conn's Syndrome）\|原發性醛固酮過多症]]（最常見的內分泌原因） | **低血鉀**（多數血鉀正常）、頑固性高血壓、[[代謝內分泌科#腎上腺偶發瘤（Adrenal Incidentaloma）\|腎上腺偶發瘤]] | **Aldosterone/renin 比值（ARR）** → 確認試驗 → CT → 腎上腺靜脈採樣 |
+| [[代謝內分泌科#嗜鉻細胞瘤（Pheochromocytoma）\|嗜鉻細胞瘤]] | **陣發性頭痛、冒汗、心悸** + 高血壓 | **血漿游離 metanephrines** |
+| [[代謝內分泌科#庫欣氏症候群（Cushing's Syndrome）\|庫欣氏症候群]] | 向心性肥胖、紫紋、月亮臉 | 1 mg dexamethasone 抑制試驗、24 小時尿液 cortisol |
 | 甲狀腺疾病 | 亢進（收縮壓高、脈壓寬）、低下（舒張壓高） | TSH |
-| **[[胸腔內科#阻塞性睡眠呼吸中止症（OSA）\|阻塞性睡眠呼吸中止]]** | 肥胖、打鼾、白天嗜睡、晨起頭痛 | 睡眠多項生理檢查 |
+| [[胸腔內科#阻塞性睡眠呼吸中止症（OSA）\|阻塞性睡眠呼吸中止]] | 肥胖、打鼾、白天嗜睡、晨起頭痛 | 睡眠多項生理檢查 |
 | **主動脈縮窄** | **年輕人**、上肢血壓 > 下肢、**橈股動脈延遲**、**肋骨切跡（rib notching）** | 心臟超音波、CTA |
 | 藥物與物質 | **NSAID**、口服避孕藥、類固醇、感冒藥（decongestant）、cyclosporine、EPO、**甘草**、酒精、cocaine | 用藥史 |
 | [[代謝內分泌科#原發性副甲狀腺機能亢進（Primary Hyperparathyroidism）\|原發性副甲狀腺亢進]] | 高血鈣 | 血鈣、PTH |
@@ -751,14 +751,14 @@ flowchart TD
 | 急性標的器官損傷 | **有** | **無** |
 | 處置地點 | **加護病房** | 門診或急診短暫觀察 |
 | 藥物 | **IV、可調整劑量** | **口服** |
-| 降壓速度 | **第 1 小時降 MAP :red[≤ 25%]** → 之後 2–6 小時降到 160/100–110 → 24–48 小時內逐步到正常 | **24–48 小時內**逐步下降 |
+| 降壓速度 | 第 1 小時降 MAP :red[≤ 25%] → 之後 2–6 小時降到 160/100–110 → 24–48 小時內逐步到正常 | **24–48 小時內**逐步下降 |
 | 例外 | 主動脈剝離、子癇前症、腦中風另有目標（見下表） | — |
 :::
 
 :::compare[高血壓急症：依情境的目標與藥物]
 | 情境 | 降壓目標 | 首選藥物 | 避免 |
 |---|---|---|---|
-| **主動脈剝離** | **收縮壓 :red[< 120 mmHg]、心跳 < 60，第 1 小時內達成** | **Esmolol 或 labetalol 先給** → 再加 nicardipine 或 nitroprusside | 先給單純血管擴張劑（反射性心搏過速） |
+| **主動脈剝離** | 收縮壓 :red[< 120 mmHg]、心跳 < 60，第 1 小時內達成 | **Esmolol 或 labetalol 先給** → 再加 nicardipine 或 nitroprusside | 先給單純血管擴張劑（反射性心搏過速） |
 | **急性肺水腫** | 快速改善症狀 | **Nitroglycerin**、loop 利尿劑 | β 阻斷劑（急性期） |
 | **急性冠心症** | 改善缺血 | **Nitroglycerin**、β 阻斷劑 | Hydralazine（反射性心搏過速） |
 | **子癇前症、子癇** | :red[**≥ 160/110**] **即治療** | **Labetalol、hydralazine、口服 nifedipine**；MgSO₄ 預防抽搐 | **ACEi/ARB**、nitroprusside |
@@ -800,7 +800,7 @@ flowchart TD
 
 #### 定義與分類
 
-- **休克**：組織灌流不足以供應氧氣需求；常見指標：**MAP :red[< 65 mmHg]**、**lactate > 2 mmol/L**、尿量 < 0.5 mL/kg/h、意識改變、皮膚濕冷或花斑（mottling）。
+- **休克**：組織灌流不足以供應氧氣需求；常見指標：MAP :red[< 65 mmHg]、**lactate > 2 mmol/L**、尿量 < 0.5 mL/kg/h、意識改變、皮膚濕冷或花斑（mottling）。
 - **Shock index**（心跳 ÷ 收縮壓）:red[**> 1**] → 提示休克，即使血壓還正常。
 - 四大類：低血容積性、心因性、分布性、阻塞性。
 
@@ -809,7 +809,7 @@ flowchart TD
 :::compare[休克的血行動力學]
 | | 低血容積性 | 心因性 | 分布性（敗血性） | 阻塞性 |
 |---|---|---|---|---|
-| 代表 | 出血、腹瀉、燒傷 | **MI**、[[心臟內科#Myocarditis\|心肌炎]]、嚴重瓣膜疾病、心律不整 | **[[外科概論#Sepsis 與 Septic Shock\|敗血症]]**、**[[免疫風濕科#過敏性休克（Anaphylaxis）\|過敏性休克]]**、**[[神經外科#神經性休克（Neurogenic Shock）\|神經性休克]]**、[[代謝內分泌科#腎上腺危象（Adrenal Crisis）\|腎上腺危象]] | **PE**、**心包填塞**、**張力性氣胸** |
+| 代表 | 出血、腹瀉、燒傷 | **MI**、[[心臟內科#Myocarditis\|心肌炎]]、嚴重瓣膜疾病、心律不整 | [[外科概論#Sepsis 與 Septic Shock\|敗血症]]、[[免疫風濕科#過敏性休克（Anaphylaxis）\|過敏性休克]]、[[神經外科#神經性休克（Neurogenic Shock）\|神經性休克]]、[[代謝內分泌科#腎上腺危象（Adrenal Crisis）\|腎上腺危象]] | **PE**、**心包填塞**、**張力性氣胸** |
 | 心輸出量 | **↓** | **↓** | **↑（早期）** | **↓** |
 | 全身血管阻力（SVR） | ↑ | ↑ | **↓** | ↑ |
 | 中心靜脈壓（CVP） | **↓** | **↑** | ↓ 或正常 | **↑** |
@@ -837,10 +837,10 @@ flowchart TD
     - 3 小時內給 :red[**30 mL/kg**] **晶體輸液**。
     - 第 1 小時內給**廣效抗生素**（先抽血液培養）。
     - **Norepinephrine** 為第一線升壓劑，目標 **MAP ≥ 65 mmHg**；不足 → 加 vasopressin；仍不足 → hydrocortisone。
-- **過敏性休克**：**Epinephrine :red[0.3–0.5 mg IM]（1 mg/mL）大腿前外側**，5–15 分鐘可重複；輸液；抗組織胺與類固醇為輔助。
+- **過敏性休克**：Epinephrine :red[0.3–0.5 mg IM]（1 mg/mL）大腿前外側，5–15 分鐘可重複；輸液；抗組織胺與類固醇為輔助。
 - **心因性休克**：norepinephrine + 強心劑（dobutamine）；急性 MI → 緊急再灌注；必要時機械循環支持（IABP、ECMO）。
 - **出血性休克**：止血、平衡輸血（血漿：血小板：紅血球接近 1:1:1）、tranexamic acid（受傷 3 小時內），詳見 [[外科概論#出血性休克|出血性休克]]。
-- **腎上腺危象**：**hydrocortisone :red[100 mg] IV**（不必等檢驗結果）+ 輸液 + 葡萄糖。
+- **腎上腺危象**：hydrocortisone :red[100 mg] IV（不必等檢驗結果）+ 輸液 + 葡萄糖。
 
 :::pitfall
 年輕外傷病人血壓正常 → 判斷沒有休克 → 漏掉代償中的出血（失血 15–30% 時主要只有心搏過速（tachycardia）、脈壓變窄）。服用 β 阻斷劑的老人連心搏過速也不會出現。看 shock index、lactate、皮膚灌流，不只看血壓。
@@ -852,7 +852,7 @@ flowchart TD
 
 - **間歇性跛行（intermittent claudication）**：走路走到固定距離出現肌肉痠痛，休息數分鐘即緩解。
     - 疼痛部位反映狹窄位置：**小腿**（股膕動脈，最常見）、大腿與臀部（主動脈髂動脈）。
-    - **Leriche syndrome**：臀部跛行 + **股動脈脈搏消失** + **[[泌尿科#勃起功能障礙（Erectile Dysfunction, ED）|勃起功能障礙]]**（主動脈髂動脈阻塞）。
+    - **Leriche syndrome**：臀部跛行 + **股動脈脈搏消失** + [[泌尿科#勃起功能障礙（Erectile Dysfunction, ED）|勃起功能障礙]]（主動脈髂動脈阻塞）。
 - **慢性威脅肢體缺血（CLTI）**：**休息痛**（夜間、腳垂下床緣緩解）、不癒合潰瘍、壞疽（gangrene）。
 - **[[心臟內科#急性肢體缺血（Acute Limb Ischemia）|急性肢體缺血（ALI）]]**：2 週內突然發生的灌流減少，威脅肢體存活。
 
@@ -866,8 +866,8 @@ flowchart TD
 
 | 類別 | 疾病 | 鑑別關鍵 |
 |---|---|---|
-| 動脈 | **[[心臟內科#周邊動脈疾病（Peripheral Artery Disease, PAD）\|周邊動脈疾病（PAD）]]**、急性栓塞或血栓、**[[心血管外科#胸廓出口症候群（Thoracic Outlet Syndrome, TOS）\|胸廓出口症候群]]**（上肢）、Buerger disease（年輕吸菸男性） | 脈搏減弱、ABI 下降 |
-| 神經 | **[[神經外科#腰椎管狹窄症（Lumbar Spinal Stenosis）\|腰椎管狹窄（神經性跛行）]]**、坐骨神經痛 | 脈搏正常、坐下或彎腰緩解 |
+| 動脈 | [[心臟內科#周邊動脈疾病（Peripheral Artery Disease, PAD）\|周邊動脈疾病（PAD）]]、急性栓塞或血栓、[[心血管外科#胸廓出口症候群（Thoracic Outlet Syndrome, TOS）\|胸廓出口症候群]]（上肢）、Buerger disease（年輕吸菸男性） | 脈搏減弱、ABI 下降 |
+| 神經 | [[神經外科#腰椎管狹窄症（Lumbar Spinal Stenosis）\|腰椎管狹窄（神經性跛行）]]、坐骨神經痛 | 脈搏正常、坐下或彎腰緩解 |
 | 靜脈 | 靜脈性跛行（髂靜脈阻塞） | 腿脹、抬腿緩解 |
 | 肌肉骨骼 | 膝或髖關節炎、[[外科概論#Compartment Syndrome（四肢）\|腔室症候群]]（慢性勞動性） | 關節壓痛、活動範圍受限 |
 | 血管痙攣 | **雷諾氏現象（Raynaud phenomenon）** | 冷或情緒誘發，**白 → 藍 → 紅** |
@@ -915,7 +915,7 @@ flowchart TD
 | 嚴重度 | 輕、對稱 | **嚴重、不對稱**、可有**指尖潰瘍、壞死** |
 | 甲襞微血管 | **正常** | **異常**（擴張、消失） |
 | 抗核抗體 | 陰性 | **常陽性** |
-| 相關疾病 | — | **[[免疫風濕科#全身性硬化症（Systemic Sclerosis, SSc）\|全身性硬化症]]**（> 90%）、[[免疫風濕科#全身性紅斑狼瘡（SLE）\|SLE]]、Sjögren、振動工具、β 阻斷劑 |
+| 相關疾病 | — | [[免疫風濕科#全身性硬化症（Systemic Sclerosis, SSc）\|全身性硬化症]]（> 90%）、[[免疫風濕科#全身性紅斑狼瘡（SLE）\|SLE]]、Sjögren、振動工具、β 阻斷劑 |
 | 治療 | 保暖、避免誘因；**CCB（nifedipine）** | 治療原病 + CCB、PDE5 抑制劑、prostacyclin |
 :::
 
@@ -936,7 +936,7 @@ flowchart TD
 | **> 1.40** | **血管鈣化無法壓迫**（糖尿病、CKD）→ 改測**趾肱指數（TBI < 0.70 異常）** |
 | 1.00–1.40 | 正常 |
 | 0.91–0.99 | 臨界 |
-| **:red[≤ 0.90]** | **PAD** |
+| :red[≤ 0.90] | **PAD** |
 | < 0.40 | 嚴重缺血（休息痛、組織缺損） |
 
 - ABI 正常但症狀典型 → **運動後 ABI**（下降 > 20% 有意義）。

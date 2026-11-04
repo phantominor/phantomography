@@ -10,7 +10,7 @@ status: initial
 
 #### 定義與分類
 
-- **發燒（fever）**：下視丘體溫設定點上調；核心體溫 **:red[≥ 38.3°C 單次]或 ≥ 38.0°C 持續 1 小時**。
+- **發燒（fever）**：下視丘體溫設定點上調；核心體溫 :red[≥ 38.3°C 單次]或 ≥ 38.0°C 持續 1 小時。
     - 機制：外源性致熱原（LPS 等）→ 巨噬細胞釋放 **IL-1、IL-6、TNF-α** → 下視丘 **PGE₂↑** → 設定點上調。
     - 測量部位：肛溫、耳溫最接近核心體溫；口溫約低 0.5°C、腋溫約低 1°C。
 - **高體溫（hyperthermia）**：設定點**不變**，產熱過多或散熱不足（中暑、藥物）→ **退燒藥無效**，要物理降溫；見[[#高體溫症候群（Hyperthermia Syndromes）|高體溫症候群]]。
@@ -37,18 +37,18 @@ status: initial
 
 | 類別 | 疾病 | 鑑別關鍵 |
 |---|---|---|
-| **呼吸道** | 上呼吸道感染、[[耳鼻喉科#鼻竇炎（Rhinosinusitis）\|鼻竇炎]]、流感、[[胸腔內科#社區型肺炎（CAP）\|肺炎]]、[[感染科#Mycobacterium tuberculosis（結核病）\|結核]]、[[胸腔內科#肺膿瘍（Lung Abscess）\|肺膿瘍]] | 咳嗽、痰、呼吸音；流感季節、群聚 |
-| **泌尿道** | [[腎臟內科#泌尿道感染（UTI）與腎盂腎炎\|腎盂腎炎]]、[[泌尿科#前列腺炎（Prostatitis）\|前列腺炎]]、[[泌尿科#腎膿瘍（Renal / Perinephric Abscess）\|腎膿瘍]] | 肋脊角叩痛（CVA knocking pain）、膿尿；男性 → 肛診看攝護腺壓痛 |
-| **腹部** | [[肝膽胰外科#急性膽管炎（Acute Cholangitis）\|膽管炎]]、[[肝膽胰外科#細菌性肝膿瘍（Pyogenic Liver Abscess）\|肝膿瘍]]、[[大腸直腸外科#闌尾炎（Appendicitis）\|闌尾炎]]、[[大腸直腸外科#憩室炎（Diverticulitis）\|憩室炎]]、[[肝膽胰外科#自發性細菌性腹膜炎（SBP）\|自發性細菌性腹膜炎]]（SBP）、*[[感染科#C. difficile（Pseudomembranous colitis，偽膜性大腸炎）\|C. difficile]]* 腸炎 | 黃疸 + 右上腹痛 + 發燒（Charcot triad）；**台灣糖尿病人 → Klebsiella 肝膿瘍** |
-| **皮膚軟組織** | [[皮膚科#蜂窩性組織炎（Cellulitis）與丹毒（Erysipelas）\|蜂窩性組織炎]]（cellulitis）、**壞死性筋膜炎（necrotizing fasciitis）**、褥瘡感染、[[大腸直腸外科#肛門膿瘍（Perianal/Anorectal Abscess）\|肛門膿瘍]] | 疼痛不成比例、捻髮音、皮膚變色 → 緊急清創 |
-| **中樞神經** | 細菌性腦膜炎、腦炎、[[神經內科#腦膿瘍（Brain Abscess）\|腦膿瘍]] | 頸部僵硬、意識改變、局部神經學缺損 |
-| **心血管** | 感染性心內膜炎、導管相關血流感染（CRBSI） | 新雜音、人工瓣膜、靜脈藥癮、中心靜脈導管 |
-| **骨關節** | [[骨科#化膿性關節炎（Septic Arthritis）\|化膿性關節炎]]、[[骨科#急性骨髓炎（Acute Osteomyelitis）\|骨髓炎]]、[[神經外科#脊椎硬膜外膿瘍（Spinal Epidural Abscess）\|脊椎硬膜外膿瘍]] | 單一關節紅腫熱痛；背痛 + 發燒 + 神經學缺損 |
-| **病毒與地方性感染** | [[感染科#EBV（Infectious Mononucleosis）\|EBV]]、[[感染科#CMV\|CMV]]、急性 [[感染科#HIV / AIDS\|HIV]]、[[感染科#登革熱（Dengue）\|登革熱]]、[[感染科#Rickettsia & related\|恙蟲病]]、[[感染科#Leptospira interrogans（鉤端螺旋體病）\|鉤端螺旋體病]] | 見[[#旅遊後發燒（Fever in Returned Travelers）\|旅遊後發燒]] |
-| **非感染：發炎** | [[免疫風濕科#全身性紅斑狼瘡（SLE）\|SLE]]、成人 Still's disease、[[免疫風濕科#血管炎（Vasculitis）\|血管炎]]、痛風發作、[[消化內科#急性胰臟炎（Acute Pancreatitis）\|胰臟炎]]、[[消化內科#發炎性腸道疾病（Inflammatory Bowel Disease, IBD）\|IBD]] | 多器官、皮疹、關節痛 |
-| **非感染：血栓與組織損傷** | [[胸腔內科#肺栓塞（Pulmonary Embolism）\|肺栓塞]]、[[心血管外科#深部靜脈栓塞（DVT）\|DVT]]、血腫吸收、心肌梗塞後、術後 48 小時內 | 低度燒（通常 < 38.5°C） |
-| **非感染：內分泌與藥物** | [[代謝內分泌科#甲狀腺風暴（Thyroid Storm）\|甲狀腺風暴]]、[[代謝內分泌科#腎上腺功能不全（Adrenal Insufficiency）\|腎上腺危象]]、**藥物熱**、[[血液腫瘤科#輸血反應\|輸血反應]]、[[精神科#酒精戒斷（Alcohol Withdrawal）\|酒精戒斷]] | 心跳過快不成比例；新藥 7–10 天後發燒 |
-| **腫瘤** | [[血液腫瘤科#Hodgkin Lymphoma（HL）\|淋巴瘤]]、[[血液腫瘤科#急性白血病（Acute Leukemia）\|白血病]]、[[泌尿科#腎細胞癌（Renal Cell Carcinoma, RCC）\|腎細胞癌]]、[[肝膽胰外科#肝細胞癌（Hepatocellular Carcinoma, HCC）\|肝癌]]、腫瘤溶解 | 體重減輕、盜汗、淋巴結腫大 |
+| 呼吸道 | 上呼吸道感染、[[耳鼻喉科#鼻竇炎（Rhinosinusitis）\|鼻竇炎]]、流感、[[胸腔內科#社區型肺炎（CAP）\|肺炎]]、[[感染科#Mycobacterium tuberculosis（結核病）\|結核]]、[[胸腔內科#肺膿瘍（Lung Abscess）\|肺膿瘍]] | 咳嗽、痰、呼吸音；流感季節、群聚 |
+| 泌尿道 | [[腎臟內科#泌尿道感染（UTI）與腎盂腎炎\|腎盂腎炎]]、[[泌尿科#前列腺炎（Prostatitis）\|前列腺炎]]、[[泌尿科#腎膿瘍（Renal / Perinephric Abscess）\|腎膿瘍]] | 肋脊角叩痛（CVA knocking pain）、膿尿；男性 → 肛診看攝護腺壓痛 |
+| 腹部 | [[肝膽胰外科#急性膽管炎（Acute Cholangitis）\|膽管炎]]、[[肝膽胰外科#細菌性肝膿瘍（Pyogenic Liver Abscess）\|肝膿瘍]]、[[大腸直腸外科#闌尾炎（Appendicitis）\|闌尾炎]]、[[大腸直腸外科#憩室炎（Diverticulitis）\|憩室炎]]、[[肝膽胰外科#自發性細菌性腹膜炎（SBP）\|自發性細菌性腹膜炎]]（SBP）、*[[感染科#C. difficile（Pseudomembranous colitis，偽膜性大腸炎）\|C. difficile]]* 腸炎 | 黃疸 + 右上腹痛 + 發燒（Charcot triad）；**台灣糖尿病人 → Klebsiella 肝膿瘍** |
+| 皮膚軟組織 | [[皮膚科#蜂窩性組織炎（Cellulitis）與丹毒（Erysipelas）\|蜂窩性組織炎]]（cellulitis）、**壞死性筋膜炎（necrotizing fasciitis）**、褥瘡感染、[[大腸直腸外科#肛門膿瘍（Perianal/Anorectal Abscess）\|肛門膿瘍]] | 疼痛不成比例、捻髮音、皮膚變色 → 緊急清創 |
+| 中樞神經 | 細菌性腦膜炎、腦炎、[[神經內科#腦膿瘍（Brain Abscess）\|腦膿瘍]] | 頸部僵硬、意識改變、局部神經學缺損 |
+| 心血管 | 感染性心內膜炎、導管相關血流感染（CRBSI） | 新雜音、人工瓣膜、靜脈藥癮、中心靜脈導管 |
+| 骨關節 | [[骨科#化膿性關節炎（Septic Arthritis）\|化膿性關節炎]]、[[骨科#急性骨髓炎（Acute Osteomyelitis）\|骨髓炎]]、[[神經外科#脊椎硬膜外膿瘍（Spinal Epidural Abscess）\|脊椎硬膜外膿瘍]] | 單一關節紅腫熱痛；背痛 + 發燒 + 神經學缺損 |
+| 病毒與地方性感染 | [[感染科#EBV（Infectious Mononucleosis）\|EBV]]、[[感染科#CMV\|CMV]]、急性 [[感染科#HIV / AIDS\|HIV]]、[[感染科#登革熱（Dengue）\|登革熱]]、[[感染科#Rickettsia & related\|恙蟲病]]、[[感染科#Leptospira interrogans（鉤端螺旋體病）\|鉤端螺旋體病]] | 見[[#旅遊後發燒（Fever in Returned Travelers）\|旅遊後發燒]] |
+| 非感染：發炎 | [[免疫風濕科#全身性紅斑狼瘡（SLE）\|SLE]]、成人 Still's disease、[[免疫風濕科#血管炎（Vasculitis）\|血管炎]]、痛風發作、[[消化內科#急性胰臟炎（Acute Pancreatitis）\|胰臟炎]]、[[消化內科#發炎性腸道疾病（Inflammatory Bowel Disease, IBD）\|IBD]] | 多器官、皮疹、關節痛 |
+| 非感染：血栓與組織損傷 | [[胸腔內科#肺栓塞（Pulmonary Embolism）\|肺栓塞]]、[[心血管外科#深部靜脈栓塞（DVT）\|DVT]]、血腫吸收、心肌梗塞後、術後 48 小時內 | 低度燒（通常 < 38.5°C） |
+| 非感染：內分泌與藥物 | [[代謝內分泌科#甲狀腺風暴（Thyroid Storm）\|甲狀腺風暴]]、[[代謝內分泌科#腎上腺功能不全（Adrenal Insufficiency）\|腎上腺危象]]、**藥物熱**、[[血液腫瘤科#輸血反應\|輸血反應]]、[[精神科#酒精戒斷（Alcohol Withdrawal）\|酒精戒斷]] | 心跳過快不成比例；新藥 7–10 天後發燒 |
+| 腫瘤 | [[血液腫瘤科#Hodgkin Lymphoma（HL）\|淋巴瘤]]、[[血液腫瘤科#急性白血病（Acute Leukemia）\|白血病]]、[[泌尿科#腎細胞癌（Renal Cell Carcinoma, RCC）\|腎細胞癌]]、[[肝膽胰外科#肝細胞癌（Hepatocellular Carcinoma, HCC）\|肝癌]]、腫瘤溶解 | 體重減輕、盜汗、淋巴結腫大 |
 
 #### 易混淆鑑別
 
@@ -59,7 +59,7 @@ status: initial
 | 病人外觀 | 可很不舒服（toxic） | 不一定 | 慢性病容 | **外觀相對良好**（與體溫不相稱） |
 | 白血球 | **↑、左移（left shift）** | 正常或↓、淋巴球↑ | 正常或↑ | 正常，可有**嗜酸性球增加** |
 | CRP / PCT | **PCT 明顯上升** | PCT 正常 | CRP↑，**PCT 多正常** | PCT 正常 |
-| 其他線索 | 培養陽性 | 肝指數輕度上升、非典型淋巴球 | 自體抗體、ferritin↑ | **相對心搏過緩**、皮疹；停藥 **:red[48–72 小時]內退燒** |
+| 其他線索 | 培養陽性 | 肝指數輕度上升、非典型淋巴球 | 自體抗體、ferritin↑ | **相對心搏過緩**、皮疹；停藥 :red[48–72 小時]內退燒 |
 :::
 
 :::compare[發燒合併皮疹]
@@ -79,7 +79,7 @@ status: initial
 | | CRP | Procalcitonin（PCT） | ESR | Ferritin |
 |---|---|---|---|---|
 | 反應速度 | 6–8 小時上升、48 小時高峰 | **2–4 小時**上升、6–24 小時高峰 | 慢（數天），恢復也慢 | 急性期反應物 |
-| 主要用途 | 發炎有無、追蹤治療 | **區分細菌與非細菌**、決定停抗生素時機 | 慢性發炎（[[神經內科#顳動脈炎（Giant Cell Arteritis, GCA）\|GCA]]、[[免疫風濕科#風濕性多肌痛（Polymyalgia Rheumatica, PMR）\|PMR]]、骨髓炎） | **> :red[1000–10,000]** → Still's、[[免疫風濕科#Macrophage Activation Syndrome / Hemophagocytic Lymphohistiocytosis（MAS / HLH）\|HLH]] |
+| 主要用途 | 發炎有無、追蹤治療 | **區分細菌與非細菌**、決定停抗生素時機 | 慢性發炎（[[神經內科#顳動脈炎（Giant Cell Arteritis, GCA）\|GCA]]、[[免疫風濕科#風濕性多肌痛（Polymyalgia Rheumatica, PMR）\|PMR]]、骨髓炎） | > :red[1000–10,000] → Still's、[[免疫風濕科#Macrophage Activation Syndrome / Hemophagocytic Lymphohistiocytosis（MAS / HLH）\|HLH]] |
 | 偽陽性 | 任何組織損傷 | 手術、外傷、燒傷、心因性休克、甲狀腺髓質癌 | 貧血、懷孕、老化、高球蛋白（[[血液腫瘤科#多發性骨髓瘤（Multiple Myeloma）\|多發性骨髓瘤]]） | 肝病、鐵過多 |
 :::
 
@@ -146,24 +146,24 @@ flowchart TD
 #### 定義與分類
 
 - **經典定義（Petersdorf，Durack 修訂）**：
-    - 體溫 **:red[≥ 38.3°C]、多次測量**。
-    - 持續 **:red[≥ 3 週]**。
+    - 體溫 :red[≥ 38.3°C]、多次測量。
+    - 持續 :red[≥ 3 週]。
     - 經過**住院 3 天或門診 3 次**（或 1 週的合理檢查）仍無法診斷。
 - 四種類型：
 
 | 類型 | 定義 | 常見原因 |
 |---|---|---|
 | **經典型（classic）** | 如上 | 感染、腫瘤、非感染性發炎 |
-| **院內型（nosocomial）** | 住院時沒有發燒、住院後發燒，檢查 3 天仍不明 | *[[感染科#C. difficile（Pseudomembranous colitis，偽膜性大腸炎）\|C. difficile]]*、**藥物熱**、[[耳鼻喉科#鼻竇炎（Rhinosinusitis）\|鼻竇炎]]（鼻胃管）、導管感染、**[[胸腔內科#肺栓塞（Pulmonary Embolism）\|肺栓塞]]**、無結石膽囊炎 |
+| **院內型（nosocomial）** | 住院時沒有發燒、住院後發燒，檢查 3 天仍不明 | *[[感染科#C. difficile（Pseudomembranous colitis，偽膜性大腸炎）\|C. difficile]]*、**藥物熱**、[[耳鼻喉科#鼻竇炎（Rhinosinusitis）\|鼻竇炎]]（鼻胃管）、導管感染、[[胸腔內科#肺栓塞（Pulmonary Embolism）\|肺栓塞]]、無結石膽囊炎 |
 | **嗜中性球低下型** | ANC < 500，檢查 3 天仍不明 | **侵襲性黴菌**（Aspergillus、Candida）、肛周感染 |
 | **HIV 相關** | HIV 病人門診 > 4 週或住院 > 3 天 | **MAC**、TB、[[感染科#CMV\|CMV]]、[[感染科#Pneumocystis jirovecii（PJP）\|PJP]]、隱球菌、淋巴瘤 |
 
 - 經典型 FUO 的原因（四大類）：
-    - **感染**：**結核（尤其肺外、粟粒性）**、心內膜炎（培養陰性）、**腹內與骨盆腔膿瘍**、骨髓炎、CMV、[[感染科#EBV（Infectious Mononucleosis）|EBV]]、HIV、Q fever、布氏桿菌（brucellosis）、傷寒。
+    - **感染**：**結核**（尤其肺外、粟粒性）、心內膜炎（培養陰性）、**腹內與骨盆腔膿瘍**、骨髓炎、CMV、[[感染科#EBV（Infectious Mononucleosis）|EBV]]、HIV、Q fever、布氏桿菌（brucellosis）、傷寒。
     - **腫瘤**：**淋巴瘤（最常見）**、白血病、[[血液腫瘤科#骨髓分化不良症候群（Myelodysplastic Syndromes, MDS）|MDS]]、**腎細胞癌**、肝癌、轉移性腫瘤、心房黏液瘤（atrial myxoma）。
     - **非感染性發炎疾病（NIID）**：**成人 Still's disease（年輕人）**、**[[神經內科#顳動脈炎（Giant Cell Arteritis, GCA）|巨細胞動脈炎（GCA）]] 與 [[免疫風濕科#風濕性多肌痛（Polymyalgia Rheumatica, PMR）|風濕性多肌痛]]（老人）**、SLE、[[免疫風濕科#中血管炎（Medium-vessel Vasculitis）|結節性多動脈炎]]、[[免疫風濕科#Sarcoidosis（類肉瘤病）|類肉瘤病]]、IBD、Kikuchi disease。
     - **其他**：**藥物熱**、[[心血管外科#深部靜脈栓塞（DVT）|DVT]] 與肺栓塞、[[代謝內分泌科#Subacute（de Quervain's）Thyroiditis|亞急性甲狀腺炎]]、詐病（factitious fever）、週期熱症候群（FMF）、血腫、肝硬化。
-    - **約 :red[20–50%] 最後仍找不到原因**；找不到原因者**多數預後良好**，常自行緩解。
+    - 約 :red[20–50%] 最後仍找不到原因；找不到原因者**多數預後良好**，常自行緩解。
 
 #### Red flags
 
@@ -177,11 +177,11 @@ flowchart TD
 
 | 類別 | 疾病 | 鑑別關鍵 |
 |---|---|---|
-| **感染** | **[[感染科#肺外結核\|肺外結核]]**、培養陰性心內膜炎、膿瘍（肝、脾、腎周、骨盆、**腰大肌**）、骨髓炎、牙周膿瘍、鼻竇炎、[[泌尿科#前列腺炎（Prostatitis）\|前列腺炎]] | 結核：IGRA 可陰性 → **組織切片**（肝、骨髓、淋巴結）+ 培養 |
+| 感染 | [[感染科#肺外結核\|肺外結核]]、培養陰性心內膜炎、膿瘍（肝、脾、腎周、骨盆、**腰大肌**）、骨髓炎、牙周膿瘍、鼻竇炎、[[泌尿科#前列腺炎（Prostatitis）\|前列腺炎]] | 結核：IGRA 可陰性 → **組織切片**（肝、骨髓、淋巴結）+ 培養 |
 | | 病毒（CMV、EBV、HIV）、Q fever、布氏桿菌、[[感染科#Rickettsia & related\|立克次體]]、[[感染科#Toxoplasma gondii\|弓漿蟲]]、組織漿菌、瘧疾、內臟利什曼原蟲（kala-azar） | 動物接觸（羊、未消毒乳品）、旅遊史 |
-| **腫瘤** | **淋巴瘤**、白血病、MDS、[[血液腫瘤科#多發性骨髓瘤（Multiple Myeloma）\|多發性骨髓瘤]]（少見）、**腎細胞癌**、肝癌、[[胃小腸外科#胃癌（Gastric Cancer）\|胃癌]]、[[大腸直腸外科#大腸直腸癌（Colorectal Cancer, CRC）\|大腸癌]]、[[肝膽胰外科#胰臟導管腺癌（Pancreatic Ductal Adenocarcinoma, PDAC）\|胰臟癌]]、心房黏液瘤 | **Naprosyn test**：腫瘤熱對 naproxen 反應明顯（非特異） |
-| **非感染性發炎** | 成人 Still's、GCA/PMR、[[免疫風濕科#全身性紅斑狼瘡（SLE）\|SLE]]、血管炎、類肉瘤病、[[消化內科#發炎性腸道疾病（Inflammatory Bowel Disease, IBD）\|IBD（Crohn）]]、Kikuchi disease、[[免疫風濕科#Behçet's Disease\|Behçet]] | 自體抗體、ESR 極高、組織切片 |
-| **其他** | 藥物熱、肺栓塞、亞急性甲狀腺炎、[[代謝內分泌科#腎上腺功能不全（Adrenal Insufficiency）\|腎上腺功能不全]]、詐病、週期熱、中樞性發燒（腦傷後） | 停藥試驗；詐病：體溫與心跳不相稱、無日夜變化 |
+| 腫瘤 | **淋巴瘤**、白血病、MDS、[[血液腫瘤科#多發性骨髓瘤（Multiple Myeloma）\|多發性骨髓瘤]]（少見）、**腎細胞癌**、肝癌、[[胃小腸外科#胃癌（Gastric Cancer）\|胃癌]]、[[大腸直腸外科#大腸直腸癌（Colorectal Cancer, CRC）\|大腸癌]]、[[肝膽胰外科#胰臟導管腺癌（Pancreatic Ductal Adenocarcinoma, PDAC）\|胰臟癌]]、心房黏液瘤 | **Naprosyn test**：腫瘤熱對 naproxen 反應明顯（非特異） |
+| 非感染性發炎 | 成人 Still's、GCA/PMR、[[免疫風濕科#全身性紅斑狼瘡（SLE）\|SLE]]、血管炎、類肉瘤病、[[消化內科#發炎性腸道疾病（Inflammatory Bowel Disease, IBD）\|IBD（Crohn）]]、Kikuchi disease、[[免疫風濕科#Behçet's Disease\|Behçet]] | 自體抗體、ESR 極高、組織切片 |
+| 其他 | 藥物熱、肺栓塞、亞急性甲狀腺炎、[[代謝內分泌科#腎上腺功能不全（Adrenal Insufficiency）\|腎上腺功能不全]]、詐病、週期熱、中樞性發燒（腦傷後） | 停藥試驗；詐病：體溫與心跳不相稱、無日夜變化 |
 
 #### 易混淆鑑別
 
@@ -265,9 +265,9 @@ FUO 病人在診斷前給類固醇「試試看」→ 淋巴瘤暫時縮小、切
 #### 定義與分類
 
 - **定義**：
-    - **ANC :red[< 500/μL]**，或預期 48 小時內會降到 < 500。
+    - ANC :red[< 500/μL]，或預期 48 小時內會降到 < 500。
     - 加上體溫**單次 ≥ 38.3°C，或 ≥ 38.0°C 持續 1 小時**。
-- **腫瘤急症**：化療後嗜中性球最低點（nadir）通常在**第 :red[7–14 天]**；感染進展極快，**發炎反應不明顯**（沒有膿、肺炎在 X 光上看不出浸潤）。
+- **腫瘤急症**：化療後嗜中性球最低點（nadir）通常在第 :red[7–14 天]；感染進展極快，**發炎反應不明顯**（沒有膿、肺炎在 X 光上看不出浸潤）。
 - 常見病原：
     - **革蘭氏陰性菌**：*[[感染科#Pseudomonas aeruginosa|Pseudomonas aeruginosa]]*、*E. coli*、*Klebsiella* → **死亡率高，經驗性抗生素一定要涵蓋**。
     - **革蘭氏陽性菌**（目前分離最多）：CoNS（導管）、*S. aureus*、viridans streptococci（黏膜炎）。
@@ -297,7 +297,7 @@ FUO 病人在診斷前給類固醇「試試看」→ 淋巴瘤暫時縮小、切
 :::compare[低風險 vs 高風險嗜中性球低下發燒]
 | | 低風險 | 高風險 |
 |---|---|---|
-| 評估工具 | **MASCC score :red[≥ 21]** | MASCC < 21 |
+| 評估工具 | MASCC score :red[≥ 21] | MASCC < 21 |
 | 預期嗜中性球低下時間 | **< 7 天** | **≥ 7 天**、ANC ≤ 100 |
 | 典型病人 | 實體腫瘤、門診化療、無共病 | **血液腫瘤（急性白血病誘導化療）、[[血液腫瘤科#造血幹細胞移植（HSCT）\|造血幹細胞移植]]** |
 | 臨床狀態 | 生命徵象穩定、能口服 | 低血壓、肺炎、腹痛、神經學變化、肝腎功能異常、新發導管感染 |
@@ -307,7 +307,7 @@ FUO 病人在診斷前給類固醇「試試看」→ 淋巴瘤暫時縮小、切
 :::compare[何時加 Vancomycin、何時加抗黴菌藥]
 | | 加 Vancomycin（涵蓋 MRSA） | 加經驗性抗黴菌藥 |
 |---|---|---|
-| 時機 | **一開始就有適應症才加**，不常規使用 | 廣效抗生素 **:red[4–7 天]**後仍發燒、預期嗜中性球低下 > 7 天 |
+| 時機 | **一開始就有適應症才加**，不常規使用 | 廣效抗生素 :red[4–7 天]後仍發燒、預期嗜中性球低下 > 7 天 |
 | 適應症 | 血行動力學不穩定、**懷疑導管感染**、皮膚軟組織感染、肺炎、MRSA 移生、血液培養長革蘭氏陽性球菌、嚴重黏膜炎 | 胸部 CT 有黴菌型態、galactomannan 或 β-D-glucan 陽性 |
 | 停藥 | 48–72 小時培養沒有革蘭氏陽性菌 → 停 | |
 | 藥物 | Vancomycin（或 linezolid、daptomycin） | Echinocandin（caspofungin）、liposomal amphotericin B；懷疑麴菌 → **voriconazole** |
@@ -323,7 +323,7 @@ FUO 病人在診斷前給類固醇「試試看」→ 淋巴瘤暫時縮小、切
 ::chart{id="febrile-neutropenia"}
 
 - 檢查：CBC 與分類、肝腎功能、乳酸、**血液培養 ≥ 2 套（導管每個管腔 + 周邊）**、尿液分析與培養、CXR；依症狀加痰液、糞便 *C. difficile*、胸部 CT。
-- **抗生素不要等檢查結果**：到院 **:red[60 分鐘內]**給第一劑。
+- **抗生素不要等檢查結果**：到院 :red[60 分鐘內]給第一劑。
 
 #### 初步處置
 
@@ -352,9 +352,9 @@ FUO 病人在診斷前給類固醇「試試看」→ 淋巴瘤暫時縮小、切
 
 | 潛伏期 | 疾病 |
 |---|---|
-| **< :red[10 天]** | **登革熱**（3–14 天，多 4–7 天）、屈公病（chikungunya）、茲卡、立克次體病、流感、[[家庭醫學科#旅行者腹瀉\|旅行者腹瀉]]、鉤端螺旋體病（2–26 天） |
+| < :red[10 天] | **登革熱**（3–14 天，多 4–7 天）、屈公病（chikungunya）、茲卡、立克次體病、流感、[[家庭醫學科#旅行者腹瀉\|旅行者腹瀉]]、鉤端螺旋體病（2–26 天） |
 | **10–21 天** | **瘧疾**（*P. falciparum* 多 < 1 個月）、**傷寒**、鉤端螺旋體病、急性 HIV、Q fever、布氏桿菌、[[感染科#日本腦炎（Japanese Encephalitis）\|日本腦炎]] |
-| **> 21 天** | **瘧疾（*P. vivax / ovale* 可數月後復發）**、結核、A/B/E 型肝炎、**[[肝膽胰外科#阿米巴性肝膿瘍（Amoebic Liver Abscess）\|阿米巴肝膿瘍]]**、血吸蟲、HIV、內臟利什曼原蟲 |
+| **> 21 天** | **瘧疾（*P. vivax / ovale* 可數月後復發）**、結核、A/B/E 型肝炎、[[肝膽胰外科#阿米巴性肝膿瘍（Amoebic Liver Abscess）\|阿米巴肝膿瘍]]、血吸蟲、HIV、內臟利什曼原蟲 |
 
 - 地區：
     - **撒哈拉以南非洲 → 惡性瘧（*P. falciparum*）最重要**。
@@ -381,7 +381,7 @@ FUO 病人在診斷前給類固醇「試試看」→ 淋巴瘤暫時縮小、切
 
 | 疾病 | 暴露與地區 | 臨床特徵 | 確診 | 治療 |
 |---|---|---|---|---|
-| **[[感染科#Plasmodium（瘧疾）\|瘧疾]]** | 非洲、東南亞、南美；蚊（Anopheles） | 週期性寒顫高燒、**脾腫大、血小板↓**、溶血、黃疸 | **厚薄血片 × 3（間隔 12–24 小時）**、快速抗原 | 嚴重 → **IV artesunate**；非嚴重 → ACT（artemether-lumefantrine）；vivax / ovale 加 **primaquine**（先驗 G6PD） |
+| [[感染科#Plasmodium（瘧疾）\|瘧疾]] | 非洲、東南亞、南美；蚊（Anopheles） | 週期性寒顫高燒、**脾腫大、血小板↓**、溶血、黃疸 | **厚薄血片 × 3（間隔 12–24 小時）**、快速抗原 | 嚴重 → **IV artesunate**；非嚴重 → ACT（artemether-lumefantrine）；vivax / ovale 加 **primaquine**（先驗 G6PD） |
 | **登革熱** | 東南亞、台灣南部；斑蚊（Aedes） | 高燒、**後眼窩痛**、肌肉骨頭痛（breakbone fever）、皮疹、**白血球與血小板↓** | **NS1 抗原（前 5 天）**、IgM、PCR | 支持療法、輸液；**避免 NSAIDs 與 aspirin** |
 | **恙蟲病** | 草叢、離島、花東；恙蟎 | **焦痂**、淋巴結腫大、皮疹、肝指數↑ | IFA 抗體、PCR | **Doxycycline**（孕婦、兒童 → azithromycin） |
 | **鉤端螺旋體病** | 淹水、農業、泛舟 | **結膜充血（conjunctival suffusion）**、**小腿肌肉壓痛**、雙相病程 | 抗體（MAT）、PCR | Doxycycline；重症 → **Penicillin G** 或 ceftriaxone |
@@ -451,7 +451,7 @@ FUO 病人在診斷前給類固醇「試試看」→ 淋巴瘤暫時縮小、切
 - **高體溫（hyperthermia）**：體溫設定點**正常**，但**產熱過多或散熱失敗** → 體溫可 > 40–41°C；**退燒藥無效**。
 - 環境性：
     - **熱衰竭（heat exhaustion）**：核心體溫 **< 40°C**、**意識正常**，疲倦、頭暈、噁心、大量出汗 → 移到陰涼處、補充水分電解質。
-    - **中暑（heat stroke）**：**核心體溫 :red[> 40°C] + 中樞神經功能異常**（意識改變、抽搐、昏迷）→ 多器官衰竭、[[血液腫瘤科#DIC（Disseminated Intravascular Coagulation）|DIC]]、橫紋肌溶解。
+    - **中暑（heat stroke）**：核心體溫 :red[> 40°C] + 中樞神經功能異常（意識改變、抽搐、昏迷）→ 多器官衰竭、[[血液腫瘤科#DIC（Disseminated Intravascular Coagulation）|DIC]]、橫紋肌溶解。
         - **典型（classic）**：老人、慢性病、熱浪、獨居、用藥（抗膽鹼、利尿劑），**皮膚多乾燥無汗**。
         - **運動型（exertional）**：年輕人、軍人、運動員，**可仍有出汗**，**橫紋肌溶解、急性腎損傷**較常見。
 - 藥物與毒物性：
@@ -472,14 +472,14 @@ FUO 病人在診斷前給類固醇「試試看」→ 淋巴瘤暫時縮小、切
 
 | 類別 | 疾病 | 鑑別關鍵 |
 |---|---|---|
-| **環境** | 熱衰竭、**中暑** | 熱暴露、運動；中暑一定有中樞神經異常 |
-| **麻醉** | **惡性高熱** | 吸入性麻醉劑 + **succinylcholine**；**RYR1**（體染色體顯性） |
-| **抗精神病藥** | **NMS** | 用藥數天到數週、**鉛管樣僵硬**、反射**減弱**、CK 極高 |
-| **血清素藥物** | **血清素症候群** | 加藥後 **24 小時內**、**反射亢進與陣攣（clonus）**、腹瀉 |
-| **中毒** | 抗膽鹼（antihistamine、TCA、atropine）、擬交感（cocaine、amphetamine）、水楊酸 | 抗膽鹼 → **皮膚乾**；擬交感 → **大量出汗**；水楊酸 → 耳鳴、呼吸鹼中毒 + 代謝性酸中毒 |
-| **內分泌** | 甲狀腺風暴、嗜鉻細胞瘤危象 | 甲狀腺腫、突眼、心房顫動；陣發性高血壓 + 頭痛 + 心悸 + 冒汗 |
-| **戒斷** | 酒精戒斷譫妄、停 levodopa | 停酒 **48–96 小時**；Parkinson 病人停藥 |
-| **感染** | 敗血症、腦膜炎、腦炎 | 有感染源；**中暑與敗血症常無法立刻區分 → 降溫同時做培養** |
+| 環境 | 熱衰竭、**中暑** | 熱暴露、運動；中暑一定有中樞神經異常 |
+| 麻醉 | **惡性高熱** | 吸入性麻醉劑 + **succinylcholine**；**RYR1**（體染色體顯性） |
+| 抗精神病藥 | **NMS** | 用藥數天到數週、**鉛管樣僵硬**、反射**減弱**、CK 極高 |
+| 血清素藥物 | **血清素症候群** | 加藥後 **24 小時內**、**反射亢進與陣攣（clonus）**、腹瀉 |
+| 中毒 | 抗膽鹼（antihistamine、TCA、atropine）、擬交感（cocaine、amphetamine）、水楊酸 | 抗膽鹼 → **皮膚乾**；擬交感 → **大量出汗**；水楊酸 → 耳鳴、呼吸鹼中毒 + 代謝性酸中毒 |
+| 內分泌 | 甲狀腺風暴、嗜鉻細胞瘤危象 | 甲狀腺腫、突眼、心房顫動；陣發性高血壓 + 頭痛 + 心悸 + 冒汗 |
+| 戒斷 | 酒精戒斷譫妄、停 levodopa | 停酒 **48–96 小時**；Parkinson 病人停藥 |
+| 感染 | 敗血症、腦膜炎、腦炎 | 有感染源；**中暑與敗血症常無法立刻區分 → 降溫同時做培養** |
 
 #### 易混淆鑑別
 
@@ -487,13 +487,13 @@ FUO 病人在診斷前給類固醇「試試看」→ 淋巴瘤暫時縮小、切
 | | NMS | 血清素症候群 | 惡性高熱（MH） | 抗膽鹼中毒 |
 |---|---|---|---|---|
 | 誘因 | **抗精神病藥**（haloperidol 最常見）、停多巴胺藥 | **SSRI + MAOI、tramadol、linezolid、meperidine、triptan** | **吸入性麻醉劑、succinylcholine** | Antihistamine、TCA、atropine、曼陀羅 |
-| 發生速度 | **慢：1–3 天**（用藥後數天到數週） | **快：數小時（< :red[24 小時]）** | **極快：麻醉中數分鐘到數小時** | 快 |
+| 發生速度 | **慢：1–3 天**（用藥後數天到數週） | 快：數小時（< :red[24 小時]） | **極快：麻醉中數分鐘到數小時** | 快 |
 | 肌肉 | **鉛管樣僵硬（lead-pipe rigidity）** | **陣攣（clonus）、反射亢進**，下肢比上肢明顯 | **全身僵硬、咬肌僵硬** | 正常 |
 | 反射 | **減弱（bradyreflexia）** | **亢進** | 減弱 | 正常 |
 | 瞳孔 | 正常 | **放大** | 正常 | **放大**（blind as a bat） |
 | 皮膚與腸胃 | 出汗 | **出汗、腹瀉、腸音亢進** | 出汗 | **皮膚乾紅、腸音減少、尿滯留** |
 | 檢驗 | **CK 極高**、白血球↑ | CK 可正常 | **ETCO₂↑、高血鉀**、混合性酸中毒、CK↑ | |
-| 解藥 | **Dantrolene、bromocriptine**、停藥 | **Cyproheptadine**、benzodiazepine | **Dantrolene :red[2.5 mg/kg] IV**，停麻醉氣體 | **Physostigmine** |
+| 解藥 | **Dantrolene、bromocriptine**、停藥 | **Cyproheptadine**、benzodiazepine | Dantrolene :red[2.5 mg/kg] IV，停麻醉氣體 | **Physostigmine** |
 | 消退 | 慢（7–10 天；長效針劑更久） | **24 小時內** | 治療後 | 數小時到數天 |
 :::
 
@@ -546,7 +546,7 @@ flowchart TD
 - **降溫是第一優先**：
     - 運動型中暑 → **冰水浸泡（cold water immersion）最有效**，目標 **30 分鐘內**降到 < 39°C。
     - 典型中暑 → **蒸發降溫**（噴溫水 + 電扇）、冰袋放頸部腋下鼠蹊。
-    - 核心體溫降到 **:red[38.5–39°C] 停止積極降溫**，避免矯枉過正成低體溫。
+    - 核心體溫降到 :red[38.5–39°C] 停止積極降溫，避免矯枉過正成低體溫。
     - **退燒藥（acetaminophen、NSAIDs）無效**，且可能加重肝腎損傷；dantrolene 對中暑無效。
 - 寒顫或躁動 → **benzodiazepine**；避免抗精神病藥（降低癲癇閾值、加重高體溫）。
 - 橫紋肌溶解 → 積極輸液、維持尿量；監測高血鉀。
@@ -566,7 +566,7 @@ NMS 與血清素症候群混淆：兩者都會發燒、意識改變、自主神�
 
 #### 定義與分類
 
-- **核心體溫 :red[< 35°C]**；要用**低溫專用溫度計**或食道、膀胱溫度。
+- 核心體溫 :red[< 35°C]；要用**低溫專用溫度計**或食道、膀胱溫度。
 
 | 分級 | 核心體溫 | 表現 |
 |---|---|---|
@@ -592,12 +592,12 @@ NMS 與血清素症候群混淆：兩者都會發燒、意識改變、自主神�
 
 | 類別 | 疾病 | 鑑別關鍵 |
 |---|---|---|
-| **環境** | 意外低體溫、冷水浸泡、溺水 | 暴露史 |
-| **內分泌** | 黏液水腫昏迷、[[代謝內分泌科#腎上腺危象（Adrenal Crisis）\|腎上腺危象]]、垂體功能低下、**低血糖** | 甲狀腺手術疤痕、皮膚黏液水腫、色素沉著、低血鈉 |
-| **感染** | **敗血症**（老人、新生兒） | 有感染源；低體溫比發燒預後差 |
-| **中毒** | 酒精、鎮靜安眠藥、鴉片類、一氧化碳 | 瞳孔、呼吸、毒物篩檢 |
-| **神經** | 中風、下視丘病變、脊髓損傷、Wernicke encephalopathy | 局部神經學缺損；眼肌麻痺 + 共濟失調 + 意識混亂 |
-| **皮膚與營養** | 燒燙傷、剝脫性皮膚炎、[[精神科#神經性厭食症（Anorexia Nervosa, AN）\|神經性厭食症]] | |
+| 環境 | 意外低體溫、冷水浸泡、溺水 | 暴露史 |
+| 內分泌 | 黏液水腫昏迷、[[代謝內分泌科#腎上腺危象（Adrenal Crisis）\|腎上腺危象]]、垂體功能低下、**低血糖** | 甲狀腺手術疤痕、皮膚黏液水腫、色素沉著、低血鈉 |
+| 感染 | **敗血症**（老人、新生兒） | 有感染源；低體溫比發燒預後差 |
+| 中毒 | 酒精、鎮靜安眠藥、鴉片類、一氧化碳 | 瞳孔、呼吸、毒物篩檢 |
+| 神經 | 中風、下視丘病變、脊髓損傷、Wernicke encephalopathy | 局部神經學缺損；眼肌麻痺 + 共濟失調 + 意識混亂 |
+| 皮膚與營養 | 燒燙傷、剝脫性皮膚炎、[[精神科#神經性厭食症（Anorexia Nervosa, AN）\|神經性厭食症]] | |
 
 #### 易混淆鑑別
 
@@ -615,7 +615,7 @@ NMS 與血清素症候群混淆：兩者都會發燒、意識改變、自主神�
 #### 問診與理學檢查
 
 - 暴露時間、環境、酒精與藥物、慢性病（甲狀腺、糖尿病、腎上腺）、外傷。
-- 理學檢查：核心體溫、意識、**頸動脈脈搏至少摸 :red[60 秒]**（心跳極慢）、凍傷、外傷、甲狀腺。
+- 理學檢查：核心體溫、意識、頸動脈脈搏至少摸 :red[60 秒]（心跳極慢）、凍傷、外傷、甲狀腺。
 
 #### 檢查流程
 
@@ -651,7 +651,7 @@ NMS 與血清素症候群混淆：兩者都會發燒、意識改變、自主神�
 
 #### 定義與分類
 
-- **非預期體重減輕（unintentional weight loss）**：**:red[6–12 個月內減少 > 5%]** 體重，且不是刻意減重。
+- **非預期體重減輕（unintentional weight loss）**：:red[6–12 個月內減少 > 5%] 體重，且不是刻意減重。
     - 老人 1 個月內減少 > 2%、或 3 個月內 > 5% 也需評估。
 - 原因（依常見度）：
     - **惡性腫瘤**（約 1/3，**消化道最多**：胃、大腸、胰臟、肝；肺癌、淋巴瘤、攝護腺癌）。
@@ -664,7 +664,7 @@ NMS 與血清素症候群混淆：兩者都會發燒、意識改變、自主神�
     - **風濕**：RA、SLE、血管炎、PMR。
     - **藥物**：metformin、GLP-1 RA、topiramate、SSRI（初期）、digoxin、levothyroxine 過量、化療、[[家庭醫學科#多重用藥（Polypharmacy）|多重用藥]]。
     - **社會因素**：貧窮、獨居、行動不便、無法自行準備食物。
-    - **約 :red[25%] 找不到原因**。
+    - 約 :red[25%] 找不到原因。
 - **老人體重減輕的 9D**：dementia（失智）、depression（憂鬱）、disease（疾病）、dysphagia（吞嚥困難）、dysgeusia（味覺改變）、diarrhea（腹瀉）、drugs（藥物）、dentition（牙齒）、dysfunction（功能障礙）。
 
 #### Red flags
@@ -678,14 +678,14 @@ NMS 與血清素症候群混淆：兩者都會發燒、意識改變、自主神�
 
 | 類別 | 疾病 | 鑑別關鍵 |
 |---|---|---|
-| **腫瘤** | [[胃小腸外科#胃癌（Gastric Cancer）\|胃癌]]、[[大腸直腸外科#大腸直腸癌（Colorectal Cancer, CRC）\|大腸癌]]、[[肝膽胰外科#胰臟導管腺癌（Pancreatic Ductal Adenocarcinoma, PDAC）\|胰臟癌]]、[[肝膽胰外科#肝細胞癌（Hepatocellular Carcinoma, HCC）\|肝癌]]、[[胸腔內科#肺癌（Lung Cancer）\|肺癌]]、[[血液腫瘤科#Non-Hodgkin Lymphoma（NHL）\|淋巴瘤]]、[[泌尿科#攝護腺癌（Prostate Cancer）\|攝護腺癌]]、[[耳鼻喉科#鼻咽癌（Nasopharyngeal Carcinoma, NPC）\|鼻咽癌]] | 年齡、警示症狀、缺鐵性貧血、癌症篩檢紀錄 |
-| **消化道** | [[消化內科#消化性潰瘍（Peptic Ulcer Disease, PUD）\|消化性潰瘍]]、[[消化內科#吸收不良（Malabsorption）\|吸收不良]]、[[消化內科#Celiac Disease（乳糜瀉）\|乳糜瀉]]、IBD、慢性胰臟炎、[[消化內科#食道運動障礙\|食道弛緩不能]]、腸系膜缺血（飯後腹痛 → 怕吃） | 脂肪便（steatorrhea）、腹瀉、吞嚥困難、飯後痛 |
-| **內分泌** | **甲狀腺功能亢進**、**糖尿病**、[[代謝內分泌科#腎上腺功能不全（Adrenal Insufficiency）\|腎上腺功能不全]]、[[代謝內分泌科#嗜鉻細胞瘤（Pheochromocytoma）\|嗜鉻細胞瘤]]、[[代謝內分泌科#高鈣血症的鑑別與處理\|高血鈣]] | **食慾增加卻變瘦** → 甲亢、糖尿病、吸收不良、嗜鉻細胞瘤 |
-| **感染** | [[感染科#Mycobacterium tuberculosis（結核病）\|結核]]、[[感染科#HIV / AIDS\|HIV]]、心內膜炎、腸道寄生蟲 | 發燒、盜汗、咳嗽、高風險行為 |
-| **器官衰竭** | 心衰竭、COPD、CKD、肝硬化 | 已知病史；**水腫可掩蓋肌肉流失** |
-| **精神** | [[精神科#鬱症（Depressive Disorders）\|鬱症]]、焦慮、厭食症、暴食症、[[精神科#酒精（Alcohol）\|酒精]]、安非他命 | 食慾減退、失眠、興趣喪失；年輕女性 + 身體意象扭曲 → 厭食症 |
-| **神經與老年** | [[精神科#失智症（Major Neurocognitive Disorder）\|失智症]]、Parkinson、中風、肌少症 | 吞嚥困難、忘記進食、功能退化 |
-| **風濕** | [[免疫風濕科#類風濕性關節炎（Rheumatoid Arthritis, RA）\|RA]]、SLE、血管炎、PMR | 關節痛、ESR↑ |
+| 腫瘤 | [[胃小腸外科#胃癌（Gastric Cancer）\|胃癌]]、[[大腸直腸外科#大腸直腸癌（Colorectal Cancer, CRC）\|大腸癌]]、[[肝膽胰外科#胰臟導管腺癌（Pancreatic Ductal Adenocarcinoma, PDAC）\|胰臟癌]]、[[肝膽胰外科#肝細胞癌（Hepatocellular Carcinoma, HCC）\|肝癌]]、[[胸腔內科#肺癌（Lung Cancer）\|肺癌]]、[[血液腫瘤科#Non-Hodgkin Lymphoma（NHL）\|淋巴瘤]]、[[泌尿科#攝護腺癌（Prostate Cancer）\|攝護腺癌]]、[[耳鼻喉科#鼻咽癌（Nasopharyngeal Carcinoma, NPC）\|鼻咽癌]] | 年齡、警示症狀、缺鐵性貧血、癌症篩檢紀錄 |
+| 消化道 | [[消化內科#消化性潰瘍（Peptic Ulcer Disease, PUD）\|消化性潰瘍]]、[[消化內科#吸收不良（Malabsorption）\|吸收不良]]、[[消化內科#Celiac Disease（乳糜瀉）\|乳糜瀉]]、IBD、慢性胰臟炎、[[消化內科#食道運動障礙\|食道弛緩不能]]、腸系膜缺血（飯後腹痛 → 怕吃） | 脂肪便（steatorrhea）、腹瀉、吞嚥困難、飯後痛 |
+| 內分泌 | **甲狀腺功能亢進**、**糖尿病**、[[代謝內分泌科#腎上腺功能不全（Adrenal Insufficiency）\|腎上腺功能不全]]、[[代謝內分泌科#嗜鉻細胞瘤（Pheochromocytoma）\|嗜鉻細胞瘤]]、[[代謝內分泌科#高鈣血症的鑑別與處理\|高血鈣]] | **食慾增加卻變瘦** → 甲亢、糖尿病、吸收不良、嗜鉻細胞瘤 |
+| 感染 | [[感染科#Mycobacterium tuberculosis（結核病）\|結核]]、[[感染科#HIV / AIDS\|HIV]]、心內膜炎、腸道寄生蟲 | 發燒、盜汗、咳嗽、高風險行為 |
+| 器官衰竭 | 心衰竭、COPD、CKD、肝硬化 | 已知病史；**水腫可掩蓋肌肉流失** |
+| 精神 | [[精神科#鬱症（Depressive Disorders）\|鬱症]]、焦慮、厭食症、暴食症、[[精神科#酒精（Alcohol）\|酒精]]、安非他命 | 食慾減退、失眠、興趣喪失；年輕女性 + 身體意象扭曲 → 厭食症 |
+| 神經與老年 | [[精神科#失智症（Major Neurocognitive Disorder）\|失智症]]、Parkinson、中風、肌少症 | 吞嚥困難、忘記進食、功能退化 |
+| 風濕 | [[免疫風濕科#類風濕性關節炎（Rheumatoid Arthritis, RA）\|RA]]、SLE、血管炎、PMR | 關節痛、ESR↑ |
 
 #### 易混淆鑑別
 
@@ -710,7 +710,7 @@ NMS 與血清素症候群混淆：兩者都會發燒、意識改變、自主神�
 :::compare[營養評估的血清蛋白]
 | | 白蛋白（albumin） | 前白蛋白（prealbumin，transthyretin） | 運鐵蛋白（transferrin） |
 |---|---|---|---|
-| 半衰期 | **約 :red[20 天]** | **約 :red[2–3 天]** | 約 8–10 天 |
+| 半衰期 | 約 :red[20 天] | 約 :red[2–3 天] | 約 8–10 天 |
 | 用途 | 長期營養狀態、預後 | **短期營養療效追蹤** | 中期 |
 | 限制 | 發炎、肝病、腎病症候群、體液過多都會降低 | 發炎時下降、腎衰竭時上升 | 缺鐵時上升 |
 - 這些都是**負性急性期反應物**，發炎時下降，不能單獨作為營養不良的指標。
@@ -748,7 +748,7 @@ flowchart TD
 - **再餵食症候群（refeeding syndrome）**：
     - 長期飢餓後重新進食 → insulin 分泌 → 磷、鉀、鎂進入細胞 → **[[腎臟內科#低血磷（Hypophosphatemia）|低血磷]]（最典型）**、低血鉀、[[腎臟內科#低血鎂（Hypomagnesemia）|低血鎂]]、**thiamine 缺乏**。
     - 後果：心衰竭、心律不整、呼吸衰竭、橫紋肌溶解、**[[神經內科#Wernicke-Korsakoff Syndrome|Wernicke]] encephalopathy**。
-    - 預防：高風險者從 **:red[10–20 kcal/kg/day]** 開始緩慢增加、**餵食前先補 thiamine**、每天監測磷鉀鎂。
+    - 預防：高風險者從 :red[10–20 kcal/kg/day] 開始緩慢增加、**餵食前先補 thiamine**、每天監測磷鉀鎂。
 
 :::pitfall
 長期營養不良或酒癮病人直接給葡萄糖點滴或全量餵食 → 低血磷造成心衰竭與呼吸衰竭，或 thiamine 被耗盡而誘發 Wernicke encephalopathy。給糖之前先給 thiamine，熱量從低劑量開始。
@@ -771,14 +771,14 @@ flowchart TD
 | 過輕 | < 18.5 | < 18.5 |
 | 正常 | 18.5–23.9 | 18.5–24.9 |
 | 過重 | **24–26.9** | 25–29.9 |
-| 肥胖 | **:red[≥ 27]** | ≥ 30 |
+| 肥胖 | :red[≥ 27] | ≥ 30 |
 
-- **腰圍（中心型肥胖）**：台灣 **:red[男 ≥ 90 cm、女 ≥ 80 cm]**；腹部脂肪比 BMI 更能預測心血管風險。
+- **腰圍（中心型肥胖）**：台灣 :red[男 ≥ 90 cm、女 ≥ 80 cm]；腹部脂肪比 BMI 更能預測心血管風險。
 - **體重快速增加（數天到數週）→ 多是水分**，不是脂肪：心衰竭、肝硬化、腎病症候群、腎衰竭、甲狀腺功能低下（黏液水腫）、藥物（calcium channel blocker 水腫、TZD）。
 - **續發性肥胖**的原因：
     - **內分泌**：[[代謝內分泌科#甲狀腺機能低下（Hypothyroidism）|甲狀腺功能低下]]（多為輕度增加，以水分為主）、[[代謝內分泌科#庫欣氏症候群（Cushing's Syndrome）|Cushing 症候群]]、[[生殖內分泌科#多囊性卵巢症候群（PCOS）|PCOS]]、生長激素缺乏、[[代謝內分泌科#Insulinoma|胰島素瘤]]（頻繁進食避免低血糖）、性腺功能低下。
     - **下視丘性**：腫瘤（[[代謝內分泌科#腦下垂體腫瘤|顱咽管瘤]] craniopharyngioma）、手術、放射治療後。
-    - **藥物**：**抗精神病藥（olanzapine、clozapine 最明顯）**、mirtazapine、TCA、lithium、valproate、gabapentin、**類固醇**、insulin、sulfonylurea、TZD、β 阻斷劑、荷爾蒙避孕藥（影響小）。
+    - **藥物**：**抗精神病藥**（olanzapine、clozapine 最明顯）、mirtazapine、TCA、lithium、valproate、gabapentin、**類固醇**、insulin、sulfonylurea、TZD、β 阻斷劑、荷爾蒙避孕藥（影響小）。
     - **遺傳**：[[小兒科#Prader-Willi Syndrome|Prader-Willi syndrome]]（貪食、肌肉張力低、智能障礙、性腺功能低下）、MC4R 突變、Bardet-Biedl syndrome。
     - **行為與其他**：戒菸後、睡眠不足、[[精神科#暴食症（Binge Eating Disorder, BED）|暴食症]]、鬱症（非典型：食慾增加、嗜睡）、活動量減少。
 
@@ -793,12 +793,12 @@ flowchart TD
 
 | 類別 | 疾病 | 鑑別關鍵 |
 |---|---|---|
-| **水分滯留** | [[心臟內科#心衰竭（Heart Failure）\|心衰竭]]、[[消化內科#肝硬化（Liver Cirrhosis）\|肝硬化]]、[[腎臟內科#Nephrotic Syndrome\|腎病症候群]]、[[腎臟內科#慢性腎臟病（CKD）\|CKD]] | **數天到數週內增加**、水腫、腹水 |
-| **內分泌** | 甲狀腺功能低下、**Cushing 症候群**、PCOS、生長激素缺乏、胰島素瘤 | Cushing：近端肌無力、紫紋；PCOS：月經不規則、多毛、痤瘡 |
-| **下視丘與遺傳** | 顱咽管瘤、Prader-Willi syndrome | 兒童期開始、身材矮小、發育遲緩 |
-| **藥物** | 抗精神病藥、抗憂鬱藥、抗癲癇藥、類固醇、insulin、sulfonylurea、TZD | 時序與用藥相關 |
-| **精神與行為** | 暴食症、非典型鬱症、戒菸、睡眠不足 | 飲食型態、情緒 |
-| **原發性肥胖** | 熱量攝取 > 消耗 | 排除以上之後 |
+| 水分滯留 | [[心臟內科#心衰竭（Heart Failure）\|心衰竭]]、[[消化內科#肝硬化（Liver Cirrhosis）\|肝硬化]]、[[腎臟內科#Nephrotic Syndrome\|腎病症候群]]、[[腎臟內科#慢性腎臟病（CKD）\|CKD]] | **數天到數週內增加**、水腫、腹水 |
+| 內分泌 | 甲狀腺功能低下、**Cushing 症候群**、PCOS、生長激素缺乏、胰島素瘤 | Cushing：近端肌無力、紫紋；PCOS：月經不規則、多毛、痤瘡 |
+| 下視丘與遺傳 | 顱咽管瘤、Prader-Willi syndrome | 兒童期開始、身材矮小、發育遲緩 |
+| 藥物 | 抗精神病藥、抗憂鬱藥、抗癲癇藥、類固醇、insulin、sulfonylurea、TZD | 時序與用藥相關 |
+| 精神與行為 | 暴食症、非典型鬱症、戒菸、睡眠不足 | 飲食型態、情緒 |
+| 原發性肥胖 | 熱量攝取 > 消耗 | 排除以上之後 |
 
 #### 易混淆鑑別
 
@@ -842,7 +842,7 @@ flowchart TD
     - 台灣核准適應症（食藥署仿單）：:red[BMI ≥ 30，或 ≥ 27 合併至少一項體重相關共病]（高血壓、第二型糖尿病、血脂異常等）。
     - 台灣指引：國健署《成人肥胖防治實證指引》BMI ≥ 27 可考慮藥物；台灣肥胖醫學會 2026 年指引：BMI ≥ 27 合併共病可直接用藥，24–26.9 合併共病且生活型態介入無效時可共同決策。
     - 註：美國 FDA 與仿單相同（≥ 30，或 ≥ 27 + 共病）；亞洲人在相同 BMI 下代謝風險較高，台灣指引門檻因此較低。
-- **減重手術**（台灣：**:red[BMI ≥ 37.5，或 ≥ 32.5 合併共病]**）：sleeve gastrectomy（最常做）、Roux-en-Y gastric bypass。
+- **減重手術**（台灣：:red[BMI ≥ 37.5，或 ≥ 32.5 合併共病]）：sleeve gastrectomy（最常做）、Roux-en-Y gastric bypass。
     - 註：美國傳統標準為 BMI ≥ 40，或 ≥ 35 合併共病；2022 ASMBS/IFSO 已下修為 ≥ 35，或 30–34.9 合併代謝疾病。
 - 續發性原因 → 治療病因、調整藥物（例如 olanzapine 換成 aripiprazole）。
 - 詳見[[代謝內分泌科#肥胖治療|肥胖治療]]。
@@ -893,15 +893,15 @@ flowchart TD
 
 | 類別 | 疾病 | 鑑別關鍵 |
 |---|---|---|
-| **精神** | [[精神科#鬱症（Depressive Disorders）\|鬱症]]、[[精神科#廣泛性焦慮症（Generalized Anxiety Disorder, GAD）\|焦慮症]]、[[精神科#身體症狀障礙（Somatic Symptom Disorder）\|身體症狀障礙]] | 情緒低落、興趣喪失、**早上最累**、睡眠障礙 |
-| **睡眠** | [[胸腔內科#阻塞性睡眠呼吸中止症（OSA）\|OSA]]、[[精神科#失眠症（Insomnia Disorder）\|失眠]]、[[精神科#嗜睡症（Narcolepsy）\|嗜睡症]] | 打鼾、目擊呼吸中止、Epworth 嗜睡量表 |
-| **血液** | [[血液腫瘤科#缺鐵性貧血（Iron Deficiency Anemia, IDA）\|缺鐵性貧血]]、[[血液腫瘤科#巨球性貧血（Megaloblastic Anemia）\|B12 缺乏]]、[[血液腫瘤科#骨髓分化不良症候群（Myelodysplastic Syndromes, MDS）\|MDS]] | 蒼白、運動時喘、異食症（pica） |
-| **內分泌** | [[代謝內分泌科#甲狀腺機能低下（Hypothyroidism）\|甲狀腺功能低下]]、[[代謝內分泌科#腎上腺功能不全（Adrenal Insufficiency）\|腎上腺功能不全]]、糖尿病、[[代謝內分泌科#原發性副甲狀腺機能亢進（Primary Hyperparathyroidism）\|高血鈣]] | 怕冷便秘；**色素沉著 + 低血鈉 + 高血鉀** → Addison |
-| **感染** | [[感染科#EBV（Infectious Mononucleosis）\|EBV]]、[[消化內科#病毒性肝炎 (Viral Hepatitis)\|病毒性肝炎]]、HIV、結核 | 發燒、淋巴結、肝指數 |
-| **器官** | 心衰竭、CKD、[[消化內科#肝硬化（Liver Cirrhosis）\|肝硬化]]、COPD、腫瘤 | 已知病史、運動耐受度下降 |
-| **風濕** | [[免疫風濕科#全身性紅斑狼瘡（SLE）\|SLE]]、[[免疫風濕科#Sjögren's Syndrome（乾燥症候群）\|Sjögren]]、纖維肌痛症、[[免疫風濕科#風濕性多肌痛（Polymyalgia Rheumatica, PMR）\|PMR]] | 關節痛、皮疹、口乾眼乾、**多處壓痛點** |
-| **神經肌肉** | [[神經內科#重症肌無力（Myasthenia Gravis, MG）\|重症肌無力]]、多發性硬化症、Parkinson | **越用越無力**、眼瞼下垂、複視 |
-| **藥物** | β 阻斷劑、鎮靜劑、抗組織胺、statin（肌肉病變） | 時序 |
+| 精神 | [[精神科#鬱症（Depressive Disorders）\|鬱症]]、[[精神科#廣泛性焦慮症（Generalized Anxiety Disorder, GAD）\|焦慮症]]、[[精神科#身體症狀障礙（Somatic Symptom Disorder）\|身體症狀障礙]] | 情緒低落、興趣喪失、**早上最累**、睡眠障礙 |
+| 睡眠 | [[胸腔內科#阻塞性睡眠呼吸中止症（OSA）\|OSA]]、[[精神科#失眠症（Insomnia Disorder）\|失眠]]、[[精神科#嗜睡症（Narcolepsy）\|嗜睡症]] | 打鼾、目擊呼吸中止、Epworth 嗜睡量表 |
+| 血液 | [[血液腫瘤科#缺鐵性貧血（Iron Deficiency Anemia, IDA）\|缺鐵性貧血]]、[[血液腫瘤科#巨球性貧血（Megaloblastic Anemia）\|B12 缺乏]]、[[血液腫瘤科#骨髓分化不良症候群（Myelodysplastic Syndromes, MDS）\|MDS]] | 蒼白、運動時喘、異食症（pica） |
+| 內分泌 | [[代謝內分泌科#甲狀腺機能低下（Hypothyroidism）\|甲狀腺功能低下]]、[[代謝內分泌科#腎上腺功能不全（Adrenal Insufficiency）\|腎上腺功能不全]]、糖尿病、[[代謝內分泌科#原發性副甲狀腺機能亢進（Primary Hyperparathyroidism）\|高血鈣]] | 怕冷便秘；**色素沉著 + 低血鈉 + 高血鉀** → Addison |
+| 感染 | [[感染科#EBV（Infectious Mononucleosis）\|EBV]]、[[消化內科#病毒性肝炎 (Viral Hepatitis)\|病毒性肝炎]]、HIV、結核 | 發燒、淋巴結、肝指數 |
+| 器官 | 心衰竭、CKD、[[消化內科#肝硬化（Liver Cirrhosis）\|肝硬化]]、COPD、腫瘤 | 已知病史、運動耐受度下降 |
+| 風濕 | [[免疫風濕科#全身性紅斑狼瘡（SLE）\|SLE]]、[[免疫風濕科#Sjögren's Syndrome（乾燥症候群）\|Sjögren]]、纖維肌痛症、[[免疫風濕科#風濕性多肌痛（Polymyalgia Rheumatica, PMR）\|PMR]] | 關節痛、皮疹、口乾眼乾、**多處壓痛點** |
+| 神經肌肉 | [[神經內科#重症肌無力（Myasthenia Gravis, MG）\|重症肌無力]]、多發性硬化症、Parkinson | **越用越無力**、眼瞼下垂、複視 |
+| 藥物 | β 阻斷劑、鎮靜劑、抗組織胺、statin（肌肉病變） | 時序 |
 
 #### 易混淆鑑別
 
@@ -967,7 +967,7 @@ flowchart TD
     - **感染**：**結核（典型）**、HIV、心內膜炎、膿瘍、骨髓炎、布氏桿菌、黴菌。
     - **腫瘤**：**淋巴瘤**、白血病、腎細胞癌、[[血液腫瘤科#骨髓增生性腫瘤（Myeloproliferative Neoplasms, MPN）|骨髓增生性腫瘤]]、類癌。
     - **內分泌**：**更年期熱潮紅（最常見）**、甲狀腺功能亢進、**夜間低血糖**（insulin、sulfonylurea）、嗜鉻細胞瘤、類癌症候群、男性睪固酮低下（雄性素阻斷治療後）。
-    - **藥物**：**抗憂鬱藥（SSRI、venlafaxine）**、退燒藥（燒退時出汗）、tamoxifen、aromatase inhibitor、GnRH agonist、類固醇。
+    - **藥物**：**抗憂鬱藥**（SSRI、venlafaxine）、退燒藥（燒退時出汗）、tamoxifen、aromatase inhibitor、GnRH agonist、類固醇。
     - **其他**：**GERD**、OSA、酒精與藥物戒斷、焦慮、自主神經病變、肥胖、環境過熱。
 
 #### Red flags
@@ -980,11 +980,11 @@ flowchart TD
 
 | 類別 | 疾病 | 鑑別關鍵 |
 |---|---|---|
-| **感染** | [[感染科#Mycobacterium tuberculosis（結核病）\|結核]]、[[感染科#HIV / AIDS\|HIV]]、[[心臟內科#感染性心內膜炎（Infective Endocarditis, IE）\|心內膜炎]]、膿瘍 | 咳嗽、發燒、高風險行為、新雜音 |
-| **腫瘤** | [[血液腫瘤科#Hodgkin Lymphoma（HL）\|Hodgkin lymphoma]]、[[血液腫瘤科#Non-Hodgkin Lymphoma（NHL）\|NHL]]、[[血液腫瘤科#慢性白血病\|白血病]]、腎細胞癌 | B 症狀、淋巴結、脾腫大 |
-| **內分泌** | 更年期、[[代謝內分泌科#甲狀腺機能亢進（Hyperthyroidism）\|甲狀腺功能亢進]]、[[代謝內分泌科#Hypoglycemia\|夜間低血糖]]、[[代謝內分泌科#嗜鉻細胞瘤（Pheochromocytoma）\|嗜鉻細胞瘤]]、[[代謝內分泌科#Carcinoid Syndrome\|類癌症候群]] | 熱潮紅 + 月經變化；夜間惡夢、早上頭痛 → 低血糖；臉潮紅 + 腹瀉 → 類癌 |
-| **藥物** | SSRI、SNRI、tamoxifen、雄性素阻斷治療 | 時序 |
-| **其他** | [[消化內科#胃食道逆流（GERD）\|GERD]]、[[胸腔內科#阻塞性睡眠呼吸中止症（OSA）\|OSA]]、焦慮、[[精神科#酒精戒斷（Alcohol Withdrawal）\|酒精戒斷]] | 夜間火燒心、打鼾 |
+| 感染 | [[感染科#Mycobacterium tuberculosis（結核病）\|結核]]、[[感染科#HIV / AIDS\|HIV]]、[[心臟內科#感染性心內膜炎（Infective Endocarditis, IE）\|心內膜炎]]、膿瘍 | 咳嗽、發燒、高風險行為、新雜音 |
+| 腫瘤 | [[血液腫瘤科#Hodgkin Lymphoma（HL）\|Hodgkin lymphoma]]、[[血液腫瘤科#Non-Hodgkin Lymphoma（NHL）\|NHL]]、[[血液腫瘤科#慢性白血病\|白血病]]、腎細胞癌 | B 症狀、淋巴結、脾腫大 |
+| 內分泌 | 更年期、[[代謝內分泌科#甲狀腺機能亢進（Hyperthyroidism）\|甲狀腺功能亢進]]、[[代謝內分泌科#Hypoglycemia\|夜間低血糖]]、[[代謝內分泌科#嗜鉻細胞瘤（Pheochromocytoma）\|嗜鉻細胞瘤]]、[[代謝內分泌科#Carcinoid Syndrome\|類癌症候群]] | 熱潮紅 + 月經變化；夜間惡夢、早上頭痛 → 低血糖；臉潮紅 + 腹瀉 → 類癌 |
+| 藥物 | SSRI、SNRI、tamoxifen、雄性素阻斷治療 | 時序 |
+| 其他 | [[消化內科#胃食道逆流（GERD）\|GERD]]、[[胸腔內科#阻塞性睡眠呼吸中止症（OSA）\|OSA]]、焦慮、[[精神科#酒精戒斷（Alcohol Withdrawal）\|酒精戒斷]] | 夜間火燒心、打鼾 |
 
 #### 易混淆鑑別
 
@@ -1023,7 +1023,7 @@ flowchart TD
 
 #### 定義與分類
 
-- **淋巴結腫大（lymphadenopathy）**：大小或質地異常；一般成人 **> :red[1 cm]** 視為腫大，例外：
+- **淋巴結腫大（lymphadenopathy）**：大小或質地異常；一般成人 > :red[1 cm] 視為腫大，例外：
     - **鎖骨上 > 0.5 cm、肱骨內上髁（epitrochlear）> 0.5 cm 即異常**。
     - 鼠蹊 > 1.5 cm 才異常（常有反應性腫大）。
 - 分類：
@@ -1040,7 +1040,7 @@ flowchart TD
 | **右鎖骨上** | 縱膈、肺、食道 | **肺癌**、[[消化內科#食道癌\|食道癌]]、淋巴瘤 |
 | **腋下** | 上肢、胸壁、乳房 | **乳癌**、上肢感染、**貓抓病**、[[皮膚科#黑色素瘤（Melanoma）\|黑色素瘤]] |
 | **肱骨內上髁** | 前臂、手 | 手部感染、淋巴瘤、二期[[感染科#Treponema pallidum（Syphilis，梅毒）\|梅毒]]、類肉瘤病 |
-| **鼠蹊** | 下肢、外生殖器、會陰、肛門 | 下肢感染、**性病（梅毒、軟性下疳、性病性淋巴肉芽腫 LGV、生殖器疱疹）**、[[大腸直腸外科#肛門癌（Anal Cancer）\|肛門癌]]、[[婦科#外陰癌（Vulvar Cancer）\|外陰癌]]、黑色素瘤 |
+| **鼠蹊** | 下肢、外生殖器、會陰、肛門 | 下肢感染、**性病**（梅毒、軟性下疳、性病性淋巴肉芽腫 LGV、生殖器疱疹）、[[大腸直腸外科#肛門癌（Anal Cancer）\|肛門癌]]、[[婦科#外陰癌（Vulvar Cancer）\|外陰癌]]、黑色素瘤 |
 | **臍周（Sister Mary Joseph nodule）** | 腹腔與骨盆腔 | **胃癌**、卵巢癌、胰臟癌轉移 |
 
 - 依原因（**MIAMI**）：
@@ -1048,7 +1048,7 @@ flowchart TD
     - **I**nfection：細菌、病毒（EBV、CMV、HIV）、結核、貓抓病、弓漿蟲、梅毒、恙蟲病。
     - **A**utoimmune：SLE、RA、Sjögren、Still's disease、[[皮膚科#皮肌炎（Dermatomyositis）|皮肌炎]]。
     - **M**iscellaneous：**Kikuchi disease（組織球性壞死性淋巴結炎）**、類肉瘤病、**Castleman disease**、[[免疫風濕科#IgG4-Related Disease（IgG4-RD）|IgG4 相關疾病]]、川崎病。
-    - **I**atrogenic：**藥物（phenytoin、carbamazepine、allopurinol → DRESS）**、血清病。
+    - **I**atrogenic：**藥物**（phenytoin、carbamazepine、allopurinol → DRESS）、血清病。
 
 #### Red flags
 
@@ -1062,13 +1062,13 @@ flowchart TD
 
 | 類別 | 疾病 | 鑑別關鍵 |
 |---|---|---|
-| **細菌** | 化膿性淋巴結炎（*S. aureus*、*Strep.*）、貓抓病（*Bartonella henselae*）、[[感染科#Mycobacterium tuberculosis（結核病）\|結核性淋巴結炎（scrofula）]]、[[感染科#Nontuberculous Mycobacteria（NTM）\|NTM]]（兒童）、梅毒、恙蟲病 | 紅腫熱痛、波動感；結核 → **頸部、無痛、可形成廔管（cold abscess）** |
-| **病毒** | **[[感染科#EBV（Infectious Mononucleosis）\|EBV 傳染性單核球症]]**、[[感染科#CMV\|CMV]]、**急性 [[感染科#HIV / AIDS\|HIV]]**、德國麻疹、[[感染科#麻疹（Measles）\|麻疹]] | 咽喉炎 + 頸部後方淋巴結 + 脾腫大 + 非典型淋巴球 → EBV |
-| **寄生蟲** | [[感染科#Toxoplasma gondii\|弓漿蟲]] | 頸部後方、無症狀或類單核球症；接觸貓砂、生肉 |
-| **自體免疫** | [[免疫風濕科#全身性紅斑狼瘡（SLE）\|SLE]]、[[免疫風濕科#類風濕性關節炎（Rheumatoid Arthritis, RA）\|RA]]、[[免疫風濕科#Sjögren's Syndrome（乾燥症候群）\|Sjögren]]、成人 Still's | 多系統症狀；Sjögren → 淋巴瘤風險↑（MALT） |
-| **血液腫瘤** | [[血液腫瘤科#Hodgkin Lymphoma（HL）\|Hodgkin]]、[[血液腫瘤科#Non-Hodgkin Lymphoma（NHL）\|NHL]]、[[血液腫瘤科#慢性白血病\|CLL]]、[[血液腫瘤科#急性白血病（Acute Leukemia）\|急性白血病]] | 橡膠樣、無痛、B 症狀；CLL → 老人、淋巴球持續↑、smudge cells |
-| **轉移癌** | 頭頸癌、[[耳鼻喉科#鼻咽癌（Nasopharyngeal Carcinoma, NPC）\|鼻咽癌]]、[[胃小腸外科#胃癌（Gastric Cancer）\|胃癌]]、[[胸腔內科#肺癌（Lung Cancer）\|肺癌]]、乳癌、黑色素瘤 | **硬、固定**；依部位找原發 |
-| **其他** | Kikuchi disease、[[免疫風濕科#Sarcoidosis（類肉瘤病）\|類肉瘤病]]、Castleman disease、IgG4-RD、[[小兒科#川崎病（Kawasaki Disease）\|川崎病]]、[[皮膚科#Drug Reaction with Eosinophilia and Systemic Symptoms（DRESS）\|DRESS]]、[[代謝內分泌科#甲狀腺機能亢進（Hyperthyroidism）\|Graves disease]] | Kikuchi：**年輕亞洲女性、頸部壓痛性淋巴結、發燒、白血球↓**；類肉瘤病：**雙側肺門淋巴結腫大** |
+| 細菌 | 化膿性淋巴結炎（*S. aureus*、*Strep.*）、貓抓病（*Bartonella henselae*）、[[感染科#Mycobacterium tuberculosis（結核病）\|結核性淋巴結炎（scrofula）]]、[[感染科#Nontuberculous Mycobacteria（NTM）\|NTM]]（兒童）、梅毒、恙蟲病 | 紅腫熱痛、波動感；結核 → **頸部、無痛、可形成廔管（cold abscess）** |
+| 病毒 | [[感染科#EBV（Infectious Mononucleosis）\|EBV 傳染性單核球症]]、[[感染科#CMV\|CMV]]、**急性 [[感染科#HIV / AIDS\|HIV]]**、德國麻疹、[[感染科#麻疹（Measles）\|麻疹]] | 咽喉炎 + 頸部後方淋巴結 + 脾腫大 + 非典型淋巴球 → EBV |
+| 寄生蟲 | [[感染科#Toxoplasma gondii\|弓漿蟲]] | 頸部後方、無症狀或類單核球症；接觸貓砂、生肉 |
+| 自體免疫 | [[免疫風濕科#全身性紅斑狼瘡（SLE）\|SLE]]、[[免疫風濕科#類風濕性關節炎（Rheumatoid Arthritis, RA）\|RA]]、[[免疫風濕科#Sjögren's Syndrome（乾燥症候群）\|Sjögren]]、成人 Still's | 多系統症狀；Sjögren → 淋巴瘤風險↑（MALT） |
+| 血液腫瘤 | [[血液腫瘤科#Hodgkin Lymphoma（HL）\|Hodgkin]]、[[血液腫瘤科#Non-Hodgkin Lymphoma（NHL）\|NHL]]、[[血液腫瘤科#慢性白血病\|CLL]]、[[血液腫瘤科#急性白血病（Acute Leukemia）\|急性白血病]] | 橡膠樣、無痛、B 症狀；CLL → 老人、淋巴球持續↑、smudge cells |
+| 轉移癌 | 頭頸癌、[[耳鼻喉科#鼻咽癌（Nasopharyngeal Carcinoma, NPC）\|鼻咽癌]]、[[胃小腸外科#胃癌（Gastric Cancer）\|胃癌]]、[[胸腔內科#肺癌（Lung Cancer）\|肺癌]]、乳癌、黑色素瘤 | **硬、固定**；依部位找原發 |
+| 其他 | Kikuchi disease、[[免疫風濕科#Sarcoidosis（類肉瘤病）\|類肉瘤病]]、Castleman disease、IgG4-RD、[[小兒科#川崎病（Kawasaki Disease）\|川崎病]]、[[皮膚科#Drug Reaction with Eosinophilia and Systemic Symptoms（DRESS）\|DRESS]]、[[代謝內分泌科#甲狀腺機能亢進（Hyperthyroidism）\|Graves disease]] | Kikuchi：**年輕亞洲女性、頸部壓痛性淋巴結、發燒、白血球↓**；類肉瘤病：**雙側肺門淋巴結腫大** |
 
 #### 易混淆鑑別
 

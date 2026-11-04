@@ -53,7 +53,7 @@ status: initial
 | 病史 | 心臟病、高血壓、**端坐呼吸、PND**、體重增加 | **抽菸、慢性咳痰**、年長 | **年輕、過敏、夜間或清晨症狀**、反覆發作 |
 | 聽診 | **雙側底部細囉音（crackles）**、S3；可有哮鳴音（**cardiac asthma**） | 呼吸音減弱、哮鳴音、粗囉音 | **瀰漫性呼氣哮鳴音**、呼氣延長 |
 | 頸靜脈、水腫 | **頸靜脈怒張、下肢凹陷性水腫** | 肺心症（cor pulmonale）時可有 | 無 |
-| BNP | **BNP > 400 pg/mL 支持**；**:red[< 100] 幾乎排除** | 正常或輕度上升（肺心症） | 正常 |
+| BNP | **BNP > 400 pg/mL 支持**；:red[< 100] 幾乎排除 | 正常或輕度上升（肺心症） | 正常 |
 | CXR | **心臟擴大、Kerley B line、肺門蝴蝶狀浸潤、肋膜積液** | **過度充氣**、橫膈變平 | 過度充氣或正常 |
 | 床邊超音波 | **多條 B-line（雙側）** | A-line | A-line |
 | 治療 | **利尿劑、硝酸鹽、[[胸腔內科#非侵入性正壓通氣（NPPV / NIV）\|NIV]]** | 支氣管擴張劑、類固醇、抗生素、**NIV** | SABA、類固醇、MgSO₄ |
@@ -91,7 +91,7 @@ status: initial
     - **突發（數秒到數分鐘）**：肺栓塞、氣胸、異物、過敏、急性肺水腫、心律不整。
     - 數小時到數天：肺炎、心衰竭惡化、COPD 或氣喘惡化。
 - 伴隨症狀：胸痛（肋膜性 vs 壓迫性）、發燒、咳嗽、痰、咳血、哮鳴、下肢腫脹、心悸。
-- 姿勢相關：**端坐呼吸（orthopnea）**、**PND**（心衰竭）、**平躺呼吸（platypnea，坐起更喘 → 肝肺症候群、心房中膈缺損）**、側臥呼吸（trepopnea）。
+- 姿勢相關：**端坐呼吸（orthopnea）**、**PND**（心衰竭）、**平躺呼吸**（platypnea，坐起更喘 → 肝肺症候群、心房中膈缺損）、側臥呼吸（trepopnea）。
 - 危險因子：抽菸、心臟病、近期手術或長途飛行（PE）、過敏原、職業暴露、免疫狀態。
 - 理學檢查：
     - **生命徵象、SpO₂、能否說完整句子**、呼吸輔助肌、意識。
@@ -119,22 +119,22 @@ flowchart TD
 
 ::chart{id="pe-diagnosis"}
 
-- **Wells score（PE）**：DVT 臨床徵象 **3**、PE 比其他診斷更可能 **3**、心跳 > 100 **1.5**、4 週內手術或臥床 ≥ 3 天 **1.5**、過去 DVT 或 PE **1.5**、咳血 **1**、惡性腫瘤 **1**；**:red[> 4 分] → PE likely**。
+- **Wells score（PE）**：DVT 臨床徵象 **3**、PE 比其他診斷更可能 **3**、心跳 > 100 **1.5**、4 週內手術或臥床 ≥ 3 天 **1.5**、過去 DVT 或 PE **1.5**、咳血 **1**、惡性腫瘤 **1**；:red[> 4 分] → PE likely。
 - **PERC rule**（臨床可能性低時使用，8 項全符合 → 不需驗 D-dimer）：
     - 年齡 < 50、心跳 < 100、**SpO₂ ≥ 95%**、無咳血。
     - 未使用雌激素、無 DVT/PE 病史、無單側下肢腫脹、4 週內無手術或外傷。
-- **年齡校正 D-dimer**：> 50 歲者，cut-off = **:red[年齡 × 10 μg/L]**（FEU）。
+- **年齡校正 D-dimer**：> 50 歲者，cut-off = :red[年齡 × 10 μg/L]（FEU）。
 
 #### 初步處置
 
-- 氧氣：目標 **SpO₂ 94–98%**；**COPD 或有 CO₂ 滯留風險 → :red[88–92%]**。
+- 氧氣：目標 **SpO₂ 94–98%**；COPD 或有 CO₂ 滯留風險 → :red[88–92%]。
 - 呼吸衰竭 → NIV（COPD 急性惡化、心因性肺水腫最有效）或插管。
 - 依病因：
     - **急性氣喘發作**：見下方共用流程。
-    - **COPD 急性惡化**：SABA ± SAMA、prednisolone 40 mg × 5 天、有膿痰時加抗生素、**NIV（:red[pH < 7.35 且 PaCO₂ > 45]）**。
+    - **COPD 急性惡化**：SABA ± SAMA、prednisolone 40 mg × 5 天、有膿痰時加抗生素、NIV（:red[pH < 7.35 且 PaCO₂ > 45]）。
     - **急性心衰竭**：利尿劑、硝酸鹽（收縮壓夠時）、NIV。
     - **肺栓塞**：抗凝血；休克 → 血栓溶解劑。
-    - **過敏性休克**：**IM epinephrine :red[0.5 mg]（大腿外側）**。
+    - **過敏性休克**：IM epinephrine :red[0.5 mg]（大腿外側）。
 
 ::chart{id="asthma-exacerbation"}
 
@@ -179,15 +179,15 @@ COPD 急性惡化病人給高濃度氧氣（例如 non-rebreather mask）把 SpO
 
 | 類別 | 疾病 | 鑑別關鍵 |
 |---|---|---|
-| **阻塞性肺病** | **[[胸腔內科#慢性阻塞性肺病（COPD）\|COPD]]**、**[[胸腔內科#氣喘（Asthma）\|氣喘]]**、[[胸腔內科#支氣管擴張症（Bronchiectasis）\|支氣管擴張]]、細支氣管炎（bronchiolitis obliterans） | 肺功能 **FEV₁/FVC < 0.7**；氣喘 → 支氣管擴張劑可逆 |
-| **間質性肺病** | [[胸腔內科#特發性肺纖維化（Idiopathic Pulmonary Fibrosis, IPF）\|IPF]]、[[胸腔內科#結締組織疾病相關肺病\|結締組織疾病相關]]、[[胸腔內科#職業性/暴露性肺病\|塵肺與石綿肺]]、[[胸腔內科#過敏性肺炎（Hypersensitivity Pneumonitis, HP）\|過敏性肺炎]]、[[胸腔內科#結節病（Sarcoidosis）\|類肉瘤病]]、藥物（amiodarone、methotrexate、bleomycin、nitrofurantoin） | **乾咳、雙側底部 Velcro 囉音、杵狀指**；**限制性 + [[胸腔內科#DLCO\|DLCO]]↓** |
-| **肺血管** | [[胸腔內科#肺高壓（Pulmonary Hypertension）\|肺高壓]]、**慢性血栓栓塞性肺高壓（CTEPH）** | 肺功能正常但 **DLCO 單獨下降**、P2 增強、右心衰竭 |
-| **心臟** | [[心臟內科#心衰竭（Heart Failure）\|心衰竭（含 HFpEF）]]、[[心臟內科#穩定型心絞痛（Stable Angina）\|穩定型心絞痛]]（呼吸困難可為缺血等同症狀）、[[心臟內科#主動脈瓣狹窄（Aortic Stenosis, AS）\|主動脈瓣狹窄]]、二尖瓣疾病、[[心臟內科#縮窄性心包膜炎（Constrictive Pericarditis）\|縮窄性心包膜炎]]、心律不整 | BNP、心臟超音波 |
-| **胸壁與肋膜** | **肥胖**、[[胸腔內科#肥胖低通氣症候群（Obesity Hypoventilation Syndrome, OHS）\|肥胖低通氣症候群]]、[[骨科#脊柱側彎（Scoliosis）\|脊柱側彎]]、慢性肋膜積液、肋膜增厚、[[胸腔內科#惡性肋膜間皮瘤（Malignant Mesothelioma）\|間皮瘤]] | 限制性、**DLCO 正常** |
-| **神經肌肉** | [[神經內科#肌萎縮側索硬化症（ALS）\|ALS]]、[[神經內科#重症肌無力（Myasthenia Gravis, MG）\|重症肌無力]]、肌肉病變、橫膈麻痺 | **平躺時更喘**、FVC 坐臥差 > 20%、最大吸氣壓下降 |
-| **全身** | **貧血**、[[代謝內分泌科#甲狀腺機能亢進（Hyperthyroidism）\|甲狀腺功能亢進]]或低下、體能衰退（deconditioning）、代謝性酸中毒（CKD） | 肺功能與心臟檢查正常 |
-| **上呼吸道** | [[胸腔外科#氣管狹窄（Tracheal Stenosis）\|氣管狹窄]]（插管後）、[[耳鼻喉科#聲帶麻痺（Vocal Cord Paralysis）\|聲帶麻痺]]、甲狀腺腫壓迫 | **flow-volume loop 平頂** |
-| **心因性** | 焦慮、換氣過度症候群 | 排除器質性原因 |
+| 阻塞性肺病 | [[胸腔內科#慢性阻塞性肺病（COPD）\|COPD]]、[[胸腔內科#氣喘（Asthma）\|氣喘]]、[[胸腔內科#支氣管擴張症（Bronchiectasis）\|支氣管擴張]]、細支氣管炎（bronchiolitis obliterans） | 肺功能 **FEV₁/FVC < 0.7**；氣喘 → 支氣管擴張劑可逆 |
+| 間質性肺病 | [[胸腔內科#特發性肺纖維化（Idiopathic Pulmonary Fibrosis, IPF）\|IPF]]、[[胸腔內科#結締組織疾病相關肺病\|結締組織疾病相關]]、[[胸腔內科#職業性/暴露性肺病\|塵肺與石綿肺]]、[[胸腔內科#過敏性肺炎（Hypersensitivity Pneumonitis, HP）\|過敏性肺炎]]、[[胸腔內科#結節病（Sarcoidosis）\|類肉瘤病]]、藥物（amiodarone、methotrexate、bleomycin、nitrofurantoin） | **乾咳、雙側底部 Velcro 囉音、杵狀指**；**限制性 + [[胸腔內科#DLCO\|DLCO]]↓** |
+| 肺血管 | [[胸腔內科#肺高壓（Pulmonary Hypertension）\|肺高壓]]、**慢性血栓栓塞性肺高壓（CTEPH）** | 肺功能正常但 **DLCO 單獨下降**、P2 增強、右心衰竭 |
+| 心臟 | [[心臟內科#心衰竭（Heart Failure）\|心衰竭（含 HFpEF）]]、[[心臟內科#穩定型心絞痛（Stable Angina）\|穩定型心絞痛]]（呼吸困難可為缺血等同症狀）、[[心臟內科#主動脈瓣狹窄（Aortic Stenosis, AS）\|主動脈瓣狹窄]]、二尖瓣疾病、[[心臟內科#縮窄性心包膜炎（Constrictive Pericarditis）\|縮窄性心包膜炎]]、心律不整 | BNP、心臟超音波 |
+| 胸壁與肋膜 | **肥胖**、[[胸腔內科#肥胖低通氣症候群（Obesity Hypoventilation Syndrome, OHS）\|肥胖低通氣症候群]]、[[骨科#脊柱側彎（Scoliosis）\|脊柱側彎]]、慢性肋膜積液、肋膜增厚、[[胸腔內科#惡性肋膜間皮瘤（Malignant Mesothelioma）\|間皮瘤]] | 限制性、**DLCO 正常** |
+| 神經肌肉 | [[神經內科#肌萎縮側索硬化症（ALS）\|ALS]]、[[神經內科#重症肌無力（Myasthenia Gravis, MG）\|重症肌無力]]、肌肉病變、橫膈麻痺 | **平躺時更喘**、FVC 坐臥差 > 20%、最大吸氣壓下降 |
+| 全身 | **貧血**、[[代謝內分泌科#甲狀腺機能亢進（Hyperthyroidism）\|甲狀腺功能亢進]]或低下、體能衰退（deconditioning）、代謝性酸中毒（CKD） | 肺功能與心臟檢查正常 |
+| 上呼吸道 | [[胸腔外科#氣管狹窄（Tracheal Stenosis）\|氣管狹窄]]（插管後）、[[耳鼻喉科#聲帶麻痺（Vocal Cord Paralysis）\|聲帶麻痺]]、甲狀腺腫壓迫 | **flow-volume loop 平頂** |
+| 心因性 | 焦慮、換氣過度症候群 | 排除器質性原因 |
 
 #### 易混淆鑑別
 
@@ -208,7 +208,7 @@ COPD 急性惡化病人給高濃度氧氣（例如 non-rebreather mask）把 SpO
 | 發病年齡 | **> 40 歲** | 多在兒童或年輕時 |
 | 危險因子 | **抽菸（最重要）**、空污、職業粉塵、α1-antitrypsin 缺乏 | 異位性體質、過敏原、家族史 |
 | 症狀型態 | **慢性、漸進**、持續有痰 | **陣發性、變動大**、夜間或清晨惡化 |
-| 支氣管擴張試驗 | 不完全可逆（用藥後 **FEV₁/FVC 仍 < 0.7**） | **可逆**：FEV₁ 增加 **:red[≥ 12% 且 ≥ 200 mL]** |
+| 支氣管擴張試驗 | 不完全可逆（用藥後 **FEV₁/FVC 仍 < 0.7**） | **可逆**：FEV₁ 增加 :red[≥ 12% 且 ≥ 200 mL] |
 | DLCO | 肺氣腫 → **↓** | **正常或↑** |
 | 痰液與血液嗜酸性球 | 多為嗜中性球 | **嗜酸性球↑**、FeNO↑ |
 | 治療主軸 | **LAMA、LABA**；ICS 只用於嗜酸性球高或反覆惡化 | **ICS 為控制藥主軸**；**不可單用 LABA** |
@@ -232,7 +232,7 @@ COPD 急性惡化病人給高濃度氧氣（例如 non-rebreather mask）把 SpO
 
 #### 檢查流程
 
-- 第一線：**CBC（貧血）**、**CXR**、**ECG**、**肺功能（spirometry + 支氣管擴張試驗）**、BNP、TSH。
+- 第一線：CBC（貧血）、CXR、ECG、肺功能（spirometry + 支氣管擴張試驗）、BNP、TSH。
 - 依結果：
     - 阻塞性 → 氣喘或 COPD 分期；可逆性不明 → **支氣管激發試驗（methacholine challenge）**。
     - 限制性 → **全肺容積、DLCO、高解析電腦斷層（HRCT）**。
@@ -244,7 +244,7 @@ COPD 急性惡化病人給高濃度氧氣（例如 non-rebreather mask）把 SpO
 
 - 治療病因：COPD 與氣喘吸入藥物、心衰竭藥物、貧血矯正、減重。
 - 戒菸（所有肺病最重要的介入）、**[[復健科#肺部復健（Pulmonary Rehabilitation）|肺部復健]]（pulmonary rehabilitation）**、疫苗（流感、肺炎鏈球菌）。
-- 長期氧氣治療：**:red[PaO₂ ≤ 55 mmHg 或 SpO₂ ≤ 88%]**（或 PaO₂ 56–59 合併肺心症、紅血球增多症）→ 每天 > 15 小時，**可延長 COPD 存活**。
+- 長期氧氣治療：:red[PaO₂ ≤ 55 mmHg 或 SpO₂ ≤ 88%]（或 PaO₂ 56–59 合併肺心症、紅血球增多症）→ 每天 > 15 小時，**可延長 COPD 存活**。
 
 :::pitfall
 慢性呼吸困難的老人只做了 CXR 和心臟超音波就歸因於「年紀大、體力差」→ 錯過 COPD、間質性肺病、肺高壓或貧血。肺功能檢查（含 DLCO）是慢性呼吸困難的必要檢查。
@@ -297,7 +297,7 @@ COPD 急性惡化病人給高濃度氧氣（例如 non-rebreather mask）把 SpO
 | 機轉 | 疾病 | 鑑別關鍵 |
 |---|---|---|
 | **換氣不足（中樞）** | 鴉片類、benzodiazepine、酒精過量；腦幹中風；[[胸腔內科#肥胖低通氣症候群（Obesity Hypoventilation Syndrome, OHS）\|肥胖低通氣症候群]]；嚴重甲狀腺功能低下 | 瞳孔縮小（鴉片）→ **naloxone** |
-| **換氣不足（神經肌肉）** | [[神經內科#Guillain-Barré Syndrome（GBS）\|GBS]]、[[神經內科#重症肌無力（Myasthenia Gravis, MG）\|重症肌無力]]、[[神經內科#肌萎縮側索硬化症（ALS）\|ALS]]、[[感染科#C. botulinum（Botulism，肉毒桿菌）\|肉毒桿菌]]中毒、[[腎臟內科#低血鉀（Hypokalemia，K⁺ < 3.5 mEq/L）\|低血鉀]]或[[腎臟內科#低血磷（Hypophosphatemia）\|低血磷]]、高位[[神經外科#脊髓損傷（Spinal Cord Injury）\|脊髓損傷]] | **:red[FVC < 15–20 mL/kg]、NIF 弱於 −30 cmH₂O → 考慮插管** |
+| **換氣不足（神經肌肉）** | [[神經內科#Guillain-Barré Syndrome（GBS）\|GBS]]、[[神經內科#重症肌無力（Myasthenia Gravis, MG）\|重症肌無力]]、[[神經內科#肌萎縮側索硬化症（ALS）\|ALS]]、[[感染科#C. botulinum（Botulism，肉毒桿菌）\|肉毒桿菌]]中毒、[[腎臟內科#低血鉀（Hypokalemia，K⁺ < 3.5 mEq/L）\|低血鉀]]或[[腎臟內科#低血磷（Hypophosphatemia）\|低血磷]]、高位[[神經外科#脊髓損傷（Spinal Cord Injury）\|脊髓損傷]] | :red[FVC < 15–20 mL/kg]、NIF 弱於 −30 cmH₂O → 考慮插管 |
 | **換氣不足（胸壁）** | 嚴重脊柱側彎、連枷胸、極度肥胖 | |
 | **V/Q 失衡** | [[胸腔內科#慢性阻塞性肺病（COPD）\|COPD]]、氣喘、肺炎、[[胸腔內科#肺栓塞（Pulmonary Embolism）\|肺栓塞]]、ILD | 給氧可改善 |
 | **分流** | [[胸腔內科#急性呼吸窘迫症候群（ARDS）\|ARDS]]、[[心臟內科#急性心衰竭（Acute Decompensated HF）\|心因性肺水腫]]、肺炎（大片實質化）、肺塌陷、[[心血管外科#法洛氏四合症（Tetralogy of Fallot, TOF）\|發紺性心臟病]]、**Eisenmenger syndrome**、肺動靜脈畸形（遺傳性出血性微血管擴張症 HHT）、**肝肺症候群** | **100% 氧氣仍無法改善** |
@@ -315,7 +315,7 @@ COPD 急性惡化病人給高濃度氧氣（例如 non-rebreather mask）把 SpO
 | 嚴重度 | 輕度 :red[200–300]、中度 100–200、重度 **≤ 100** | |
 | 心臟 | 心臟大小正常、**PCWP ≤ 18 mmHg** | 心臟擴大、**PCWP > 18**、BNP↑ |
 | CXR | 周邊分布浸潤、**沒有 Kerley B line** | 中央蝴蝶狀、Kerley B line、肋膜積液 |
-| 治療 | **低潮氣容積（:red[6 mL/kg] 理想體重）、平台壓 :red[≤ 30]**、高 PEEP、**俯臥（重度）**、限制輸液 | **利尿劑、硝酸鹽、NIV** |
+| 治療 | 低潮氣容積（:red[6 mL/kg] 理想體重）、平台壓 :red[≤ 30]、高 PEEP、**俯臥（重度）**、限制輸液 | **利尿劑、硝酸鹽、NIV** |
 :::
 
 :::compare[SpO₂ 不可靠的情況]
@@ -384,9 +384,9 @@ Guillain-Barré 或重症肌無力危象病人 SpO₂ 一直正常，就以為�
 #### 定義與分類
 
 - **依時間分類（成人）**：
-    - **急性 < :red[3 週]**。
+    - 急性 < :red[3 週]。
     - **亞急性 3–8 週**：多為**感染後咳嗽（post-infectious cough）**、**百日咳**。
-    - **慢性 > :red[8 週]**：見[[#慢性咳嗽（Chronic Cough）|慢性咳嗽]]。
+    - 慢性 > :red[8 週]：見[[#慢性咳嗽（Chronic Cough）|慢性咳嗽]]。
     - 兒童慢性咳嗽定義為 > 4 週。
 - 急性咳嗽最常見原因：**上呼吸道感染（普通感冒，common cold）**；其次為急性支氣管炎、鼻竇炎、過敏性鼻炎、氣喘或 COPD 惡化。
 - **急性支氣管炎（acute bronchitis）**：**> 90% 為病毒**，咳嗽可持續 1–3 週，痰可為黃綠色（**不代表細菌感染**）→ **不需抗生素**。
@@ -402,10 +402,10 @@ Guillain-Barré 或重症肌無力危象病人 SpO₂ 一直正常，就以為�
 
 | 類別 | 疾病 | 鑑別關鍵 |
 |---|---|---|
-| **上呼吸道** | 普通感冒、[[感染科#Influenza\|流感]]、[[耳鼻喉科#鼻竇炎（Rhinosinusitis）\|急性鼻竇炎]]、[[耳鼻喉科#急性咽扁桃腺炎（Acute Pharyngotonsillitis）\|咽喉炎]]、[[耳鼻喉科#過敏性鼻炎（Allergic Rhinitis）\|過敏性鼻炎]] | 流鼻水、喉嚨痛；流感 → 突發高燒、全身痠痛 |
-| **下呼吸道感染** | 急性支氣管炎、[[胸腔內科#社區型肺炎（CAP）\|肺炎]]、[[感染科#Bordetella pertussis（百日咳）\|百日咳]]、[[感染科#Mycoplasma pneumoniae\|黴漿菌]]、[[感染科#COVID-19（SARS-CoV-2）\|COVID-19]] | 肺炎：生命徵象異常、局部囉音、CXR 浸潤 |
-| **慢性病急性惡化** | [[胸腔內科#氣喘（Asthma）\|氣喘]]、[[胸腔內科#急性惡化（COPD AE）\|COPD 急性惡化]]、[[胸腔內科#支氣管擴張症（Bronchiectasis）\|支氣管擴張]] | 已知病史、哮鳴音 |
-| **其他** | [[胸腔內科#肺栓塞（Pulmonary Embolism）\|肺栓塞]]、[[心臟內科#急性心衰竭（Acute Decompensated HF）\|急性心衰竭]]、[[耳鼻喉科#氣管異物\|異物吸入]]、吸入性肺炎、刺激物吸入 | 呼吸困難為主、突發嗆咳 |
+| 上呼吸道 | 普通感冒、[[感染科#Influenza\|流感]]、[[耳鼻喉科#鼻竇炎（Rhinosinusitis）\|急性鼻竇炎]]、[[耳鼻喉科#急性咽扁桃腺炎（Acute Pharyngotonsillitis）\|咽喉炎]]、[[耳鼻喉科#過敏性鼻炎（Allergic Rhinitis）\|過敏性鼻炎]] | 流鼻水、喉嚨痛；流感 → 突發高燒、全身痠痛 |
+| 下呼吸道感染 | 急性支氣管炎、[[胸腔內科#社區型肺炎（CAP）\|肺炎]]、[[感染科#Bordetella pertussis（百日咳）\|百日咳]]、[[感染科#Mycoplasma pneumoniae\|黴漿菌]]、[[感染科#COVID-19（SARS-CoV-2）\|COVID-19]] | 肺炎：生命徵象異常、局部囉音、CXR 浸潤 |
+| 慢性病急性惡化 | [[胸腔內科#氣喘（Asthma）\|氣喘]]、[[胸腔內科#急性惡化（COPD AE）\|COPD 急性惡化]]、[[胸腔內科#支氣管擴張症（Bronchiectasis）\|支氣管擴張]] | 已知病史、哮鳴音 |
+| 其他 | [[胸腔內科#肺栓塞（Pulmonary Embolism）\|肺栓塞]]、[[心臟內科#急性心衰竭（Acute Decompensated HF）\|急性心衰竭]]、[[耳鼻喉科#氣管異物\|異物吸入]]、吸入性肺炎、刺激物吸入 | 呼吸困難為主、突發嗆咳 |
 
 #### 易混淆鑑別
 
@@ -417,7 +417,7 @@ Guillain-Barré 或重症肌無力危象病人 SpO₂ 一直正常，就以為�
 | 全身症狀 | 輕 | **明顯肌肉痛、頭痛、倦怠** | 倦怠、**嗅覺味覺喪失** | 臉部壓痛 |
 | 主要症狀 | **流鼻水、鼻塞、打噴嚏、喉嚨痛** | 乾咳、喉嚨痛 | 乾咳、喉嚨痛、呼吸困難 | **膿鼻涕、單側臉部疼痛、上顎牙痛** |
 | 診斷 | 臨床 | 快篩、PCR | 抗原快篩、PCR | **症狀 > 10 天不改善、或先好轉又惡化（double sickening）、或高燒 + 膿鼻涕 ≥ 3 天** |
-| 治療 | 症狀治療 | **Oseltamivir（:red[48 小時]內效果最好；高風險者不論時間都給）** | 高風險者抗病毒藥 | Amoxicillin（± clavulanate） |
+| 治療 | 症狀治療 | Oseltamivir（:red[48 小時]內效果最好；高風險者不論時間都給） | 高風險者抗病毒藥 | Amoxicillin（± clavulanate） |
 :::
 
 :::compare[典型 vs 非典型肺炎]
@@ -441,8 +441,8 @@ Guillain-Barré 或重症肌無力危象病人 SpO₂ 一直正常，就以為�
 
 - **大多數不需檢查**：病毒性上呼吸道感染與急性支氣管炎是臨床診斷。
 - **CXR 的時機**：生命徵象異常、肺部局部異常、**老人或免疫低下**、咳嗽 > 3 週、咳血。
-- **CURB-65**（肺炎嚴重度）：意識混亂（Confusion）、**BUN > 19 mg/dL（Urea > 7 mmol/L）**、**RR ≥ 30**、**收縮壓 < 90 或舒張壓 ≤ 60**、**年齡 ≥ 65**。
-    - **:red[0–1 分] → 門診**；2 分 → 住院；**≥ 3 分 → 考慮加護病房**。
+- **CURB-65**（肺炎嚴重度）：意識混亂（Confusion）、BUN > 19 mg/dL（Urea > 7 mmol/L）、RR ≥ 30、收縮壓 < 90 或舒張壓 ≤ 60、年齡 ≥ 65。
+    - :red[0–1 分] → 門診；2 分 → 住院；**≥ 3 分 → 考慮加護病房**。
 - 流感或 COVID-19 快篩；懷疑百日咳 → 鼻咽 PCR（前 3 週）。
 
 #### 初步處置
@@ -466,7 +466,7 @@ Guillain-Barré 或重症肌無力危象病人 SpO₂ 一直正常，就以為�
 
 #### 定義與分類
 
-- **成人咳嗽 > :red[8 週]**（兒童 > 4 週）。
+- 成人咳嗽 > :red[8 週]（兒童 > 4 週）。
 - **CXR 正常、不抽菸、沒有用 ACEI 的成人**，**> 90%** 由以下原因造成：
     - **上呼吸道咳嗽症候群（upper airway cough syndrome, UACS，舊稱 postnasal drip）**：**最常見**。
     - **氣喘**（含**咳嗽變異型氣喘 cough-variant asthma**，只有咳嗽沒有喘鳴）。
@@ -487,12 +487,12 @@ Guillain-Barré 或重症肌無力危象病人 SpO₂ 一直正常，就以為�
 
 | 類別 | 疾病 | 鑑別關鍵 |
 |---|---|---|
-| **常見四大原因** | 上呼吸道咳嗽症候群（[[耳鼻喉科#過敏性鼻炎（Allergic Rhinitis）\|過敏性鼻炎]]、[[耳鼻喉科#鼻竇炎（Rhinosinusitis）\|慢性鼻竇炎]]）、[[胸腔內科#氣喘（Asthma）\|咳嗽變異型氣喘]]、[[消化內科#胃食道逆流（GERD）\|GERD]]、NAEB | 喉嚨有東西往下流、清喉嚨；夜間或運動、冷空氣誘發；餐後或平躺時咳；痰嗜酸性球↑ |
-| **藥物** | **ACEI**（5–35%） | 用藥後數小時到數月出現，**停藥後 :red[1–4 週]緩解（最長 3 個月）**；換 ARB |
-| **吸菸相關** | 慢性支氣管炎、[[胸腔內科#慢性阻塞性肺病（COPD）\|COPD]]、[[胸腔內科#肺癌（Lung Cancer）\|肺癌]] | 戒菸後 4 週內多改善 |
-| **感染** | **[[胸腔內科#肺結核（Pulmonary Tuberculosis）\|肺結核]]**、[[感染科#Nontuberculous Mycobacteria（NTM）\|NTM]]、百日咳、感染後咳嗽 | 結核：咳嗽 > 2–3 週 + 體重減輕、午後發燒、盜汗 |
-| **肺實質與氣道** | [[胸腔內科#支氣管擴張症（Bronchiectasis）\|支氣管擴張]]、[[胸腔內科#間質性肺病（Interstitial Lung Disease, ILD）\|間質性肺病]]、[[胸腔內科#結節病（Sarcoidosis）\|類肉瘤病]]、[[胸腔外科#氣管腫瘤\|氣管腫瘤]] | 支氣管擴張：每天大量膿痰、反覆感染；ILD：乾咳 + 喘 |
-| **其他** | [[心臟內科#心衰竭（Heart Failure）\|心衰竭]]、慢性吸入（[[復健科#吞嚥障礙（Dysphagia）\|吞嚥障礙]]）、[[耳鼻喉科#聲帶麻痺（Vocal Cord Paralysis）\|聲帶麻痺]]、耳道刺激（Arnold 神經反射）、心因性咳嗽、咳嗽高敏感症候群 | 夜間平躺咳 → 心衰竭；進食嗆咳 → 吸入 |
+| 常見四大原因 | 上呼吸道咳嗽症候群（[[耳鼻喉科#過敏性鼻炎（Allergic Rhinitis）\|過敏性鼻炎]]、[[耳鼻喉科#鼻竇炎（Rhinosinusitis）\|慢性鼻竇炎]]）、[[胸腔內科#氣喘（Asthma）\|咳嗽變異型氣喘]]、[[消化內科#胃食道逆流（GERD）\|GERD]]、NAEB | 喉嚨有東西往下流、清喉嚨；夜間或運動、冷空氣誘發；餐後或平躺時咳；痰嗜酸性球↑ |
+| 藥物 | **ACEI**（5–35%） | 用藥後數小時到數月出現，停藥後 :red[1–4 週]緩解（最長 3 個月）；換 ARB |
+| 吸菸相關 | 慢性支氣管炎、[[胸腔內科#慢性阻塞性肺病（COPD）\|COPD]]、[[胸腔內科#肺癌（Lung Cancer）\|肺癌]] | 戒菸後 4 週內多改善 |
+| 感染 | [[胸腔內科#肺結核（Pulmonary Tuberculosis）\|肺結核]]、[[感染科#Nontuberculous Mycobacteria（NTM）\|NTM]]、百日咳、感染後咳嗽 | 結核：咳嗽 > 2–3 週 + 體重減輕、午後發燒、盜汗 |
+| 肺實質與氣道 | [[胸腔內科#支氣管擴張症（Bronchiectasis）\|支氣管擴張]]、[[胸腔內科#間質性肺病（Interstitial Lung Disease, ILD）\|間質性肺病]]、[[胸腔內科#結節病（Sarcoidosis）\|類肉瘤病]]、[[胸腔外科#氣管腫瘤\|氣管腫瘤]] | 支氣管擴張：每天大量膿痰、反覆感染；ILD：乾咳 + 喘 |
+| 其他 | [[心臟內科#心衰竭（Heart Failure）\|心衰竭]]、慢性吸入（[[復健科#吞嚥障礙（Dysphagia）\|吞嚥障礙]]）、[[耳鼻喉科#聲帶麻痺（Vocal Cord Paralysis）\|聲帶麻痺]]、耳道刺激（Arnold 神經反射）、心因性咳嗽、咳嗽高敏感症候群 | 夜間平躺咳 → 心衰竭；進食嗆咳 → 吸入 |
 
 #### 易混淆鑑別
 
@@ -569,7 +569,7 @@ flowchart TD
 - **假性咳血（pseudohemoptysis）**：血來自**鼻咽、口腔（上呼吸道）或上消化道**，要先排除。
 - 依量分類：
     - **少量**：血絲痰（blood-tinged sputum）。
-    - **[[胸腔內科#大量咳血（Massive Hemoptysis）|大量咳血]]（massive hemoptysis）**：24 小時 **:red[≥ 100–600 mL]**（各定義不同，常用 ≥ 500–600 mL），或出血速度 ≥ 100 mL/hr，或**造成呼吸道阻塞、低血氧、血行動力學不穩**者。
+    - **[[胸腔內科#大量咳血（Massive Hemoptysis）|大量咳血]]（massive hemoptysis）**：24 小時 :red[≥ 100–600 mL]（各定義不同，常用 ≥ 500–600 mL），或出血速度 ≥ 100 mL/hr，或**造成呼吸道阻塞、低血氧、血行動力學不穩**者。
 - **致死原因是窒息，不是失血**：解剖死腔約 150 mL，少量血就能塞住呼吸道。
 - 出血來源：**約 90% 來自支氣管動脈（體循環，高壓）**；約 5% 來自肺動脈（低壓）。
 - 常見原因：
@@ -591,12 +591,12 @@ flowchart TD
 
 | 類別 | 疾病 | 鑑別關鍵 |
 |---|---|---|
-| **假性咳血** | [[耳鼻喉科#鼻出血（Epistaxis）\|鼻出血]]、[[耳鼻喉科#鼻咽癌（Nasopharyngeal Carcinoma, NPC）\|鼻咽癌]]、牙齦出血、**[[消化系統主訴#上消化道出血（Upper GI Bleeding）\|上消化道出血]]（吐血）** | 鼻咽檢查；**咖啡渣樣、酸性、混有食物 → 吐血** |
-| **感染** | **[[胸腔內科#肺結核（Pulmonary Tuberculosis）\|肺結核]]**、急性支氣管炎、[[胸腔內科#社區型肺炎（CAP）\|肺炎]]、[[胸腔內科#肺膿瘍（Lung Abscess）\|肺膿瘍]]、[[感染科#Aspergillus\|麴菌球]] | 發燒、慢性咳嗽、空洞 |
-| **氣道** | **[[胸腔內科#支氣管擴張症（Bronchiectasis）\|支氣管擴張]]**、**[[胸腔內科#肺癌（Lung Cancer）\|肺癌]]**（**鱗狀細胞癌**等中央型腫瘤）、支氣管類癌 | 大量膿痰；抽菸 > 40 歲 |
-| **血管** | [[胸腔內科#肺栓塞（Pulmonary Embolism）\|肺栓塞]]、[[心臟內科#二尖瓣狹窄（Mitral Stenosis, MS）\|二尖瓣狹窄]]、肺動靜脈畸形、[[胸腔內科#肺高壓（Pulmonary Hypertension）\|肺高壓]] | 突發呼吸困難 + 肋膜性胸痛；舒張期雜音 |
-| **血管炎與肺泡出血** | [[免疫風濕科#小血管炎（Small-vessel Vasculitis）\|GPA]]、[[腎臟內科#Type I：Anti-GBM Disease（Goodpasture's Disease）\|Goodpasture syndrome]]、[[免疫風濕科#全身性紅斑狼瘡（SLE）\|SLE]] | **血尿 + 腎衰竭**；GPA → [[耳鼻喉科#鼻竇炎（Rhinosinusitis）\|鼻竇炎]]、鞍鼻、c-ANCA |
-| **出血傾向** | 抗凝血劑、抗血小板藥、[[血液腫瘤科#血小板低下（Thrombocytopenia）\|血小板低下]]、[[血液腫瘤科#DIC（Disseminated Intravascular Coagulation）\|DIC]] | 其他部位出血 |
+| 假性咳血 | [[耳鼻喉科#鼻出血（Epistaxis）\|鼻出血]]、[[耳鼻喉科#鼻咽癌（Nasopharyngeal Carcinoma, NPC）\|鼻咽癌]]、牙齦出血、**[[消化系統主訴#上消化道出血（Upper GI Bleeding）\|上消化道出血]]（吐血）** | 鼻咽檢查；**咖啡渣樣、酸性、混有食物 → 吐血** |
+| 感染 | [[胸腔內科#肺結核（Pulmonary Tuberculosis）\|肺結核]]、急性支氣管炎、[[胸腔內科#社區型肺炎（CAP）\|肺炎]]、[[胸腔內科#肺膿瘍（Lung Abscess）\|肺膿瘍]]、[[感染科#Aspergillus\|麴菌球]] | 發燒、慢性咳嗽、空洞 |
+| 氣道 | [[胸腔內科#支氣管擴張症（Bronchiectasis）\|支氣管擴張]]、[[胸腔內科#肺癌（Lung Cancer）\|肺癌]]（**鱗狀細胞癌**等中央型腫瘤）、支氣管類癌 | 大量膿痰；抽菸 > 40 歲 |
+| 血管 | [[胸腔內科#肺栓塞（Pulmonary Embolism）\|肺栓塞]]、[[心臟內科#二尖瓣狹窄（Mitral Stenosis, MS）\|二尖瓣狹窄]]、肺動靜脈畸形、[[胸腔內科#肺高壓（Pulmonary Hypertension）\|肺高壓]] | 突發呼吸困難 + 肋膜性胸痛；舒張期雜音 |
+| 血管炎與肺泡出血 | [[免疫風濕科#小血管炎（Small-vessel Vasculitis）\|GPA]]、[[腎臟內科#Type I：Anti-GBM Disease（Goodpasture's Disease）\|Goodpasture syndrome]]、[[免疫風濕科#全身性紅斑狼瘡（SLE）\|SLE]] | **血尿 + 腎衰竭**；GPA → [[耳鼻喉科#鼻竇炎（Rhinosinusitis）\|鼻竇炎]]、鞍鼻、c-ANCA |
+| 出血傾向 | 抗凝血劑、抗血小板藥、[[血液腫瘤科#血小板低下（Thrombocytopenia）\|血小板低下]]、[[血液腫瘤科#DIC（Disseminated Intravascular Coagulation）\|DIC]] | 其他部位出血 |
 
 #### 易混淆鑑別
 
@@ -683,11 +683,11 @@ flowchart TD
 
 #### 定義與分類
 
-- **喘鳴（stridor）**：**大氣道（喉、氣管）**狹窄造成的高頻、單音聲音；**上呼吸道阻塞的徵象，屬急症**。
+- **喘鳴（stridor）**：**大氣道**（喉、氣管）狹窄造成的高頻、單音聲音；**上呼吸道阻塞的徵象，屬急症**。
     - **吸氣性** → **胸腔外（extrathoracic）**：聲門上、聲門（會厭炎、喉軟化、聲帶麻痺）。
     - **呼氣性** → **胸腔內（intrathoracic）**：氣管下段、主支氣管（氣管軟化、異物、腫瘤）。
     - **雙相（biphasic）** → **固定性阻塞**：聲門下（哮吼、聲門下狹窄）、聲門。
-- **哮鳴（wheezing）**：**小氣道**狹窄、**呼氣**為主的音樂性聲音；**單側或局部的哮鳴 → 想到局部阻塞（異物、腫瘤）**。
+- **哮鳴（wheezing）**：**小氣道**狹窄、**呼氣**為主的音樂性聲音；**單側或局部的哮鳴 → 想到局部阻塞**（異物、腫瘤）。
 - 「**會喘的不一定是氣喘（all that wheezes is not asthma）**」：[[心臟內科#急性心衰竭（Acute Decompensated HF）|心衰竭]]（cardiac asthma）、COPD、異物、腫瘤、PE、聲帶功能異常、過敏性休克、細支氣管炎。
 
 #### Red flags
@@ -702,8 +702,8 @@ flowchart TD
 
 | 年齡與性質 | 疾病 | 鑑別關鍵 |
 |---|---|---|
-| **嬰兒慢性喘鳴** | **[[耳鼻喉科#先天性喉軟化症（Laryngomalacia）\|喉軟化症]]（最常見）**、[[耳鼻喉科#聲門下血管瘤（Subglottic Hemangioma）\|聲門下血管瘤]]、聲帶麻痺、血管環（vascular ring） | 喉軟化：**吸氣性、平躺或哭時加重、趴睡改善**，多在 **:red[12–18 個月]**內自行改善 |
-| **兒童急性喘鳴** | **[[耳鼻喉科#哮吼（Croup / Laryngotracheobronchitis）\|哮吼]]**、**[[耳鼻喉科#急性會厭炎（Acute Epiglottitis / Supraglottitis）\|會厭炎]]**、細菌性氣管炎、[[小兒科#異物吸入（Foreign Body Aspiration）\|異物]]、[[耳鼻喉科#咽後膿瘍（Retropharyngeal Abscess）\|咽後膿瘍]] | 見比較表 |
+| **嬰兒慢性喘鳴** | **[[耳鼻喉科#先天性喉軟化症（Laryngomalacia）\|喉軟化症]]（最常見）**、[[耳鼻喉科#聲門下血管瘤（Subglottic Hemangioma）\|聲門下血管瘤]]、聲帶麻痺、血管環（vascular ring） | 喉軟化：**吸氣性、平躺或哭時加重、趴睡改善**，多在 :red[12–18 個月]內自行改善 |
+| **兒童急性喘鳴** | [[耳鼻喉科#哮吼（Croup / Laryngotracheobronchitis）\|哮吼]]、[[耳鼻喉科#急性會厭炎（Acute Epiglottitis / Supraglottitis）\|會厭炎]]、細菌性氣管炎、[[小兒科#異物吸入（Foreign Body Aspiration）\|異物]]、[[耳鼻喉科#咽後膿瘍（Retropharyngeal Abscess）\|咽後膿瘍]] | 見比較表 |
 | **成人急性喘鳴** | [[免疫風濕科#過敏性休克（Anaphylaxis）\|過敏性休克]]、[[免疫風濕科#血管性水腫（Angioedema）\|血管性水腫（ACEI、遺傳性）]]、會厭炎、[[耳鼻喉科#路德維希氏咽峽炎（Ludwig's Angina）\|Ludwig's angina]]、異物、頸部血腫、吸入性傷害（燒傷） | 用藥、過敏原、牙齒感染、燒傷 |
 | **成人慢性喘鳴** | [[耳鼻喉科#喉癌（Laryngeal Cancer）\|喉癌]]、[[耳鼻喉科#聲帶麻痺（Vocal Cord Paralysis）\|雙側聲帶麻痺]]、[[胸腔外科#氣管狹窄（Tracheal Stenosis）\|插管後氣管狹窄]]、[[胸腔外科#氣管腫瘤\|氣管腫瘤]]、甲狀腺腫壓迫、[[胸腔外科#氣管軟化（Tracheomalacia）\|氣管軟化]] | 抽菸喝酒 + 聲音沙啞；長期插管或氣切病史 |
 | **哮鳴：氣道** | [[胸腔內科#氣喘（Asthma）\|氣喘]]、[[胸腔內科#慢性阻塞性肺病（COPD）\|COPD]]、[[小兒科#細支氣管炎（Bronchiolitis）\|細支氣管炎]]、[[胸腔內科#支氣管擴張症（Bronchiectasis）\|支氣管擴張]]、ABPA、[[免疫風濕科#小血管炎（Small-vessel Vasculitis）\|EGPA]] | 過敏與氣喘病史；嗜酸性球↑ → ABPA、EGPA |
@@ -719,7 +719,7 @@ flowchart TD
 | 發作 | 感冒後 1–2 天，**夜間加重** | **數小時內急速惡化** | 哮吼後惡化 | **突發嗆咳** |
 | 特徵 | **犬吠樣咳嗽（barking cough）**、聲音沙啞、吸氣性喘鳴 | **高燒、流口水、吞嚥困難、三腳架姿勢、不咳嗽** | 高燒、**看起來很毒（toxic）**、膿性分泌物 | **單側哮鳴或呼吸音減弱** |
 | 頸部 X 光 | **尖塔徵象（steeple sign）** | **拇指徵象（thumb sign）** | 氣管內膜不規則 | 不透光異物；**吐氣相肺部過度充氣（單向閥）** |
-| 處置 | **Dexamethasone :red[0.15–0.6 mg/kg]**、中重度加**霧化 epinephrine** | **不要壓舌、不要讓孩子平躺或哭鬧**；**在手術室確保呼吸道**、ceftriaxone | 插管、抗生素 | **硬式支氣管鏡**取出 |
+| 處置 | Dexamethasone :red[0.15–0.6 mg/kg]、中重度加**霧化 epinephrine** | **不要壓舌、不要讓孩子平躺或哭鬧**；**在手術室確保呼吸道**、ceftriaxone | 插管、抗生素 | **硬式支氣管鏡**取出 |
 :::
 
 :::compare[氣喘 vs 聲帶功能異常（VCD）]
@@ -774,7 +774,7 @@ flowchart TD
 
 #### 定義與分類
 
-- **發紺（cyanosis）**：皮膚與黏膜呈藍紫色；微血管中**去氧血紅素（deoxyhemoglobin）≥ :red[5 g/dL]** 時出現（約 SaO₂ < 85%）。
+- **發紺（cyanosis）**：皮膚與黏膜呈藍紫色；微血管中去氧血紅素（deoxyhemoglobin）≥ :red[5 g/dL] 時出現（約 SaO₂ < 85%）。
     - **貧血**病人即使嚴重低血氧也可能**看不到發紺**（血紅素總量不夠）。
     - **紅血球增多症**病人較容易出現發紺。
 - **中央性發紺（central cyanosis）**：**舌頭、口腔黏膜**與四肢都發紫 → 動脈血氧飽和度低。
@@ -787,16 +787,16 @@ flowchart TD
 - 急性中央性發紺 + 呼吸困難 → 呼吸衰竭。
 - **新生兒中央性發紺** → 發紺性先天性心臟病、肺部疾病、持續性肺高壓（[[小兒科#新生兒持續性肺高壓（PPHN）|PPHN]]）。
 - **發紺但 PaO₂ 正常、不喘** → 變性血紅素血症。
-- 單一肢體周邊發紺 + 冰冷、無脈搏 → **[[心臟內科#急性肢體缺血（Acute Limb Ischemia）|急性肢體缺血]]**。
+- 單一肢體周邊發紺 + 冰冷、無脈搏 → [[心臟內科#急性肢體缺血（Acute Limb Ischemia）|急性肢體缺血]]。
 
 #### 鑑別診斷
 
 | 類別 | 疾病 | 鑑別關鍵 |
 |---|---|---|
-| **中央：肺部** | 呼吸衰竭、[[胸腔內科#慢性阻塞性肺病（COPD）\|COPD]]、肺炎、ARDS、[[胸腔內科#肺栓塞（Pulmonary Embolism）\|肺栓塞]]、ILD、高海拔 | 給氧可改善（分流除外） |
-| **中央：心臟分流** | **[[心血管外科#法洛氏四合症（Tetralogy of Fallot, TOF）\|法洛氏四合症]]**、[[心血管外科#大血管轉位（Transposition of Great Arteries, TGA）\|大血管轉位]]、**Eisenmenger syndrome**、肺動靜脈畸形 | **給 100% 氧氣不改善（hyperoxia test）**、杵狀指 |
-| **中央：血紅素異常** | **變性血紅素血症**、硫化血紅素血症 | **PaO₂ 正常**、SpO₂ 約 85%、巧克力色血液 |
-| **周邊** | 低心輸出量（**心衰竭、休克**）、寒冷暴露、**雷諾氏現象**、[[心臟內科#周邊動脈疾病（Peripheral Artery Disease, PAD）\|周邊動脈疾病]]、靜脈阻塞、[[心臟內科#心衰竭（Heart Failure）\|心衰竭]] | 舌頭不紫、四肢冰冷、按摩或保暖改善 |
+| 中央：肺部 | 呼吸衰竭、[[胸腔內科#慢性阻塞性肺病（COPD）\|COPD]]、肺炎、ARDS、[[胸腔內科#肺栓塞（Pulmonary Embolism）\|肺栓塞]]、ILD、高海拔 | 給氧可改善（分流除外） |
+| 中央：心臟分流 | [[心血管外科#法洛氏四合症（Tetralogy of Fallot, TOF）\|法洛氏四合症]]、[[心血管外科#大血管轉位（Transposition of Great Arteries, TGA）\|大血管轉位]]、**Eisenmenger syndrome**、肺動靜脈畸形 | **給 100% 氧氣不改善（hyperoxia test）**、杵狀指 |
+| 中央：血紅素異常 | **變性血紅素血症**、硫化血紅素血症 | **PaO₂ 正常**、SpO₂ 約 85%、巧克力色血液 |
+| 周邊 | 低心輸出量（**心衰竭、休克**）、寒冷暴露、**雷諾氏現象**、[[心臟內科#周邊動脈疾病（Peripheral Artery Disease, PAD）\|周邊動脈疾病]]、靜脈阻塞、[[心臟內科#心衰竭（Heart Failure）\|心衰竭]] | 舌頭不紫、四肢冰冷、按摩或保暖改善 |
 
 #### 易混淆鑑別
 
@@ -826,13 +826,13 @@ flowchart TD
 #### 檢查流程
 
 - **SpO₂ + 動脈血氣（PaO₂）+ co-oximetry**：
-    - PaO₂ 低 → 肺部或心臟分流；**高氧試驗（給 100% 氧氣，PaO₂ :red[< 150 mmHg] → 心臟分流）**。
+    - PaO₂ 低 → 肺部或心臟分流；高氧試驗（給 100% 氧氣，PaO₂ :red[< 150 mmHg] → 心臟分流）。
     - **PaO₂ 正常、SpO₂ 低、飽和度差 → 變性血紅素血症**。
 - CXR、ECG、**心臟超音波（含氣泡試驗）**、CBC（紅血球增多症）。
 
 #### 初步處置
 
-- 中央性：給氧、治療病因；變性血紅素血症 → **methylene blue :red[1–2 mg/kg] IV**（G6PD 缺乏禁用）。
+- 中央性：給氧、治療病因；變性血紅素血症 → methylene blue :red[1–2 mg/kg] IV（G6PD 缺乏禁用）。
 - 周邊性：保暖、改善心輸出量與灌流。
 - 新生兒發紺性心臟病依賴動脈導管 → **prostaglandin E1** 維持 PDA 暢通。
 
@@ -865,11 +865,11 @@ flowchart TD
 
 | 類型 | 疾病 | 鑑別關鍵 |
 |---|---|---|
-| **漏出液** | **[[心臟內科#心衰竭（Heart Failure）\|心衰竭]]**、[[消化內科#肝硬化（Liver Cirrhosis）\|肝硬化]]、[[腎臟內科#Nephrotic Syndrome\|腎病症候群]]、腹膜透析、[[代謝內分泌科#甲狀腺機能低下（Hypothyroidism）\|黏液水腫]] | **雙側、對稱**（心衰竭時右 > 左）；肝性胸水多右側 |
-| **感染** | **肺炎旁積液**、[[胸腔外科#膿胸（Empyema）\|膿胸]]、**[[胸腔內科#肺結核（Pulmonary Tuberculosis）\|結核性肋膜炎]]** | 肺炎病史；結核 → **淋巴球為主、ADA > 40** |
-| **惡性** | [[胸腔內科#肺癌（Lung Cancer）\|肺癌]]、乳癌、淋巴瘤、[[胸腔內科#惡性肋膜間皮瘤（Malignant Mesothelioma）\|間皮瘤]]、卵巢癌（Meigs syndrome：卵巢纖維瘤 + 腹水 + 肋膜積液，切除後消失） | **血性**、細胞學陽性；**大量積液縱膈腔卻沒被推開 → 主支氣管阻塞或縱膈固定（肺癌、間皮瘤）** |
+| **漏出液** | [[心臟內科#心衰竭（Heart Failure）\|心衰竭]]、[[消化內科#肝硬化（Liver Cirrhosis）\|肝硬化]]、[[腎臟內科#Nephrotic Syndrome\|腎病症候群]]、腹膜透析、[[代謝內分泌科#甲狀腺機能低下（Hypothyroidism）\|黏液水腫]] | **雙側、對稱**（心衰竭時右 > 左）；肝性胸水多右側 |
+| **感染** | **肺炎旁積液**、[[胸腔外科#膿胸（Empyema）\|膿胸]]、[[胸腔內科#肺結核（Pulmonary Tuberculosis）\|結核性肋膜炎]] | 肺炎病史；結核 → **淋巴球為主、ADA > 40** |
+| **惡性** | [[胸腔內科#肺癌（Lung Cancer）\|肺癌]]、乳癌、淋巴瘤、[[胸腔內科#惡性肋膜間皮瘤（Malignant Mesothelioma）\|間皮瘤]]、卵巢癌（Meigs syndrome：卵巢纖維瘤 + 腹水 + 肋膜積液，切除後消失） | **血性**、細胞學陽性；**大量積液縱膈腔卻沒被推開 → 主支氣管阻塞或縱膈固定**（肺癌、間皮瘤） |
 | **血管與心臟** | [[胸腔內科#肺栓塞（Pulmonary Embolism）\|肺栓塞]]、Dressler syndrome（心肌梗塞或心臟手術後）、[[心臟內科#縮窄性心包膜炎（Constrictive Pericarditis）\|縮窄性心包膜炎]] | 肋膜性胸痛、突發呼吸困難 |
-| **腹部** | [[消化內科#急性胰臟炎（Acute Pancreatitis）\|胰臟炎]]（**左側、amylase↑**）、膈下膿瘍、**[[胸腔外科#食道穿孔（Esophageal Perforation）\|食道破裂]]**（Boerhaave，**左側、唾液型 amylase↑、pH < 7**） | 腹痛、嘔吐史 |
+| **腹部** | [[消化內科#急性胰臟炎（Acute Pancreatitis）\|胰臟炎]]（**左側、amylase↑**）、膈下膿瘍、[[胸腔外科#食道穿孔（Esophageal Perforation）\|食道破裂]]（Boerhaave，**左側、唾液型 amylase↑、pH < 7**） | 腹痛、嘔吐史 |
 | **自體免疫** | [[免疫風濕科#類風濕性關節炎（Rheumatoid Arthritis, RA）\|RA]]（**葡萄糖極低 < 30 mg/dL**）、[[免疫風濕科#全身性紅斑狼瘡（SLE）\|SLE]]（ANA 陽性） | 關節炎、皮疹 |
 | **其他** | [[胸腔外科#乳糜胸（Chylothorax）\|乳糜胸]]（胸管損傷、淋巴瘤）、[[胸腔外科#血胸（Hemothorax）\|血胸]]、石綿暴露（良性石綿肋膜積液）、藥物、尿毒症 | 乳白色、TG > 110 mg/dL |
 
@@ -878,11 +878,11 @@ flowchart TD
 :::compare[Light's criteria：漏出液 vs 滲出液]
 | | 漏出液 | 滲出液（**符合任一項**） |
 |---|---|---|
-| 肋膜液/血清蛋白 | ≤ 0.5 | **:red[> 0.5]** |
-| 肋膜液/血清 LDH | ≤ 0.6 | **:red[> 0.6]** |
+| 肋膜液/血清蛋白 | ≤ 0.5 | :red[> 0.5] |
+| 肋膜液/血清 LDH | ≤ 0.6 | :red[> 0.6] |
 | 肋膜液 LDH | ≤ 血清正常上限 2/3 | **> 血清正常上限 2/3** |
 - Light's criteria **敏感度高（約 98%）、特異度較低**：使用**利尿劑的心衰竭**病人約 25% 會被誤判為滲出液。
-- 臨床像漏出液卻符合滲出液 → 看 **血清－肋膜液白蛋白差 > :red[1.2 g/dL]** 或 **肋膜液 NT-proBNP 高** → 仍判為漏出液（心衰竭）。
+- 臨床像漏出液卻符合滲出液 → 看 血清－肋膜液白蛋白差 > :red[1.2 g/dL] 或 **肋膜液 NT-proBNP 高** → 仍判為漏出液（心衰竭）。
 :::
 
 :::compare[肋膜液分析的關鍵線索]
@@ -890,11 +890,11 @@ flowchart TD
 |---|---|
 | **嗜中性球為主** | 肺炎旁積液、膿胸、肺栓塞、胰臟炎、早期結核 |
 | **淋巴球為主（> 50%）** | **結核、惡性**、淋巴瘤、[[免疫風濕科#Sarcoidosis（類肉瘤病）\|類肉瘤病]]、乳糜胸、手術後 |
-| **:red[ADA > 40 U/L]** | **結核性肋膜炎**（台灣高盛行率下陽性預測值高）；膿胸、淋巴瘤、RA 也可上升 |
+| :red[ADA > 40 U/L] | **結核性肋膜炎**（台灣高盛行率下陽性預測值高）；膿胸、淋巴瘤、RA 也可上升 |
 | **葡萄糖 < 60 mg/dL** | **膿胸、RA（常 < 30）**、結核、惡性、食道破裂、SLE |
-| **:red[pH < 7.2]** | **複雜性肺炎旁積液或膿胸 → 需胸管引流** |
+| :red[pH < 7.2] | **複雜性肺炎旁積液或膿胸 → 需胸管引流** |
 | **Amylase↑** | **胰臟炎**（胰型）、**食道破裂**（唾液型）、惡性 |
-| **:red[TG > 110 mg/dL]**（乳白色） | **乳糜胸**：胸管損傷（手術、外傷）、**淋巴瘤** |
+| :red[TG > 110 mg/dL]（乳白色） | **乳糜胸**：胸管損傷（手術、外傷）、**淋巴瘤** |
 | 膽固醇 > 200 mg/dL、TG 正常 | **假性乳糜胸**：長期積液（結核、RA） |
 | **血性（Hct > 1% 血液）** | 惡性、肺栓塞、外傷、結核 |
 | **肋膜液 Hct/血液 Hct > 50%** | **血胸** → 胸管 |
@@ -941,7 +941,7 @@ flowchart TD
 #### 初步處置
 
 - 漏出液：治療原發病（利尿劑、白蛋白、透析）；有症狀才治療性抽液。
-- 治療性抽液：**一次 :red[≤ 1.5 L]**，避免**再擴張性肺水腫（re-expansion pulmonary edema）**；病人出現胸悶、咳嗽就停。
+- 治療性抽液：一次 :red[≤ 1.5 L]，避免**再擴張性肺水腫（re-expansion pulmonary edema）**；病人出現胸悶、咳嗽就停。
 - 肺炎旁積液與膿胸：見比較表；結核 → 抗結核藥物（積液通常不需反覆引流）。
 - **[[胸腔外科#惡性肋膜積液|惡性肋膜積液]]**：反覆抽液、**肋膜沾黏術（talc pleurodesis）**、**長期留置導管（indwelling pleural catheter）**；肺無法擴張（trapped lung）→ 不適合沾黏術。
 
@@ -960,7 +960,7 @@ flowchart TD
 #### 定義與分類
 
 - **杵狀指（clubbing）**：指尖軟組織增生，指甲床與指甲角度消失。
-    - **Lovibond angle（指甲與甲褶的角度）> :red[180°]**。
+    - Lovibond angle（指甲與甲褶的角度）> :red[180°]。
     - **Schamroth sign**：兩手指甲背對背靠攏時，正常會有菱形空隙，**杵狀指時空隙消失**。
     - 甲床浮動感（指甲根部按壓有海綿感）。
 - 機轉：巨核細胞或血小板團塊未經肺微血管過濾，到達指尖釋放 **PDGF、VEGF** → 組織增生（右向左分流、肺部病變）。
@@ -976,10 +976,10 @@ flowchart TD
 
 | 類別 | 疾病 | 鑑別關鍵 |
 |---|---|---|
-| **肺部（最常見，約 80%）** | **[[胸腔內科#肺癌（Lung Cancer）\|肺癌（NSCLC）]]**、[[胸腔內科#惡性肋膜間皮瘤（Malignant Mesothelioma）\|間皮瘤]]、**化膿性肺病**（[[胸腔內科#支氣管擴張症（Bronchiectasis）\|支氣管擴張]]、[[小兒科#囊腫性纖維化（Cystic Fibrosis, CF）\|囊腫性纖維化]]、[[胸腔內科#肺膿瘍（Lung Abscess）\|肺膿瘍]]、膿胸）、**[[胸腔內科#特發性肺纖維化（Idiopathic Pulmonary Fibrosis, IPF）\|IPF]]**、石綿肺 | **不會出現在 COPD、單純氣喘、肺炎** |
-| **心臟** | **發紺性先天性心臟病**、[[心臟內科#感染性心內膜炎（Infective Endocarditis, IE）\|感染性心內膜炎]]、心房黏液瘤 | 發紺、雜音 |
-| **消化道** | [[消化內科#發炎性腸道疾病（Inflammatory Bowel Disease, IBD）\|IBD]]（Crohn 較多）、[[消化內科#肝硬化（Liver Cirrhosis）\|肝硬化]]（尤其 [[消化內科#原發性膽汁性膽管炎（Primary Biliary Cholangitis, PBC）\|PBC]]、肝肺症候群）、[[消化內科#Celiac Disease（乳糜瀉）\|乳糜瀉]] | 腸胃症狀、肝病徵象 |
-| **其他** | [[代謝內分泌科#甲狀腺機能亢進（Hyperthyroidism）\|Graves disease（thyroid acropachy）]]、家族性（原發性）、單側（血管病變、動靜脈廔管） | 突眼、脛前黏液水腫；單側 → 局部血管問題 |
+| 肺部（最常見，約 80%） | [[胸腔內科#肺癌（Lung Cancer）\|肺癌（NSCLC）]]、[[胸腔內科#惡性肋膜間皮瘤（Malignant Mesothelioma）\|間皮瘤]]、**化膿性肺病**（[[胸腔內科#支氣管擴張症（Bronchiectasis）\|支氣管擴張]]、[[小兒科#囊腫性纖維化（Cystic Fibrosis, CF）\|囊腫性纖維化]]、[[胸腔內科#肺膿瘍（Lung Abscess）\|肺膿瘍]]、膿胸）、[[胸腔內科#特發性肺纖維化（Idiopathic Pulmonary Fibrosis, IPF）\|IPF]]、石綿肺 | **不會出現在 COPD、單純氣喘、肺炎** |
+| 心臟 | **發紺性先天性心臟病**、[[心臟內科#感染性心內膜炎（Infective Endocarditis, IE）\|感染性心內膜炎]]、心房黏液瘤 | 發紺、雜音 |
+| 消化道 | [[消化內科#發炎性腸道疾病（Inflammatory Bowel Disease, IBD）\|IBD]]（Crohn 較多）、[[消化內科#肝硬化（Liver Cirrhosis）\|肝硬化]]（尤其 [[消化內科#原發性膽汁性膽管炎（Primary Biliary Cholangitis, PBC）\|PBC]]、肝肺症候群）、[[消化內科#Celiac Disease（乳糜瀉）\|乳糜瀉]] | 腸胃症狀、肝病徵象 |
+| 其他 | [[代謝內分泌科#甲狀腺機能亢進（Hyperthyroidism）\|Graves disease（thyroid acropachy）]]、家族性（原發性）、單側（血管病變、動靜脈廔管） | 突眼、脛前黏液水腫；單側 → 局部血管問題 |
 
 #### 易混淆鑑別
 
