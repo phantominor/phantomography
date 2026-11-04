@@ -4,7 +4,6 @@ phantomography 接下來的待辦事項。完成的項目直接刪掉（完成�
 
 ## 上線與部署
 
-- [ ] 推上 GitHub（公開 repo），Vercel 連結 repo 部署。
 - [ ] 確認實際網域是 `phantomography.vercel.app`。若不同，要改三個地方：
   - phantominor `frontend/pages/index.js` 的 M 按鈕連結。
   - 本站 `components/ContentPage.js` 的 `SITE_URL`。
