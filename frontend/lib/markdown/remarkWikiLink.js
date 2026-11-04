@@ -51,6 +51,11 @@ export default function remarkWikiLink({ linkIndex, currentPage, warnings, relat
           children: [{ type: 'text', value: text }],
         });
       }
+      // [[ 和 ]] 被拆在不同的文字節點（顯示文字裡用了 *斜體*、**粗體** 等）時，整個連結會原樣顯示出來
+      const opened = (node.value.match(/\[\[/g) || []).length;
+      if (opened > parts.filter((p) => p.type !== 'text').length && !node.value.slice(last).includes(']]')) {
+        warnings.push(`連結沒有轉換：${node.value.slice(node.value.lastIndexOf('[['), node.value.lastIndexOf('[[') + 30)}…（顯示文字不能含粗體或斜體，改成 *[[頁面#標題|文字]]*）`);
+      }
       if (!parts.length) return;
       if (last < node.value.length) parts.push({ type: 'text', value: node.value.slice(last) });
       parent.children.splice(index, 1, ...parts);

@@ -209,11 +209,11 @@ autolink:
 - **Amoxicillin**（口服，吸收比 ampicillin 好）：
     - [[耳鼻喉科#急性中耳炎（Acute Otitis Media, AOM）|急性中耳炎]]：**首選高劑量 :red[80–90 mg/kg/day]**（克服肺炎鏈球菌 PBP 改變的中度抗藥）。
     - 鏈球菌咽炎、急性細菌性鼻竇炎、輕度社區型肺炎（無共病）。
-    - [[消化內科#H. pylori|*H. pylori* 除菌]]的組成之一（penicillin 過敏 → 改 metronidazole）。
+    - *[[消化內科#H. pylori|H. pylori]]* 除菌的組成之一（penicillin 過敏 → 改 metronidazole）。
     - 萊姆病早期（孕婦、兒童）。
 - **Ampicillin**（靜脈）：
-    - **[[感染科#Enterococcus|*E. faecalis*]]**：**首選**；心內膜炎用 **Ampicillin + Ceftriaxone**（雙 β-lactam，避免 aminoglycoside 腎毒性）或 + Gentamicin。
-    - **[[感染科#Listeria monocytogenes|*Listeria*]]**：**首選**（± Gentamicin）；**cephalosporin 天生無效** → 腦膜炎經驗治療在**新生兒、> 50 歲、免疫低下**要**加 Ampicillin**。
+    - ***[[感染科#Enterococcus|E. faecalis]]***：**首選**；心內膜炎用 **Ampicillin + Ceftriaxone**（雙 β-lactam，避免 aminoglycoside 腎毒性）或 + Gentamicin。
+    - ***[[感染科#Listeria monocytogenes|Listeria]]***：**首選**（± Gentamicin）；**cephalosporin 天生無效** → 腦膜炎經驗治療在**新生兒、> 50 歲、免疫低下**要**加 Ampicillin**。
     - [[產科#Group B Streptococcus（GBS）預防|GBS 產時預防]]：Penicillin G 或 Ampicillin。
     - 新生兒敗血症經驗治療：Ampicillin + Gentamicin（或 + Cefotaxime）。
 
@@ -442,7 +442,7 @@ flowchart TD
 | **CRAB（_Acinetobacter_）** | **高劑量 Unasyn（sulbactam）+ 第二種藥** | Colistin、Tigecycline、Cefiderocol；sulbactam-durlobactam（國外） |
 
 - 台灣 CRE（尤其 *K. pneumoniae*）的碳青黴烯酶以 **KPC** 最常見，**OXA-48 類、NDM** 逐年增加 → 送驗碳青黴烯酶種類再選藥。
-- 細菌抗藥的機制與菌種，見[[感染科#Pseudomonas aeruginosa|*Pseudomonas*]]、[[感染科#Acinetobacter baumannii|*Acinetobacter*]]、[[感染科#腸內菌科（Enterobacteriaceae）|腸內菌科]]。
+- 細菌抗藥的機制與菌種，見*[[感染科#Pseudomonas aeruginosa|Pseudomonas]]*、*[[感染科#Acinetobacter baumannii|Acinetobacter]]*、[[感染科#腸內菌科（Enterobacteriaceae）|腸內菌科]]。
 
 ### 易混淆比較（Commonly Confused Coverage）
 

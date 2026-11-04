@@ -667,7 +667,7 @@ credit:
 #### 溶血性尿毒症症候群（Hemolytic Uremic Syndrome, HUS）
 
 - 與 TTP 類似（MAHA + thrombocytopenia）但**以腎衰竭為主**。
-- **典型**：兒童感染 **[[感染科#腸內菌科（Enterobacteriaceae）|E. coli O157:H7]]**（EHEC）。
+- **典型**：兒童感染 **[[感染科#腸內菌科（Enterobacteriaceae）|E. coli O157\:H7]]**（EHEC）。
     - 前驅：血性腹瀉。
     - Shiga-like toxin → 腎小血管內皮損傷。
     - **不可使用抗生素**（加速毒素釋放）。
