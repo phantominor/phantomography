@@ -4,10 +4,6 @@ phantomography 接下來的待辦事項。完成的項目直接刪掉（完成�
 
 ## 上線與部署
 
-- [ ] 確認實際網域是 `phantomography.vercel.app`。若不同，要改三個地方：
-  - phantominor `frontend/pages/index.js` 的 M 按鈕連結。
-  - 本站 `components/ContentPage.js` 的 `SITE_URL`。
-  - 本站 `scripts/build-sitemap.mjs` 的 `SITE_URL`。
 - [ ] 部署後到 Google Search Console 驗證網域、提交 `sitemap.xml`。
 - [ ] 部署後實機檢查：手機瀏覽器、深色模式、搜尋、連結預覽、favicon 與 apple-touch-icon。
 
