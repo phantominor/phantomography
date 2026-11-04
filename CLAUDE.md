@@ -68,6 +68,14 @@ npm run lint     # next lint
   - 使用者手邊有好圖，或指定要圖的地方，再由使用者提供。
 - `lib/supabase.js`：Supabase browser client 單例，目前沒有使用。
 
+## 校閱批註
+
+使用者校閱頁面時，直接在 .md 檔要改的那一行行尾寫 HTML 註解 `<!-- 改：… -->`（新增、刪除、修改、提問都可以），累積一批後說「處理批註」。
+
+- Claude 用 `grep -rn "<!--" frontend/content` 找出全部批註，逐條照辦（提問就回答，必要時一併改內容），處理完把該批註刪掉；有疑問的先留著並在回覆中列出。
+- `lib/markdown/remarkAnnotations.js` 在建置時把註解從輸出移除（網頁與 HTML 原始碼都看不到），並在 console 列出「未處理批註」與行號；搜尋索引也會略過（`scripts/build-search-index.mjs`）。
+- 寫在行尾最安全；獨立一行時，條列中要縮排、不要插在表格列之間（會切斷表格）。
+
 ## 新增逐篇筆記（/ingest）
 
 使用者平常在 phantomajor 的 `/m/inbox` 用表單記筆記（可附照片，暫存在 Supabase），也可以照 `inbox/_template.md` 直接放檔案進 `inbox/`，然後說 `/ingest`。完整步驟見 `.claude/skills/ingest/SKILL.md`。重點：

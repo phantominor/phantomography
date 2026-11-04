@@ -13,6 +13,7 @@ import rehypeKatex from 'rehype-katex';
 import rehypeStringify from 'rehype-stringify';
 import remarkWikiLink from './remarkWikiLink';
 import remarkDirectives from './remarkDirectives';
+import remarkAnnotations from './remarkAnnotations';
 import rehypeHeadings from './rehypeHeadings';
 import rehypeElements from './rehypeElements';
 
@@ -25,6 +26,7 @@ export async function renderMarkdown(markdown, { linkIndex, currentPage, sources
     .use(remarkCjkFriendly) // 「**…（…）**的」這類緊貼全形標點與中文的粗體才會生效
     .use(remarkDirective)
     .use(remarkMath)
+    .use(remarkAnnotations, { warnings }) // 校閱批註 <!-- 改：… -->：移除並列入警告
     .use(remarkWikiLink, { linkIndex, currentPage, warnings })
     .use(remarkDirectives, { sources, cardsFor, journalEntries, weeklyEntries, warnings })
     .use(remarkRehype, { allowDangerousHtml: true })

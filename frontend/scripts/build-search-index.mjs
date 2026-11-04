@@ -70,7 +70,7 @@ function blockText(node) {
     const chart = loadChart(node.attributes?.id || '');
     return chart ? mermaidText(chart) : '';
   }
-  if (node.type === 'html') return node.value.replace(/<[^>]+>/g, ' ');
+  if (node.type === 'html') return node.value.replace(/<!--[\s\S]*?-->/g, ' ').replace(/<[^>]+>/g, ' '); // 校閱批註不進索引
   if (node.type === 'text' || node.type === 'inlineCode' || node.type === 'inlineMath' || node.type === 'math') return node.value;
   const sep = ['table', 'tableRow', 'list', 'listItem', 'containerDirective'].includes(node.type) ? ' ' : '';
   return (node.children || []).map(blockText).join(sep);
