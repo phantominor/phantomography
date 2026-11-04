@@ -29,7 +29,7 @@ phantomography 接下來的待辦事項。完成的項目直接刪掉（完成�
 
 ## 醫學周報
 
-- [ ] 推上 GitHub 後，用 `/schedule` 設每週一台北時間早上自動跑：推到分支 `weekly/<期別>` 開 PR，合併即上線。
+- [ ] 第一次自動排程（台北時間 11/9 週一 06:05）跑完後檢查 PR：內容、連不上的來源、對話角色；沒問題就按 Merge。排程管理：https://claude.ai/code/routines/trig_017wAfVJFz7YjCRYmRtbQMBJ
 
 ## 題庫
 

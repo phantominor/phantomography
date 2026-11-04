@@ -1,5 +1,6 @@
 <!-- UPDATE.md -->
 [2026/11/04]
+- **醫學周報自動排程**: 建立雲端排程「醫學周報每週自動產出」（每週一台北時間 06:00，cron `0 22 * * 0` UTC，Opus 5.5，不掛 connector）；照 /weekly 與 weekly_v4 產出後推到分支 `weekly/<期別>`、對 main 開 PR，使用者按 Merge 上線
 - **生化異常：粗體減量樣張**: 轉胺酶升高一節粗體由 162 處減到 42 處（每格、每項最多一個關鍵詞，類別欄與比較表列名不加粗，連結預設不加粗），其他節與其他主訴頁待確認原則後再改
 - **確認已部署**: GitHub repo phantominor/phantomography 已公開且與本機同步，phantomography.vercel.app 已上線（含第 43、44 週周報）；網域確認就是 phantomography.vercel.app；TODO 刪除「推上 GitHub、Vercel 部署」與「確認網域」
 - **治療處置：導覽結構與 β-lactam 樣張**: 左側導覽改成 19 組（藥物 12 組依藥理分類、非藥物 7 組），共 68 頁，尚未建立的頁面顯示灰字。
