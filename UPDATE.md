@@ -1,5 +1,6 @@
 <!-- UPDATE.md -->
 [2026/11/04]
+- **胃小腸外科：小腸惡性腫瘤組成改東西方並列**: 原本「adenocarcinoma > carcinoid > lymphoma > GIST」改為歐美 NET 與腺癌相當（NCDB/SEER 1985–2005 NET 37.4%、腺癌 36.9%，2000 年起 NET 最多，Bilimoria 2009），東亞以 lymphoma、GIST、腺癌為主（台灣多中心小腸鏡研究 29%、28%、26%，J Formos Med Assoc 2018）
 - **周報對話角色每週更換**: weekly_v4 §5、/weekly skill 加入角色每週換、台詞語氣套用角色性格、角色設定要查來源，並記錄已用過的角色
 - **醫學周報改為不經審核、藍圖 weekly_v4**: 整合 v1–v3 與第 43、44 週兩輪評分成完整規格 `frontend/blueprints/weekly_v4.md`；/weekly 直接寫正式檔、build、改知識頁、commit，不再有草稿、:::review 與評分欄
   - v4 新增：台灣現況用食藥署藥品許可證與健保用藥品項開放資料查、縣市規定查代表縣市、舊期補連後續、檢查時刪掉憑記憶補的人名與機構

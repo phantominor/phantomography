@@ -447,7 +447,10 @@ credit:
 
 ### 小腸腫瘤與類癌
 
-- 惡性最常見：**adenocarcinoma**（十二指腸）> carcinoid > lymphoma > GIST。
+- 惡性腫瘤組成東西方不同：
+    - 歐美：**NET（carcinoid）≈ adenocarcinoma** > lymphoma > GIST；美國 NCDB/SEER 1985–2005 年 NET 37.4%、腺癌 36.9%，2000 年起 NET 超過腺癌成為最常見（Bilimoria, Ann Surg 2009）。
+    - 東亞：NET 少見，以 lymphoma、GIST、adenocarcinoma 為主；台灣多中心小腸鏡研究的 69 例惡性腫瘤中，lymphoma 29%、GIST 28%、adenocarcinoma 26%（J Formos Med Assoc 2018）。
+    - 腺癌好發**十二指腸**；lymphoma 多在迴腸；GIST 多在空腸。
 - 良性最常見：leiomyoma / GIST。
 - **Carcinoid tumor**：來源嗜鉻細胞（enterochromaffin / Kulchitsky cells）。
     - 好發位置東西方不同：歐美小腸（迴腸）與直腸相當，東亞（含台灣）直腸最多；詳見 [[內分泌外科#Carcinoid Tumor / NET（非胰臟）|內分泌外科]]。
