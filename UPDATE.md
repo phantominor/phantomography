@@ -1,5 +1,6 @@
 <!-- UPDATE.md -->
 [2026/11/04]
+- **操作手冊**: 根目錄新增 `MANUAL.md`，整理使用者可用的指令與操作（/ingest、套用提案、批註、/relink、/weekly、自動周報 PR 的 Merge 流程、push 上線、記錄檔）；CLAUDE.md 架構圖加入並註明要同步更新
 - **校閱批註機制**: 校閱時在 .md 行尾寫 `<!-- 改：… -->`，累積後說「處理批註」由 Claude 逐條處理並刪除；新增 `lib/markdown/remarkAnnotations.js`（建置時移除註解、console 列出未處理批註與行號），搜尋索引略過註解；CLAUDE.md 新增「校閱批註」一節
 - **醫學周報自動排程**: 建立雲端排程「醫學周報每週自動產出」（每週一台北時間 06:00，cron `0 22 * * 0` UTC，Opus 5.5，不掛 connector）；照 /weekly 與 weekly_v4 產出後推到分支 `weekly/<期別>`、對 main 開 PR，使用者按 Merge 上線
 - **病患主訴：粗體減量**: 後期各頁粗體過多（每千字 23–32 處，消化樣張約 13），全 17 頁依原則減量到約 12–21 處

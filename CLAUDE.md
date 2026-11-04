@@ -38,6 +38,7 @@ npm run lint     # next lint
 │   ├── data/nav.js        # 上方分頁與左側導覽結構（尚未建立的頁面顯示灰字）
 │   ├── components/layout/ # 全站版面（三欄、目錄、深色模式）
 │   └── blueprints/        # 設計藍圖，版本化（<name>_v<N>.md）
+├── MANUAL.md            # 使用者本人的操作手冊（指令、說法、操作步驟）；新增或改變使用者可用的操作時同步更新
 ├── TODO.md              # 待辦清單（完成就刪，記錄寫進 UPDATE.md）
 ├── .claude/skills/ingest/ # /ingest：inbox → 逐篇筆記 → 整合提案的完整流程
 ├── .claude/skills/relink/ # /relink：定期全站掃描、補上各頁之間的 wiki-link
