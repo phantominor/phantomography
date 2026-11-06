@@ -1,5 +1,9 @@
 <!-- UPDATE.md -->
 [2026/11/06]
+- **治療處置：抗生素：抑制葉酸合成**: 新增 `clinical/treatments/folate-antagonists.md`
+    - 總論：連續阻斷機轉、三種 DHFR 抑制劑比較、補 leucovorin 不補 folic acid。
+    - Baktar（TMP-SMX）：涵蓋與缺口、PJP 治療與預防、類鼻疽、Stenotrophomonas、高血鉀與 creatinine 假性上升、交互作用。
+    - 其他 Sulfonamides（含 sulfa 過敏交叉反應）、Dapsone（HLA-B*13:01）、Pyrimethamine。
 - **治療處置：抗生素：破壞細胞膜**: 新增 `clinical/treatments/membrane-active-agents.md`
     - Daptomycin：Ca 依賴去極化、MRSA/VRE、不能用於肺炎、高劑量救援與 seesaw effect、CK 監測。
     - Polymyxin B 與 Colistin：lipid A 機轉、天生抗藥菌、CRAB/CRE 定位、全身感染用 Polymyxin B 與下泌尿道用 Colistin、CMS 單位與 loading、腎毒性與神經毒性、mcr-1。
