@@ -1,4 +1,11 @@
 <!-- UPDATE.md -->
+[2026/11/07]
+- **治療處置：抗生素：抑制 DNA Gyrase**: 新增 `clinical/treatments/fluoroquinolones.md`
+    - 總論：gyrase 與 topoisomerase IV、濃度依賴、陽離子螯合、三藥涵蓋比較表、抗藥機轉。
+    - 適應症依系統整理，強調台灣結核盛行下 Quinolone 掩蓋結核。
+    - 各藥：Ciprofloxacin、Cravit（Levofloxacin）、Avelox（Moxifloxacin）、台灣研發的 Taigexyn（Nemonoxacin）、Delafloxacin 等。
+    - 副作用依 FDA 黑框警告整理：肌腱、神經、血糖、QT、主動脈、重症肌無力、兒童懷孕。
+
 [2026/11/06]
 - **治療處置：抗生素：抑制 mRNA 合成**: 新增 `clinical/treatments/rifamycins.md`
     - 總論：rpoB 機轉與單點突變抗藥（不能單用、Xpert MTB/RIF）、四種 Rifamycin 比較表。
