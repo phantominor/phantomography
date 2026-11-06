@@ -1,7 +1,7 @@
 ---
-title: 醣胜肽類
-aliases: [Glycopeptides, 醣胜肽, 糖肽類, 細胞壁合成抑制劑]
-description: Vancomycin、Teicoplanin、脂醣胜肽類，以及 Bacitracin、Fosfomycin 等其他細胞壁合成抑制劑。
+title: 抗生素：抑制細胞壁合成
+aliases: [醣胜肽類, Glycopeptides, 醣胜肽, 糖肽類, 細胞壁合成抑制劑]
+description: 醣胜肽類（Vancomycin、Teicoplanin、脂醣胜肽類）、Bacitracin、Fosfomycin。
 updated: 2026-11-06
 status: initial
 autolink:

@@ -146,16 +146,16 @@ export const SIDE_NAV = {
     {
       title: '抗微生物藥物',
       items: [
-        // 抗細菌藥物依作用位置排列：細胞壁 → 細胞膜 → 葉酸 → DNA → RNA → gyrase → 50S → 30S
-        page('β-lactam', 'clinical/treatments/beta-lactams'),
-        page('醣胜肽類', 'clinical/treatments/glycopeptides'),
-        page('細胞膜作用藥物', 'clinical/treatments/membrane-active-agents'),
-        page('葉酸拮抗劑', 'clinical/treatments/folate-antagonists'),
-        page('Metronidazole 與 Nitrofurantoin', 'clinical/treatments/dna-damaging-agents'),
-        page('Rifamycin', 'clinical/treatments/rifamycins'),
-        page('Fluoroquinolone', 'clinical/treatments/fluoroquinolones'),
-        page('50S 核糖體抑制劑', 'clinical/treatments/50s-inhibitors'),
-        page('30S 核糖體抑制劑', 'clinical/treatments/30s-inhibitors'),
+        // 抗生素依作用位置排列（First Aid 圖順時針）：細胞壁交聯 → 細胞壁合成 → 細胞膜 → 葉酸 → DNA → mRNA → gyrase → 50S → 30S；頁名一律「抗生素：動詞＋機轉」
+        page('抗生素：抑制細胞壁交聯', 'clinical/treatments/beta-lactams'),
+        page('抗生素：抑制細胞壁合成', 'clinical/treatments/glycopeptides'),
+        page('抗生素：破壞細胞膜', 'clinical/treatments/membrane-active-agents'),
+        page('抗生素：抑制葉酸合成', 'clinical/treatments/folate-antagonists'),
+        page('抗生素：破壞 DNA', 'clinical/treatments/dna-damaging-agents'),
+        page('抗生素：抑制 mRNA 合成', 'clinical/treatments/rifamycins'),
+        page('抗生素：抑制 DNA Gyrase', 'clinical/treatments/fluoroquinolones'),
+        page('抗生素：抑制 50S 次單元', 'clinical/treatments/50s-inhibitors'),
+        page('抗生素：抑制 30S 次單元', 'clinical/treatments/30s-inhibitors'),
         page('抗結核藥物', 'clinical/treatments/antituberculosis'),
         page('抗病毒藥物', 'clinical/treatments/antivirals'),
         page('抗黴菌藥物', 'clinical/treatments/antifungals'),

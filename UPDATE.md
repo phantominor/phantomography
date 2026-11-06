@@ -1,5 +1,11 @@
 <!-- UPDATE.md -->
 [2026/11/06]
+- **治療處置：抗生素：破壞細胞膜**: 新增 `clinical/treatments/membrane-active-agents.md`
+    - Daptomycin：Ca 依賴去極化、MRSA/VRE、不能用於肺炎、高劑量救援與 seesaw effect、CK 監測。
+    - Polymyxin B 與 Colistin：lipid A 機轉、天生抗藥菌、CRAB/CRE 定位、全身感染用 Polymyxin B 與下泌尿道用 Colistin、CMS 單位與 loading、腎毒性與神經毒性、mcr-1。
+- **抗生素頁名改成「抗生素：動詞＋機轉」**: 依使用者意見與其他藥物分類對稱
+    - β-lactam → 抗生素：抑制細胞壁交聯；醣胜肽類 → 抗生素：抑制細胞壁合成；其餘依序為破壞細胞膜、抑制葉酸合成、破壞 DNA、抑制 mRNA 合成、抑制 DNA Gyrase、抑制 50S 次單元、抑制 30S 次單元。
+    - 網址不變；舊名放進 aliases，藥物類名寫在 description。
 - **治療處置：醣胜肽類**: 新增 `clinical/treatments/glycopeptides.md`，依疾病篇寫法撰寫
     - 涵蓋：Vancomycin（適應症、TDM 改用 AUC 400–600、副作用、Red man）、Teicoplanin、脂醣胜肽類、Bacitracin、Fosfomycin。
     - 登記 autolink 後，全站 Vancomycin、Red man 等詞自動連到這頁，感染科、皮膚科的 Red man 連結也多出這頁的預覽頁籤。

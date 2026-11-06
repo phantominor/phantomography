@@ -1,7 +1,7 @@
 ---
-title: β-lactam
-aliases: [beta-lactam, β-lactams, β-內醯胺類, 乙內醯胺類, Penicillin 類, Cephalosporin 類, Carbapenem 類, 頭孢菌素, 青黴素, 碳青黴烯]
-description: Penicillin、cephalosporin、carbapenem、monobactam 與 β-lactamase 抑制劑。
+title: 抗生素：抑制細胞壁交聯
+aliases: [β-lactam, beta-lactam, β-lactams, β-內醯胺類, 乙內醯胺類, Penicillin 類, Cephalosporin 類, Carbapenem 類, 頭孢菌素, 青黴素, 碳青黴烯]
+description: β-lactam 類：Penicillin、cephalosporin、carbapenem、monobactam 與 β-lactamase 抑制劑。
 updated: 2026-11-06
 status: initial
 autolink:
