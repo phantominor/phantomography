@@ -1,5 +1,9 @@
 <!-- UPDATE.md -->
 [2026/11/07]
+- **治療處置：抗生素：抑制 30S 次單元**: 新增 `clinical/treatments/30s-inhibitors.md`，抗生素依作用位置的 9 頁全部完成
+    - Aminoglycosides：需氧依賴與協同作用、extended-interval 給藥與 TDM、腎毒性與耳毒性（含 m.1555A>G）、神經肌肉阻斷、抗藥機轉；Gentamicin、Amikacin、Tobramycin、Streptomycin、Neomycin、Plazomicin。
+    - Tetracyclines：涵蓋（立克次體、螺旋體、Vibrio）、牙齒與食道炎等副作用、Doxycycline 適應症（恙蟲病、鉤端螺旋體預防、Chlamydia、PID、Doxy-PEP、V. vulnificus）、Minocycline、Demeclocycline。
+    - Tygacil（Tigecycline）：涵蓋缺口、不適合菌血症與 UTI、FDA 死亡率警告、低纖維蛋白原血症。
 - **治療處置：抗生素：抑制 50S 次單元**: 新增 `clinical/treatments/50s-inhibitors.md`
     - 總論：各藥作用位置比較、抑菌與抑制毒素、erm/mef/cfr 抗藥。
     - Macrolides：Erythromycin（促蠕動、幽門狹窄）、Klaricid（H. pylori、MAC、CYP3A4 交互作用）、Zithromax（CAP、Mycoplasma、百日咳、恙蟲病、COPD 預防）。
