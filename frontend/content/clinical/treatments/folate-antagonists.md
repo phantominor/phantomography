@@ -21,6 +21,9 @@ autolink:
 - **Trimethoprim、Pyrimethamine**：抑制 **DHFR**。
 - **TMP-SMX 連續阻斷（sequential blockade）**：單用各自**抑菌**，合用**協同殺菌**。
 
+![葉酸合成路徑：PABA 經 dihydropteroate synthase（Sulfonamides、Dapsone 抑制）、dihydrofolate reductase（Trimethoprim、Pyrimethamine 抑制）成為 tetrahydrofolic acid，再用於合成 purine、thymidine、methionine](media/first-aid/folate-pathway.webp "葉酸合成路徑與抑制藥物 | First Aid for the USMLE Step 1 2022，McGraw Hill")
+
+
 | DHFR 抑制劑 | 作用對象 | 用途 |
 |-------------|----------|------|
 | **Trimethoprim** | 細菌 | TMP-SMX |

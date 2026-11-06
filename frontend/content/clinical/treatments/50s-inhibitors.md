@@ -32,6 +32,9 @@ autolink:
 | **Streptogramins** | 兩種成分協同 | **殺菌** |
 
 - 共同特點：多為**抑菌** → 不是心內膜炎、腦膜炎、嗜中性球低下菌血症的首選。
+
+![蛋白質合成各步驟與抑制藥物：Aminoglycosides 與 Linezolid 阻斷起始、Tetracyclines 阻止 A site tRNA 結合、Chloramphenicol 抑制 peptidyl transferase、Macrolides 與 Clindamycin 阻斷轉位](media/first-aid/protein-synthesis-inhibitors.webp "蛋白質合成抑制劑的作用步驟 | First Aid for the USMLE Step 1 2022，McGraw Hill")
+
 - 共同優點：**抑制毒素製造**（GAS、S. aureus 毒素）→ 毒素媒介疾病合併使用。
 
 ### 抗藥性（Resistance）

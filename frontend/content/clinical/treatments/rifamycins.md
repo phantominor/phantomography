@@ -22,6 +22,9 @@ autolink:
 - 脂溶性高 → **組織、細胞內、CNS、biofilm** 穿透都好。
 - 肝代謝、膽汁排除 → 不需依腎功能調整。
 
+![分枝桿菌的藥物作用位置：Isoniazid 抑制 mycolic acid 合成、Ethambutol 抑制 arabinogalactan 合成、Rifampin 與 Rifabutin 抑制 RNA 聚合酶、Pyrazinamide 機轉不明](media/first-aid/mycobacterial-targets.webp "分枝桿菌的藥物作用位置 | First Aid for the USMLE Step 1 2022，McGraw Hill")
+
+
 | 藥物 | 特點 | 主要用途 |
 |------|------|----------|
 | **Rifampin** | **最強 CYP 誘導** | 結核、植入物感染、腦膜炎雙球菌預防 |

@@ -32,6 +32,8 @@ autolink:
 | 給藥 | **IV/IM**（口服不吸收） | 口服為主 |
 | 招牌副作用 | **腎毒性、耳毒性**、神經肌肉阻斷 | **牙齒變色**、光敏感、食道炎 |
 
+![蛋白質合成各步驟與抑制藥物：Aminoglycosides 與 Linezolid 阻斷起始、Tetracyclines 阻止 A site tRNA 結合、Chloramphenicol 抑制 peptidyl transferase、Macrolides 與 Clindamycin 阻斷轉位](media/first-aid/protein-synthesis-inhibitors.webp "蛋白質合成抑制劑的作用步驟 | First Aid for the USMLE Step 1 2022，McGraw Hill")
+
 ## Aminoglycosides（胺基醣苷類）
 
 ### 機轉與特性（Mechanism & PK）

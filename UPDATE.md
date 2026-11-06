@@ -1,5 +1,8 @@
 <!-- UPDATE.md -->
 [2026/11/07]
+- **抗微生物藥物加上 First Aid 機轉圖**: 使用者提供 6 張 First Aid for the USMLE Step 1 2022 的圖，轉成 WebP 存進 `public/media/first-aid/`
+    - 抗生素作用位置總覽 → 治療處置總覽頁；蛋白質合成抑制 → 50S、30S 兩頁總論；葉酸路徑 → 抑制葉酸合成頁；分枝桿菌 → 抑制 mRNA 合成頁。
+    - 抗黴菌、抗病毒兩張先存檔，寫到那兩頁時再放（記在 TODO）。
 - **治療處置：抗生素：抑制 30S 次單元**: 新增 `clinical/treatments/30s-inhibitors.md`，抗生素依作用位置的 9 頁全部完成
     - Aminoglycosides：需氧依賴與協同作用、extended-interval 給藥與 TDM、腎毒性與耳毒性（含 m.1555A>G）、神經肌肉阻斷、抗藥機轉；Gentamicin、Amikacin、Tobramycin、Streptomycin、Neomycin、Plazomicin。
     - Tetracyclines：涵蓋（立克次體、螺旋體、Vibrio）、牙齒與食道炎等副作用、Doxycycline 適應症（恙蟲病、鉤端螺旋體預防、Chlamydia、PID、Doxy-PEP、V. vulnificus）、Minocycline、Demeclocycline。
