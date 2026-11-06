@@ -1,5 +1,9 @@
 <!-- UPDATE.md -->
 [2026/11/06]
+- **治療處置：抗生素：破壞 DNA**: 新增 `clinical/treatments/dna-damaging-agents.md`
+    - 總論：兩類都是硝基前驅藥，差在活化環境（厭氧 vs 尿中）。
+    - Flagyl（Metronidazole）：GET GAP 涵蓋、腹內感染與腦膿瘍、BV 與滴蟲、破傷風、C. difficile 已非首選、神經毒性、類 disulfiram 反應與 CDC 2021 的改變、Warfarin 交互作用。
+    - Tinidazole、Secnidazole；Nitrofurantoin（只用於膀胱炎、天生抗藥菌、CrCl < 30 避免、肺毒性）。
 - **治療處置：抗生素：抑制葉酸合成**: 新增 `clinical/treatments/folate-antagonists.md`
     - 總論：連續阻斷機轉、三種 DHFR 抑制劑比較、補 leucovorin 不補 folic acid。
     - Baktar（TMP-SMX）：涵蓋與缺口、PJP 治療與預防、類鼻疽、Stenotrophomonas、高血鉀與 creatinine 假性上升、交互作用。
