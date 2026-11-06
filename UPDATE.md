@@ -1,5 +1,10 @@
 <!-- UPDATE.md -->
 [2026/11/07]
+- **治療處置：抗生素：抑制 50S 次單元**: 新增 `clinical/treatments/50s-inhibitors.md`
+    - 總論：各藥作用位置比較、抑菌與抑制毒素、erm/mef/cfr 抗藥。
+    - Macrolides：Erythromycin（促蠕動、幽門狹窄）、Klaricid（H. pylori、MAC、CYP3A4 交互作用）、Zithromax（CAP、Mycoplasma、百日咳、恙蟲病、COPD 預防）。
+    - Dalacin（Clindamycin）：橫膈以上厭氧菌、抑制毒素與 Eagle effect、D-test。
+    - Zyvox（Linezolid）與 Tedizolid、Chloramphenicol（再生不良性貧血、灰嬰症候群）、Streptogramins、Lefamulin。
 - **治療處置：抗生素：抑制 DNA Gyrase**: 新增 `clinical/treatments/fluoroquinolones.md`
     - 總論：gyrase 與 topoisomerase IV、濃度依賴、陽離子螯合、三藥涵蓋比較表、抗藥機轉。
     - 適應症依系統整理，強調台灣結核盛行下 Quinolone 掩蓋結核。
