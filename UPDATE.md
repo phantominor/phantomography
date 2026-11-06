@@ -1,5 +1,9 @@
 <!-- UPDATE.md -->
 [2026/11/06]
+- **治療處置：抗生素：抑制 mRNA 合成**: 新增 `clinical/treatments/rifamycins.md`
+    - 總論：rpoB 機轉與單點突變抗藥（不能單用、Xpert MTB/RIF）、四種 Rifamycin 比較表。
+    - Rifampin：結核與潛伏結核、植入物感染（菌血症清除後才加、ARREST 試驗）、腦膜炎雙球菌與 Hib 預防、間歇用藥的免疫副作用、CYP 誘導交互作用表。
+    - Rifabutin（HIV 併用 PI、葡萄膜炎）、Rifapentine（3HP、1HP，連到社區結核病逐篇筆記）、Rifaximin（肝性腦病、旅行者腹瀉）、Fidaxomicin（C. difficile 首選）。
 - **治療處置：抗生素：破壞 DNA**: 新增 `clinical/treatments/dna-damaging-agents.md`
     - 總論：兩類都是硝基前驅藥，差在活化環境（厭氧 vs 尿中）。
     - Flagyl（Metronidazole）：GET GAP 涵蓋、腹內感染與腦膿瘍、BV 與滴蟲、破傷風、C. difficile 已非首選、神經毒性、類 disulfiram 反應與 CDC 2021 的改變、Warfarin 交互作用。
