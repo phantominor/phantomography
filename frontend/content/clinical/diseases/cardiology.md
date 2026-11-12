@@ -146,6 +146,7 @@ credit:
     - **生活型態改變 + 危險因子控制**。
     - 藥物：β-blocker（**首選**）、CCB、long-acting nitrate；Aspirin；Statin；ACEi/ARB。
     - 血管重建：藥物治療無效、Left main disease、三支病變 + EF↓ → **PCI** 或 [[心血管外科#冠狀動脈繞道手術（CABG）|CABG]]。
+    - 一開始就做血管重建**不會延長存活**：COURAGE、ISCHEMIA 與 ISCHEMIA-EXTEND（11 年全死因死亡 25.8% vs 26.9%）結果一致，詳見 [[2026-w45#ISCHEMIA 試驗追蹤 11 年：穩定型冠心病一開始就做心導管，並沒有活得更久|醫學周報 2026 第 45 週]]。
 - 詳見 [[心血管系統主訴#穩定或反覆胸痛（Stable / Recurrent Chest Pain）|穩定或反覆胸痛]]的評估流程；[[偶發病灶#冠狀動脈鈣化（Coronary Artery Calcification）|冠狀動脈鈣化]]
 
 ### Prinzmetal（Variant）Angina

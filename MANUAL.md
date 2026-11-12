@@ -34,6 +34,10 @@
 - 手動做一期：說 `/weekly`。
 - 對周報有意見：直接說，或用批註。
 - 排程管理：https://claude.ai/code/routines/trig_017wAfVJFz7YjCRYmRtbQMBJ
+- 週一沒看到 PR：
+    - 先到排程管理頁看執行紀錄；最常見的原因是雲端環境的網路權限擋住了資料來源。
+    - 雲端環境的網路權限要設成「完整存取」（Full）：https://claude.ai/code → 環境設定 → Default → Network access。
+    - 臨時補做：在本機說「做周報」或 `/weekly`，Claude 會直接寫好、commit，再 `git push` 上線。
 
 ## 上線與預覽
 
