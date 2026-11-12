@@ -32,7 +32,7 @@ phantomography 接下來的待辦事項。完成的項目直接刪掉（完成�
 
 ## 醫學周報
 
-- [ ] 第一次自動排程（台北時間 11/9 週一 06:05）跑完後檢查 PR：內容、連不上的來源、對話角色；沒問題就按 Merge。排程管理：https://claude.ai/code/routines/trig_017wAfVJFz7YjCRYmRtbQMBJ
+- [ ] 雲端排程的網路權限改成完整存取（https://claude.ai/code → 環境設定 → Default → Network access）；11/16 週一 06:05 第二次自動執行後檢查有沒有出現 `weekly/2026-W46` 的 PR。
 
 ## 題庫
 
