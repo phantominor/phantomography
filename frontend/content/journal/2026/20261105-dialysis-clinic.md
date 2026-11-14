@@ -7,7 +7,7 @@ event: 洗腎診所跟診
 speaker: 張志豪
 place: 志豪診所
 tags: [腎臟內科, 家庭醫學科]
-integrated: false
+integrated: true
 ---
 
 ## 摘要

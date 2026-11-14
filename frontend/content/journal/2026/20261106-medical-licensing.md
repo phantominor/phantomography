@@ -7,7 +7,7 @@ event: 醫療法規與執業登記
 speaker: 廖禾茜
 place: 新北市衛生局
 tags: [公共衛生, 法規]
-integrated: false
+integrated: true
 ---
 
 ## 摘要

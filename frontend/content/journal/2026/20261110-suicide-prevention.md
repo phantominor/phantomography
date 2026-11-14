@@ -7,7 +7,7 @@ event: 憂鬱症與自殺防治
 speaker: 李品賢
 place: 部北
 tags: [精神科, 法規]
-integrated: false
+integrated: true
 ---
 
 ## 摘要

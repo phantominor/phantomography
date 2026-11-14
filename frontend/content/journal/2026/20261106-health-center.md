@@ -7,7 +7,7 @@ event: 衛生所管理與公共衛生業務推動
 speaker: 彭曉環
 place: 新北市衛生局
 tags: [公共衛生, 家庭醫學科]
-integrated: false
+integrated: true
 ---
 
 ## 摘要

@@ -175,6 +175,11 @@ credit:
 - **強制社區治療**：病情不穩、有復發風險 → 強制門診/居家治療。
 - **護送就醫**：警消/衛生人員可強制護送嚴重病人就醫（不需家屬同意）。
 
+:::source{from="20261110-suicide-prevention"}
+- **法院審理的組成**：參審制合議庭，**法官 1 名 + 精神科指定專科醫師 1 名 + 病人權益促進團體代表 1 名**，過半數決定，可視訊開庭。
+- **強制住院的法律演進**：民國 79 年前無規定 → 事後審查 → 96 年事前審查（審查會）→ 102 年提審法 → 115 年法官保留。
+:::
+
 ## 鬱症（Depressive Disorders）
 
 ### 流行病學
@@ -220,6 +225,13 @@ credit:
 
 ### 自殺（Suicide）
 
+:::source{from="20261110-suicide-prevention"}
+#### 台灣現況
+
+- 2024 年自殺重回**第十大死因**（4,062 人，粗死亡率每十萬人 17.4）。
+- 年齡越大自殺率越高，但近 10 年 **65 歲以上下降、15–44 歲上升**，年輕女性上升最明顯；15–24 歲、25–44 歲自殺都是第二大死因。
+:::
+
 #### 危險因子（SAD PERSONS）
 
 - **S**ex（男性完成自殺率較高；女性企圖率較高）。
@@ -243,6 +255,10 @@ credit:
 - 評估：意念 → 計畫 → 方法 → 意圖 → 保護因子。
 - 高風險者：住院（必要時強制住院）、1 對 1 觀察、移除致命工具。
 - 注意 SSRI 開始治療初期可能增加自殺風險（精力先恢復，情緒尚未改善）。
+:::source{from="20261110-suicide-prevention"}
+- **醫師是守門人**：自殺身亡者前一年就醫次數是一般人的 2 倍，老年自殺身亡者九成在前一個月曾就醫；口訣「**一問二應三轉介**」：主動問（BSRS-5、PHQ-9、自殺警訊 FACT：Feelings、Actions、Change、Threats）→ 不批判地傾聽、爭取時間、建立求助約定 → 通報與轉介。
+:::
+
 - 詳見 [[精神系統主訴#自殺意念與自傷（Suicidal Ideation / Self-harm）|自殺意念與自傷]]的評估流程
 
 ### 鬱症治療
@@ -260,6 +276,10 @@ credit:
 | **Trazodone** | — | 5-HT₂A antagonist + weak SRI | 主要做助眠劑使用；罕見：**Priapism**（陰莖異常勃起）|
 
 - 抗鬱劑起效需 **2–4 週**，療效評估 4–6 週；緩解後應續用 :red[**6–12 個月**]以防復發。
+
+:::source{from="20261110-suicide-prevention"}
+- **Esketamine**（Spravato，NMDA 拮抗劑鼻噴劑）：用於治療抵抗型憂鬱與有急性自殺意念的鬱症，數小時到數天起效；需在院內給藥並觀察 2 小時（解離、血壓上升）。靜脈 ketamine 屬仿單外使用，ELEKT-D（2023）顯示療效不劣於 ECT。
+:::
 
 #### SSRI Discontinuation Syndrome（停藥症候群）
 
@@ -690,6 +710,12 @@ credit:
 | **Buprenorphine（± Naloxone）** | Partial μ-agonist + κ-antagonist | 較安全（有 ceiling effect）；Naloxone 防止注射濫用 |
 | **Naltrexone** | Opioid antagonist | 預防復發；須完全戒斷後才開始 |
 
+:::source{from="20261109-methadone-clinic"}
+- **台灣的美沙冬替代治療**：2006 年開辦，屬減害策略（之後注射藥癮者的愛滋新增個案明顯下降）；病人每天到固定院所、在醫護人員面前口服（directly observed），定期驗嗎啡尿、B 肝與愛滋；美沙冬是**第二級管制藥品**，要加鎖專櫃存放、逐日登記；藥費由公務預算補助，藥癮愛滋感染者由疾管署補助。
+:::
+
+- 美沙冬門診的動線、給藥處與收費，詳見 [[20261109-methadone-clinic|美沙冬門診]]（逐篇筆記）
+
 ### 苯二氮平類（Benzodiazepines）
 
 - 中毒：鎮靜、意識下降、呼吸抑制（單獨口服過量少致命，合併酒精/opioid 則危險）。
@@ -878,6 +904,7 @@ credit:
     - **早期行為介入**（ABA：Applied Behavior Analysis）最有效。
     - 語言/職能/社交技巧訓練。
     - 藥物：針對合併症狀（irritability → **Risperidone / Aripiprazole**；ADHD 症狀 → 興奮劑或 guanfacine）。
+- ASD 病人用 Aripiprazole 後覺得症狀變多、反覆走路起坐（和 akathisia 鑑別）的個案，詳見 [[20261109-psychiatry-clinic|精神科門診跟診]]（逐篇筆記）
 
 ### 智能障礙（Intellectual Disability）
 

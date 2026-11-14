@@ -7,7 +7,7 @@ event: 精神科門診
 speaker: 趙偉婷
 place: 部北
 tags: [精神科, 病例]
-integrated: false
+integrated: true
 ---
 
 ## 摘要
