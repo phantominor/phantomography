@@ -86,6 +86,8 @@ integrated: true
 
 來源：[臺大校訊：臺大醫院星月計畫](https://sec.ntu.edu.tw/epaper/article.asp?num=1363&sn=16475)
 
+- 參與星月計畫的基層診所實例，詳見 [[20261105-dialysis-clinic|洗腎診所跟診]]（逐篇筆記）
+
 ## 行政事項
 
 - 確認完成所有簽章。

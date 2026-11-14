@@ -36,7 +36,7 @@ autolink:
 
 ### 適應症（Indications）
 
-- **結核病**：一線四合療法（RIPE）的核心；治療中最重要的殺菌藥物。
+- **[[胸腔內科#活動性結核標準治療|結核病]]**：一線四合療法（RIPE）的核心；治療中最重要的殺菌藥物。
     - 台灣常用複方：Rifinah（RIF + INH）、Rifater（RIF + INH + PZA）。
 - **[[感染科#LTBI 治療|潛伏結核]]**：**4R**（Rifampin × 4 個月）、**3HR**（+ INH × 3 個月）。
 - **[[感染科#Mycobacterium leprae（漢生病/麻風）|漢生病]]**：多藥合併治療中每月一劑。
@@ -47,7 +47,7 @@ autolink:
     - **[[感染科#N. meningitidis（腦膜炎雙球菌）|腦膜炎雙球菌]]**密切接觸者：600 mg bid × **2 天**（替代：Ciprofloxacin 單次、懷孕用 Ceftriaxone IM 單次）。
     - **[[感染科#Haemophilus influenzae|Hib]]** 接觸者（家中有未完整接種的幼兒）：20 mg/kg qd × 4 天。
 - Brucellosis：**Doxycycline + Rifampin**。
-- 其他：Legionella（合併）、Bartonella。
+- 其他：[[感染科#Legionella pneumophila|Legionella]]（合併）、Bartonella。
 
 ### 副作用（Adverse Effects）
 
@@ -72,7 +72,7 @@ autolink:
 | **HIV PI、NNRTI** | 抗病毒失敗 | 改用 **Rifabutin**；Dolutegravir 改 bid |
 | **Tacrolimus、Cyclosporine** | **器官排斥** | 避免或大幅調高劑量 |
 | Azole 抗黴菌藥 | 濃度不足 | 避免（Voriconazole 禁用） |
-| **Methadone** | **戒斷症狀** | 增加劑量 |
+| **[[精神科#鴉片類（Opioids）\|Methadone]]** | **戒斷症狀** | 增加劑量 |
 | **類固醇** | 腎上腺功能不足者可能出現**[[代謝內分泌科#腎上腺危象（Adrenal Crisis）\|腎上腺危象]]** | 劑量加倍 |
 | Sulfonylurea、Phenytoin、Statin、CCB | 效果下降 | 監測、調整 |
 
@@ -80,8 +80,8 @@ autolink:
 
 ## Rifabutin
 
-- **CYP 誘導比 Rifampin 弱** → **HIV 病人併用 protease inhibitor** 時取代 Rifampin。
-- **MAC** 治療與預防（合併 Macrolide、Ethambutol）。
+- **CYP 誘導比 Rifampin 弱** → **[[感染科#HIV / AIDS|HIV]] 病人併用 protease inhibitor** 時取代 Rifampin。
+- **[[感染科#Nontuberculous Mycobacteria（NTM）|MAC]]** 治療與預防（合併 Macrolide、Ethambutol）。
 - 副作用：
     - **葡萄膜炎**：與 **Clarithromycin** 或 PI 併用時 Rifabutin 濃度上升 → 風險↑。
     - **嗜中性球低下**、體液橘紅色、關節痛。

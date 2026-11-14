@@ -41,7 +41,7 @@ autolink:
 - **MRSA 救援治療**：Vancomycin 失敗、MIC ≥ 2 → 換 **高劑量 Daptomycin ± β-lactam**。
     - 合併 Ceftaroline 或 Oxacillin：β-lactam 讓細胞膜更容易被 Daptomycin 結合（**seesaw effect**）。
 - **[[感染科#Enterococcus|VRE]] 菌血症**：Daptomycin 或 **Linezolid**；用高劑量，常合併 β-lactam。
-- 骨髓炎、人工關節感染：Vancomycin 無法使用時的替代。
+- [[骨科#急性骨髓炎（Acute Osteomyelitis）|骨髓炎]]、[[骨科#人工關節感染（Periprosthetic Joint Infection, PJI）|人工關節感染]]：Vancomycin 無法使用時的替代。
 - **:red[不能用於肺炎]**：被**肺泡表面張力素（surfactant）不活化**。
     - 例外：右側心內膜炎造成的**敗血性肺栓塞**是經血行感染 → 仍有效。
 

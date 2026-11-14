@@ -54,9 +54,9 @@ autolink:
 
 - **[[感染科#Pneumocystis jirovecii（PJP）|PJP]]**：
     - 治療首選：TMP **15–20 mg/kg/day** 分 q6–8h × **21 天**；PaO₂ < 70 mmHg 合併**類固醇**。
-    - 預防：HIV **CD4 < 200**、長期類固醇、器官移植、化療 → DS 或 SS 每天一顆。
+    - 預防：[[感染科#HIV / AIDS|HIV]] **CD4 < 200**、長期類固醇、器官移植、化療 → DS 或 SS 每天一顆。
 - **[[感染科#Toxoplasma gondii|弓形蟲]]預防**：HIV **CD4 < 100** 且 IgG 陽性 → DS qd（同時預防 PJP）。
-- **泌尿道感染**：[[泌尿科#泌尿道感染（UTI）|單純膀胱炎]] DS bid × **3 天**（當地抗藥率 < 20% 才用）；前列腺炎 4–6 週。
+- **泌尿道感染**：[[泌尿科#泌尿道感染（UTI）|單純膀胱炎]] DS bid × **3 天**（當地抗藥率 < 20% 才用）；[[泌尿科#前列腺炎（Prostatitis）|前列腺炎]] 4–6 週。
 - **皮膚軟組織感染**：社區型 MRSA 膿瘍引流後的口服選擇。
     - 對 **GAS 較弱** → 蜂窩組織炎經驗治療要加 β-lactam。
 - **Stenotrophomonas maltophilia 首選**：天生對 Carbapenem 抗藥。
@@ -96,7 +96,7 @@ autolink:
 - **Sulfadiazine**：+ **Pyrimethamine** + leucovorin → **弓形蟲腦炎**首選。
     - 尿中溶解度低 → **結晶尿**、腎結石 → 多喝水、鹼化尿液。
 - **Silver sulfadiazine**：燒燙傷外用，涵蓋 Pseudomonas；可能短暫白血球低下。
-- **Sulfasalazine**：Sulfapyridine + 5-ASA，用於潰瘍性結腸炎、類風濕性關節炎（不當抗生素用）。
+- **Sulfasalazine**：Sulfapyridine + 5-ASA，用於[[大腸直腸外科#Ulcerative Colitis|潰瘍性結腸炎]]、[[免疫風濕科#類風濕性關節炎（Rheumatoid Arthritis, RA）|類風濕性關節炎]]（不當抗生素用）。
 - **Sulfa 過敏的交叉反應**：
     - 抗生素類 sulfonamide 的過敏來自 **N4 arylamine** 與 N1 環狀結構。
     - 非抗生素類（**Furosemide、Thiazide**、Sulfonylurea、Celecoxib）沒有這些結構 → 交叉反應**很低**，不需要一律避免。
@@ -107,7 +107,7 @@ autolink:
 - 適應症：
     - **[[感染科#Mycobacterium leprae（漢生病/麻風）|漢生病]]**：多藥合併治療的一員。
     - **PJP 預防**：TMP-SMX 過敏時的替代（加 Pyrimethamine 可同時預防弓形蟲）。
-    - 皮膚：**疱疹樣皮膚炎（dermatitis herpetiformis）**、嗜中性球皮膚病。
+    - 皮膚：**[[皮膚科#疱疹樣皮膚炎（Dermatitis Herpetiformis, DH）|疱疹樣皮膚炎（dermatitis herpetiformis）]]**、嗜中性球皮膚病。
 - 副作用：
     - **溶血**：**用藥前驗 G6PD**；G6PD 正常也會輕度溶血。
     - **變性血紅素血症（methemoglobinemia）**：發紺、血氧機讀值約 85% 不隨給氧改善 → **Methylene blue**。

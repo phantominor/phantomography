@@ -62,7 +62,7 @@ autolink:
     - **Viridans streptococci**：Penicillin/Ceftriaxone + Gentamicin → 療程縮短為 **2 週**。
     - **S. aureus 人工瓣膜**：Vancomycin/Oxacillin + Rifampin + Gentamicin × 2 週。
 - **人畜共通、生物恐怖菌**：鼠疫、**兔熱病**（Streptomycin、Gentamicin）、[[感染科#其他重要病原|Brucellosis]]（Doxycycline + Streptomycin）。
-- 分枝桿菌：**MDR-TB**（Amikacin）、**MAC**（Amikacin，含吸入式 liposomal Amikacin）、Nocardia（Amikacin）。
+- 分枝桿菌：**[[胸腔內科#多重抗藥性結核（MDR-TB）|MDR-TB]]**（Amikacin）、**[[感染科#Nontuberculous Mycobacteria（NTM）|MAC]]**（Amikacin，含吸入式 liposomal Amikacin）、Nocardia（Amikacin）。
 - **Pseudomonas 慢性感染**：[[小兒科#囊腫性纖維化（Cystic Fibrosis, CF）|囊腫性纖維化]]吸入 **Tobramycin**。
 
 ### 用法與藥物監測（Dosing & TDM）
@@ -167,7 +167,7 @@ autolink:
     - **[[婦科#骨盆腔炎（Pelvic Inflammatory Disease, PID）|PID]]**：Ceftriaxone + **Doxycycline** + Metronidazole × 14 天。
     - **Doxy-PEP**：高風險族群無套性行為後 **72 小時內 200 mg 單次** → 減少梅毒、披衣菌、淋病（CDC 2024）。
     - **V. vulnificus**：**Ceftazidime + Doxycycline** + 緊急清創。
-    - CAP 門診（無共病者的替代）、COPD 急性惡化。
+    - CAP 門診（無共病者的替代）、[[胸腔內科#急性惡化（COPD AE）|COPD 急性惡化]]。
     - 社區型 MRSA 皮膚感染、Lyme disease、Brucellosis（+ Rifampin 或 Streptomycin）、梅毒（Penicillin 過敏）。
     - [[家庭醫學科#瘧疾預防|瘧疾預防]]：出發前 1–2 天至離開後 **4 週**每天服用。
     - [[皮膚科#痤瘡（Acne Vulgaris）|痤瘡]]、酒糟（低劑量抗發炎）。
@@ -179,7 +179,7 @@ autolink:
 - 特有副作用：
     - **前庭毒性**（頭暈、眩暈）→ 常見。
     - **藍灰色色素沉著**（皮膚、牙齒、指甲、鞏膜）。
-    - **藥物性狼瘡**、自體免疫肝炎、DRESS。
+    - **[[免疫風濕科#Drug-Induced Lupus|藥物性狼瘡]]**、自體免疫肝炎、DRESS。
 
 ### 其他 Tetracyclines
 
@@ -201,4 +201,4 @@ autolink:
 - 副作用：
     - **噁心、嘔吐**非常常見（20–30%）。
     - **低纖維蛋白原血症**、凝血異常 → 長期使用監測 fibrinogen。
-    - 急性胰臟炎、肝毒性；Tetracycline 類副作用（牙齒、光敏感）。
+    - [[消化內科#急性胰臟炎（Acute Pancreatitis）|急性胰臟炎]]、肝毒性；Tetracycline 類副作用（牙齒、光敏感）。

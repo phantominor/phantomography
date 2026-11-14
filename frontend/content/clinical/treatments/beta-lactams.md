@@ -30,7 +30,7 @@ autolink:
 - 機轉：β-lactam 環模擬 **D-Ala-D-Ala** → 結合 **PBP（penicillin-binding protein）** → 抑制 transpeptidation → 細胞壁無法交聯 → autolysin 作用 → 菌體破裂。
 - **殺菌型（bactericidal）**、**時間依賴型（time-dependent）**：療效取決於 **fT > MIC**。
     - 提高 fT > MIC：縮短給藥間隔、**延長輸注（extended infusion）**。
-- 天生無效：**沒有細胞壁**的 Mycoplasma；細胞內菌 Chlamydia、Legionella、Rickettsia。
+- 天生無效：**沒有細胞壁**的 [[感染科#Mycoplasma pneumoniae|Mycoplasma]]；細胞內菌 Chlamydia、Legionella、Rickettsia。
 - 四大類：Penicillin、Cephalosporin、Carbapenem、Monobactam。
 - 抗藥機制：
 
@@ -73,7 +73,7 @@ autolink:
 
 | 類型 | 時間 | 表現 | 之後 |
 |------|------|------|------|
-| **IgE（Type I）** | 1 小時內 | 蕁麻疹、血管性水腫、支氣管痙攣、anaphylaxis | 皮膚測試；必要時 desensitization |
+| **IgE（Type I）** | 1 小時內 | 蕁麻疹、血管性水腫、支氣管痙攣、[[免疫風濕科#過敏性休克（Anaphylaxis）\|anaphylaxis]] | 皮膚測試；必要時 desensitization |
 | 輕度延遲型（Type IV） | 數天 | **Maculopapular rash**，無黏膜侵犯 | 多可再挑戰 |
 | **SCAR** | 1–8 週 | [[皮膚科#Stevens-Johnson Syndrome（SJS）/ Toxic Epidermal Necrolysis（TEN）\|SJS/TEN]]、[[皮膚科#Drug Reaction with Eosinophilia and Systemic Symptoms（DRESS）\|DRESS]]、AGEP | **終身禁用、不可挑戰** |
 | 其他 | 數天–數週 | 溶血性貧血、[[腎臟內科#急性間質性腎炎（AIN）\|AIN]]、藥物熱、serum sickness | 避免同藥 |
@@ -130,8 +130,8 @@ autolink:
 - **GAS [[耳鼻喉科#急性咽扁桃腺炎（Acute Pharyngotonsillitis）|咽炎]]**：Penicillin V 或 Amoxicillin **× 10 天**（預防 rheumatic fever）。
     - **GAS 從未出現 penicillin 抗藥**。
     - Rheumatic fever 次級預防：Benzathine PG 每 3–4 週 IM。
-- 其他首選：**Actinomyces**、**C. perfringens（gas gangrene）**、Leptospirosis、敏感株 N. meningitidis。
-- **Necrotizing fasciitis、Strep TSS**：Penicillin + **Clindamycin**（抑制毒素合成）。
+- 其他首選：**[[感染科#Nocardia vs Actinomyces|Actinomyces]]**、**[[感染科#C. perfringens（Gas gangrene，氣性壞疽）|C. perfringens（gas gangrene）]]**、[[感染科#Leptospira interrogans（鉤端螺旋體病）|Leptospirosis]]、敏感株 N. meningitidis。
+- **[[皮膚科#壞死性筋膜炎（Necrotizing Fasciitis）|Necrotizing fasciitis]]、Strep TSS**：Penicillin + **Clindamycin**（抑制毒素合成）。
 - Jarisch-Herxheimer reaction：治療梅毒後 24 小時內發燒 → **不是過敏**、繼續治療。
 
 ### Anti-staphylococcal Penicillins（抗葡萄球菌青黴素）
@@ -166,10 +166,10 @@ autolink:
 
 - **Augmentin、Curam（Amoxicillin-clavulanate）**：口服。
     - **動物咬傷首選**（狗、貓 → **Pasteurella multocida**）、人咬傷。
-    - AOM 第二線（30 天內用過 Amoxicillin、合併結膜炎）、鼻竇炎、COPD 急性惡化。
+    - AOM 第二線（30 天內用過 Amoxicillin、合併結膜炎）、[[耳鼻喉科#鼻竇炎（Rhinosinusitis）|鼻竇炎]]、[[胸腔內科#急性惡化（COPD AE）|COPD 急性惡化]]。
     - 副作用：**腹瀉**、**膽汁鬱積型肝炎**（clavulanate）。
 - **Unasyn（Ampicillin-sulbactam）**：IV。
-    - **吸入性肺炎**、腹腔與骨盆感染、糖尿病足。
+    - **吸入性肺炎**、腹腔與骨盆感染、[[代謝內分泌科#糖尿病足|糖尿病足]]。
     - **Acinetobacter**：靠 sulbactam → 高劑量（sulbactam 每天 :red[9 g]）+ 第二種藥。
 - 涵蓋：**MSSA**、**厭氧菌（含 B. fragilis）**、產 β-lactamase 的 H. influenzae、Moraxella。
 - **不涵蓋：Pseudomonas、MRSA、ESBL**。
@@ -177,7 +177,7 @@ autolink:
 ### Anti-pseudomonal Penicillin（抗綠膿桿菌青黴素）
 
 - **Tazocin（Piperacillin-tazobactam）**：GPC + GNR + **Pseudomonas** + **厭氧菌**。
-- 院內感染經驗治療主力：**HAP/VAP**、[[血液腫瘤科#Febrile Neutropenia|嗜中性球低下發燒]]、複雜性腹腔感染、糖尿病足。
+- 院內感染經驗治療主力：**[[胸腔內科#院內型 / 呼吸器相關型肺炎（HAP / VAP）|HAP/VAP]]**、[[血液腫瘤科#Febrile Neutropenia|嗜中性球低下發燒]]、複雜性腹腔感染、糖尿病足。
     - **不涵蓋 MRSA** → 需要時加 Vancomycin。
 - 4.5 g q6h；Pseudomonas、重症 → **延長輸注（每劑 4 小時）**。
 - **ESBL 菌血症不用 Tazocin**：**MERINO trial**（2018）→ 死亡率高於 Meropenem（**12.3% vs 3.7%**）。
@@ -209,7 +209,7 @@ autolink:
 
 ### 第 2 代 Cephalosporin 與 Cephamycin（2nd Generation）
 
-- **Cefuroxime**（IV、口服）：鼻竇炎、中耳炎、輕度 CAP、Lyme disease。
+- **Cefuroxime**（IV、口服）：鼻竇炎、中耳炎、輕度 CAP、[[感染科#Borrelia burgdorferi（Lyme disease）|Lyme disease]]。
 - Cefaclor（口服）：兒童呼吸道；**serum sickness-like reaction**。
 - **Cephamycin**（Cefoxitin、Cefmetazole）與 oxacephem（**Flumarin（Flomoxef）**）：
     - **涵蓋厭氧菌** → 腹腔、骨盆感染、**大腸直腸手術預防**。
@@ -228,11 +228,11 @@ autolink:
     - **[[感染科#N. gonorrhoeae（淋病雙球菌）|淋病]]**：**:red[500 mg IM × 1]** + 治療 Chlamydia。
     - [[腎臟內科#泌尿道感染（UTI）與腎盂腎炎|腎盂腎炎]]、[[肝膽胰外科#自發性細菌性腹膜炎（SBP）|SBP]]、傷寒、Lyme disease（神經、心臟侵犯）。
     - 副作用：**膽泥（pseudolithiasis）**、溶血性貧血。
-    - **新生兒禁用**：取代白蛋白上的膽紅素 → kernicterus；與含鈣輸液沉澱 → 改用 Cefotaxime。
+    - **新生兒禁用**：取代白蛋白上的膽紅素 → [[小兒科#核黃疸（Kernicterus）|kernicterus]]；與含鈣輸液沉澱 → 改用 Cefotaxime。
 - **Ceftazidime**：**涵蓋 Pseudomonas**，但 **GPC 弱**。
     - **[[感染科#其他重要病原|Melioidosis]]**（Burkholderia pseudomallei，**台灣南部、颱風後**）：Ceftazidime 或 Meropenem → TMP-SMX 維持。
 - **Brosym（Cefoperazone-sulbactam）**：GNR + Pseudomonas + 厭氧菌 + **Acinetobacter**（sulbactam）。
-    - **膽汁排除** → 膽道感染。
+    - **膽汁排除** → [[消化內科#急性膽管炎（Cholangitis）|膽道感染]]。
     - **NMTT 側鏈** → **凝血異常**（追 PT/INR、補 Vit K）、**disulfiram-like**。
 - 口服：Cefixime、Cefdinir → 兒童中耳炎、UTI。
 - 無效：**ESBL**、**AmpC**；Ceftriaxone、Cefotaxime 不涵蓋 Pseudomonas。
@@ -279,7 +279,7 @@ autolink:
 | **Mepem（Meropenem）** | q8h；腦膜炎 **:red[2 g q8h]** | **腦膜炎可用**；可延長輸注 |
 | **Invanz（Ertapenem）** | **q24h** | **不涵蓋 Pseudomonas、Acinetobacter、Enterococcus** → 社區 ESBL、降階 |
 
-- **與 Valproic acid 併用禁忌** → Valproate 濃度 24 小時內**下降 60–100%**、加量也拉不回 → **癲癇發作**。
+- **與 [[精神科#Valproate|Valproic acid]] 併用禁忌** → Valproate 濃度 24 小時內**下降 60–100%**、加量也拉不回 → **癲癇發作**。
 - 其他副作用：**癲癇**（Imipenem > Meropenem）、C. difficile、念珠菌感染。
 - Stenotrophomonas 天生抗藥 → **TMP-SMX**。
 

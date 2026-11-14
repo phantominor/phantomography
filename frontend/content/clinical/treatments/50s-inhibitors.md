@@ -48,7 +48,7 @@ autolink:
 
 ### 涵蓋範圍（Spectrum）
 
-- **非典型菌**：**Mycoplasma**、**Chlamydophila**、**Legionella**。
+- **非典型菌**：**Mycoplasma**、**Chlamydophila**、**[[感染科#Legionella pneumophila|Legionella]]**。
 - 呼吸道：S. pneumoniae（抗藥高）、**H. influenzae**（Azithro、Clari）、**Moraxella**、**Bordetella pertussis**。
 - 其他：**Chlamydia trachomatis**、**Campylobacter**、**H. pylori**、**MAC**、**Bartonella**、Orientia。
 - **沒有涵蓋**：MRSA、腸內菌（Azithro 對 Salmonella、Shigella 例外）、Pseudomonas、厭氧菌。
@@ -75,7 +75,7 @@ autolink:
 ### Klaricid（Clarithromycin）
 
 - **[[消化內科#H. pylori|H. pylori]]**：三合療法的成分；台灣 Clarithromycin 抗藥率上升 → 第一線改**鉍劑四合療法**或依藥敏選擇。
-- **MAC**：治療核心（+ **Ethambutol** ± Rifamycin）；預防可用。
+- **[[感染科#Nontuberculous Mycobacteria（NTM）|MAC]]**：治療核心（+ **Ethambutol** ± Rifamycin）；預防可用。
 - CAP、鼻竇炎、皮膚感染（替代）。
 - **強 CYP3A4 抑制** → 重要交互作用：
     - **Statin**（Simvastatin、Lovastatin）→ 橫紋肌溶解。
@@ -148,7 +148,7 @@ autolink:
     - **MRSA 肺炎**：與 Vancomycin 同為首選（肺部穿透好、無腎毒性）。
     - MRSA 皮膚軟組織感染（可口服出院）。
     - **[[胸腔內科#多重抗藥性結核（MDR-TB）|MDR-TB]]**：WHO Group A（BPaL、BPaLM 處方）。
-    - Nocardia（嚴重或 TMP-SMX 不能用時）。
+    - [[感染科#Nocardia vs Actinomyces|Nocardia]]（嚴重或 TMP-SMX 不能用時）。
 - 抑菌（對葡萄球菌、腸球菌）→ MRSA **菌血症、心內膜炎**不是首選。
 
 ### Linezolid 副作用（Adverse Effects）
@@ -168,7 +168,7 @@ autolink:
 ## Chloramphenicol
 
 - **廣效**：革蘭氏陽性與陰性、**厭氧菌**、Rickettsia、Salmonella Typhi；**CNS 穿透極佳**。
-- 現況：毒性大 → 全身使用很少（資源有限地區的細菌性腦膜炎、立克次體感染）；台灣主要用**眼藥水、眼藥膏**。
+- 現況：毒性大 → 全身使用很少（資源有限地區的[[神經內科#細菌性腦膜炎|細菌性腦膜炎]]、立克次體感染）；台灣主要用**眼藥水、眼藥膏**。
 - 副作用：
     - **劑量相關骨髓抑制**：貧血、白血球低下 → **可逆**。
     - **特異性[[血液腫瘤科#再生不良性貧血（Aplastic Anemia）|再生不良性貧血]]**：約 1/25,000–40,000，與劑量無關、**不可逆**，連**眼藥**都曾有報告。

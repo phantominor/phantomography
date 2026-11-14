@@ -34,7 +34,7 @@ autolink:
     - **橫膈以下的厭氧菌**首選（B. fragilis）。
 - **沒有涵蓋**：
     - 所有**需氧菌** → 腹內感染要**合併**抗需氧菌藥物。
-    - 部分**革蘭氏陽性厭氧菌**：Actinomyces、Cutibacterium、口腔微需氧鏈球菌 → 吸入性肺炎、肺膿瘍不單用。
+    - 部分**革蘭氏陽性厭氧菌**：Actinomyces、Cutibacterium、口腔微需氧鏈球菌 → 吸入性肺炎、[[胸腔內科#肺膿瘍（Lung Abscess）|肺膿瘍]]不單用。
 - 口服**吸收接近 100%**；**CNS、膿瘍穿透好**；肝代謝 → 不需依腎功能調整。
 
 ### 適應症（Indications）
@@ -50,7 +50,7 @@ autolink:
 - **[[感染科#C. tetani（Tetanus，破傷風）|破傷風]]**：首選 Metronidazole（Penicillin 是 GABA 拮抗劑，理論上加重痙攣）。
 - **[[感染科#C. difficile（Pseudomembranous colitis，偽膜性大腸炎）|C. difficile]]**：已**不是首選**（IDSA 2021）。
     - 只在**猛爆性**時 **IV Metronidazole** + 口服 Vancomycin；或沒有其他藥可用的輕症。
-- 其他：[[大腸直腸外科#Crohn's Disease|Crohn's disease]] 肛門廔管、肝性腦病（Rifaximin 為首選）。
+- 其他：[[大腸直腸外科#Crohn's Disease|Crohn's disease]] 肛門廔管、[[肝膽胰外科#肝性腦病（Hepatic Encephalopathy）|肝性腦病]]（Rifaximin 為首選）。
 
 ### 副作用（Adverse Effects）
 
@@ -61,7 +61,7 @@ autolink:
     - 癲癇、腦病變。
 - **類 disulfiram 反應**：傳統教導用藥期間至停藥後 **72 小時**禁酒。
     - CDC 2021 STI 指引認為證據不足，已**不再要求**禁酒；考題與多數仿單仍列為重點。
-    - **2 週內用過 Disulfiram → 禁用**（急性精神病）。
+    - **2 週內用過 [[精神科#酒精使用障礙的長期治療|Disulfiram]] → 禁用**（急性精神病）。
 - 懷孕：各孕期都可用（CDC），動物致癌性在人類未證實。
 
 ### 交互作用（Interactions）
@@ -99,7 +99,7 @@ autolink:
 - 腸胃不適、**尿液變褐色**。
 - **肺毒性**：
     - **急性過敏性肺炎**：用藥數天內發燒、咳嗽、呼吸困難、**嗜酸性球增加** → 停藥後快速改善。
-    - **慢性間質性肺炎/肺纖維化**：長期預防用藥（數月以上）、**老人** → 部分不可逆。
-- **肝毒性**：急性肝炎、**類自體免疫肝炎**（長期使用）。
+    - **[[胸腔內科#間質性肺病（Interstitial Lung Disease, ILD）|慢性間質性肺炎/肺纖維化]]**：長期預防用藥（數月以上）、**老人** → 部分不可逆。
+- **[[消化內科#藥物性肝損傷（Drug-Induced Liver Injury, DILI）|肝毒性]]**：急性肝炎、**類自體免疫肝炎**（長期使用）。
 - **周邊神經病變**：腎功能差時風險↑。
 - 溶血性貧血（G6PD 缺乏）。

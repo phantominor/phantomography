@@ -52,6 +52,8 @@ integrated: true
 居家醫療照護整合計畫的收案條件與各階段的定義，引用前以健保署公告的計畫內容為準。
 :::
 
+- 健保在宅急症照護（肺炎、尿路感染、軟組織感染在家治療），詳見 [[20261109-ltc-facility|長照機構參訪]]（逐篇筆記）
+
 來源：
 
 - [House Calls（American Family Physician，2020）](https://aafp.org/pubs/afp/issues/2020/0815/p211.html)

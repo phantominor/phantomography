@@ -52,13 +52,13 @@ autolink:
 
 ### 適應症（Indications）
 
-- **MRSA 首選**：菌血症、[[心臟內科#感染性心內膜炎（Infective Endocarditis, IE）|心內膜炎]]、骨髓炎、HAP/VAP、皮膚軟組織感染。
+- **MRSA 首選**：菌血症、[[心臟內科#感染性心內膜炎（Infective Endocarditis, IE）|心內膜炎]]、[[骨科#急性骨髓炎（Acute Osteomyelitis）|骨髓炎]]、[[胸腔內科#院內型 / 呼吸器相關型肺炎（HAP / VAP）|HAP/VAP]]、皮膚軟組織感染。
     - MRSA 肺炎：Vancomycin 或 **Linezolid**。
 - **經驗治療加上 Vancomycin 的時機**：
     - [[神經內科#細菌性腦膜炎|細菌性腦膜炎]]：**Ceftriaxone + Vancomycin**（PRSP）。
     - [[血液腫瘤科#Febrile Neutropenia|嗜中性球低下發燒]]：**不常規加**；有導管感染、皮膚軟組織感染、肺炎、血行動力不穩定才加。
     - 有 MRSA 危險因子的 HAP/VAP、敗血症。
-- **CoNS 人工植入物感染**（人工瓣膜、人工關節、VP shunt）：Vancomycin ± **Rifampin**（穿透 biofilm）。
+- **CoNS 人工植入物感染**（人工瓣膜、[[骨科#人工關節感染（Periprosthetic Joint Infection, PJI）|人工關節]]、VP shunt）：Vancomycin ± **Rifampin**（穿透 biofilm）。
 - [[外科概論#預防性抗生素|手術預防]]：**MRSA 帶菌**或 **β-lactam 過敏** → **:red[切皮前 120 分鐘內]**開始滴。
 - Ampicillin 抗藥、非 VRE 的 Enterococcus。
 - **[[感染科#C. difficile（Pseudomembranous colitis，偽膜性大腸炎）|C. difficile]]**：**口服** 125 mg qid × 10 天。

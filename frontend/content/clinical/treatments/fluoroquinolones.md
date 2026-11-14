@@ -56,19 +56,19 @@ autolink:
 - **呼吸道**：
     - **[[胸腔內科#社區型肺炎（CAP）|CAP]]**：住院非加護病房 → **Respiratory FQ 單一藥物**，或 β-lactam + Macrolide。
     - **:red[台灣結核盛行 → 小心 Quinolone 掩蓋結核]**：症狀暫時改善 → **延誤診斷**、誘發 FQ 抗藥結核。
-        - 懷疑結核時先驗痰（抗酸菌、Xpert）再用 Quinolone。
-    - HAP/VAP：抗 Pseudomonas 的**第二種藥**（Ciprofloxacin、Levofloxacin）。
+        - 懷疑[[胸腔內科#肺結核（Pulmonary Tuberculosis）|結核]]時先驗痰（抗酸菌、Xpert）再用 Quinolone。
+    - [[胸腔內科#院內型 / 呼吸器相關型肺炎（HAP / VAP）|HAP/VAP]]：抗 Pseudomonas 的**第二種藥**（Ciprofloxacin、Levofloxacin）。
 - **腹內感染**：Ciprofloxacin + **Metronidazole**（Moxifloxacin 單用因 B. fragilis 抗藥已少用）。
 - **腸胃道**：
     - 侵襲性腹瀉：Shigella、Salmonella（重症、免疫低下）。
     - **Campylobacter** 抗藥率高 → 首選 **Azithromycin**。
     - 傷寒：南亞來源抗藥 → 改 Azithromycin 或 Ceftriaxone。
-- **骨髓炎**：革蘭氏陰性菌骨髓炎的口服選擇（骨穿透好）。
+- **[[骨科#急性骨髓炎（Acute Osteomyelitis）|骨髓炎]]**：革蘭氏陰性菌骨髓炎的口服選擇（骨穿透好）。
 - **Pseudomonas 的唯一口服藥物**：門診延續治療、囊腫性纖維化。
-- 預防性投藥：**腦膜炎雙球菌**接觸者 Ciprofloxacin **500 mg 單次**。
+- 預防性投藥：**[[感染科#N. meningitidis（腦膜炎雙球菌）|腦膜炎雙球菌]]**接觸者 Ciprofloxacin **500 mg 單次**。
 - 生物恐怖病原：[[感染科#Bacillus anthracis（炭疽桿菌）|炭疽]]（Ciprofloxacin）、鼠疫、兔熱病。
 - **[[胸腔內科#多重抗藥性結核（MDR-TB）|MDR-TB]]**：Levofloxacin、Moxifloxacin 是核心藥物（WHO Group A）。
-- 外用：Ciprofloxacin、Ofloxacin **耳滴劑**（外耳炎、鼓膜通氣管耳漏）、眼藥水（角膜炎、結膜炎）。
+- 外用：Ciprofloxacin、Ofloxacin **耳滴劑**（外耳炎、鼓膜通氣管耳漏）、眼藥水（[[眼科#角膜炎（Keratitis）|角膜炎]]、[[眼科#結膜炎|結膜炎]]）。
 
 ## Ciprofloxacin
 
@@ -113,7 +113,7 @@ autolink:
     - 危險因子：**> 60 歲**、**併用類固醇**、腎衰竭、器官移植。
     - 出現肌腱痛 → **立即停藥**、休息。
 - **周邊神經病變**：可在用藥早期出現，可能永久。
-- **中樞神經**：頭痛、失眠、**譫妄**（老人）、**癲癇**（抑制 GABA-A；併用 NSAID 風險↑）。
+- **中樞神經**：頭痛、失眠、**[[精神科#譫妄（Delirium）|譫妄]]**（老人）、**癲癇**（抑制 GABA-A；併用 NSAID 風險↑）。
 - **血糖異常**：**低血糖**與高血糖，老人、糖尿病（Sulfonylurea、胰島素）風險↑。
 - **QT 延長** → **[[心臟內科#Torsades de Pointes（TdP）|TdP]]**：Moxifloxacin > Levofloxacin > Ciprofloxacin。
     - 避免併用其他延長 QT 的藥物；矯正低血鉀、低血鎂。
