@@ -60,7 +60,7 @@ credit:
 - **停用**：
     - MAOi：傳統型需術前 2 週停（與 meperidine 交互作用 → [[精神科#Serotonin Syndrome（血清素症候群）|serotonin syndrome]] / hypertensive crisis）。
     - Metformin：術日停（lactic acidosis 風險）。
-    - ACEi/ARB：術日停（術中頑固性低血壓）。
+    - ACEi/ARB：術日停（術中頑固性低血壓）。2026 年 BMJ 的雙盲試驗（2,036 位 60–80 歲高血壓病人、全身麻醉非心臟手術）：手術當天早上停藥，圍手術期低血壓 31.2% vs 照常服藥 45.5%，30 天併發症與死亡無差異；STOP-or-NOT（JAMA 2024）術前 48 小時停藥，28 天併發症也無差異。詳見 [[2026-w46#老年人手術當天早上停用 ACEi/ARB，術中低血壓從 45.5% 降到 31.2%|醫學周報 2026 第 46 週]]
     - 抗凝血劑/抗血小板：依手術與出血風險調整。
 - **Aspiration prophylaxis**：
     - Metoclopramide（促胃排空）、H₂ blocker、PPI、sodium citrate。
