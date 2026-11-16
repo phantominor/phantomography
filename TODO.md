@@ -33,7 +33,8 @@ phantomography 接下來的待辦事項。完成的項目直接刪掉（完成�
 
 ## 醫學周報
 
-- [ ] 雲端排程的網路權限改成完整存取（https://claude.ai/code → 環境設定 → Default → Network access）；11/16 週一 06:05 第二次自動執行後檢查有沒有出現 `weekly/2026-W46` 的 PR。
+- [ ] 讀 W46 的 PR #1（https://github.com/phantominor/phantomography/pull/1）後合併；合併後 Claude 補記 UPDATE.md（避免和 PR 衝突，先不記）。
+- [ ] 11/23 週一 06:05 自動執行後，檢查有沒有 `weekly/2026-W47` 的 PR（網路權限已在 11/16 確認生效）。
 
 ## 題庫
 
