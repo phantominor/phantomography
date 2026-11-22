@@ -838,6 +838,7 @@ credit:
         - **Orlistat**（lipase inhibitor）：↓脂肪吸收；副作用：steatorrhea、脂溶性 vitamin↓。
         - **Naltrexone/Bupropion**：中樞抑制食慾。
         - **Phentermine/Topiramate**：交感作用 + 抑制食慾。
+    - 兒童與青少年：台灣 Wegovy 核准用於 **12 歲以上、體重 > 60 kg** 的肥胖青少年（12 週後 BMI 未降 ≥ 5% 應停藥），健保不給付；6 到未滿 12 歲兒童的第 3 期試驗 STEP Young（NEJM 2026）68 週 BMI 比安慰劑多降 16.2 個百分點，尚未核准。詳見 [[2026-w47#Semaglutide 第 3 期試驗首度納入 6 到 12 歲肥胖兒童：68 週後 BMI 比安慰劑組多降 16 個百分點|醫學周報 2026 第 47 週]]
 - **[[胃小腸外科#減重手術（Bariatric Surgery）|減重手術（Bariatric surgery）]]**（:red[BMI ≥ 37.5 或 ≥ 32.5 有共病]）：
     - **Roux-en-Y gastric bypass（RYGB）**：限制性 + 吸收不良性 → 減重效果佳。
     - **Sleeve gastrectomy**：目前最常做的術式；限制性；併發症較少。

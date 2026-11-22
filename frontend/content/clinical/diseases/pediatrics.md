@@ -629,6 +629,9 @@ credit:
 | Hurler（MPS I） | α-L-iduronidase | Dermatan/Heparan sulfate | Gargoylism、corneal clouding、智能障礙、dysostosis multiplex、肝脾腫大 |
 | Hunter（MPS II） | Iduronate-2-sulfatase | Dermatan/Heparan sulfate | **X-linked**；類似 Hurler 但**無 corneal clouding**、進程較慢 |
 
+- Gaucher 第三型（有神經症狀）：酵素替代療法對神經症狀無效（台灣 Cerezyme 仿單）；美國 FDA 2026/11 核准可進入腦部的口服 glucosylceramide synthase 抑制劑 venglustat 治療神經症狀，台灣尚未核准。
+- Niemann-Pick C 型：細胞內膽固醇處理異常（與 A/B 型的 sphingomyelinase 缺乏不同）；台灣 miglustat（Zavesca）核准用於其進行性神經表現；FDA 2026/11 核准鞘內注射 adrabetadex 用於 6 歲前發病者，可降低死亡風險，加框警語為聽力受損。詳見 [[2026-w47#FDA 同一週核准兩款溶酶體儲積症新藥：第三型高雪氏症的口服 venglustat、嬰兒型尼曼匹克 C 型的鞘內注射 adrabetadex|醫學周報 2026 第 47 週]]
+
 ### 其他遺傳性疾病
 
 #### 馬凡氏症候群（Marfan Syndrome）
