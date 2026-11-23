@@ -677,6 +677,7 @@ credit:
     - 其他：**Gemcitabine + Capecitabine**。
 - **Neoadjuvant therapy**（術前治療）：化療 ± 放療 → 縮小腫瘤後再評估可切除性。
 - 轉移性：化療為主 → **FOLFIRINOX** 或 **Gemcitabine + nab-Paclitaxel**。
+    - 新藥：口服 RAS(ON) 抑制劑 **Daraxonrasib**，第 3 期 RASolute 302 用於一線化療後惡化者，整體存活期中位數 13.2 對 6.7 個月（NEJM 2026）；合併 Gemcitabine + nab-Paclitaxel 做第一線的第 3 期 RASolute 303 進行中，台灣尚未核准。詳見 [[2026-w47#口服 RAS 抑制劑 daraxonrasib 合併化療做轉移性胰臟癌第一線治療：第 1/2 期試驗六成腫瘤縮小，一年存活率 76.6%|醫學周報 2026 第 47 週]]
 - 黃疸緩解：ERCP + biliary stent（術前減黃）。
 
 #### Whipple Procedure（胰十二指腸切除術）

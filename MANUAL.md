@@ -31,6 +31,8 @@
     - 每週一早上約 6 點自動產出 → GitHub 出現 `weekly/<期別>` 的 PR
 - 讓周報上線：
     - GitHub 的 Pull requests → 點進 `weekly/<期別>` → Merge pull request → Confirm merge → 回本機跑 `git pull`
+    - 或在本機說「合併周報」：Claude 把 PR 分支合併進 main、跑 build 檢查，問過我之後 `git push` 上線（累積兩期以上、PR 之間有衝突時用這個）。
+- PR 說明裡有「連不上或略過的來源」：合併前在本機說「補齊周報」，Claude 在本機重查那些來源並補寫。
 - 手動做一期：說 `/weekly`。
 - 對周報有意見：直接說，或用批註。
 - 排程管理：https://claude.ai/code/routines/trig_017wAfVJFz7YjCRYmRtbQMBJ
