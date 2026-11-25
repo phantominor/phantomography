@@ -1,5 +1,10 @@
 <!-- UPDATE.md -->
 [2026/11/26]
+- **治療處置：抗黴菌藥物**: 新增 `clinical/treatments/antifungals.md`，放上 First Aid 抗黴菌圖（First Aid 6 張圖全部放完）
+    - 總論：作用位置表、各菌選藥表（念珠菌各種、隱球菌、麴菌、白黴菌）。
+    - Amphotericin B（劑型、隱球菌腦膜炎與白黴菌、輸注反應與腎毒性、低鉀低鎂）、Nystatin。
+    - Azoles：共同 CYP3A4 與 QT 問題；Fluconazole、Itraconazole、Vfend（CYP2C19、TDM、視覺與皮膚癌）、Noxafil、Cresemba（QT 縮短）、外用與 Ketoconazole。
+    - Echinocandins 與念珠菌血症處置；Flucytosine、Lamisil（Terbinafine）、Griseofulvin。
 - **治療處置：抗病毒藥物**: 新增 `clinical/treatments/antivirals.md`，放上 First Aid 抗病毒圖
     - 抗疱疹病毒：Acyclovir 類（TK 活化、HSV 腦炎、帶狀疱疹、腎與神經毒性）、Ganciclovir 與 Valcyte、Foscarnet 與 Cidofovir 比較、Letermovir、Maribavir。
     - 流感：Tamiflu、Relenza、Rapiacta、Xofluza；COVID-19：Paxlovid（交互作用）、Lagevrio、Veklury。
