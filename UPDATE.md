@@ -1,5 +1,10 @@
 <!-- UPDATE.md -->
 [2026/11/26]
+- **治療處置：抗病毒藥物**: 新增 `clinical/treatments/antivirals.md`，放上 First Aid 抗病毒圖
+    - 抗疱疹病毒：Acyclovir 類（TK 活化、HSV 腦炎、帶狀疱疹、腎與神經毒性）、Ganciclovir 與 Valcyte、Foscarnet 與 Cidofovir 比較、Letermovir、Maribavir。
+    - 流感：Tamiflu、Relenza、Rapiacta、Xofluza；COVID-19：Paxlovid（交互作用）、Lagevrio、Veklury。
+    - B 肝：Baraclude、Viread、Vemlidy、停藥發作與化療前預防、Peg-IFN；C 肝：DAA 三類字尾、Epclusa 與 Maviret、Sofosbuvir + Amiodarone、Ribavirin。
+    - HIV：ART 分類表、一線處方與開始前檢查、IRIS 與開始時機、PrEP（含 Lenacapavir）與 PEP。
 - **治療處置：抗結核藥物**: 新增 `clinical/treatments/antituberculosis.md`，放上 First Aid 分枝桿菌圖
     - 總論：三種菌群與主力藥物、一線藥物比較表、台灣複方 Rifinah、Rifater。
     - 活動性結核：2HRZE/4HR 與延長條件、4 個月 Rifapentine + Moxifloxacin 處方、治療監測、懷孕/HIV/腎衰竭/肝病、藥物性肝炎的停藥標準與逐一加回。
