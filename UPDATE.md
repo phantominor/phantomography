@@ -1,5 +1,9 @@
 <!-- UPDATE.md -->
 [2026/11/26]
+- **治療處置：抗寄生蟲藥物**: 新增 `clinical/treatments/antiparasitics.md`，抗微生物藥物 13 頁全部完成
+    - 抗瘧藥：生活史作用階段表、Artemisinins（ACT、IV Artesunate 與延遲性溶血）、Chloroquine 與 Hydroxychloroquine（視網膜篩檢）、Primaquine 與 Tafenoquine（G6PD）、Malarone、Mefloquine、Quinine。
+    - 其他抗原蟲藥：依疾病整理的首選藥物表、Paromomycin、Pentamidine。
+    - 驅蟲藥：Albendazole 與 Mebendazole（神經囊尾蚴症）、Ivermectin（Strongyloides 免疫抑制前篩檢、疥瘡、Loa loa）、Praziquantel、其他；疥瘡與頭蝨用藥與處置。
 - **治療處置：抗黴菌藥物**: 新增 `clinical/treatments/antifungals.md`，放上 First Aid 抗黴菌圖（First Aid 6 張圖全部放完）
     - 總論：作用位置表、各菌選藥表（念珠菌各種、隱球菌、麴菌、白黴菌）。
     - Amphotericin B（劑型、隱球菌腦膜炎與白黴菌、輸注反應與腎毒性、低鉀低鎂）、Nystatin。
