@@ -1,4 +1,11 @@
 <!-- UPDATE.md -->
+[2026/11/26]
+- **治療處置：抗結核藥物**: 新增 `clinical/treatments/antituberculosis.md`，放上 First Aid 分枝桿菌圖
+    - 總論：三種菌群與主力藥物、一線藥物比較表、台灣複方 Rifinah、Rifater。
+    - 活動性結核：2HRZE/4HR 與延長條件、4 個月 Rifapentine + Moxifloxacin 處方、治療監測、懷孕/HIV/腎衰竭/肝病、藥物性肝炎的停藥標準與逐一加回。
+    - INH（KatG、NAT2、B6、過量癲癇）、PZA、Ethambutol；Rifampin 連到抑制 mRNA 合成頁。
+    - MDR-TB：WHO 2021 定義、BPaLM、二線藥物分組與副作用、台灣 MDR-TB 醫療照護體系；NTM 與漢生病處方。
+
 [2026/11/24]
 - **合併並補齊第 46、47 週周報**: 兩個雲端 PR 分支在本機合併進 main（追蹤清單、weekly_v4 角色清單的衝突取 W47 版，內容是聯集）；雲端被擋的來源在本機重查後補寫
   - 第 46 週（13 則）：新增臨床更新「WHO 首份成人第一型糖尿病指引」（14 條建議、台灣 CGM 給付現況）；台大急診那則補「網友怎麼看」（PTT）
