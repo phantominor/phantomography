@@ -6,7 +6,7 @@ type: visit
 event: 樂生療養院參訪
 place: 樂生療養院
 tags: [感染科, 公共衛生]
-integrated: false
+integrated: true
 ---
 
 ## 摘要

@@ -477,9 +477,12 @@ credit:
 | 神經 | 早期粗大、不對稱 | 晚期、對稱 |
 | Lepromin test | **(+)** | **(−)** |
 
-- 治療：
-    - Paucibacillary：Dapsone + Rifampin × 6 個月。
-    - Multibacillary：Dapsone + Rifampin + Clofazimine × 12 個月。
+:::source{from="20261118-losheng-sanatorium"}
+- 治療（WHO 2018）：**所有病人都用三藥** rifampicin + dapsone + clofazimine；少菌型（皮膚病灶 ≤ 5 處、抹片陰性）**6 個月**，多菌型 **12 個月**；每 28 天在醫護人員面前服一次每月劑量。
+- 密切接觸者（成人與 2 歲以上兒童）：**單劑 rifampicin** 暴露後預防。
+- 漢生病反應：第一型（逆轉反應）→ 類固醇；第二型（ENL）→ 類固醇、thalidomide、clofazimine。
+- 台灣：第三類法定傳染病，疑似個案**一週內**通報；2004 年已達 WHO 消除標準（盛行率 < 1/10,000），新案多為境外移入。
+:::
 
 ## 其他細菌感染
 

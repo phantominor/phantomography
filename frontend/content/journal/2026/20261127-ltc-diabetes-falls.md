@@ -7,7 +7,7 @@ event: 長照機構個案報告
 speaker: 陳勇良
 place: 部北
 tags: [代謝內分泌科, 家庭醫學科]
-integrated: false
+integrated: true
 ---
 
 ## 摘要

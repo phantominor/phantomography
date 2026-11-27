@@ -117,6 +117,7 @@ credit:
 | 6 歲 | 學齡期、勤勉感 |
 
 - 詳見 [[小兒主訴#發展遲緩（Developmental Delay）|發展遲緩]]的評估流程
+- 兒童預防保健由頭到腳的理學檢查重點（眼位、聽力篩檢、口腔牙齒、功能性心雜音、隱睪、DDH、原始反射），詳見 [[20261119-child-development|兒童預防保健]]（逐篇筆記）
 
 ### 預防接種（台灣現行）
 
@@ -1142,6 +1143,11 @@ credit:
 - 特徵：≤ 3/6 級、隨姿勢改變（坐起/站立時減弱、仰臥時增強）。
 - 無心臟結構異常、無症狀、無需治療。
 - 常見類型：Still murmur（2–6 歲，LLSB buzzing/vibratory quality）、venous hum（continuous, 改變頸部位置可消失）。
+
+:::source{from="20261119-child-development"}
+- 健康檢查的兒童約 **30%** 至少出現過一次功能性心雜音，**3–7 歲**最常見；收縮期、≤ 3 級、有振動或音樂性。
+:::
+
 - 詳見 [[心血管系統主訴#心雜音（Heart Murmurs）|心雜音]]的鑑別
 
 ### 心衰竭（Heart Failure in Children）

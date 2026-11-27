@@ -7,7 +7,7 @@ event: 分級醫療及轉診中心簡介
 speaker: 陳建龍
 place: 部北
 tags: [家庭醫學科, 公共衛生]
-integrated: false
+integrated: true
 ---
 
 ## 摘要

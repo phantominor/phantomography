@@ -7,7 +7,7 @@ event: 兒童發展與預防保健
 speaker: 張一凡
 place: 部北
 tags: [小兒科, 臨床技巧]
-integrated: false
+integrated: true
 ---
 
 ## 摘要

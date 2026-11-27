@@ -7,7 +7,7 @@ event: 安寧個案討論
 speaker: 薛復宸
 place: 部北
 tags: [家庭醫學科, 臨床技巧]
-integrated: false
+integrated: true
 ---
 
 ## 摘要

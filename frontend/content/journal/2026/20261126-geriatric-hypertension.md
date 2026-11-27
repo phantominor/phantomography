@@ -7,7 +7,7 @@ event: 老年醫學期刊選讀
 speaker: 劉乃瑄
 place: 部北
 tags: [家庭醫學科, 心臟內科]
-integrated: false
+integrated: true
 ---
 
 ## 摘要
