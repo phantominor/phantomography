@@ -1,4 +1,9 @@
 <!-- UPDATE.md -->
+[2026/11/28]
+- **逐篇筆記：從收件匣整理 11 篇（11/18–11/27）**: 樂生療養院、兒童預防保健、性別議題、耳鼻喉診所、輔具中心、安寧個案討論、健檢衛教、分級醫療與轉診、高齡高血壓期刊選讀、導生座談、長照血糖與跌倒
+  - 17 張照片裁切後存進 `public/media/journal/2026/`；兵役體檢（拍到受檢者的臉）、浴室（拍到同學）等 7 張沒用
+  - 依使用者要求查資料補寫：樂生院史與以院作家碑、漢生病（WHO 2018 三藥 MDT、反應、台灣現況）、性別議題速記的作品與 #MeToo 修法
+  - 性別議題、耳鼻喉診所、導生座談沒有可整合內容，直接設 `integrated: true`；其餘 8 份提案放在 `temp/proposals/`（3 處衝突、3 份心得草稿）
 [2026/11/26]
 - **治療處置：抗寄生蟲藥物**: 新增 `clinical/treatments/antiparasitics.md`，抗微生物藥物 13 頁全部完成
     - 抗瘧藥：生活史作用階段表、Artemisinins（ACT、IV Artesunate 與延遲性溶血）、Chloroquine 與 Hydroxychloroquine（視網膜篩檢）、Primaquine 與 Tafenoquine（G6PD）、Malarone、Mefloquine、Quinine。
